@@ -267,7 +267,7 @@ def main():
 
     Path("data").mkdir(exist_ok=True)
     Path("data/latest.md").write_text(md_output, encoding="utf-8")
-    Path("data/index.html").write_text(html_output, encoding="utf-8")
+    Path("index.html").write_text(html_output, encoding="utf-8")
 
     print("Done. Wrote data/latest.md and data/index.html")
 
