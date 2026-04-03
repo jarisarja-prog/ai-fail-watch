@@ -1,9 +1,10 @@
 # AI Fail Watch – 2026-04-03
 
 ## 1. Claude’s code: Anthropic leaks source code for AI software engineering tool
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** legal
-**Score:** 58
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 54
 **Link:** https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai
 
 Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI company Anthropic accidentally released part of the internal source code for its AI -powered coding assistant, Claude Code, due to “human error”, the company said on Tuesday. An internal-use file mistakenly included in a software update pointed to an archive containing nearly 2,000 files and 500,000 lines of code, which were quickly copied to developer platform GitHub. A post on X sharing a link to the leaked code had more than 29m views early on Wednesday, and a rewritten version of the source code quickly became GitHub’s fastest-ever downloaded repository. Anthropic issued copyright takedown requests to try to contain the code’s spread. Within the code, users spotted blueprints for a Tamagotchi-esque coding assistant and an always-on AI agent , per the Verge . Continue reading...
@@ -12,7 +13,8 @@ Nearly 2,000 internal files were briefly leaked after ‘human error’, raising
 
 ## 2. Penguin to sue OpenAI over ChatGPT version of German children’s book
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** legal
+**Category:** Legal
+**Language:** EN
 **Score:** 50
 **Link:** https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss
 
@@ -22,7 +24,8 @@ Publisher alleges AI research company’s chatbot violated its copyright over Co
 
 ## 3. LLMs can unmask pseudonymous users at scale with surprising accuracy
 **Source:** Biz & IT - Ars Technica
-**Category:** security
+**Category:** Security
+**Language:** EN
 **Score:** 28
 **Link:** https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/
 
@@ -31,8 +34,9 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 ---
 
 ## 4. Pupils in England are losing their thinking skills because of AI, survey suggests
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** education
+**Source:** Technology | The Guardian
+**Category:** Education
+**Language:** EN
 **Score:** 13
 **Link:** https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey
 
