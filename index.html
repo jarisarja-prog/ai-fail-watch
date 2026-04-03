@@ -13,13 +13,6 @@
             --muted: #9aa8c7;
             --border: #26324a;
             --accent: #6ea8fe;
-            --accent-2: #8b5cf6;
-            --green: #22c55e;
-            --red: #ef4444;
-            --yellow: #f59e0b;
-            --cyan: #06b6d4;
-            --pink: #ec4899;
-            --orange: #fb923c;
             --shadow: 0 12px 30px rgba(0,0,0,0.28);
         }
 
@@ -100,9 +93,15 @@
             border-color: var(--accent);
         }
 
+        .trend {
+            margin-top: 15px;
+            color: var(--muted);
+            font-size: 0.95rem;
+        }
+
         .hero-card {
             background: linear-gradient(180deg, rgba(110,168,254,0.10), rgba(255,255,255,0.02)), var(--panel);
-            border: 1px solid var(--border);
+            border: 1px solid rgba(110,168,254,0.3);
             border-radius: 18px;
             padding: 24px;
             margin-bottom: 24px;
@@ -124,8 +123,8 @@
             line-height: 1.25;
         }
 
-        h2 {
-            font-size: 1.7rem;
+        .hero-card h2 {
+            font-size: 2rem;
         }
 
         h3 {
@@ -154,6 +153,7 @@
             border-radius: 16px;
             padding: 18px;
             box-shadow: var(--shadow);
+            cursor: pointer;
         }
 
         .card-top {
@@ -191,47 +191,13 @@
             color: #fca5a5;
         }
 
-        .cat-legal {
-            background: rgba(239,68,68,0.14);
-            color: #fecaca;
-            border-color: rgba(239,68,68,0.35);
-        }
-
-        .cat-security {
-            background: rgba(251,146,60,0.14);
-            color: #fed7aa;
-            border-color: rgba(251,146,60,0.35);
-        }
-
-        .cat-privacy {
-            background: rgba(6,182,212,0.14);
-            color: #a5f3fc;
-            border-color: rgba(6,182,212,0.35);
-        }
-
-        .cat-hallucination {
-            background: rgba(236,72,153,0.14);
-            color: #fbcfe8;
-            border-color: rgba(236,72,153,0.35);
-        }
-
-        .cat-research {
-            background: rgba(139,92,246,0.14);
-            color: #ddd6fe;
-            border-color: rgba(139,92,246,0.35);
-        }
-
-        .cat-education {
-            background: rgba(34,197,94,0.14);
-            color: #bbf7d0;
-            border-color: rgba(34,197,94,0.35);
-        }
-
-        .cat-general {
-            background: rgba(110,168,254,0.14);
-            color: #bfdbfe;
-            border-color: rgba(110,168,254,0.35);
-        }
+        .cat-legal { background: rgba(239,68,68,0.14); color: #fecaca; border-color: rgba(239,68,68,0.35); }
+        .cat-security { background: rgba(251,146,60,0.14); color: #fed7aa; border-color: rgba(251,146,60,0.35); }
+        .cat-privacy { background: rgba(6,182,212,0.14); color: #a5f3fc; border-color: rgba(6,182,212,0.35); }
+        .cat-hallucination { background: rgba(236,72,153,0.14); color: #fbcfe8; border-color: rgba(236,72,153,0.35); }
+        .cat-research { background: rgba(139,92,246,0.14); color: #ddd6fe; border-color: rgba(139,92,246,0.35); }
+        .cat-education { background: rgba(34,197,94,0.14); color: #bbf7d0; border-color: rgba(34,197,94,0.35); }
+        .cat-general { background: rgba(110,168,254,0.14); color: #bfdbfe; border-color: rgba(110,168,254,0.35); }
 
         p {
             margin: 0 0 14px;
@@ -276,7 +242,7 @@
                 font-size: 1.75rem;
             }
 
-            h2 {
+            .hero-card h2 {
                 font-size: 1.4rem;
             }
 
@@ -295,7 +261,7 @@
                     <h1 class="brand">AI Fail Watch</h1>
                     <div class="sub">Daily tracking of leaks, lawsuits, hallucinations, privacy failures and other AI risks.</div>
                 </div>
-                <div class="status">Last updated: 2026-04-03 12:22</div>
+                <div class="status">Last updated: 2026-04-03 13:30</div>
             </div>
 
             <div class="filters">
@@ -304,6 +270,12 @@
                 <button onclick="filterLang('FI')">FI</button>
                 <button onclick="filterLang('SV')">SV</button>
             </div>
+
+            
+    <div class="trend">
+        🔎 Trend today: <strong>Legal</strong> (2 cases)
+    </div>
+    
         </header>
 
         
@@ -325,7 +297,7 @@
         <div class="section-title">More signals</div>
         <section class="grid">
             
-        <article class="card" data-lang="EN">
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss')">
             <div class="card-top">
                 <span class="rank">#1</span>
                 <span class="badge cat-legal">Legal</span>
@@ -333,7 +305,7 @@
                 <span class="score-big">🔥 50</span>
             </div>
 
-            <h3><a href="https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss" target="_blank" rel="noopener noreferrer">Penguin to sue OpenAI over ChatGPT version of German children’s book</a></h3>
+            <h3><a href="https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Penguin to sue OpenAI over ChatGPT version of German children’s book</a></h3>
 
             <div class="meta">
                 <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
@@ -342,11 +314,11 @@
             <p class="why"><em>Legal risk: AI use triggered legal or copyright issues.</em></p>
             <p>Publisher alleges AI research company’s chatbot violated its copyright over Coconut the Little Dragon series Penguin Random House has filed a lawsuit against OpenAI, alleging its chatbot ChatGPT violated copyright by mimicking and reproducing the content of a popular series of German children’s books. The lawsuit, which was filed on Friday with a Munich court against OpenAI’s Ireland-based European subsidiary, states Penguin Random House’s legal team had prompted ChatGPT to write a story in the vein of Penguin author and illustrator Ingo Siegner’s Coconut the Little Dragon series. Continue reading...</p>
 
-            <a class="readmore" href="https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss" target="_blank" rel="noopener noreferrer">Open article ↗</a>
+            <a class="readmore" href="https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
 
-        <article class="card" data-lang="EN">
+        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/')">
             <div class="card-top">
                 <span class="rank">#2</span>
                 <span class="badge cat-security">Security</span>
@@ -354,7 +326,7 @@
                 <span class="score-big">🔥 28</span>
             </div>
 
-            <h3><a href="https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/" target="_blank" rel="noopener noreferrer">LLMs can unmask pseudonymous users at scale with surprising accuracy</a></h3>
+            <h3><a href="https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">LLMs can unmask pseudonymous users at scale with surprising accuracy</a></h3>
 
             <div class="meta">
                 <span><strong>Source:</strong> Biz &amp; IT - Ars Technica</span>
@@ -363,11 +335,11 @@
             <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
             <p>Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.</p>
 
-            <a class="readmore" href="https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/" target="_blank" rel="noopener noreferrer">Open article ↗</a>
+            <a class="readmore" href="https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
 
-        <article class="card" data-lang="EN">
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey')">
             <div class="card-top">
                 <span class="rank">#3</span>
                 <span class="badge cat-education">Education</span>
@@ -375,7 +347,7 @@
                 <span class="score-big">🔥 13</span>
             </div>
 
-            <h3><a href="https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey" target="_blank" rel="noopener noreferrer">Pupils in England are losing their thinking skills because of AI, survey suggests</a></h3>
+            <h3><a href="https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Pupils in England are losing their thinking skills because of AI, survey suggests</a></h3>
 
             <div class="meta">
                 <span><strong>Source:</strong> Technology | The Guardian</span>
@@ -384,10 +356,13 @@
             <p class="why"><em>Education risk: AI may be weakening learning or thinking skills.</em></p>
             <p>Two-thirds of secondary school teachers report a decline in core abilities such as writing and problem-solving Pupils using artificial intelligence are losing their capacity for critical thinking, according to a survey of secondary school teachers in England. Two-thirds said they had observed the decline among children who they also said no longer felt the need to spell because of voice-to-text technology. Continue reading...</p>
 
-            <a class="readmore" href="https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey" target="_blank" rel="noopener noreferrer">Open article ↗</a>
+            <a class="readmore" href="https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
         </section>
+
+        <div class="section-title">Archive</div>
+        <p><a href="archive.html">Open archive of older reports ↗</a></p>
 
         <footer>
             Generated automatically from selected RSS feeds.  
@@ -415,6 +390,10 @@
                     card.style.display = 'none';
                 }
             });
+        }
+
+        function openLink(url) {
+            window.open(url, '_blank');
         }
     </script>
 </body>

@@ -101,7 +101,7 @@ def fetch_entries():
 
     items = list(unique.values())
     items.sort(key=lambda x: x["score"], reverse=True)
-    return items[:12]
+    return items[:30]
 
 
 def make_markdown(items):
@@ -185,8 +185,8 @@ def make_cards(items: list[dict]) -> str:
         explainer = html.escape(item["category_explainer"])
         cat_class = category_class(item["category"])
 
-        card = f"""
-        <article class="card" data-lang="{lang}">
+        cards.append(f"""
+        <article class="card" data-lang="{lang}" onclick="openLink('{link}')">
             <div class="card-top">
                 <span class="rank">#{i}</span>
                 <span class="badge {cat_class}">{category}</span>
@@ -194,7 +194,7 @@ def make_cards(items: list[dict]) -> str:
                 <span class="score-big">🔥 {score}</span>
             </div>
 
-            <h3><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h3>
+            <h3><a href="{link}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">{title}</a></h3>
 
             <div class="meta">
                 <span><strong>Source:</strong> {source}</span>
@@ -203,12 +203,268 @@ def make_cards(items: list[dict]) -> str:
             <p class="why"><em>{explainer}</em></p>
             <p>{summary}</p>
 
-            <a class="readmore" href="{link}" target="_blank" rel="noopener noreferrer">Open article ↗</a>
+            <a class="readmore" href="{link}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
-        """
-        cards.append(card)
+        """)
 
     return "\n".join(cards)
+
+
+def make_archive_index():
+    archive_dir = Path("archive")
+    archive_dir.mkdir(exist_ok=True)
+
+    files = sorted(archive_dir.glob("*.html"), reverse=True)
+
+    links = []
+    for f in files:
+        day = f.stem
+        links.append(f'<li><a href="archive/{f.name}">{day}</a></li>')
+
+    links_html = "\n".join(links) if links else "<li>No archived reports yet.</li>"
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Fail Watch Archive</title>
+    <style>
+        body {{
+            margin: 0;
+            font-family: Inter, Arial, sans-serif;
+            background: #0b1020;
+            color: #eaf0fb;
+            line-height: 1.6;
+        }}
+        .wrap {{
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 32px 18px 60px;
+        }}
+        h1 {{
+            margin-top: 0;
+        }}
+        a {{
+            color: #6ea8fe;
+            text-decoration: none;
+        }}
+        a:hover {{
+            text-decoration: underline;
+        }}
+        .back {{
+            display: inline-block;
+            margin-bottom: 20px;
+        }}
+        .card {{
+            background: #121a2b;
+            border: 1px solid #26324a;
+            border-radius: 16px;
+            padding: 20px;
+        }}
+        ul {{
+            margin: 0;
+            padding-left: 20px;
+        }}
+        li {{
+            margin-bottom: 10px;
+        }}
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <a class="back" href="index.html">← Back to latest report</a>
+        <h1>AI Fail Watch Archive</h1>
+        <div class="card">
+            <ul>
+                {links_html}
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+"""
+
+
+def make_archive_page(items, day: str):
+    cards = []
+
+    if not items:
+        cards_html = "<p>No archived items for this day.</p>"
+    else:
+        for i, item in enumerate(items, start=1):
+            title = html.escape(item["title"])
+            source = html.escape(item["source"])
+            category = html.escape(item["category"])
+            score = html.escape(str(item["score"]))
+            link = html.escape(item["link"])
+            summary = html.escape(item["summary"])
+            lang = html.escape(item["lang"])
+            explainer = html.escape(item["category_explainer"])
+            cat_class = category_class(item["category"])
+
+            cards.append(f"""
+            <article class="card" data-lang="{lang}" onclick="openLink('{link}')">
+                <div class="card-top">
+                    <span class="rank">#{i}</span>
+                    <span class="badge {cat_class}">{category}</span>
+                    <span class="badge lang">{lang}</span>
+                    <span class="score-big">🔥 {score}</span>
+                </div>
+                <h3><a href="{link}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">{title}</a></h3>
+                <div class="meta">
+                    <span><strong>Source:</strong> {source}</span>
+                </div>
+                <p class="why"><em>{explainer}</em></p>
+                <p>{summary}</p>
+                <a class="readmore" href="{link}" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+            </article>
+            """)
+
+        cards_html = "\n".join(cards)
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Fail Watch Archive – {day}</title>
+    <style>
+        :root {{
+            --bg: #0b1020;
+            --panel: #121a2b;
+            --text: #eaf0fb;
+            --muted: #9aa8c7;
+            --border: #26324a;
+            --accent: #6ea8fe;
+            --shadow: 0 12px 30px rgba(0,0,0,0.28);
+        }}
+        body {{
+            margin: 0;
+            font-family: Inter, Arial, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.55;
+        }}
+        .wrap {{
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 28px 18px 60px;
+        }}
+        a {{
+            color: var(--accent);
+            text-decoration: none;
+        }}
+        a:hover {{
+            text-decoration: underline;
+        }}
+        .toplinks {{
+            margin-bottom: 20px;
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+        }}
+        .grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 18px;
+        }}
+        .card {{
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 18px;
+            box-shadow: var(--shadow);
+            cursor: pointer;
+        }}
+        .card-top {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+            margin-bottom: 10px;
+        }}
+        .rank {{
+            color: var(--muted);
+            font-size: 0.9rem;
+            font-weight: 700;
+        }}
+        .badge {{
+            display: inline-block;
+            padding: 5px 10px;
+            border-radius: 999px;
+            font-size: 0.78rem;
+            font-weight: 700;
+            border: 1px solid transparent;
+        }}
+        .lang {{
+            background: rgba(255,255,255,0.05);
+            color: var(--text);
+            border-color: var(--border);
+        }}
+        .score-big {{
+            font-size: 1.02rem;
+            font-weight: 800;
+            color: #fca5a5;
+        }}
+        .cat-legal {{ background: rgba(239,68,68,0.14); color: #fecaca; border-color: rgba(239,68,68,0.35); }}
+        .cat-security {{ background: rgba(251,146,60,0.14); color: #fed7aa; border-color: rgba(251,146,60,0.35); }}
+        .cat-privacy {{ background: rgba(6,182,212,0.14); color: #a5f3fc; border-color: rgba(6,182,212,0.35); }}
+        .cat-hallucination {{ background: rgba(236,72,153,0.14); color: #fbcfe8; border-color: rgba(236,72,153,0.35); }}
+        .cat-research {{ background: rgba(139,92,246,0.14); color: #ddd6fe; border-color: rgba(139,92,246,0.35); }}
+        .cat-education {{ background: rgba(34,197,94,0.14); color: #bbf7d0; border-color: rgba(34,197,94,0.35); }}
+        .cat-general {{ background: rgba(110,168,254,0.14); color: #bfdbfe; border-color: rgba(110,168,254,0.35); }}
+        .meta {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 14px;
+            color: var(--muted);
+            font-size: 0.92rem;
+            margin-bottom: 14px;
+        }}
+        .why {{
+            color: #bcd0f5;
+        }}
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <div class="toplinks">
+            <a href="../index.html">← Latest report</a>
+            <a href="../archive.html">All archive days</a>
+        </div>
+        <h1>Archive – {day}</h1>
+        <div class="grid">
+            {cards_html}
+        </div>
+    </div>
+
+    <script>
+        function openLink(url) {{
+            window.open(url, '_blank');
+        }}
+    </script>
+</body>
+</html>
+"""
+
+
+def make_trend(items):
+    cats = {}
+    for i in items:
+        cats[i["category"]] = cats.get(i["category"], 0) + 1
+
+    if not cats:
+        return ""
+
+    top = max(cats, key=cats.get)
+    count = cats[top]
+
+    return f"""
+    <div class="trend">
+        🔎 Trend today: <strong>{top}</strong> ({count} cases)
+    </div>
+    """
 
 
 def make_html(items):
@@ -218,6 +474,7 @@ def make_html(items):
 
     hero_html = ""
     list_html = ""
+    trend_html = make_trend(items)
 
     if items:
         hero_html = make_top_card(items[0])
@@ -248,13 +505,6 @@ def make_html(items):
             --muted: #9aa8c7;
             --border: #26324a;
             --accent: #6ea8fe;
-            --accent-2: #8b5cf6;
-            --green: #22c55e;
-            --red: #ef4444;
-            --yellow: #f59e0b;
-            --cyan: #06b6d4;
-            --pink: #ec4899;
-            --orange: #fb923c;
             --shadow: 0 12px 30px rgba(0,0,0,0.28);
         }}
 
@@ -335,9 +585,15 @@ def make_html(items):
             border-color: var(--accent);
         }}
 
+        .trend {{
+            margin-top: 15px;
+            color: var(--muted);
+            font-size: 0.95rem;
+        }}
+
         .hero-card {{
             background: linear-gradient(180deg, rgba(110,168,254,0.10), rgba(255,255,255,0.02)), var(--panel);
-            border: 1px solid var(--border);
+            border: 1px solid rgba(110,168,254,0.3);
             border-radius: 18px;
             padding: 24px;
             margin-bottom: 24px;
@@ -359,8 +615,8 @@ def make_html(items):
             line-height: 1.25;
         }}
 
-        h2 {{
-            font-size: 1.7rem;
+        .hero-card h2 {{
+            font-size: 2rem;
         }}
 
         h3 {{
@@ -389,6 +645,7 @@ def make_html(items):
             border-radius: 16px;
             padding: 18px;
             box-shadow: var(--shadow);
+            cursor: pointer;
         }}
 
         .card-top {{
@@ -426,47 +683,13 @@ def make_html(items):
             color: #fca5a5;
         }}
 
-        .cat-legal {{
-            background: rgba(239,68,68,0.14);
-            color: #fecaca;
-            border-color: rgba(239,68,68,0.35);
-        }}
-
-        .cat-security {{
-            background: rgba(251,146,60,0.14);
-            color: #fed7aa;
-            border-color: rgba(251,146,60,0.35);
-        }}
-
-        .cat-privacy {{
-            background: rgba(6,182,212,0.14);
-            color: #a5f3fc;
-            border-color: rgba(6,182,212,0.35);
-        }}
-
-        .cat-hallucination {{
-            background: rgba(236,72,153,0.14);
-            color: #fbcfe8;
-            border-color: rgba(236,72,153,0.35);
-        }}
-
-        .cat-research {{
-            background: rgba(139,92,246,0.14);
-            color: #ddd6fe;
-            border-color: rgba(139,92,246,0.35);
-        }}
-
-        .cat-education {{
-            background: rgba(34,197,94,0.14);
-            color: #bbf7d0;
-            border-color: rgba(34,197,94,0.35);
-        }}
-
-        .cat-general {{
-            background: rgba(110,168,254,0.14);
-            color: #bfdbfe;
-            border-color: rgba(110,168,254,0.35);
-        }}
+        .cat-legal {{ background: rgba(239,68,68,0.14); color: #fecaca; border-color: rgba(239,68,68,0.35); }}
+        .cat-security {{ background: rgba(251,146,60,0.14); color: #fed7aa; border-color: rgba(251,146,60,0.35); }}
+        .cat-privacy {{ background: rgba(6,182,212,0.14); color: #a5f3fc; border-color: rgba(6,182,212,0.35); }}
+        .cat-hallucination {{ background: rgba(236,72,153,0.14); color: #fbcfe8; border-color: rgba(236,72,153,0.35); }}
+        .cat-research {{ background: rgba(139,92,246,0.14); color: #ddd6fe; border-color: rgba(139,92,246,0.35); }}
+        .cat-education {{ background: rgba(34,197,94,0.14); color: #bbf7d0; border-color: rgba(34,197,94,0.35); }}
+        .cat-general {{ background: rgba(110,168,254,0.14); color: #bfdbfe; border-color: rgba(110,168,254,0.35); }}
 
         p {{
             margin: 0 0 14px;
@@ -511,7 +734,7 @@ def make_html(items):
                 font-size: 1.75rem;
             }}
 
-            h2 {{
+            .hero-card h2 {{
                 font-size: 1.4rem;
             }}
 
@@ -539,6 +762,8 @@ def make_html(items):
                 <button onclick="filterLang('FI')">FI</button>
                 <button onclick="filterLang('SV')">SV</button>
             </div>
+
+            {trend_html}
         </header>
 
         {hero_html}
@@ -547,6 +772,9 @@ def make_html(items):
         <section class="grid">
             {list_html}
         </section>
+
+        <div class="section-title">Archive</div>
+        <p><a href="archive.html">Open archive of older reports ↗</a></p>
 
         <footer>
             Generated automatically from selected RSS feeds.  
@@ -575,6 +803,10 @@ def make_html(items):
                 }}
             }});
         }}
+
+        function openLink(url) {{
+            window.open(url, '_blank');
+        }}
     </script>
 </body>
 </html>
@@ -582,16 +814,30 @@ def make_html(items):
 
 
 def main():
+    now = datetime.now()
+    today = now.strftime("%Y-%m-%d")
+
     items = fetch_entries()
 
-    md_output = make_markdown(items)
-    html_output = make_html(items)
+    latest_items = items[:10]
+    archive_items = items[10:]
+
+    md_output = make_markdown(latest_items)
+    html_output = make_html(latest_items)
 
     Path("data").mkdir(exist_ok=True)
+    Path("archive").mkdir(exist_ok=True)
+
     Path("data/latest.md").write_text(md_output, encoding="utf-8")
     Path("index.html").write_text(html_output, encoding="utf-8")
 
-    print("Done. Wrote data/latest.md and index.html")
+    archive_day_html = make_archive_page(archive_items, today)
+    Path(f"archive/{today}.html").write_text(archive_day_html, encoding="utf-8")
+
+    archive_index_html = make_archive_index()
+    Path("archive.html").write_text(archive_index_html, encoding="utf-8")
+
+    print("Done. Wrote data/latest.md, index.html, archive.html and daily archive page")
 
 
 if __name__ == "__main__":
