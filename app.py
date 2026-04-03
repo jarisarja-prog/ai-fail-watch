@@ -40,6 +40,19 @@ def categorize_item(text: str) -> str:
     return "General"
 
 
+def explain_fail(category: str) -> str:
+    mapping = {
+        "Legal": "Legal risk: AI use triggered legal or copyright issues.",
+        "Security": "Security failure: data leak, breach or system exposure.",
+        "Privacy": "Privacy risk: user data or identity may be exposed.",
+        "Hallucination": "AI hallucination: the system produced false information.",
+        "Research integrity": "Research issue: unreliable, fabricated or unverified results.",
+        "Education": "Education risk: AI may be weakening learning or thinking skills.",
+        "General": "General AI-related risk or failure signal.",
+    }
+    return mapping.get(category, "")
+
+
 def detect_language(source: str, title: str, summary: str) -> str:
     combined = f"{source} {title} {summary}".lower()
 
@@ -70,13 +83,15 @@ def fetch_entries():
             score = score_entry(combined)
 
             if score >= 12:
+                category = categorize_item(combined)
                 items.append({
                     "title": title,
                     "summary": summary,
                     "link": link,
                     "source": source,
                     "score": score,
-                    "category": categorize_item(combined),
+                    "category": category,
+                    "category_explainer": explain_fail(category),
                     "lang": detect_language(source, title, summary),
                 })
 
@@ -136,18 +151,20 @@ def make_top_card(item: dict) -> str:
     link = html.escape(item["link"])
     summary = html.escape(item["summary"])
     lang = html.escape(item["lang"])
+    explainer = html.escape(item["category_explainer"])
     cat_class = category_class(item["category"])
 
     return f"""
-    <section class="hero-card">
+    <section class="hero-card" data-lang="{lang}">
         <div class="hero-label">Top fail of the day</div>
         <h2><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h2>
         <div class="meta">
             <span class="badge {cat_class}">{category}</span>
             <span class="badge lang">{lang}</span>
             <span><strong>Source:</strong> {source}</span>
-            <span><strong>Score:</strong> {score}</span>
+            <span class="score-big">🔥 {score}</span>
         </div>
+        <p class="why">{explainer}</p>
         <p>{summary}</p>
         <a class="readmore" href="{link}" target="_blank" rel="noopener noreferrer">Read article ↗</a>
     </section>
@@ -165,23 +182,25 @@ def make_cards(items: list[dict]) -> str:
         link = html.escape(item["link"])
         summary = html.escape(item["summary"])
         lang = html.escape(item["lang"])
+        explainer = html.escape(item["category_explainer"])
         cat_class = category_class(item["category"])
 
         card = f"""
-        <article class="card">
+        <article class="card" data-lang="{lang}">
             <div class="card-top">
                 <span class="rank">#{i}</span>
                 <span class="badge {cat_class}">{category}</span>
                 <span class="badge lang">{lang}</span>
+                <span class="score-big">🔥 {score}</span>
             </div>
 
             <h3><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h3>
 
             <div class="meta">
                 <span><strong>Source:</strong> {source}</span>
-                <span><strong>Score:</strong> {score}</span>
             </div>
 
+            <p class="why"><em>{explainer}</em></p>
             <p>{summary}</p>
 
             <a class="readmore" href="{link}" target="_blank" rel="noopener noreferrer">Open article ↗</a>
@@ -295,6 +314,27 @@ def make_html(items):
             padding: 8px 12px;
         }}
 
+        .filters {{
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 18px;
+        }}
+
+        .filters button {{
+            padding: 8px 14px;
+            border-radius: 10px;
+            border: 1px solid var(--border);
+            background: var(--panel-2);
+            color: var(--text);
+            cursor: pointer;
+            font-weight: 700;
+        }}
+
+        .filters button:hover {{
+            border-color: var(--accent);
+        }}
+
         .hero-card {{
             background: linear-gradient(180deg, rgba(110,168,254,0.10), rgba(255,255,255,0.02)), var(--panel);
             border: 1px solid var(--border);
@@ -380,6 +420,12 @@ def make_html(items):
             border-color: var(--border);
         }}
 
+        .score-big {{
+            font-size: 1.02rem;
+            font-weight: 800;
+            color: #fca5a5;
+        }}
+
         .cat-legal {{
             background: rgba(239,68,68,0.14);
             color: #fecaca;
@@ -425,6 +471,10 @@ def make_html(items):
         p {{
             margin: 0 0 14px;
             color: #dce6f7;
+        }}
+
+        .why {{
+            color: #bcd0f5;
         }}
 
         a {{
@@ -482,6 +532,13 @@ def make_html(items):
                 </div>
                 <div class="status">Last updated: {updated}</div>
             </div>
+
+            <div class="filters">
+                <button onclick="filterLang('ALL')">ALL</button>
+                <button onclick="filterLang('EN')">EN</button>
+                <button onclick="filterLang('FI')">FI</button>
+                <button onclick="filterLang('SV')">SV</button>
+            </div>
         </header>
 
         {hero_html}
@@ -496,6 +553,29 @@ def make_html(items):
             Built to track what goes wrong in AI — not just what gets launched.
         </footer>
     </div>
+
+    <script>
+        function filterLang(lang) {{
+            const cards = document.querySelectorAll('.card');
+            const hero = document.querySelector('.hero-card');
+
+            if (hero) {{
+                if (lang === 'ALL' || hero.dataset.lang === lang) {{
+                    hero.style.display = 'block';
+                }} else {{
+                    hero.style.display = 'none';
+                }}
+            }}
+
+            cards.forEach(card => {{
+                if (lang === 'ALL' || card.dataset.lang === lang) {{
+                    card.style.display = 'block';
+                }} else {{
+                    card.style.display = 'none';
+                }}
+            }});
+        }}
+    </script>
 </body>
 </html>
 """
