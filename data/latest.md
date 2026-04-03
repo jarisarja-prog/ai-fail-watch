@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-02
+# AI Fail Watch – 2026-04-03
 
 ## 1. Claude’s code: Anthropic leaks source code for AI software engineering tool
 **Source:** AI (artificial intelligence) | The Guardian
