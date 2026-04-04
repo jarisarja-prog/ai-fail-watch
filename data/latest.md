@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-03
+# AI Fail Watch – 2026-04-04
 
 ## 1. Claude’s code: Anthropic leaks source code for AI software engineering tool
 **Source:** Technology | The Guardian
@@ -11,14 +11,14 @@ Nearly 2,000 internal files were briefly leaked after ‘human error’, raising
 
 ---
 
-## 2. Penguin to sue OpenAI over ChatGPT version of German children’s book
-**Source:** AI (artificial intelligence) | The Guardian
+## 2. Anthropic and Pentagon face off in court over ban on company’s AI model
+**Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 50
-**Link:** https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss
+**Score:** 47
+**Link:** https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit
 
-Publisher alleges AI research company’s chatbot violated its copyright over Coconut the Little Dragon series Penguin Random House has filed a lawsuit against OpenAI, alleging its chatbot ChatGPT violated copyright by mimicking and reproducing the content of a popular series of German children’s books. The lawsuit, which was filed on Friday with a Munich court against OpenAI’s Ireland-based European subsidiary, states Penguin Random House’s legal team had prompted ChatGPT to write a story in the vein of Penguin author and illustrator Ingo Siegner’s Coconut the Little Dragon series. Continue reading...
+After Anthropic refused to let its AI to be used in autonomous weapons systems, Trump ordered US agencies to quit using it Sign up for the Breaking News US email to get newsletter alerts in your inbox Anthropic faced off against the Department of Defense in a federal court on Tuesday afternoon, as the artificial intelligence company seeks a temporary pause on the government’s decision to bar the US military and any contractors from using its technology. The two sides have been locked in an escalating feud over Anthropic’s refusal to allow its Claude AI chatbot to be used for domestic mass surveillance and fully autonomous lethal weapons. Donald Trump has ordered all US government agencies to stop using Anthropic’s tools, which the company is also contesting. Representatives for the AI firm and the government appeared in a northern California district court, where Judge Rita Lin presided over the hearing for a temporary injunction. The hearing is one of the first steps in Anthropic’s lawsuit against the defense department, which it filed earlier this month after Pete Hegseth, the secretary of defense, declared the company a supply chain risk – a designation that Anthropic alleges will cause irreparable harm and cost hundreds of millions or more in revenue. Continue reading...
 
 ---
 
@@ -33,7 +33,40 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 4. Pupils in England are losing their thinking skills because of AI, survey suggests
+## 4. ‘They feel true’: political deepfakes are growing in influence – even if people know they aren’t real
+**Source:** Technology | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/technology/2026/mar/28/military-deepfakes-ai-propaganda-money
+
+AI images of people – such as women in military contexts – are making money and serving as propaganda, researchers say Online content creators are not just building fake images and videos of prominent public figures, they are also fabricating people and using them in military contexts, which can make them money and even serve as effective propaganda, according to artificial intelligence researchers. Some of these online avatars are sexualized images of women wearing camouflage garb that have generated a significant audience and helped create an idealized image of political figures like Donald Trump, even if the viewer knows the content is not real, according to experts. Continue reading...
+
+---
+
+## 5. OpenClaw gives users yet another reason to be freaked out about security
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
+
+The viral AI agentic tool let attackers silently gain admin unauthenticated access.
+
+---
+
+## 6. ‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 13
+**Link:** https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world
+
+When it comes to scandal, seeing is believing – which is why these images caused such a stir Words can tell a story, but it’s pictures that will make you believe in it. Such is the power of a photograph; the ability to strip away illusions, to illuminate something hidden, and sometimes force us to accept unpalatable truths. When it comes to scandal, seeing is believing – occasionally even to the point that a picture changes the course of history. How might life have been different for Andrew Mountbatten-Windsor had he not been photographed clutching the midriff of the 17-year-old girl he would later claim he had never met? Without this haunting triptych of the former prince, the late Virginia Giuffre and Jeffrey Epstein’s fixer, Ghislaine Maxwell, hovering in the background, there would have been nothing physical to connect the then prince with a trafficking victim. Though for years Andrew’s friends insisted that the photograph must have been doctored, buried within the Epstein files recently released by the US Department of Justice is a note from Maxwell that appears to confirm it is real. Continue reading...
+
+---
+
+## 7. Pupils in England are losing their thinking skills because of AI, survey suggests
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
