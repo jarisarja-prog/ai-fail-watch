@@ -1,10 +1,10 @@
-# AI Fail Watch – 2026-04-04
+# AI Fail Watch – 2026-04-05
 
 ## 1. Claude’s code: Anthropic leaks source code for AI software engineering tool
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 54
+**Score:** 58
 **Link:** https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai
 
 Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI company Anthropic accidentally released part of the internal source code for its AI -powered coding assistant, Claude Code, due to “human error”, the company said on Tuesday. An internal-use file mistakenly included in a software update pointed to an archive containing nearly 2,000 files and 500,000 lines of code, which were quickly copied to developer platform GitHub. A post on X sharing a link to the leaked code had more than 29m views early on Wednesday, and a rewritten version of the source code quickly became GitHub’s fastest-ever downloaded repository. Anthropic issued copyright takedown requests to try to contain the code’s spread. Within the code, users spotted blueprints for a Tamagotchi-esque coding assistant and an always-on AI agent , per the Verge . Continue reading...
