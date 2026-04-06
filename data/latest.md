@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-05
+# AI Fail Watch – 2026-04-06
 
 ## 1. Claude’s code: Anthropic leaks source code for AI software engineering tool
 **Source:** AI (artificial intelligence) | The Guardian
@@ -33,14 +33,14 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 4. ‘They feel true’: political deepfakes are growing in influence – even if people know they aren’t real
-**Source:** Technology | The Guardian
-**Category:** Hallucination
+## 4. Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
 **Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/mar/28/military-deepfakes-ai-propaganda-money
+**Score:** 15
+**Link:** https://www.theguardian.com/business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom
 
-AI images of people – such as women in military contexts – are making money and serving as propaganda, researchers say Online content creators are not just building fake images and videos of prominent public figures, they are also fabricating people and using them in military contexts, which can make them money and even serve as effective propaganda, according to artificial intelligence researchers. Some of these online avatars are sexualized images of women wearing camouflage garb that have generated a significant audience and helped create an idealized image of political figures like Donald Trump, even if the viewer knows the content is not real, according to experts. Continue reading...
+Industry with business model not yet firmly established and investments financed by huge debts is particularly at risk Donald Trump’s most immediate concern in demanding Iran reopen the strait of Hormuz may be rocketing US gasoline prices, but if the conflict drags on, higher energy costs will be felt far beyond the pumps. Systemically higher power prices and fractured supply chains will squeeze industries and consumers worldwide. For the US, one consequence may be to threaten the fragile economics of the AI boom. Continue reading...
 
 ---
 
@@ -55,7 +55,18 @@ The viral AI agentic tool let attackers silently gain admin unauthenticated acce
 
 ---
 
-## 6. ‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world
+## 6. ‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 13
+**Link:** https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media
+
+Jeffrey Stephen Wigand revealed how tobacco companies targeted children; now he sees similar marketing by big tech A key whistleblower in the tobacco industry’s landmark trials of the 1990s has been watching big tech’s recent court battles closely. Jeffrey Stephen Wigand, a biochemist who helped reveal how tobacco companies targeted children and hid just how addictive cigarettes were, has been struck with a feeling of familiarity. Last week’s verdict in a major social media trial that Meta and YouTube deliberately designed addictive products has only strengthened comparisons to the legal crackdown on big tobacco. Wigand sees it, too. His first thought, as he learned about the litigation in California, was that social media companies, through their advertisements, were trying to addict children – much like the tobacco industry did. A Los Angeles jury found Meta and YouTube to be negligent last week. Plaintiffs’ lawyers relied heavily on internal documents and correspondence to demonstrate that company leadership dismissed concerns about how features of social media could be harmful. Meta was also found liable in a separate trial in New Mexico , alleging that it had failed to prevent child sexual exploitation. These verdicts are the first time Meta has been found liable for how its products affect young people – after years of criticism, much of it from angry parents who feel social media harmed their children’s mental health. Continue reading...
+
+---
+
+## 7. ‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +77,7 @@ When it comes to scandal, seeing is believing – which is why these images caus
 
 ---
 
-## 7. Pupils in England are losing their thinking skills because of AI, survey suggests
+## 8. Pupils in England are losing their thinking skills because of AI, survey suggests
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
