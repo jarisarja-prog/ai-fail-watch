@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-06
+# AI Fail Watch – 2026-04-07
 
 ## 1. Claude’s code: Anthropic leaks source code for AI software engineering tool
 **Source:** AI (artificial intelligence) | The Guardian
@@ -33,7 +33,29 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 4. Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart
+## 4. Gemini is making it faster for distressed users to reach mental health resources
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update
+
+Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot "coached" a man to die by suicide, the latest in a string of lawsuits alleging tangible harm from AI products. When […]
+
+---
+
+## 5. Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** FI
+**Score:** 19
+**Link:** https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures
+
+Conservationists say move could push species closer to extinction and clearer environmental rules are needed instead Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Conservationists and scientists have warned a mining lobby proposal to use artificial intelligence to speed up national environmental approvals could generate “robodebt-style” failures, putting threatened species at further risk. The Minerals Council of Australia has asked the government to spend $13m to trial the use of AI to help companies prepare applications and help the federal government make decisions. Continue reading...
+
+---
+
+## 6. Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +66,18 @@ Industry with business model not yet firmly established and investments financed
 
 ---
 
-## 5. OpenClaw gives users yet another reason to be freaked out about security
+## 7. Republicans fooled by AI-generated image of US airman rescued in Iran
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran
+
+Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X Sign up for the Breaking News US email to get newsletter alerts in your inbox Republican politicians were hoaxed over the weekend by an image purporting to be a downed US warplane crew member rescued by military special forces in Iran on Saturday, igniting a call for a national “crash course in media literacy”. Greg Abbott , the Texas governor, Ken Paxton , the state’s attorney general and a US Senate candidate, and Mike Lawler, a New York representative, were all caught out for “liking” a fake picture of the airman, who has not been publicly identified. Continue reading...
+
+---
+
+## 8. OpenClaw gives users yet another reason to be freaked out about security
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +88,7 @@ The viral AI agentic tool let attackers silently gain admin unauthenticated acce
 
 ---
 
-## 6. ‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products
+## 9. ‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +99,7 @@ Jeffrey Stephen Wigand revealed how tobacco companies targeted children; now he 
 
 ---
 
-## 7. ‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world
+## 10. ‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -74,16 +107,5 @@ Jeffrey Stephen Wigand revealed how tobacco companies targeted children; now he 
 **Link:** https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world
 
 When it comes to scandal, seeing is believing – which is why these images caused such a stir Words can tell a story, but it’s pictures that will make you believe in it. Such is the power of a photograph; the ability to strip away illusions, to illuminate something hidden, and sometimes force us to accept unpalatable truths. When it comes to scandal, seeing is believing – occasionally even to the point that a picture changes the course of history. How might life have been different for Andrew Mountbatten-Windsor had he not been photographed clutching the midriff of the 17-year-old girl he would later claim he had never met? Without this haunting triptych of the former prince, the late Virginia Giuffre and Jeffrey Epstein’s fixer, Ghislaine Maxwell, hovering in the background, there would have been nothing physical to connect the then prince with a trafficking victim. Though for years Andrew’s friends insisted that the photograph must have been doctored, buried within the Epstein files recently released by the US Department of Justice is a note from Maxwell that appears to confirm it is real. Continue reading...
-
----
-
-## 8. Pupils in England are losing their thinking skills because of AI, survey suggests
-**Source:** Technology | The Guardian
-**Category:** Education
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey
-
-Two-thirds of secondary school teachers report a decline in core abilities such as writing and problem-solving Pupils using artificial intelligence are losing their capacity for critical thinking, according to a survey of secondary school teachers in England. Two-thirds said they had observed the decline among children who they also said no longer felt the need to spell because of voice-to-text technology. Continue reading...
 
 ---
