@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-04-07
+# AI Fail Watch – 2026-04-08
 
-## 1. Claude’s code: Anthropic leaks source code for AI software engineering tool
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 58
-**Link:** https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai
-
-Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI company Anthropic accidentally released part of the internal source code for its AI -powered coding assistant, Claude Code, due to “human error”, the company said on Tuesday. An internal-use file mistakenly included in a software update pointed to an archive containing nearly 2,000 files and 500,000 lines of code, which were quickly copied to developer platform GitHub. A post on X sharing a link to the leaked code had more than 29m views early on Wednesday, and a rewritten version of the source code quickly became GitHub’s fastest-ever downloaded repository. Anthropic issued copyright takedown requests to try to contain the code’s spread. Within the code, users spotted blueprints for a Tamagotchi-esque coding assistant and an always-on AI agent , per the Verge . Continue reading...
-
----
-
-## 2. Anthropic and Pentagon face off in court over ban on company’s AI model
+## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,7 +11,7 @@ After Anthropic refused to let its AI to be used in autonomous weapons systems, 
 
 ---
 
-## 3. LLMs can unmask pseudonymous users at scale with surprising accuracy
+## 2. LLMs can unmask pseudonymous users at scale with surprising accuracy
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -33,18 +22,7 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 4. Gemini is making it faster for distressed users to reach mental health resources
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update
-
-Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot "coached" a man to die by suicide, the latest in a string of lawsuits alleging tangible harm from AI products. When […]
-
----
-
-## 5. Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say
+## 3. Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** FI
@@ -52,6 +30,28 @@ Google says it has updated Gemini to better direct users to get mental health re
 **Link:** https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures
 
 Conservationists say move could push species closer to extinction and clearer environmental rules are needed instead Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Conservationists and scientists have warned a mining lobby proposal to use artificial intelligence to speed up national environmental approvals could generate “robodebt-style” failures, putting threatened species at further risk. The Minerals Council of Australia has asked the government to spend $13m to trial the use of AI to help companies prepare applications and help the federal government make decisions. Continue reading...
+
+---
+
+## 4. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
+
+Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention. Anthropic is […]
+
+---
+
+## 5. Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock
+
+Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime A row has broken out in one of Canada’s wealthiest neighbourhoods over plans to use an AI-powered surveillance system to create the country’s first “virtual gated community” to combat surging property crime. Crime rates in Toronto as a whole are dropping but residents of Rosedale have been left on edge by a sustained rise in home invasions, with robbers targeting the tree-lined neighbourhood at a rate more than double the city average. Break-ins and thefts remain the third highest per capita in Toronto. Continue reading...
 
 ---
 
