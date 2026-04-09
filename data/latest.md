@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-08
+# AI Fail Watch – 2026-04-09
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -22,7 +22,40 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 3. Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say
+## 3. Anthropic keeps latest AI tool out of public’s hands for fear of enabling widespread hacking
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software
+
+AI company says purpose of its Claude Mythos model is to bolster defenses against hacking in common applications Anthropic on Tuesday said its yet-to-be-released artificial intelligence model called Claude Mythos has proven keenly adept at exposing software weaknesses. Mythos has laid bare thousands of vulnerabilities in commonly used applications for which no patch or fix exists, prompting the San Francisco-based AI startup to form an alliance with cybersecurity specialists to bolster defenses against hacking and withhold wide distribution. Continue reading...
+
+---
+
+## 4. Scientists develop AI tool to spot heart failure risk five years before it strikes
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure
+
+Oxford team’s technology picked up danger signs with 86% accuracy in study of 72,000 patients in England Oxford scientists have developed a simple AI tool that can predict the risk of heart failure five years before it develops. More than 60 million people worldwide have the condition in which the heart cannot pump blood around the body as well as it should. Spotting cases before they develop into heart failure would be a big step forward, experts say. Doctors could prepare better for and manage the condition at an earlier stage or even prevent it entirely. Continue reading...
+
+---
+
+## 5. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/us-news/2026/apr/08/florida-state-university-shooting-robert-morales-family-sue-chatgpt-openai
+
+Lawyers for Robert Morales’s family said chatbot ‘may have advised the shooter’ on how to carry out shooting The family of a man who was killed at Florida State University last year plans to sue ChatGPT and its parent organization, OpenAI, for allegedly telling the accused gunman how to carry out the mass shooting. Lawyers for the family of Robert Morales wrote in a statement they had learned the shooter was in “constant communication with ChatGPT” ahead of the shooting, and that the chatbot “may have advised the shooter how to commit these heinous crimes”. Continue reading...
+
+---
+
+## 6. Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** FI
@@ -33,18 +66,7 @@ Conservationists say move could push species closer to extinction and clearer en
 
 ---
 
-## 4. A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity
-
-Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is billed as a way for large companies, and potentially even the government, to flag vulnerabilities in their systems with virtually no human intervention. Anthropic is […]
-
----
-
-## 5. Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood
+## 7. Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -55,7 +77,7 @@ Rosedale residents considering car licence plate-scanning Flock system in bid to
 
 ---
 
-## 6. Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart
+## 8. Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +88,7 @@ Industry with business model not yet firmly established and investments financed
 
 ---
 
-## 7. Republicans fooled by AI-generated image of US airman rescued in Iran
+## 9. Republicans fooled by AI-generated image of US airman rescued in Iran
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -77,7 +99,7 @@ Fake image of crew member surrounded by smiling military members has been reshar
 
 ---
 
-## 8. OpenClaw gives users yet another reason to be freaked out about security
+## 10. OpenClaw gives users yet another reason to be freaked out about security
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -85,27 +107,5 @@ Fake image of crew member surrounded by smiling military members has been reshar
 **Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
 
 The viral AI agentic tool let attackers silently gain admin unauthenticated access.
-
----
-
-## 9. ‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media
-
-Jeffrey Stephen Wigand revealed how tobacco companies targeted children; now he sees similar marketing by big tech A key whistleblower in the tobacco industry’s landmark trials of the 1990s has been watching big tech’s recent court battles closely. Jeffrey Stephen Wigand, a biochemist who helped reveal how tobacco companies targeted children and hid just how addictive cigarettes were, has been struck with a feeling of familiarity. Last week’s verdict in a major social media trial that Meta and YouTube deliberately designed addictive products has only strengthened comparisons to the legal crackdown on big tobacco. Wigand sees it, too. His first thought, as he learned about the litigation in California, was that social media companies, through their advertisements, were trying to addict children – much like the tobacco industry did. A Los Angeles jury found Meta and YouTube to be negligent last week. Plaintiffs’ lawyers relied heavily on internal documents and correspondence to demonstrate that company leadership dismissed concerns about how features of social media could be harmful. Meta was also found liable in a separate trial in New Mexico , alleging that it had failed to prevent child sexual exploitation. These verdicts are the first time Meta has been found liable for how its products affect young people – after years of criticism, much of it from angry parents who feel social media harmed their children’s mental health. Continue reading...
-
----
-
-## 10. ‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world
-
-When it comes to scandal, seeing is believing – which is why these images caused such a stir Words can tell a story, but it’s pictures that will make you believe in it. Such is the power of a photograph; the ability to strip away illusions, to illuminate something hidden, and sometimes force us to accept unpalatable truths. When it comes to scandal, seeing is believing – occasionally even to the point that a picture changes the course of history. How might life have been different for Andrew Mountbatten-Windsor had he not been photographed clutching the midriff of the 17-year-old girl he would later claim he had never met? Without this haunting triptych of the former prince, the late Virginia Giuffre and Jeffrey Epstein’s fixer, Ghislaine Maxwell, hovering in the background, there would have been nothing physical to connect the then prince with a trafficking victim. Though for years Andrew’s friends insisted that the photograph must have been doctored, buried within the Epstein files recently released by the US Department of Justice is a note from Maxwell that appears to confirm it is real. Continue reading...
 
 ---
