@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-09
+# AI Fail Watch – 2026-04-10
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -22,8 +22,19 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 3. Anthropic keeps latest AI tool out of public’s hands for fear of enabling widespread hacking
-**Source:** AI (artificial intelligence) | The Guardian
+## 3. US summoned bank bosses to discuss cyber risks posed by Anthropic’s latest AI model
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
+
+Reports say Fed chair Jerome Powell among attenders at meeting in Washington The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by Anthropic’s latest AI model, according to reports. Jerome Powell, chair of the Rederal Reserve, was said to have been among those gathered at the Treasury headquarters for the meeting after the release of the Claude Mythos AI model that Anthropic says poses unprecedented cybersecurity risks . Continue reading...
+
+---
+
+## 4. Anthropic keeps latest AI tool out of public’s hands for fear of enabling widespread hacking
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 27
@@ -33,7 +44,7 @@ AI company says purpose of its Claude Mythos model is to bolster defenses agains
 
 ---
 
-## 4. Scientists develop AI tool to spot heart failure risk five years before it strikes
+## 5. Scientists develop AI tool to spot heart failure risk five years before it strikes
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +55,7 @@ Oxford team’s technology picked up danger signs with 86% accuracy in study of 
 
 ---
 
-## 5. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI
+## 6. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +66,29 @@ Lawyers for Robert Morales’s family said chatbot ‘may have advised the shoot
 
 ---
 
-## 6. Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say
+## 7. Florida launches investigation into OpenAI
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theverge.com/policy/909557/openai-florida-investigation
+
+Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are "falling into the hands of America's enemies, such as the Chinese Communist Party." Uthmeier also says […]
+
+---
+
+## 8. Elon Musk’s xAI sues Colorado over new rules for artificial intelligence
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit
+
+Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights Elon Musk’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect in June. The suit seeks to block the state from enforcing the law, which would impose new requirements on AI systems to protect state residents from “algorithmic discrimination” in sectors such as education, employment, healthcare, housing and financial services. Continue reading...
+
+---
+
+## 9. Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** FI
@@ -66,7 +99,7 @@ Conservationists say move could push species closer to extinction and clearer en
 
 ---
 
-## 7. Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood
+## 10. Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -74,38 +107,5 @@ Conservationists say move could push species closer to extinction and clearer en
 **Link:** https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock
 
 Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime A row has broken out in one of Canada’s wealthiest neighbourhoods over plans to use an AI-powered surveillance system to create the country’s first “virtual gated community” to combat surging property crime. Crime rates in Toronto as a whole are dropping but residents of Rosedale have been left on edge by a sustained rise in home invasions, with robbers targeting the tree-lined neighbourhood at a rate more than double the city average. Break-ins and thefts remain the third highest per capita in Toronto. Continue reading...
-
----
-
-## 8. Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom
-
-Industry with business model not yet firmly established and investments financed by huge debts is particularly at risk Donald Trump’s most immediate concern in demanding Iran reopen the strait of Hormuz may be rocketing US gasoline prices, but if the conflict drags on, higher energy costs will be felt far beyond the pumps. Systemically higher power prices and fractured supply chains will squeeze industries and consumers worldwide. For the US, one consequence may be to threaten the fragile economics of the AI boom. Continue reading...
-
----
-
-## 9. Republicans fooled by AI-generated image of US airman rescued in Iran
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran
-
-Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X Sign up for the Breaking News US email to get newsletter alerts in your inbox Republican politicians were hoaxed over the weekend by an image purporting to be a downed US warplane crew member rescued by military special forces in Iran on Saturday, igniting a call for a national “crash course in media literacy”. Greg Abbott , the Texas governor, Ken Paxton , the state’s attorney general and a US Senate candidate, and Mike Lawler, a New York representative, were all caught out for “liking” a fake picture of the airman, who has not been publicly identified. Continue reading...
-
----
-
-## 10. OpenClaw gives users yet another reason to be freaked out about security
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 13
-**Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
-
-The viral AI agentic tool let attackers silently gain admin unauthenticated access.
 
 ---
