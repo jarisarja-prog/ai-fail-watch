@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-10
+# AI Fail Watch – 2026-04-11
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -22,14 +22,14 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 3. US summoned bank bosses to discuss cyber risks posed by Anthropic’s latest AI model
+## 3. US summons bank bosses over cyber risks from Anthropic’s latest AI model
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 27
 **Link:** https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
 
-Reports say Fed chair Jerome Powell among attenders at meeting in Washington The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by Anthropic’s latest AI model, according to reports. Jerome Powell, chair of the Rederal Reserve, was said to have been among those gathered at the Treasury headquarters for the meeting after the release of the Claude Mythos AI model that Anthropic says poses unprecedented cybersecurity risks . Continue reading...
+Fed chair Jerome Powell reportedly attends meeting in Washington following release of Claude Mythos The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by Anthropic’s latest AI model, according to reports. Jerome Powell, chair of the Rederal Reserve, was said to have been among those gathered at the Treasury headquarters for the meeting after the release of the Claude Mythos AI model that Anthropic says poses unprecedented cybersecurity risks . Continue reading...
 
 ---
 
@@ -44,7 +44,18 @@ AI company says purpose of its Claude Mythos model is to bolster defenses agains
 
 ---
 
-## 5. Scientists develop AI tool to spot heart failure risk five years before it strikes
+## 5. Sen. Sanders Talks to Claude About AI and Privacy
+**Source:** Schneier on Security
+**Category:** Legal
+**Language:** EN
+**Score:** 25
+**Link:** https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html
+
+Claude is actually pretty good on the issues.
+
+---
+
+## 6. Scientists develop AI tool to spot heart failure risk five years before it strikes
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -55,7 +66,7 @@ Oxford team’s technology picked up danger signs with 86% accuracy in study of 
 
 ---
 
-## 6. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI
+## 7. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,46 +77,35 @@ Lawyers for Robert Morales’s family said chatbot ‘may have advised the shoot
 
 ---
 
-## 7. Florida launches investigation into OpenAI
-**Source:** The Verge
-**Category:** Security
+## 8. ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
 **Language:** EN
-**Score:** 22
-**Link:** https://www.theverge.com/policy/909557/openai-florida-investigation
+**Score:** 23
+**Link:** https://www.theguardian.com/tv-and-radio/2026/apr/10/how-ai-became-tv-dramas-new-go-to-villain
 
-Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier says there are concerns that OpenAI's data and technology are "falling into the hands of America's enemies, such as the Chinese Communist Party." Uthmeier also says […]
+Will artificial intelligence save us or destroy us? According to a growing band of thriller scriptwriters, we should be very afraid indeed Maybe the “H” in Line Of Duty will turn out to stand for “hard drive”? After all, AI has become TV’s go-to villain, as proven once again in last week’s penultimate episode of BBC stablemate The Capture. Sinister puppet-master Simon was unmasked at long last and – spoiler – he wasn’t a person. “Wait, Simon’s a computer?” asked a baffled agent. “He’s a bit more than that,” replied a smug army bigwig. “We’re using AI to support, map, execute and command ops. Simon factors in more risks and variables than you lot on the ground are capable of knowing. Tell him your objective and he’ll calculate your mission and recalibrate it for you in real time. The stats don’t lie. Simon saves lives.” Continue reading...
 
 ---
 
-## 8. Elon Musk’s xAI sues Colorado over new rules for artificial intelligence
+## 9. Elon Musk’s xAI sues Colorado over new rules for artificial intelligence
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 21
 **Link:** https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit
 
-Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights Elon Musk’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect in June. The suit seeks to block the state from enforcing the law, which would impose new requirements on AI systems to protect state residents from “algorithmic discrimination” in sectors such as education, employment, healthcare, housing and financial services. Continue reading...
+Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights Elon Musk ’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect in June. The suit seeks to block the state from enforcing the law, which would impose new requirements on AI systems to protect state residents from “algorithmic discrimination” in sectors such as education, employment, healthcare, housing and financial services. Continue reading...
 
 ---
 
-## 9. Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say
-**Source:** AI (artificial intelligence) | The Guardian
+## 10. Anthropic oroliga över egen AI-modell
+**Source:** Ekot
 **Category:** General
-**Language:** FI
-**Score:** 19
-**Link:** https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures
-
-Conservationists say move could push species closer to extinction and clearer environmental rules are needed instead Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Conservationists and scientists have warned a mining lobby proposal to use artificial intelligence to speed up national environmental approvals could generate “robodebt-style” failures, putting threatened species at further risk. The Minerals Council of Australia has asked the government to spend $13m to trial the use of AI to help companies prepare applications and help the federal government make decisions. Continue reading...
-
----
-
-## 10. Row over ‘virtual gated community’ AI surveillance plan in Toronto neighbourhood
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
 **Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/apr/07/toronto-rosedale-row-virtual-gated-community-ai-surveillance-flock
+**Score:** 19
+**Link:** https://www.sverigesradio.se/artikel/9193752
 
-Rosedale residents considering car licence plate-scanning Flock system in bid to tackle property crime A row has broken out in one of Canada’s wealthiest neighbourhoods over plans to use an AI-powered surveillance system to create the country’s first “virtual gated community” to combat surging property crime. Crime rates in Toronto as a whole are dropping but residents of Rosedale have been left on edge by a sustained rise in home invasions, with robbers targeting the tree-lined neighbourhood at a rate more than double the city average. Break-ins and thefts remain the third highest per capita in Toronto. Continue reading...
+Techbolaget Anthropics har ännu inte vågat släppa sin nya AI-modell Mythos, som enligt dem själva är så kraftfull på att koda att den riskerar att inleda en era med ökade cyberrisker om den används för illegala syften. Finanssektorn kan bli extra utsatt. USA:s finansminister Scott Bessent och centralbankschefen Jerome Powell har under veckan blixtinkallat ledare på Wall Street till ett möte för att säkerställa att de är förberedda på ökade cyberhot från AI. ”Vi kommer få se allt kraftfullare AI-modeller som kan hitta sårbarheter”, säger IT-säkerhetsspecialisten Karl Emil Nikka.
 
 ---
