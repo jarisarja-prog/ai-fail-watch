@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-11
+# AI Fail Watch – 2026-04-12
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -22,7 +22,18 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 3. US summons bank bosses over cyber risks from Anthropic’s latest AI model
+## 3. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war
+
+The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment This week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it was not going to release it to the public. The US treasury secretary, Scott Bessent, summoned the heads of major banks for a chat about the model, Mythos. The Reform UK MP Danny Kruger wrote a letter to the government urging it to “ engage with AI firm Anthropic whose new frontier model Claude Mythos could present catastrophic cybersecurity risks to the UK”. X went wild. Continue reading...
+
+---
+
+## 4. US summons bank bosses over cyber risks from Anthropic’s latest AI model
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,8 +44,8 @@ Fed chair Jerome Powell reportedly attends meeting in Washington following relea
 
 ---
 
-## 4. Anthropic keeps latest AI tool out of public’s hands for fear of enabling widespread hacking
-**Source:** Technology | The Guardian
+## 5. Anthropic keeps latest AI tool out of public’s hands for fear of enabling widespread hacking
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 27
@@ -44,7 +55,7 @@ AI company says purpose of its Claude Mythos model is to bolster defenses agains
 
 ---
 
-## 5. Sen. Sanders Talks to Claude About AI and Privacy
+## 6. Sen. Sanders Talks to Claude About AI and Privacy
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -55,7 +66,7 @@ Claude is actually pretty good on the issues.
 
 ---
 
-## 6. Scientists develop AI tool to spot heart failure risk five years before it strikes
+## 7. Scientists develop AI tool to spot heart failure risk five years before it strikes
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +77,7 @@ Oxford team’s technology picked up danger signs with 86% accuracy in study of 
 
 ---
 
-## 7. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI
+## 8. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,7 +88,7 @@ Lawyers for Robert Morales’s family said chatbot ‘may have advised the shoot
 
 ---
 
-## 8. ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain
+## 9. ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -88,7 +99,7 @@ Will artificial intelligence save us or destroy us? According to a growing band 
 
 ---
 
-## 9. Elon Musk’s xAI sues Colorado over new rules for artificial intelligence
+## 10. Elon Musk’s xAI sues Colorado over new rules for artificial intelligence
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -96,16 +107,5 @@ Will artificial intelligence save us or destroy us? According to a growing band 
 **Link:** https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit
 
 Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights Elon Musk ’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect in June. The suit seeks to block the state from enforcing the law, which would impose new requirements on AI systems to protect state residents from “algorithmic discrimination” in sectors such as education, employment, healthcare, housing and financial services. Continue reading...
-
----
-
-## 10. Anthropic oroliga över egen AI-modell
-**Source:** Ekot
-**Category:** General
-**Language:** EN
-**Score:** 19
-**Link:** https://www.sverigesradio.se/artikel/9193752
-
-Techbolaget Anthropics har ännu inte vågat släppa sin nya AI-modell Mythos, som enligt dem själva är så kraftfull på att koda att den riskerar att inleda en era med ökade cyberrisker om den används för illegala syften. Finanssektorn kan bli extra utsatt. USA:s finansminister Scott Bessent och centralbankschefen Jerome Powell har under veckan blixtinkallat ledare på Wall Street till ett möte för att säkerställa att de är förberedda på ökade cyberhot från AI. ”Vi kommer få se allt kraftfullare AI-modeller som kan hitta sårbarheter”, säger IT-säkerhetsspecialisten Karl Emil Nikka.
 
 ---
