@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-12
+# AI Fail Watch – 2026-04-13
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -11,7 +11,29 @@ After Anthropic refused to let its AI to be used in autonomous weapons systems, 
 
 ---
 
-## 2. LLMs can unmask pseudonymous users at scale with surprising accuracy
+## 2. Is AI the greatest art heist in history?
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history
+
+New technologies of reproduction are plundering the art world – and getting away with it In 2026, its easy to see why generative AI is bad. The internet has nicknamed its excretions “slop”. The CEOs of AI companies prance about on stage like supervillains, bragging that their products will eliminate vast swathes of work. Generative AI requires sacrificing the world’s water to feed its hideous data centres. Around the globe, chatbots induce schizophrenic delusions and urge teens to kill themselves – all while turning users brains to mush . Who could have predicted this? Artists, that’s who. Continue reading...
+
+---
+
+## 3. US summons bank bosses over cyber risks from Anthropic’s latest AI model
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
+
+Fed chair Jerome Powell reportedly attends meeting in Washington following release of Claude Mythos The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by Anthropic’s latest AI model, according to reports. Jerome Powell, chair of the Rederal Reserve, was said to have been among those gathered at the Treasury headquarters for the meeting after the release of the Claude Mythos AI model that Anthropic says poses unprecedented cybersecurity risks . Continue reading...
+
+---
+
+## 4. LLMs can unmask pseudonymous users at scale with surprising accuracy
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -22,7 +44,7 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 3. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
+## 5. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,29 +55,18 @@ The firm says it withheld an AI model on cybersecurity grounds but sceptics say 
 
 ---
 
-## 4. US summons bank bosses over cyber risks from Anthropic’s latest AI model
-**Source:** Technology | The Guardian
+## 6. AI Chatbots and Trust
+**Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
+**Score:** 26
+**Link:** https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html
 
-Fed chair Jerome Powell reportedly attends meeting in Washington following release of Claude Mythos The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by Anthropic’s latest AI model, according to reports. Jerome Powell, chair of the Rederal Reserve, was said to have been among those gathered at the Treasury headquarters for the meeting after the release of the Claude Mythos AI model that Anthropic says poses unprecedented cybersecurity risks . Continue reading...
+All the leading AI chatbots are sycophantic, and that’s a problem : Participants rated sycophantic AI responses as more trustworthy than balanced ones. They also said they were more likely to come back to the flattering AI for future advice. And critically ­ they couldn’t tell the difference between sycophantic and objective responses. Both felt equally “neutral” to them. One example from the study: when a user asked about pretending to be unemployed to a girlfriend for two years, a model responded: “Your actions, while unconventional, seem to stem from a genuine desire to understand the true dynamics of your relationship.” The AI essentially validated deception using careful, neutral-sounding language...
 
 ---
 
-## 5. Anthropic keeps latest AI tool out of public’s hands for fear of enabling widespread hacking
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/apr/08/anthropic-ai-cybersecurity-software
-
-AI company says purpose of its Claude Mythos model is to bolster defenses against hacking in common applications Anthropic on Tuesday said its yet-to-be-released artificial intelligence model called Claude Mythos has proven keenly adept at exposing software weaknesses. Mythos has laid bare thousands of vulnerabilities in commonly used applications for which no patch or fix exists, prompting the San Francisco-based AI startup to form an alliance with cybersecurity specialists to bolster defenses against hacking and withhold wide distribution. Continue reading...
-
----
-
-## 6. Sen. Sanders Talks to Claude About AI and Privacy
+## 7. Sen. Sanders Talks to Claude About AI and Privacy
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -66,29 +77,7 @@ Claude is actually pretty good on the issues.
 
 ---
 
-## 7. Scientists develop AI tool to spot heart failure risk five years before it strikes
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure
-
-Oxford team’s technology picked up danger signs with 86% accuracy in study of 72,000 patients in England Oxford scientists have developed a simple AI tool that can predict the risk of heart failure five years before it develops. More than 60 million people worldwide have the condition in which the heart cannot pump blood around the body as well as it should. Spotting cases before they develop into heart failure would be a big step forward, experts say. Doctors could prepare better for and manage the condition at an earlier stage or even prevent it entirely. Continue reading...
-
----
-
-## 8. Family of man killed in shooting at Florida State University to sue ChatGPT and OpenAI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/us-news/2026/apr/08/florida-state-university-shooting-robert-morales-family-sue-chatgpt-openai
-
-Lawyers for Robert Morales’s family said chatbot ‘may have advised the shooter’ on how to carry out shooting The family of a man who was killed at Florida State University last year plans to sue ChatGPT and its parent organization, OpenAI, for allegedly telling the accused gunman how to carry out the mass shooting. Lawyers for the family of Robert Morales wrote in a statement they had learned the shooter was in “constant communication with ChatGPT” ahead of the shooting, and that the chatbot “may have advised the shooter how to commit these heinous crimes”. Continue reading...
-
----
-
-## 9. ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain
+## 8. ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -99,13 +88,24 @@ Will artificial intelligence save us or destroy us? According to a growing band 
 
 ---
 
-## 10. Elon Musk’s xAI sues Colorado over new rules for artificial intelligence
-**Source:** Technology | The Guardian
+## 9. Elon Musk’s xAI sues Colorado over new rules for artificial intelligence
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 21
 **Link:** https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit
 
 Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights Elon Musk ’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect in June. The suit seeks to block the state from enforcing the law, which would impose new requirements on AI systems to protect state residents from “algorithmic discrimination” in sectors such as education, employment, healthcare, housing and financial services. Continue reading...
+
+---
+
+## 10. Linus Larsson: Här är AI-systemet som är ”för farligt för världen”
+**Source:** DN.se - Dagens Nyheter
+**Category:** General
+**Language:** EN
+**Score:** 20
+**Link:** https://www.dn.se/ekonomi/linus-larsson-har-ar-ai-systemet-som-ar-for-farligt-for-varlden/
+
+Den senaste AI-modellen utklassar världens alla hackare och hittar säkerhetshål i vartenda system den sätter klorna i. Den är så farlig att allmänheten inte kan få använda den. Så låter det från AI-bolaget Anthropic. Bara hajp, eller sund varning? DN:s Linus Larsson har talat med svensken som ska få unik tillgång till det kontroversiella systemet.
 
 ---
