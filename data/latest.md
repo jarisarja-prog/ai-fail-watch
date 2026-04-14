@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-13
+# AI Fail Watch – 2026-04-14
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -11,18 +11,40 @@ After Anthropic refused to let its AI to be used in autonomous weapons systems, 
 
 ---
 
-## 2. Is AI the greatest art heist in history?
+## 2. Goldman Sachs chief ‘hyper-aware’ of risks from Anthropic’s Mythos AI
 **Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 43
+**Link:** https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon
+
+US bank has the Claude model and is working closely with the tech firm to improve cyber protection Goldman Sachs’s chief executive, David Solomon, has said he is “hyper-aware” of the capabilities of Anthropic’s Mythos AI model and is working “closely” with the tech firm after it issued warnings about the cybersecurity risk it poses. The US bank had been monitoring the rapid advances in artificial intelligence, including large language models (LLMs), as part of wider efforts to protect itself from hackers. Continue reading...
+
+---
+
+## 3. Is AI the greatest art heist in history?
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 31
+**Score:** 35
 **Link:** https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history
 
 New technologies of reproduction are plundering the art world – and getting away with it In 2026, its easy to see why generative AI is bad. The internet has nicknamed its excretions “slop”. The CEOs of AI companies prance about on stage like supervillains, bragging that their products will eliminate vast swathes of work. Generative AI requires sacrificing the world’s water to feed its hideous data centres. Around the globe, chatbots induce schizophrenic delusions and urge teens to kill themselves – all while turning users brains to mush . Who could have predicted this? Artists, that’s who. Continue reading...
 
 ---
 
-## 3. US summons bank bosses over cyber risks from Anthropic’s latest AI model
+## 4. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war
+
+The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment This week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it was not going to release it to the public. The US treasury secretary, Scott Bessent, summoned the heads of major banks for a chat about the model, Mythos. The Reform UK MP Danny Kruger wrote a letter to the government urging it to “ engage with AI firm Anthropic whose new frontier model Claude Mythos could present catastrophic cybersecurity risks to the UK”. X went wild. Continue reading...
+
+---
+
+## 5. US summons bank bosses over cyber risks from Anthropic’s latest AI model
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,7 +55,7 @@ Fed chair Jerome Powell reportedly attends meeting in Washington following relea
 
 ---
 
-## 4. LLMs can unmask pseudonymous users at scale with surprising accuracy
+## 6. LLMs can unmask pseudonymous users at scale with surprising accuracy
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,18 +66,7 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 5. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war
-
-The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment This week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it was not going to release it to the public. The US treasury secretary, Scott Bessent, summoned the heads of major banks for a chat about the model, Mythos. The Reform UK MP Danny Kruger wrote a letter to the government urging it to “ engage with AI firm Anthropic whose new frontier model Claude Mythos could present catastrophic cybersecurity risks to the UK”. X went wild. Continue reading...
-
----
-
-## 6. AI Chatbots and Trust
+## 7. AI Chatbots and Trust
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,18 @@ All the leading AI chatbots are sycophantic, and that’s a problem : Participan
 
 ---
 
-## 7. Sen. Sanders Talks to Claude About AI and Privacy
+## 8. How Hackers Are Thinking About AI
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 25
+**Link:** https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html
+
+Interesting paper: “ What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation. ” Abstract: The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relationship between cybercriminals and AI using a unique dataset from a cyber threat intelligence platform. Analyzing more than 160 cybercrime forum conversations collected over seven months, our research reveals how cybercriminals understand AI and discuss how they can exploit its capabilities. Their exchanges reflect growing curiosity about AI’s criminal applications through legal tools and dedicated criminal tools, but also doubts and anxieties about AI’s effectiveness and its effects on their business models and operational security. The study documents attempts to misuse legitimate AI tools and develop bespoke models tailored for illicit purposes. Combining the diffusion of innovation framework with thematic analysis, the paper provides an in-depth view of emerging AI-enabled cybercrime and offers practical insights for law enforcement and policymakers...
+
+---
+
+## 9. Sen. Sanders Talks to Claude About AI and Privacy
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -77,7 +99,7 @@ Claude is actually pretty good on the issues.
 
 ---
 
-## 8. ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain
+## 10. ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -85,27 +107,5 @@ Claude is actually pretty good on the issues.
 **Link:** https://www.theguardian.com/tv-and-radio/2026/apr/10/how-ai-became-tv-dramas-new-go-to-villain
 
 Will artificial intelligence save us or destroy us? According to a growing band of thriller scriptwriters, we should be very afraid indeed Maybe the “H” in Line Of Duty will turn out to stand for “hard drive”? After all, AI has become TV’s go-to villain, as proven once again in last week’s penultimate episode of BBC stablemate The Capture. Sinister puppet-master Simon was unmasked at long last and – spoiler – he wasn’t a person. “Wait, Simon’s a computer?” asked a baffled agent. “He’s a bit more than that,” replied a smug army bigwig. “We’re using AI to support, map, execute and command ops. Simon factors in more risks and variables than you lot on the ground are capable of knowing. Tell him your objective and he’ll calculate your mission and recalibrate it for you in real time. The stats don’t lie. Simon saves lives.” Continue reading...
-
----
-
-## 9. Elon Musk’s xAI sues Colorado over new rules for artificial intelligence
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit
-
-Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights Elon Musk ’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect in June. The suit seeks to block the state from enforcing the law, which would impose new requirements on AI systems to protect state residents from “algorithmic discrimination” in sectors such as education, employment, healthcare, housing and financial services. Continue reading...
-
----
-
-## 10. Linus Larsson: Här är AI-systemet som är ”för farligt för världen”
-**Source:** DN.se - Dagens Nyheter
-**Category:** General
-**Language:** EN
-**Score:** 20
-**Link:** https://www.dn.se/ekonomi/linus-larsson-har-ar-ai-systemet-som-ar-for-farligt-for-varlden/
-
-Den senaste AI-modellen utklassar världens alla hackare och hittar säkerhetshål i vartenda system den sätter klorna i. Den är så farlig att allmänheten inte kan få använda den. Så låter det från AI-bolaget Anthropic. Bara hajp, eller sund varning? DN:s Linus Larsson har talat med svensken som ska få unik tillgång till det kontroversiella systemet.
 
 ---
