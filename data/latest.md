@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-14
+# AI Fail Watch – 2026-04-15
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -44,18 +44,7 @@ The firm says it withheld an AI model on cybersecurity grounds but sceptics say 
 
 ---
 
-## 5. US summons bank bosses over cyber risks from Anthropic’s latest AI model
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 31
-**Link:** https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model
-
-Fed chair Jerome Powell reportedly attends meeting in Washington following release of Claude Mythos The US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by Anthropic’s latest AI model, according to reports. Jerome Powell, chair of the Rederal Reserve, was said to have been among those gathered at the Treasury headquarters for the meeting after the release of the Claude Mythos AI model that Anthropic says poses unprecedented cybersecurity risks . Continue reading...
-
----
-
-## 6. LLMs can unmask pseudonymous users at scale with surprising accuracy
+## 5. LLMs can unmask pseudonymous users at scale with surprising accuracy
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,7 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 7. AI Chatbots and Trust
+## 6. AI Chatbots and Trust
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ All the leading AI chatbots are sycophantic, and that’s a problem : Participan
 
 ---
 
-## 8. How Hackers Are Thinking About AI
+## 7. How Hackers Are Thinking About AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ Interesting paper: “ What hackers talk about when they talk about AI: Early-st
 
 ---
 
-## 9. Sen. Sanders Talks to Claude About AI and Privacy
+## 8. Sen. Sanders Talks to Claude About AI and Privacy
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -99,13 +88,24 @@ Claude is actually pretty good on the issues.
 
 ---
 
-## 10. ‘There’s no shortage of terrifying technology’: how AI became TV drama’s new go-to villain
+## 9. Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+**Category:** Security
 **Language:** EN
 **Score:** 23
-**Link:** https://www.theguardian.com/tv-and-radio/2026/apr/10/how-ai-became-tv-dramas-new-go-to-villain
+**Link:** https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors
 
-Will artificial intelligence save us or destroy us? According to a growing band of thriller scriptwriters, we should be very afraid indeed Maybe the “H” in Line Of Duty will turn out to stand for “hard drive”? After all, AI has become TV’s go-to villain, as proven once again in last week’s penultimate episode of BBC stablemate The Capture. Sinister puppet-master Simon was unmasked at long last and – spoiler – he wasn’t a person. “Wait, Simon’s a computer?” asked a baffled agent. “He’s a bit more than that,” replied a smug army bigwig. “We’re using AI to support, map, execute and command ops. Simon factors in more risks and variables than you lot on the ground are capable of knowing. Tell him your objective and he’ll calculate your mission and recalibrate it for you in real time. The stats don’t lie. Simon saves lives.” Continue reading...
+Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections Ken, a copywriter for a large, Miami-based cybersecurity firm, used to enjoy his job. But then the “workslop” started piling up. Workslop is an unintended consequence of the AI boom. It’s what happens when employees use AI to quickly generate work that seems polished – at least superficially – but is in fact so flawed or inaccurate that it needs to be heavily corrected, cleaned up or even completely redone after it’s passed on to colleagues. Continue reading...
+
+---
+
+## 10. AI companies make powerful tech – but they’re also savvy marketers
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing
+
+Anthropic’s Claude Mythos AI is said to be frighteningly capable, but we shouldn’t get carried away by the hype Hello, and welcome to TechScape. I’m your host, Blake Montgomery, the Guardian’s US tech editor, writing to you from my happy village in Pokopia . Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed ‘There’s a lot of desperation’: skilled older workers turn to AI training to stay afloat ‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify ‘It feels as if I’ve made a new best friend’: my experiment with AI journalling ‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse ‘Abhorrent’: the inside story of the Polymarket gamblers betting millions on war OpenAI CEO Sam Altman’s home targeted with molotov cocktail Continue reading...
 
 ---
