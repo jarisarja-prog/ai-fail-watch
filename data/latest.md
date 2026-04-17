@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-16
+# AI Fail Watch – 2026-04-17
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -11,18 +11,7 @@ After Anthropic refused to let its AI to be used in autonomous weapons systems, 
 
 ---
 
-## 2. Goldman Sachs chief ‘hyper-aware’ of risks from Anthropic’s Mythos AI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 43
-**Link:** https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon
-
-US bank has the Claude model and is working closely with the tech firm to improve cyber protection Goldman Sachs’s chief executive, David Solomon, has said he is “hyper-aware” of the capabilities of Anthropic’s Mythos AI model and is working “closely” with the tech firm after it issued warnings about the cybersecurity risk it poses. The US bank had been monitoring the rapid advances in artificial intelligence, including large language models (LLMs), as part of wider efforts to protect itself from hackers. Continue reading...
-
----
-
-## 3. LLMs can unmask pseudonymous users at scale with surprising accuracy
+## 2. LLMs can unmask pseudonymous users at scale with surprising accuracy
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -33,7 +22,7 @@ Pseudonymity has never been perfect for preserving privacy. Soon it may be point
 
 ---
 
-## 4. Australian federal court warns lawyers over ‘unacceptable’ use of AI
+## 3. Australian federal court warns lawyers over ‘unacceptable’ use of AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +33,7 @@ New guidance to legal profession ‘embraces’ use of technology but flags pena
 
 ---
 
-## 5. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
+## 4. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ The firm says it withheld an AI model on cybersecurity grounds but sceptics say 
 
 ---
 
-## 6. AI Chatbots and Trust
+## 5. AI Chatbots and Trust
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -66,18 +55,7 @@ All the leading AI chatbots are sycophantic, and that’s a problem : Participan
 
 ---
 
-## 7. AI companies make powerful tech – but they’re also savvy marketers
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/technology/2026/apr/13/ai-tech-marketing
-
-Anthropic’s Claude Mythos AI is said to be frighteningly capable, but we shouldn’t get carried away by the hype Hello, and welcome to TechScape. I’m your host, Blake Montgomery, the Guardian’s US tech editor, writing to you from my happy village in Pokopia . Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed ‘There’s a lot of desperation’: skilled older workers turn to AI training to stay afloat ‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify ‘It feels as if I’ve made a new best friend’: my experiment with AI journalling ‘Irresponsible failure’: Google, Meta, Snap and Microsoft slam EU over child sexual abuse law lapse ‘Abhorrent’: the inside story of the Polymarket gamblers betting millions on war OpenAI CEO Sam Altman’s home targeted with molotov cocktail Continue reading...
-
----
-
-## 8. Human Trust of AI Agents
+## 6. Human Trust of AI Agents
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +66,7 @@ Interesting research: “ Humans expect rationality and cooperation from LLM opp
 
 ---
 
-## 9. How Hackers Are Thinking About AI
+## 7. How Hackers Are Thinking About AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,7 @@ Interesting paper: “ What hackers talk about when they talk about AI: Early-st
 
 ---
 
-## 10. Sen. Sanders Talks to Claude About AI and Privacy
+## 8. Sen. Sanders Talks to Claude About AI and Privacy
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -107,5 +85,27 @@ Interesting paper: “ What hackers talk about when they talk about AI: Early-st
 **Link:** https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html
 
 Claude is actually pretty good on the issues.
+
+---
+
+## 9. Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/apr/17/liz-kendall-urges-uk-public-to-embrace-ai-as-government-makes-first-500m-fund-investment
+
+Technology secretary plays down fears over jobs and cyber security as stake taken in British startup The UK technology secretary has urged the country to “make AI work for Britain”, brushing off fears about its impact on jobs and cybersecurity as the government announced its first investment under a £500m sovereign AI fund. Liz Kendall said the UK had to “seize” the opportunity offered by AI despite concerns underlined this month when US startup Anthropic revealed it had developed an AI model that posed a potentially significant cyber threat . Asked how the government makes the case for embracing a technology that could disrupt jobs and now cybersecurity, Kendall said: “We have to seize this to make it work, for Britain, for our jobs, for solving the biggest challenges we face as a world.” Speaking on Thursday as the government unveiled its first investment in a UK company as part of a £500m sovereign AI fund, Kendall acknowledged “people are worried about the risks and what it means for their jobs”, but AI entrepreneurs also believed they can “make it work … they can create jobs”. Continue reading...
+
+---
+
+## 10. Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool
+
+Release of new Claude model, so far limited to US firms, will expand to British institutions in coming days British banks will be given access in the next week to a powerful AI tool that was deemed too dangerous to be released to the public, as a series of senior finance figures warned over its impact. Anthropic, which has so far limited the release of the new model to a small clutch of primarily US businesses, including Amazon, Apple and Microsoft, said it would expand that to UK financial institutions. Continue reading...
 
 ---
