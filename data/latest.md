@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-17
+# AI Fail Watch – 2026-04-18
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -11,18 +11,7 @@ After Anthropic refused to let its AI to be used in autonomous weapons systems, 
 
 ---
 
-## 2. LLMs can unmask pseudonymous users at scale with surprising accuracy
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 28
-**Link:** https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/
-
-Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.
-
----
-
-## 3. Australian federal court warns lawyers over ‘unacceptable’ use of AI
+## 2. Australian federal court warns lawyers over ‘unacceptable’ use of AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -33,7 +22,7 @@ New guidance to legal profession ‘embraces’ use of technology but flags pena
 
 ---
 
-## 4. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
+## 3. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ The firm says it withheld an AI model on cybersecurity grounds but sceptics say 
 
 ---
 
-## 5. AI Chatbots and Trust
+## 4. AI Chatbots and Trust
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ All the leading AI chatbots are sycophantic, and that’s a problem : Participan
 
 ---
 
-## 6. Human Trust of AI Agents
+## 5. Human Trust of AI Agents
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,7 @@ Interesting research: “ Humans expect rationality and cooperation from LLM opp
 
 ---
 
-## 7. How Hackers Are Thinking About AI
+## 6. How Hackers Are Thinking About AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ Interesting paper: “ What hackers talk about when they talk about AI: Early-st
 
 ---
 
-## 8. Sen. Sanders Talks to Claude About AI and Privacy
+## 7. Sen. Sanders Talks to Claude About AI and Privacy
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -88,7 +77,7 @@ Claude is actually pretty good on the issues.
 
 ---
 
-## 9. Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment
+## 8. Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ Technology secretary plays down fears over jobs and cyber security as stake take
 
 ---
 
-## 10. Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool
+## 9. Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +96,16 @@ Technology secretary plays down fears over jobs and cyber security as stake take
 **Link:** https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool
 
 Release of new Claude model, so far limited to US firms, will expand to British institutions in coming days British banks will be given access in the next week to a powerful AI tool that was deemed too dangerous to be released to the public, as a series of senior finance figures warned over its impact. Anthropic, which has so far limited the release of the new model to a small clutch of primarily US businesses, including Amazon, Apple and Microsoft, said it would expand that to UK financial institutions. Continue reading...
+
+---
+
+## 10. First trailer released for western starring AI version of Val Kilmer
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western
+
+Footage of As Deep As the Grave screened in the US, featuring an authorised visual deepfake of the actor who died in 2025 A trailer has been released for the first film to star an authorised generative AI version of a major Hollywood actor. Val Kilmer was cast in western As Deep As the Grave before his death in April 2025. Production delays meant he never shot any scenes, but the creative team worked with UK-based company Sonantic to create an AI speaking voice based on his old recordings. Continue reading...
 
 ---
