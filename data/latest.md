@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-19
+# AI Fail Watch – 2026-04-20
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
