@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-20
+# AI Fail Watch – 2026-04-21
 
 ## 1. Anthropic and Pentagon face off in court over ban on company’s AI model
 **Source:** Technology | The Guardian
@@ -11,7 +11,18 @@ After Anthropic refused to let its AI to be used in autonomous weapons systems, 
 
 ---
 
-## 2. Australian federal court warns lawyers over ‘unacceptable’ use of AI
+## 2. Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 28
+**Link:** https://www.theguardian.com/technology/2026/apr/17/liz-kendall-urges-uk-public-to-embrace-ai-as-government-makes-first-500m-fund-investment
+
+Technology secretary plays down fears over jobs and cyber security as stake taken in British startup The UK technology secretary has urged the country to “make AI work for Britain”, brushing off fears about its impact on jobs and cybersecurity as the government announced its first investment under a £500m sovereign AI fund. Liz Kendall said the UK had to “seize” the opportunity offered by AI despite concerns underlined this month when US startup Anthropic revealed it had developed an AI model that posed a potentially significant cyber threat . Asked how the government makes the case for embracing a technology that could disrupt jobs and now cybersecurity, Kendall said: “We have to seize this to make it work, for Britain, for our jobs, for solving the biggest challenges we face as a world.” Speaking on Thursday as the government unveiled its first investment in a UK company as part of a £500m sovereign AI fund, Kendall acknowledged “people are worried about the risks and what it means for their jobs”, but AI entrepreneurs also believed they can “make it work … they can create jobs”. Continue reading...
+
+---
+
+## 3. Australian federal court warns lawyers over ‘unacceptable’ use of AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,7 +33,7 @@ New guidance to legal profession ‘embraces’ use of technology but flags pena
 
 ---
 
-## 3. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
+## 4. ‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ The firm says it withheld an AI model on cybersecurity grounds but sceptics say 
 
 ---
 
-## 4. AI Chatbots and Trust
+## 5. AI Chatbots and Trust
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ All the leading AI chatbots are sycophantic, and that’s a problem : Participan
 
 ---
 
-## 5. Human Trust of AI Agents
+## 6. Human Trust of AI Agents
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ Interesting research: “ Humans expect rationality and cooperation from LLM opp
 
 ---
 
-## 6. How Hackers Are Thinking About AI
+## 7. How Hackers Are Thinking About AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -66,40 +77,18 @@ Interesting paper: “ What hackers talk about when they talk about AI: Early-st
 
 ---
 
-## 7. Sen. Sanders Talks to Claude About AI and Privacy
-**Source:** Schneier on Security
-**Category:** Legal
-**Language:** EN
-**Score:** 25
-**Link:** https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html
-
-Claude is actually pretty good on the issues.
-
----
-
-## 8. Liz Kendall urges UK public to embrace AI as government makes first £500m fund investment
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/technology/2026/apr/17/liz-kendall-urges-uk-public-to-embrace-ai-as-government-makes-first-500m-fund-investment
-
-Technology secretary plays down fears over jobs and cyber security as stake taken in British startup The UK technology secretary has urged the country to “make AI work for Britain”, brushing off fears about its impact on jobs and cybersecurity as the government announced its first investment under a £500m sovereign AI fund. Liz Kendall said the UK had to “seize” the opportunity offered by AI despite concerns underlined this month when US startup Anthropic revealed it had developed an AI model that posed a potentially significant cyber threat . Asked how the government makes the case for embracing a technology that could disrupt jobs and now cybersecurity, Kendall said: “We have to seize this to make it work, for Britain, for our jobs, for solving the biggest challenges we face as a world.” Speaking on Thursday as the government unveiled its first investment in a UK company as part of a £500m sovereign AI fund, Kendall acknowledged “people are worried about the risks and what it means for their jobs”, but AI entrepreneurs also believed they can “make it work … they can create jobs”. Continue reading...
-
----
-
-## 9. Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool
-**Source:** Technology | The Guardian
+## 8. Finance leaders warn over Mythos as UK banks prepare to use powerful Anthropic AI tool
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 20
+**Score:** 24
 **Link:** https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool
 
 Release of new Claude model, so far limited to US firms, will expand to British institutions in coming days British banks will be given access in the next week to a powerful AI tool that was deemed too dangerous to be released to the public, as a series of senior finance figures warned over its impact. Anthropic, which has so far limited the release of the new model to a small clutch of primarily US businesses, including Amazon, Apple and Microsoft, said it would expand that to UK financial institutions. Continue reading...
 
 ---
 
-## 10. First trailer released for western starring AI version of Val Kilmer
+## 9. First trailer released for western starring AI version of Val Kilmer
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -107,5 +96,16 @@ Release of new Claude model, so far limited to US firms, will expand to British 
 **Link:** https://www.theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western
 
 Footage of As Deep As the Grave screened in the US, featuring an authorised visual deepfake of the actor who died in 2025 A trailer has been released for the first film to star an authorised generative AI version of a major Hollywood actor. Val Kilmer was cast in western As Deep As the Grave before his death in April 2025. Production delays meant he never shot any scenes, but the creative team worked with UK-based company Sonantic to create an AI speaking voice based on his old recordings. Continue reading...
+
+---
+
+## 10. AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks
+
+The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AI OpenAI made a surprise announcement this week – not an update to ChatGPT or another multibillion-dollar datacenter – but a policy paper that called for a reimagining of the social contract based around “a slate of people-first ideas”. It’s the latest move in an aggressive effort by the major AI players to reshape the narrative around their industry, as polls show public disapproval of AI increasing. OpenAI’s 13-page paper, titled Industrial Policy for the Intelligence Age , follows its surprise acquisition of tech-friendly podcast TBPN and its announcement of plans to open a Washington DC office that will feature a dedicated space called the OpenAI workshop for non-profits and policymakers to learn about and discuss the company’s technology. Continue reading...
 
 ---
