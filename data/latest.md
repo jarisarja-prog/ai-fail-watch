@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-24
+# AI Fail Watch – 2026-04-25
 
 ## 1. What is Mythos AI and why could it be a threat to global cybersecurity?
 **Source:** AI (artificial intelligence) | The Guardian
@@ -22,14 +22,14 @@ Sullivan & Cromwell apologises to New York federal judge for string of errors in
 
 ---
 
-## 3. ‘I’ll key your car’: ChatGPT can become abusive when fed real-life arguments, study finds
+## 3. US justice department steps in on behalf of xAI in Colorado regulation case
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** FI
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/apr/21/chatgpt-abusive-language-when-fed-real-life-arguments-study
+**Category:** Legal
+**Language:** EN
+**Score:** 28
+**Link:** https://www.theguardian.com/us-news/2026/apr/24/xai-colorado-elon-musk-trump
 
-Researchers find model starts to mirror tone when exposed to impoliteness – sometimes escalating into explicit threats ChatGPT can escalate into abusive and even threatening language when drawn into prolonged, human-style conflict, according to a new study. Researchers tested how large language models (LLMs) responded to sustained hostility by feeding ChatGPT exchanges from real-life arguments and tracking how its behaviour changed over time. Continue reading...
+Move creates conflict between state and administration as Trump seeks federal framework over states handling issue Sign up for the Breaking News US email to get newsletter alerts in your inbox The US justice department said on Friday it had intervened in a lawsuit by Elon Musk’s xAI challenging a Colorado law aimed at regulating artificial intelligence systems. In its intervention, the justice department said the law violated the 14th amendment’s equal protection guarantee by requiring companies to guard against unintended discriminatory effects while allowing some discrimination aimed at promoting diversity. Continue reading...
 
 ---
 
@@ -55,18 +55,7 @@ Elon Musk’s AI chatbot ‘extremely validating’ of delusional inputs and oft
 
 ---
 
-## 6. Florida to open criminal investigation into OpenAI over ChatGPT’s influence on alleged mass shooter
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation
-
-State attorney general said inquiry will look into whether AI tool offered ‘significant advice’ to campus shooting suspect Sign up for the Breaking News US email to get newsletter alerts in your inbox Florida ’s top prosecutor is to launch a criminal investigation into how the tech company OpenAI and its software tool ChatGPT may influence users’ threats of harm to themselves or others, including whether it “offered significant advice” to a gunman accused of conducting a mass shooting in the state last year. State attorney general James Uthmeier said at a news conference on Tuesday that his office is expanding an examination of OpenAI, saying a “criminal investigation is necessary” and the state had issued subpoenas to the $852bn California-based tech firm. Continue reading...
-
----
-
-## 7. Human Trust of AI Agents
+## 6. Human Trust of AI Agents
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,18 +66,7 @@ Interesting research: “ Humans expect rationality and cooperation from LLM opp
 
 ---
 
-## 8. How Hackers Are Thinking About AI
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 25
-**Link:** https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html
-
-Interesting paper: “ What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation. ” Abstract: The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relationship between cybercriminals and AI using a unique dataset from a cyber threat intelligence platform. Analyzing more than 160 cybercrime forum conversations collected over seven months, our research reveals how cybercriminals understand AI and discuss how they can exploit its capabilities. Their exchanges reflect growing curiosity about AI’s criminal applications through legal tools and dedicated criminal tools, but also doubts and anxieties about AI’s effectiveness and its effects on their business models and operational security. The study documents attempts to misuse legitimate AI tools and develop bespoke models tailored for illicit purposes. Combining the diffusion of innovation framework with thematic analysis, the paper provides an in-depth view of emerging AI-enabled cybercrime and offers practical insights for law enforcement and policymakers...
-
----
-
-## 9. Will the backlash against AI turn violent? – podcast
+## 7. Will the backlash against AI turn violent? – podcast
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -99,7 +77,7 @@ An attack on the home of OpenAI’s CEO Sam Altman – and on the company’s he
 
 ---
 
-## 10. Pentagon asks for $54bn in pivot towards AI-powered war
+## 8. Pentagon asks for $54bn in pivot towards AI-powered war
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +85,27 @@ An attack on the home of OpenAI’s CEO Sam Altman – and on the company’s he
 **Link:** https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war
 
 Budget outlines funding for autonomous drone warfare program as experts say military unprepared for risks The Pentagon is aiming to increase funding more than a hundredfold for an autonomous drone warfare program, according to budget documents released this week, signalling a major pivot towards AI-powered war. In its 2027 budget , the Pentagon has asked for over $54bn to fund the Defense Autonomous Warfare Group, a 24,000% increase on last year. Continue reading...
+
+---
+
+## 9. OpenClaw gives users yet another reason to be freaked out about security
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
+
+The viral AI agentic tool let attackers silently gain admin unauthenticated access.
+
+---
+
+## 10. UK could face ‘hacktivist attacks at scale’, says head of security agency
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/technology/2026/apr/22/uk-hacktivist-attacks-at-scale-security-agency
+
+Officials warn a conflict situation could cause disruption similar to recent major ransomware incidents The UK could face “hacktivist attacks at scale” if it becomes embroiled in a conflict and the impact could be similar to recent high-profile ransomware incidents , according to the head of the country’s online security agency. Richard Horne, chief executive of the National Cyber Security Centre (NCSC), will warn today that nation states now account for the most significant incidents the NCSC deals with. Continue reading...
 
 ---
