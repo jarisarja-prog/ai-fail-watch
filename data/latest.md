@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-04-30
+# AI Fail Watch – 2026-05-01
 
 ## 1. Meet the AI jailbreakers: ‘I see the worst things humanity has produced’
 **Source:** Technology | The Guardian
@@ -11,18 +11,7 @@ To test the safety and security of AI, hackers have to trick large language mode
 
 ---
 
-## 2. Elon Musk and Sam Altman face off in court over OpenAI’s founding mission
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 34
-**Link:** https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit
-
-Musk’s lawsuit accuses Altman of fraud, while OpenAI says that Musk is ‘motivated by jealousy’ A trial between two of Silicon Valley’s biggest tycoons kicked off on Monday in California, the culmination of a years-long bitter feud. Elon Musk has accused Sam Altman of betraying the founding agreement of the non-profit they started together, OpenAI, by changing it to a for-profit enterprise. Jury selection began at a federal courthouse in Oakland with Judge Yvonne Gonzalez Rogers presiding. As she began, she assured the dozens of prospective jurors that this trial wasn’t going to be highly technical, despite it centering around artificial intelligence. “This is just a case about promises and breaches of promises, it won’t get technical at all,” she said. Continue reading...
-
----
-
-## 3. Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
+## 2. Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -33,7 +22,7 @@ PocketOS was left scrambling after a rogue AI agent deleted swaths of code under
 
 ---
 
-## 4. ‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman
+## 3. ‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,29 +33,29 @@ Lawyers for world’s richest person try to paint him as humanitarian as judge c
 
 ---
 
-## 5. Utklassar hackare – hur farlig är AI-modellen?
-**Source:** DN.se - Dagens Nyheter
-**Category:** General
+## 4. UN warns women in public life face increasingly sophisticated online violence
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
 **Language:** EN
-**Score:** 16
-**Link:** https://www.dn.se/podd/spotlight/utklassar-hackare-hur-farlig-ar-ai-modellen/
+**Score:** 17
+**Link:** https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence
 
-En ny AI-modell utklassar världens alla hackare. Den hittar säkerhetshål i vartenda system den sätter klorna i – och är så farlig att den måste hållas borta från allmänheten. Så låter det i alla fall från AI-bolaget Anthropic när de presenterar sin senaste uppfinning Mythos. Men modellen verkar redan ha hamnat i obehöriga händer. Nu är frågan om Anthropic bara vill bygga hajp eller om de faktiskt tar sitt ansvar?
+UN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces Women in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-assisted ‘virtual rape’ is now at the fingertips of perpetrators”. Female rights campaigners, journalists and other public communicators face a deepening threat due to a combination of artificial intelligence, anonymity and the absence of effective laws and accountability, a report by UN Women found. Continue reading...
 
 ---
 
-## 6. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
+## 5. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 15
 **Link:** https://www.theguardian.com/us-news/2026/apr/29/bernie-sanders-ai-panel
 
-US senator holds panel with leading Chinese scientists and warns of risks to society unless new technology is regulated The US senator Bernie Sanders espoused the importance of international cooperation in regulating AI at a Wednesday panel on Capitol Hill alongside two leading Chinese scientists. As startups and tech giants, most prominently in Silicon Valley and Beijing, race to advance and scale their artificial intelligence, Sanders has been among the AI skeptics advocating for safeguards. Continue reading...
+US senator holds panel with leading Chinese scientists and warns of risks to society unless new technology is regulated Bernie Sanders espoused the importance of international cooperation in regulating AI at a Wednesday panel on Capitol Hill alongside two leading Chinese scientists. As startups and tech giants, most prominently in Silicon Valley and Beijing, race to advance and scale their artificial intelligence, the Vermont senator has been among the AI skeptics advocating for safeguards. Continue reading...
 
 ---
 
-## 7. ‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards
+## 6. ‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +66,7 @@ Delegates at event in Cape Verde highlight opportunities from tech while stressi
 
 ---
 
-## 8. ‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown
+## 7. ‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -85,6 +74,17 @@ Delegates at event in Cape Verde highlight opportunities from tech while stressi
 **Link:** https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial
 
 Trial is culmination of a years-long feud between Musk and Altman that has become increasingly vicious The trial pitting Elon Musk against Sam Altman and OpenAI began in dramatic fashion on Tuesday with opening arguments and the richest man in the world taking the stand to testify. Attorneys for the two tech moguls presented a California jury with two wildly different versions of the AI company’s history, while Musk accused his billionaire rival of endangering humanity through corporate deception. Musk’s suit argues that Altman, OpenAI and its president, Greg Brockman, broke a foundational agreement to better humanity when the non-profit pivoted towards a for-profit structure. In his opening statement, Musk’s attorney said Altman and Brockman “stole a charity”. Musk, who left OpenAI in 2018 after co-founding it with Altman and Brockman three years earlier, also alleges that his co-founders unjustly enriched themselves as the company raised billions of dollars and grew into the AI behemoth it is today. Continue reading...
+
+---
+
+## 8. Amerikanska techjättar satsar mångmiljardbelopp på AI
+**Source:** Ekot
+**Category:** General
+**Language:** SV
+**Score:** 14
+**Link:** https://www.sverigesradio.se/artikel/9207940
+
+Flera amerikanska techjättar överträffade förväntningarna i sina kvartalsrapporter, med undantag för Meta som inte nådde upp till analytikernas prognoser. Investeringarna i artificiell intelligens ökar kraftigt – Alphabet, Microsoft, Amazon och Meta planerar att spendera över motsvarande 6 700 miljarder kronor på AI-utbyggnad i år. Kostnaden för att fortsätta bygga ut kan innebära risker, enligt experter.
 
 ---
 
@@ -99,13 +99,13 @@ The viral AI agentic tool let attackers silently gain admin unauthenticated acce
 
 ---
 
-## 10. Bottentrålning kan tillåtas i skyddat område – trots förbud
-**Source:** Ekot
+## 10. Mickey Mouse is watching you: Disneyland deploys facial recognition
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 13
-**Link:** https://www.sverigesradio.se/artikel/9204568
+**Score:** 12
+**Link:** https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition
 
-I sommar förbjuds den miljöskadliga fiskemetoden bottentrålning i marina skyddade områden – men Havs- och vattenmyndigheten föreslår undantag i Kosterfjorden–Väderöfjorden och ett framskjutet förbud i Gullmarsfjorden i Västerhavet. Det här får kritik av Deep Sea Reporters granskning av havsbotten: ”Vi blev chockade”, säger undervattensfilmaren Tobias Dahlin. Enligt Havs- och vattenmyndigheten är trålfisket hållbart i området och även Länsstyrelsen Västra Götaland går med på undantaget.
+Walt Disney Company says technology at California theme park will prevent fraud and streamline re-entry Disneyland, the beloved California adventure park, has outfitted some entrance lanes with facial recognition technology, a move its parent company says will prevent fraud and streamline re-entry. At certain entrance lanes, a camera will capture images of visitors, which can be converted via biometric technology into unique numerical values, according to the Walt Disney Company’s website. Continue reading...
 
 ---
