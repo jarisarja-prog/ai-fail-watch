@@ -1,10 +1,10 @@
-# AI Fail Watch – 2026-05-01
+# AI Fail Watch – 2026-05-02
 
 ## 1. Meet the AI jailbreakers: ‘I see the worst things humanity has produced’
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 35
+**Score:** 39
 **Link:** https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced
 
 To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation – and can come at a deep emotional cost A few months ago, Valen Tagliabue sat in his hotel room watching his chatbot, and felt euphoric. He had just manipulated it so skilfully, so subtly, that it began ignoring its own safety rules. It told him how to sequence new, potentially lethal pathogens and how to make them resistant to known drugs. Tagliabue had spent much of the previous two years testing and prodding large language models such as Claude and ChatGPT, always with the aim of making them say things they shouldn’t. But this was one of his most advanced “hacks” yet: a sophisticated plan of manipulation, which involved him being cruel, vindictive, sycophantic, even abusive. “I fell into this dark flow where I knew exactly what to say, and what the model would say back, and I watched it pour out everything,” he says. Thanks to him, the creators of the chatbot could now fix the flaw he had found, hopefully making it a little safer for everyone. Continue reading...
@@ -33,18 +33,29 @@ Lawyers for world’s richest person try to paint him as humanitarian as judge c
 
 ---
 
-## 4. UN warns women in public life face increasingly sophisticated online violence
+## 4. Musk and Altman’s bitter feud over OpenAI to be laid bare in court
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court
+
+Tesla chief believes Altman broke company’s founding agreement – and legal battle promises to be explosive The bitter rivalry between two of the tech world’s most powerful men arrives in court this week, as Elon Musk’s lawsuit against Sam Altman and OpenAI heads to trial in Oakland, California. The case is set to feature some of the biggest names in Silicon Valley, and its outcome could affect the course of the AI boom. Musk’s suit, filed in 2024, focuses on the formative years of OpenAI when he, Altman and others co-founded the artificial intelligence company as a nonprofit with a grand purpose. Continue reading...
+
+---
+
+## 5. UN warns women in public life face increasingly sophisticated online violence
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
 **Score:** 17
 **Link:** https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence
 
-UN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces Women in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-assisted ‘virtual rape’ is now at the fingertips of perpetrators”. Female rights campaigners, journalists and other public communicators face a deepening threat due to a combination of artificial intelligence, anonymity and the absence of effective laws and accountability, a report by UN Women found. Continue reading...
+UN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces Women in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-assisted ‘virtual rape’ is now at the fingertips of perpetrators”. Female rights campaigners, journalists and other public communicators face a deepening threat owing to a combination of artificial intelligence, anonymity and the absence of effective laws and accountability, a report published by UN Women found. Continue reading...
 
 ---
 
-## 5. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
+## 6. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -55,7 +66,7 @@ US senator holds panel with leading Chinese scientists and warns of risks to soc
 
 ---
 
-## 6. ‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards
+## 7. ‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +77,7 @@ Delegates at event in Cape Verde highlight opportunities from tech while stressi
 
 ---
 
-## 7. ‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown
+## 8. ‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -74,17 +85,6 @@ Delegates at event in Cape Verde highlight opportunities from tech while stressi
 **Link:** https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial
 
 Trial is culmination of a years-long feud between Musk and Altman that has become increasingly vicious The trial pitting Elon Musk against Sam Altman and OpenAI began in dramatic fashion on Tuesday with opening arguments and the richest man in the world taking the stand to testify. Attorneys for the two tech moguls presented a California jury with two wildly different versions of the AI company’s history, while Musk accused his billionaire rival of endangering humanity through corporate deception. Musk’s suit argues that Altman, OpenAI and its president, Greg Brockman, broke a foundational agreement to better humanity when the non-profit pivoted towards a for-profit structure. In his opening statement, Musk’s attorney said Altman and Brockman “stole a charity”. Musk, who left OpenAI in 2018 after co-founding it with Altman and Brockman three years earlier, also alleges that his co-founders unjustly enriched themselves as the company raised billions of dollars and grew into the AI behemoth it is today. Continue reading...
-
----
-
-## 8. Amerikanska techjättar satsar mångmiljardbelopp på AI
-**Source:** Ekot
-**Category:** General
-**Language:** SV
-**Score:** 14
-**Link:** https://www.sverigesradio.se/artikel/9207940
-
-Flera amerikanska techjättar överträffade förväntningarna i sina kvartalsrapporter, med undantag för Meta som inte nådde upp till analytikernas prognoser. Investeringarna i artificiell intelligens ökar kraftigt – Alphabet, Microsoft, Amazon och Meta planerar att spendera över motsvarande 6 700 miljarder kronor på AI-utbyggnad i år. Kostnaden för att fortsätta bygga ut kan innebära risker, enligt experter.
 
 ---
 
