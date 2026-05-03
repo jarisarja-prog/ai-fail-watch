@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-02
+# AI Fail Watch – 2026-05-03
 
 ## 1. Meet the AI jailbreakers: ‘I see the worst things humanity has produced’
 **Source:** AI (artificial intelligence) | The Guardian
@@ -12,17 +12,28 @@ To test the safety and security of AI, hackers have to trick large language mode
 ---
 
 ## 2. Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 25
+**Score:** 29
 **Link:** https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database
 
 PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business It only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. PocketOS, which sells software that car rental businesses rely on, descended into chaos after its databases were wiped, the company’s founder Jeremy Crane said. The culprit was Cursor, an AI agent powered by Anthropic’s Claude Opus 4.6 model, which is one of the AI industry’s flagship models. As more industries embrace AI in an attempt to automate tasks and even replace workers , the chaos at PocketOS is a reminder of what could go wrong. Continue reading...
 
 ---
 
-## 3. ‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman
+## 3. AI chatbot fraud: the ‘gift card’ subcription that may cost you dear
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theguardian.com/money/2026/may/03/ai-claude-chatbot-gift-card-subcription-scam-mystery-payments
+
+After subscribing to the Claude chatbot, mystery payments started to appear on one family’s credit card bill. They are not alone David Duggan* was so impressed with the ability of the Claude chatbot to answer medical questions and organise family life, that a $20-a-month (£15) subscription seemed like money well spent. But then his wife spotted two $200 payments on his credit card bill for gift cards to use the artificial intelligence tool. Continue reading...
+
+---
+
+## 4. ‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -33,7 +44,7 @@ Lawyers for world’s richest person try to paint him as humanitarian as judge c
 
 ---
 
-## 4. Musk and Altman’s bitter feud over OpenAI to be laid bare in court
+## 5. Musk and Altman’s bitter feud over OpenAI to be laid bare in court
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +55,7 @@ Tesla chief believes Altman broke company’s founding agreement – and legal b
 
 ---
 
-## 5. UN warns women in public life face increasingly sophisticated online violence
+## 6. UN warns women in public life face increasingly sophisticated online violence
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,7 +66,7 @@ UN Women report says AI, anonymity and lack of effective laws are increasing the
 
 ---
 
-## 6. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
+## 7. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +77,7 @@ US senator holds panel with leading Chinese scientists and warns of risks to soc
 
 ---
 
-## 7. ‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards
+## 8. ‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -74,17 +85,6 @@ US senator holds panel with leading Chinese scientists and warns of risks to soc
 **Link:** https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence
 
 Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a track by her featuring an AI choir had been released, quickly becoming an internet sensation. To get ahead of the situation, she recorded her own remix that integrated the AI-assisted song and added it to her discography. “In my view, [that] was smart and very business aware,” Oyinkansola Fawehinmi, a Lagos-based entertainment lawyer, observed a few months later . “She essentially reclaimed the ‘AI version’ and released it as her own official expression.” Continue reading...
-
----
-
-## 8. ‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial
-
-Trial is culmination of a years-long feud between Musk and Altman that has become increasingly vicious The trial pitting Elon Musk against Sam Altman and OpenAI began in dramatic fashion on Tuesday with opening arguments and the richest man in the world taking the stand to testify. Attorneys for the two tech moguls presented a California jury with two wildly different versions of the AI company’s history, while Musk accused his billionaire rival of endangering humanity through corporate deception. Musk’s suit argues that Altman, OpenAI and its president, Greg Brockman, broke a foundational agreement to better humanity when the non-profit pivoted towards a for-profit structure. In his opening statement, Musk’s attorney said Altman and Brockman “stole a charity”. Musk, who left OpenAI in 2018 after co-founding it with Altman and Brockman three years earlier, also alleges that his co-founders unjustly enriched themselves as the company raised billions of dollars and grew into the AI behemoth it is today. Continue reading...
 
 ---
 
