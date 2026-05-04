@@ -1,10 +1,10 @@
-# AI Fail Watch – 2026-05-03
+# AI Fail Watch – 2026-05-04
 
 ## 1. Meet the AI jailbreakers: ‘I see the worst things humanity has produced’
-**Source:** AI (artificial intelligence) | The Guardian
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 39
+**Score:** 35
 **Link:** https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced
 
 To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation – and can come at a deep emotional cost A few months ago, Valen Tagliabue sat in his hotel room watching his chatbot, and felt euphoric. He had just manipulated it so skilfully, so subtly, that it began ignoring its own safety rules. It told him how to sequence new, potentially lethal pathogens and how to make them resistant to known drugs. Tagliabue had spent much of the previous two years testing and prodding large language models such as Claude and ChatGPT, always with the aim of making them say things they shouldn’t. But this was one of his most advanced “hacks” yet: a sophisticated plan of manipulation, which involved him being cruel, vindictive, sycophantic, even abusive. “I fell into this dark flow where I knew exactly what to say, and what the model would say back, and I watched it pour out everything,” he says. Thanks to him, the creators of the chatbot could now fix the flaw he had found, hopefully making it a little safer for everyone. Continue reading...
@@ -44,18 +44,29 @@ Lawyers for world’s richest person try to paint him as humanitarian as judge c
 
 ---
 
-## 5. Musk and Altman’s bitter feud over OpenAI to be laid bare in court
-**Source:** Technology | The Guardian
-**Category:** Legal
+## 5. AI facial recognition oversight lagging far behind technology, watchdogs warn
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
 **Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn
 
-Tesla chief believes Altman broke company’s founding agreement – and legal battle promises to be explosive The bitter rivalry between two of the tech world’s most powerful men arrives in court this week, as Elon Musk’s lawsuit against Sam Altman and OpenAI heads to trial in Oakland, California. The case is set to feature some of the biggest names in Silicon Valley, and its outcome could affect the course of the AI boom. Musk’s suit, filed in 2024, focuses on the formative years of OpenAI when he, Altman and others co-founded the artificial intelligence company as a nonprofit with a grand purpose. Continue reading...
+Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate use How does live facial recognition work and how many police forces use it? Guilty until proven innocent: shoppers falsely identified by facial recognition Britain’s biometrics watchdogs have warned that national oversight of AI-powered face scanning to catch criminals is lagging far behind the technology’s rapid growth. With the Metropolitan police almost doubling the number of faces they scan in London over the past 12 months and a rising use of the technology by retailers in the UK, Prof William Webster, the biometrics commissioner for England and Wales, said the “slow pace of legislation was trying to catch up with the real world” and “the horse had gone before the cart”. An independent audit of the Met’s use of facial recognition technology (FRT) has been indefinitely postponed after the police requested delays. Polling shows 57% of people believe the systems are “another step towards turning the UK into a surveillance society”. A whistleblower claimed shop-based face-scanning systems had sometimes been misused by shop or security staff “maliciously” adding members of the public to watchlists. Continue reading...
 
 ---
 
-## 6. UN warns women in public life face increasingly sophisticated online violence
+## 6. How does live facial recognition work and how many UK police forces use it?
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it
+
+Technology has been deployed since 2020 in London, leading to concerns over data privacy and racial bias AI facial recognition oversight lagging far behind technology, watchdogs warn Guilty until proven innocent: shoppers falsely identified by facial recognition The Labour government thinks facial recognition technology is “the biggest breakthrough for catching criminals since DNA matching”. It wants all police forces to use it and recently announced 40 new vans rigged with live facial recognition cameras to be deployed in town centres across England and Wales. Supporters say it streamlines police work and catches criminals. Opponents fear it violates civil liberties and can be biased against minorities . Continue reading...
+
+---
+
+## 7. UN warns women in public life face increasingly sophisticated online violence
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -66,7 +77,7 @@ UN Women report says AI, anonymity and lack of effective laws are increasing the
 
 ---
 
-## 7. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
+## 8. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,18 +88,18 @@ US senator holds panel with leading Chinese scientists and warns of risks to soc
 
 ---
 
-## 8. ‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards
+## 9. Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and ‘embarrassment’
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+**Category:** Privacy
 **Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment
 
-Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent Last July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a track by her featuring an AI choir had been released, quickly becoming an internet sensation. To get ahead of the situation, she recorded her own remix that integrated the AI-assisted song and added it to her discography. “In my view, [that] was smart and very business aware,” Oyinkansola Fawehinmi, a Lagos-based entertainment lawyer, observed a few months later . “She essentially reclaimed the ‘AI version’ and released it as her own official expression.” Continue reading...
+Jimmy Wales remembers a toxic internet even before social media and says AI is ‘not a disaster’ for the free – and freely edited - online encyclopaedia Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Wikipedia’s founder, Jimmy Wales, has branded the Australian social media ban an “unmitigated disaster” and an “embarrassment” that is teaching kids to accept surveillance from tech companies when they go online. The online encyclopaedia that anyone can edit was born in a world before social media, in 2001. But Wales told Guardian Australia that many of the ills of social media existed even in the earlier stages of the internet. Continue reading...
 
 ---
 
-## 9. OpenClaw gives users yet another reason to be freaked out about security
+## 10. OpenClaw gives users yet another reason to be freaked out about security
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -96,16 +107,5 @@ Delegates at event in Cape Verde highlight opportunities from tech while stressi
 **Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
 
 The viral AI agentic tool let attackers silently gain admin unauthenticated access.
-
----
-
-## 10. Mickey Mouse is watching you: Disneyland deploys facial recognition
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition
-
-Walt Disney Company says technology at California theme park will prevent fraud and streamline re-entry Disneyland, the beloved California adventure park, has outfitted some entrance lanes with facial recognition technology, a move its parent company says will prevent fraud and streamline re-entry. At certain entrance lanes, a camera will capture images of visitors, which can be converted via biometric technology into unique numerical values, according to the Walt Disney Company’s website. Continue reading...
 
 ---
