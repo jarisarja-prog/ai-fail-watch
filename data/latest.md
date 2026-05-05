@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-04
+# AI Fail Watch – 2026-05-05
 
 ## 1. Meet the AI jailbreakers: ‘I see the worst things humanity has produced’
 **Source:** Technology | The Guardian
@@ -11,18 +11,7 @@ To test the safety and security of AI, hackers have to trick large language mode
 
 ---
 
-## 2. Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database
-
-PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business It only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. PocketOS, which sells software that car rental businesses rely on, descended into chaos after its databases were wiped, the company’s founder Jeremy Crane said. The culprit was Cursor, an AI agent powered by Anthropic’s Claude Opus 4.6 model, which is one of the AI industry’s flagship models. As more industries embrace AI in an attempt to automate tasks and even replace workers , the chaos at PocketOS is a reminder of what could go wrong. Continue reading...
-
----
-
-## 3. AI chatbot fraud: the ‘gift card’ subcription that may cost you dear
+## 2. AI chatbot fraud: the ‘gift card’ subcription that may cost you dear
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,14 +22,25 @@ After subscribing to the Claude chatbot, mystery payments started to appear on o
 
 ---
 
-## 4. ‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman
-**Source:** AI (artificial intelligence) | The Guardian
+## 3. Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
+**Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit
+**Score:** 25
+**Link:** https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database
 
-Lawyers for world’s richest person try to paint him as humanitarian as judge cuts off his long-winded replies After a dramatic first day of opening statements and testimony from Elon Musk in his case against Sam Altman and OpenAI, the trial continued on Wednesday with a cross-examination of the Tesla CEO. Musk began his second day of on the stand by repeating the accusation that Altman “stole a charity” and would endanger humanity with AI multiple times. OpenAI’s attorneys pressed the world’s richest man on his allegations, resulting in testy exchanges and multiple interventions from the judge. Musk often refused to answer questions as instructed, and the judge interjected several times to tell Musk to simply give a yes-or-no response. At various points, Musk told OpenAI’s counsel, “You’re being misleading with your question,” and “Your questions are not simple, they are designed to trick me, essentially.” Continue reading...
+PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business It only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. PocketOS, which sells software that car rental businesses rely on, descended into chaos after its databases were wiped, the company’s founder Jeremy Crane said. The culprit was Cursor, an AI agent powered by Anthropic’s Claude Opus 4.6 model, which is one of the AI industry’s flagship models. As more industries embrace AI in an attempt to automate tasks and even replace workers , the chaos at PocketOS is a reminder of what could go wrong. Continue reading...
+
+---
+
+## 4. AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study
+
+Reform UK is ‘doing something right when it comes to visibility’ on multiple AI systems, say researchers AI platforms are more likely to reference Nigel Farage than any other UK leader when prompted about British politics, according to an AI search analytics firm. “We are confident in saying that Reform are showing up significantly more than you would expect,” said Malte Landwehr, an expert at Peec AI, the firm that did the research. “So they’re doing something right when it comes to LLM [ large language model ] visibility.” Continue reading...
 
 ---
 
@@ -66,7 +66,40 @@ Technology has been deployed since 2020 in London, leading to concerns over data
 
 ---
 
-## 7. UN warns women in public life face increasingly sophisticated online violence
+## 7. Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb
+
+Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation An acclaimed Canadian fiddle player has launched a $1.5m civil lawsuit against Google , alleging that the online giant defamed him by falsely identifying him as a sex offender in an AI-generated summary of his life and career. Ashley MacIsaac, a three-time Juno award-winning musician, filed the claim in the Ontario superior court of justice, asserting that Google was liable for the “foreseeable republication” of its AI-generated Overview feature, which previously published defamatory claims that he had been convicted of multiple criminal offences, including the sexual assault of a woman, internet luring involving a child with the intention of sexual assaulting the child, and assault causing bodily harm. Continue reading...
+
+---
+
+## 8. Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong
+
+In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguards Good morning. Over the last couple of days, the Guardian has been reporting that facial recognition technology is being rolled out across the UK at a pace that appears to be outstripping the rules designed to govern it. Police forces are increasingly using live systems to scan members of the public in real time, while retailers are deploying similar tools to identify suspected shoplifters. Advocates of the technology argue that facial recognition is effective and here to stay. Critics warn it risks creating a system where people are monitored – and sometimes wrongly flagged – without clear safeguards. Middle East crisis | Donald Trump has threatened that Iran will be “ blown off the face of the earth ” if it attacks US vessels trying to reopen a route through the strait of Hormuz. Delivery industry | More than 7,000 Just Eat couriers are taking legal action against the food delivery company in an attempt to gain better employment rights, including the minimum wage and holiday pay. Europe | At the European Political Community summit in the Armenian capital of Yerevan, Keir Starmer has called on Europe to “face up” to tensions with the Trump administration, as heads of government gathered to discuss the EU’s loan scheme for Ukraine. UK news | Keir Starmer will call for a whole-of-society response to rising antisemitism on Tuesday, saying that it is not enough simply to condemn the scourge, but people “must show it” through their actions too. Cost of living | Food prices are set to be 50% higher by November compared to 2021, according to research by the Energy and Climate Intelligence Unit. Continue reading...
+
+---
+
+## 9. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
+
+Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. The trial began with […]
+
+---
+
+## 10. UN warns women in public life face increasingly sophisticated online violence
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -74,38 +107,5 @@ Technology has been deployed since 2020 in London, leading to concerns over data
 **Link:** https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence
 
 UN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces Women in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-assisted ‘virtual rape’ is now at the fingertips of perpetrators”. Female rights campaigners, journalists and other public communicators face a deepening threat owing to a combination of artificial intelligence, anonymity and the absence of effective laws and accountability, a report published by UN Women found. Continue reading...
-
----
-
-## 8. Bernie Sanders urges international cooperation to halt AI’s ‘runaway train’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/us-news/2026/apr/29/bernie-sanders-ai-panel
-
-US senator holds panel with leading Chinese scientists and warns of risks to society unless new technology is regulated Bernie Sanders espoused the importance of international cooperation in regulating AI at a Wednesday panel on Capitol Hill alongside two leading Chinese scientists. As startups and tech giants, most prominently in Silicon Valley and Beijing, race to advance and scale their artificial intelligence, the Vermont senator has been among the AI skeptics advocating for safeguards. Continue reading...
-
----
-
-## 9. Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and ‘embarrassment’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment
-
-Jimmy Wales remembers a toxic internet even before social media and says AI is ‘not a disaster’ for the free – and freely edited - online encyclopaedia Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Wikipedia’s founder, Jimmy Wales, has branded the Australian social media ban an “unmitigated disaster” and an “embarrassment” that is teaching kids to accept surveillance from tech companies when they go online. The online encyclopaedia that anyone can edit was born in a world before social media, in 2001. But Wales told Guardian Australia that many of the ills of social media existed even in the earlier stages of the internet. Continue reading...
-
----
-
-## 10. OpenClaw gives users yet another reason to be freaked out about security
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 13
-**Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
-
-The viral AI agentic tool let attackers silently gain admin unauthenticated access.
 
 ---
