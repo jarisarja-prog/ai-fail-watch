@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-08
+# AI Fail Watch – 2026-05-09
 
 ## 1. OpenAI president’s ‘deeply personal’ diary becomes focus in Musk’s case against Altman
 **Source:** AI (artificial intelligence) | The Guardian
@@ -11,40 +11,7 @@ Greg Brockman has faced questions about his emails, texts and writings in his pe
 
 ---
 
-## 2. Claude-powered AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database
-
-PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business It only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. PocketOS, which sells software that car rental businesses rely on, descended into chaos after its databases were wiped, the company’s founder Jeremy Crane said. The culprit was Cursor, an AI agent powered by Anthropic’s Claude Opus 4.6 model, which is one of the AI industry’s flagship models. As more industries embrace AI in an attempt to automate tasks and even replace workers , the chaos at PocketOS is a reminder of what could go wrong. Continue reading...
-
----
-
-## 3. Major publishers sue Meta for copyright infringement over AI training
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/may/05/publishers-sue-meta-copyright-ai
-
-Hachette, Macmillan and others allege that Meta pirated millions of works from textbooks to novels for Llama model Five major publishers sued Meta Platforms in Manhattan federal court on Tuesday, alleging that the tech giant misused their books and journal articles to train its artificial intelligence models. Elsevier, Cengage, Hachette, Macmillan and McGraw Hill, as well as author Scott Turow, alleged in the proposed class-action complaint that Meta pirated millions of their works and used them without permission to train its Llama large language models to respond to human prompts. Continue reading...
-
----
-
-## 4. ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns
-**Source:** The Verge
-**Category:** General
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification
-
-OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designated as a "Trusted Contact" will be notified if OpenAI detects that a person may have discussed topics like self-harm or suicide with the chatbot. "Trusted […]
-
----
-
-## 5. Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
+## 2. Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,18 +22,7 @@ Zilis, an executive at Musk’s brain implant startup Neuralink, served on OpenA
 
 ---
 
-## 6. Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
-
-Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. Elon Musk, his financial […]
-
----
-
-## 7. Apple agrees to pay $250m over claims it misled buyers on Siri’s AI features
+## 3. Apple agrees to pay $250m over claims it misled buyers on Siri’s AI features
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,18 +33,7 @@ Settlement, which includes no admission of wrongdoing, covers roughly 36m eligib
 
 ---
 
-## 8. ‘Think before sharing,’ Giorgia Meloni says as AI-made lingerie image of her goes viral
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/world/2026/may/05/giorgia-meloni-ai-generated-lingerie-image-deepfake
-
-Italian prime minister had received wave of criticism from people who believed deepfake pictures of her were real Italy’s prime minister, Giorgia Meloni, has criticised the circulation of AI-generated deepfake images of her, including one depicting her in lingerie, after they were widely shared online. Meloni wrote on Facebook on Tuesday: “In recent days, several fake images of me have been circulating, generated using artificial intelligence and passed off as real by some overzealous opponents. Continue reading...
-
----
-
-## 9. Europe’s AI translation industry told it risks reputation by partnering with US firms
+## 4. Europe’s AI translation industry told it risks reputation by partnering with US firms
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -99,7 +44,7 @@ Partnership between top startup DeepL and Amazon comes amid concern about Silico
 
 ---
 
-## 10. Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened
+## 5. Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +52,16 @@ Partnership between top startup DeepL and Amazon comes amid concern about Silico
 **Link:** https://www.theguardian.com/business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live
 
 Rolling coverage of the latest economic and financial news Climate campaigners attack Shell over ‘windfall’ profits from Iran war The Danish shipping giant Maersk has maintained its profit guidance for the year, even as it reported a spike in fuel costs and warned that traffic through the strait of Hormuz “remains at a near standstill”. The company, which transports goods around the world via sea, road, rail and air, said demand for shipping containers remained strong, but that war in the Middle East was ramping up costs. “The reopening of the strait of Hormuz, whether it happens in the days to come or the months to come, will have limited impact on cargo flows. What really are the most important factors to consider: first is our ability to mitigate the cost increases we have been suddenly faced with. And I would say so far we have been successful with both our cost measures and the revenue, the commercial measures that we have put in place to mitigate the impact of these increases to our financials.” “The secondary effect from this is actually whether these increased costs are eventually going to lead to inflation and demand destruction as a result, which could create a softened market environment in the second half of the year.” Continue reading...
+
+---
+
+## 6. OpenClaw gives users yet another reason to be freaked out about security
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
+
+The viral AI agentic tool let attackers silently gain admin unauthenticated access.
 
 ---
