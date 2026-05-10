@@ -1,28 +1,17 @@
-# AI Fail Watch – 2026-05-09
+# AI Fail Watch – 2026-05-10
 
-## 1. OpenAI president’s ‘deeply personal’ diary becomes focus in Musk’s case against Altman
+## 1. Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/technology/2026/may/05/openai-president-personal-diary-musk-altman-case
-
-Greg Brockman has faced questions about his emails, texts and writings in his personal diary in second week of the trial As Elon Musk ’s case against OpenAI entered its second week, focus shifted to the company’s president, Greg Brockman. Over the course of several hours on Monday and Tuesday, Brockman faced questions about his emails, texts and one piece of evidence that has become central to the trial: his personal diary. Musk’s lawsuit revolves around his allegation that Brockman, OpenAI and its CEO, Sam Altman, violated the founding agreement of the artificial intelligence firm by turning it into a for-profit entity. Musk argues that Altman and Brockman also unjustly enriched themselves in the process, essentially taking Musk’s money while deceiving him about their true intent for the business. He is seeking Altman and Brockman’s removal, the undoing of the for-profit restructuring and $134bn, which Musk wants distributed to OpenAI’s non-profit. Continue reading...
-
----
-
-## 2. Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 18
+**Score:** 22
 **Link:** https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit
 
 Zilis, an executive at Musk’s brain implant startup Neuralink, served on OpenAI’s board from 2020 to 2023 Shivon Zilis, a Neuralink executive and the mother of four of Elon Musk ’s children, took the stand on Wednesday as one of the most highly anticipated witnesses in Musk’s case against OpenAI. The ChatGPT maker has argued that, while Zilis worked with OpenAI from 2016 to 2023, she was also involved in a secret relationship with Musk, acting as an informant for him. Musk’s case against OpenAI alleges that the company’s CEO, Sam Altman , and president, Greg Brockman, co-founders of the company with Musk, broke a founding agreement when they restructured it from a non-profit to a for-profit enterprise. The Tesla CEO accuses Altman and Brockman of unjustly enriching themselves and wants both removed from their positions at the startup, one of the most valuable in the world. He is also seeking the undoing of the for-profit restructuring and $134bn in damages to be redistributed to OpenAI’s non-profit arm. Continue reading...
 
 ---
 
-## 3. Apple agrees to pay $250m over claims it misled buyers on Siri’s AI features
+## 2. Apple agrees to pay $250m over claims it misled buyers on Siri’s AI features
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -33,7 +22,7 @@ Settlement, which includes no admission of wrongdoing, covers roughly 36m eligib
 
 ---
 
-## 4. Europe’s AI translation industry told it risks reputation by partnering with US firms
+## 3. Europe’s AI translation industry told it risks reputation by partnering with US firms
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +33,7 @@ Partnership between top startup DeepL and Amazon comes amid concern about Silico
 
 ---
 
-## 5. Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened
+## 4. Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -55,7 +44,7 @@ Rolling coverage of the latest economic and financial news Climate campaigners a
 
 ---
 
-## 6. OpenClaw gives users yet another reason to be freaked out about security
+## 5. OpenClaw gives users yet another reason to be freaked out about security
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -63,5 +52,16 @@ Rolling coverage of the latest economic and financial news Climate campaigners a
 **Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
 
 The viral AI agentic tool let attackers silently gain admin unauthenticated access.
+
+---
+
+## 6. What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/technology/2026/may/09/elon-musk-sam-altman-openai-trial
+
+Showdown between Musk and Altman has rendered the world’s most wealthy comical under egalitarian eye of court For the past couple of weeks, on the fourth floor of a courthouse on a quiet street in downtown Oakland, the world’s richest man and one of the world’s most valuable startups have been at war over the future of artificial intelligence. Being one of the reporters in the room has felt like watching an updated, opposite-coast version of Tom Wolfe’s The Bonfire of the Vanities – ambition, ego, greed and the spectrum of social class on full display. The supporting cast has included Elon Musk fanboys, a stern judge and a who’s-who of Silicon Valley’s most influential people. Continue reading...
 
 ---
