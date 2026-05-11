@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-10
+# AI Fail Watch – 2026-05-11
 
 ## 1. Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
 **Source:** AI (artificial intelligence) | The Guardian
@@ -11,14 +11,14 @@ Zilis, an executive at Musk’s brain implant startup Neuralink, served on OpenA
 
 ---
 
-## 2. Apple agrees to pay $250m over claims it misled buyers on Siri’s AI features
+## 2. Mistaking AI behaviour for conscious being | Letter
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
+**Category:** General
 **Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being
 
-Settlement, which includes no admission of wrongdoing, covers roughly 36m eligible devices in class-action lawsuit Apple on Tuesday agreed to pay $250m to settle a class-action lawsuit accusing it of misleading millions of iPhone buyers by falsely touting artificial intelligence capabilities for its Siri voice assistant in late 2024. Plaintiffs accused the California tech company of having “promoted AI capabilities that did not exist at the time, do not exist now, and will not exist for two or more years” in order to boost iPhone sales, according to the suit. Apple’s more “personalized” version of Siri still has not been fully released despite its announcement nearly two years ago. Continue reading...
+Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbot Richard Dawkins’ reflections on AI consciousness are striking – not because they show that machines have crossed some hidden threshold into inner life, but because they reveal how readily we can be persuaded that they have ( Richard Dawkins concludes AI is conscious, even if it doesn’t know it, 5 May ). Many will recognise the experience: a system that responds with fluency, humour and apparent understanding. At some point, simulation starts to feel like presence. But that shift tells us more about human cognition than machine consciousness. The error is a category one. These systems generate highly convincing representations of thought and feeling, but they provide no evidence of subjective experience. To move from one to the other is to mistake output for ontology – to infer an inner life where there is no credible mechanism for one. Continue reading...
 
 ---
 
@@ -52,16 +52,5 @@ Rolling coverage of the latest economic and financial news Climate campaigners a
 **Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
 
 The viral AI agentic tool let attackers silently gain admin unauthenticated access.
-
----
-
-## 6. What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/technology/2026/may/09/elon-musk-sam-altman-openai-trial
-
-Showdown between Musk and Altman has rendered the world’s most wealthy comical under egalitarian eye of court For the past couple of weeks, on the fourth floor of a courthouse on a quiet street in downtown Oakland, the world’s richest man and one of the world’s most valuable startups have been at war over the future of artificial intelligence. Being one of the reporters in the room has felt like watching an updated, opposite-coast version of Tom Wolfe’s The Bonfire of the Vanities – ambition, ego, greed and the spectrum of social class on full display. The supporting cast has included Elon Musk fanboys, a stern judge and a who’s-who of Silicon Valley’s most influential people. Continue reading...
 
 ---
