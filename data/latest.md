@@ -1,17 +1,39 @@
-# AI Fail Watch – 2026-05-11
+# AI Fail Watch – 2026-05-12
 
-## 1. Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial
+## 1. Palantir’s access to identifiable NHS England patient data is ‘dangerous’, MPs say
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
+**Category:** Privacy
 **Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit
+**Score:** 25
+**Link:** https://www.theguardian.com/society/2026/may/11/palantir-access-nhs-england-patient-data
 
-Zilis, an executive at Musk’s brain implant startup Neuralink, served on OpenAI’s board from 2020 to 2023 Shivon Zilis, a Neuralink executive and the mother of four of Elon Musk ’s children, took the stand on Wednesday as one of the most highly anticipated witnesses in Musk’s case against OpenAI. The ChatGPT maker has argued that, while Zilis worked with OpenAI from 2016 to 2023, she was also involved in a secret relationship with Musk, acting as an informant for him. Musk’s case against OpenAI alleges that the company’s CEO, Sam Altman , and president, Greg Brockman, co-founders of the company with Musk, broke a founding agreement when they restructured it from a non-profit to a for-profit enterprise. The Tesla CEO accuses Altman and Brockman of unjustly enriching themselves and wants both removed from their positions at the startup, one of the most valuable in the world. He is also seeking the undoing of the for-profit restructuring and $134bn in damages to be redistributed to OpenAI’s non-profit arm. Continue reading...
+Health service has given US tech firm ‘unlimited access’ to certain data to build integrated platform, according to reports UK politics live – latest updates MPs have warned that an NHS decision to grant Palantir access to identifiable patient information in its plan to use AI to improve the health service is “dangerous” and will fuel public fears that data privacy is not being prioritised. NHS England has allowed staff from the US tech firm and other contractors to access patient data before it has been pseudonymised, despite internal fears of a “risk of loss of public confidence”, the Financial Times reported. Continue reading...
 
 ---
 
-## 2. Mistaking AI behaviour for conscious being | Letter
+## 2. OpenAI just released its answer to Claude Mythos
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai
+
+OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher […]
+
+---
+
+## 3. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+**Source:** Technology | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance
+
+A new divide is emerging: between workers who use AI at work and those who are managed by it The real danger that artificial intelligence poses to work is not just job loss – it is the growing divide between people who use AI to extend their skills and those whose working lives are increasingly shaped by opaque, AI-powered systems of surveillance and control. The debate about artificial intelligence and how it will affect workers is stuck in the wrong place. On one side are warnings that machines are coming for millions of jobs. On the other are claims that AI will turbocharge productivity . Both stories miss what is already happening in workplaces across the world, from Britain to Kenya to the United States . Continue reading...
+
+---
+
+## 4. Mistaking AI behaviour for conscious being | Letter
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +44,7 @@ Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbot Richard
 
 ---
 
-## 3. Europe’s AI translation industry told it risks reputation by partnering with US firms
+## 5. Europe’s AI translation industry told it risks reputation by partnering with US firms
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +55,7 @@ Partnership between top startup DeepL and Amazon comes amid concern about Silico
 
 ---
 
-## 4. Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened
+## 6. Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,13 +66,24 @@ Rolling coverage of the latest economic and financial news Climate campaigners a
 
 ---
 
-## 5. OpenClaw gives users yet another reason to be freaked out about security
-**Source:** Biz & IT - Ars Technica
+## 7. What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/technology/2026/may/09/elon-musk-sam-altman-openai-trial
+
+Showdown between Musk and Altman has rendered the world’s most wealthy comical under egalitarian eye of court For the past couple of weeks, on the fourth floor of a courthouse on a quiet street in downtown Oakland, the world’s richest man and one of the world’s most valuable startups have been at war over the future of artificial intelligence. Being one of the reporters in the room has felt like watching an updated, opposite-coast version of Tom Wolfe’s The Bonfire of the Vanities – ambition, ego, greed and the spectrum of social class on full display. The supporting cast has included Elon Musk fanboys, a stern judge and a who’s who of Silicon Valley’s most influential people. Continue reading...
+
+---
+
+## 8. LLMs and Text-in-Text Steganography
+**Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
-**Score:** 13
-**Link:** https://arstechnica.com/security/2026/04/heres-why-its-prudent-for-openclaw-users-to-assume-compromise/
+**Score:** 12
+**Link:** https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html
 
-The viral AI agentic tool let attackers silently gain admin unauthenticated access.
+Turns out that LLMs are really good at hiding text messages in other text messages.
 
 ---
