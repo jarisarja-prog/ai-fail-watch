@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-05-15
+# AI Fail Watch – 2026-05-16
 
-## 1. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+## 1. ArXiv will ban researchers who upload papers full of AI slop
+**Source:** The Verge
+**Category:** Hallucination
+**Language:** EN
+**Score:** 29
+**Link:** https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers
+
+ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has "incontrovertible evidence that the authors did not check the results of LLM generation," such as hallucinated references or "meta-comments" left by an LLM, authors will be […]
+
+---
+
+## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -11,7 +22,7 @@ Nine-person jury to consider whether AI firm bilked world’s richest person and
 
 ---
 
-## 2. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+## 3. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -22,7 +33,7 @@ A new divide is emerging: between workers who use AI at work and those who are m
 
 ---
 
-## 3. One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds
+## 4. One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +44,7 @@ Exclusive: Doctors say ‘highly concerning’ poll highlights risk to patients 
 
 ---
 
-## 4. Patch Tuesday, May 2026 Edition
+## 5. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 5. Chinese court awards compensation to sacked worker replaced by AI
+## 6. Chinese court awards compensation to sacked worker replaced by AI
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ Case attracts widespread attention as example of China balancing enthusiastic ad
 
 ---
 
-## 6. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
+## 7. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,7 @@ The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security 
 
 ---
 
-## 7. Sam Altman defends OpenAI in courtroom showdown with Elon Musk
+## 8. Sam Altman defends OpenAI in courtroom showdown with Elon Musk
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,7 +88,7 @@ The OpenAI chief rejects claims he deceived Elon Musk as high-stakes AI trial ne
 
 ---
 
-## 8. Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech
+## 9. Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -88,7 +99,7 @@ Emergence AI’s experiment with AI agents shows extent to which programming sha
 
 ---
 
-## 9. ‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era
+## 10. ‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -96,16 +107,5 @@ Emergence AI’s experiment with AI agents shows extent to which programming sha
 **Link:** https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood
 
 Defying criticisms of ‘slop’ and ‘theft’, the growing culture of AI-powered creativity is attracting interest from Hollywood In a former hemstitching workshop where artisans sewed pleats for Stockholm’s 19th-century bourgeoisie, a distinctly 21st-century craft is taking root: AI film-making. One day last week, an actor, director and composer squeezed into a tiny studio booth to record a voiceover for their next AI release. Critics disparage AI movies as “automated slop” or cheating, and fume at what they claim to be industrial-scale copyright theft. But this had a distinctly homespun feel, the little team fussing over a monologue by a poetic Scottish gorilla inhabiting a transhumanist cyberpunk universe. It was a bit like recording the Archers, one of them joked. Continue reading...
-
----
-
-## 10. Is Big Brother watching you shop? – podcast
-**Source:** Technology | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast
-
-From supermarkets to corner shops, live facial recognition could be coming to retailers near you. Jessica Murray on the AI systems increasingly used by the police and stores Live facial recognition is being hailed as a powerful new frontier in the fight against crime, not only by police but by private companies too. Retailers from supermarkets to corner shops hope it will help them fight back against shoplifting. But the Guardian’s social affairs correspondent, Jessica Murray , points out that it will also expand surveillance into more and more public spaces. And the technology doesn’t always get it right. Continue reading...
 
 ---
