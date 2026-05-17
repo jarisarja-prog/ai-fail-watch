@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-05-16
+# AI Fail Watch – 2026-05-17
 
-## 1. ArXiv will ban researchers who upload papers full of AI slop
-**Source:** The Verge
-**Category:** Hallucination
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers
-
-ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has "incontrovertible evidence that the authors did not check the results of LLM generation," such as hallucinated references or "meta-comments" left by an LLM, authors will be […]
-
----
-
-## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+## 1. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -19,6 +8,17 @@ ArXiv, a popular platform for preprint academic research, is taking a new step t
 **Link:** https://www.theguardian.com/technology/2026/may/14/sam-altman-elon-musk-openai-lawsuit
 
 Nine-person jury to consider whether AI firm bilked world’s richest person and unjustly enriched themselves Closing arguments began on Thursday in Elon Musk ’s lawsuit against Sam Altman and OpenAI , bringing the weeks-long courtroom battle between the two tech moguls nearer to a decision. A nine-person jury is set to deliberate and return a verdict on whether they believe the AI firm and Altman are liable in the case. The trial, which began last month in an Oakland, California, federal courthouse, has gripped Silicon Valley and featured some of the tech industry’s biggest names as witnesses. Attorneys for both sides have presented testimony and documents that have exposed Musk and Altman’s private dealings, as well as provided a window into the contentious history of OpenAI. Continue reading...
+
+---
+
+## 2. Sam Altman defends OpenAI in courtroom showdown with Elon Musk
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk
+
+The OpenAI chief rejects claims he deceived Elon Musk as high-stakes AI trial nears its end Sign up for the Breaking News US newsletter email The OpenAI CEO, Sam Altman , took the stand on Tuesday to defend himself and his company against a lawsuit by Elon Musk . Altman is set to be one of the final witnesses in the trial, which has pitted two of the tech industry’s most powerful men against each other in a dramatic courtroom showdown. Musk has accused Altman and OpenAI of breaking the AI firm’s founding agreement by restructuring it into a for-profit enterprise, alleging that Altman essentially swindled him into co-founding the company and providing tens of millions in financial backing. Musk also claims Altman unjustly enriched himself in the process and is seeking the CEO’s removal from OpenAI, the redistribution of $134bn to the firm’s non-profit and the undoing of its for-profit conversion. Continue reading...
 
 ---
 
@@ -66,7 +66,18 @@ Case attracts widespread attention as example of China balancing enthusiastic ad
 
 ---
 
-## 7. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
+## 7. Is Big Brother watching you shop? – podcast
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast
+
+From supermarkets to corner shops, live facial recognition could be coming to retailers near you. Jessica Murray on the AI systems increasingly used by the police and stores Live facial recognition is being hailed as a powerful new frontier in the fight against crime, not only by police but by private companies too. Retailers from supermarkets to corner shops hope it will help them fight back against shoplifting. But the Guardian’s social affairs correspondent, Jessica Murray , points out that it will also expand surveillance into more and more public spaces. And the technology doesn’t always get it right. Continue reading...
+
+---
+
+## 8. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -74,17 +85,6 @@ Case attracts widespread attention as example of China balancing enthusiastic ad
 **Link:** https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html
 
 The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security vulnerabilities, and found that it is comparable to Claude Mythos. Note that the OpenAI model is generally available. Here is the Institute’s evaluation of Mythos. And here is an analysis of a smaller, cheaper model. It requires more scaffolding from the prompter, but it is also just as good.
-
----
-
-## 8. Sam Altman defends OpenAI in courtroom showdown with Elon Musk
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk
-
-The OpenAI chief rejects claims he deceived Elon Musk as high-stakes AI trial nears its end Sign up for the Breaking News US newsletter email The OpenAI CEO, Sam Altman , took the stand on Tuesday to defend himself and his company against a lawsuit by Elon Musk . Altman is set to be one of the final witnesses in the trial, which has pitted two of the tech industry’s most powerful men against each other in a dramatic courtroom showdown. Musk has accused Altman and OpenAI of breaking the AI firm’s founding agreement by restructuring it into a for-profit enterprise, alleging that Altman essentially swindled him into co-founding the company and providing tens of millions in financial backing. Musk also claims Altman unjustly enriched himself in the process and is seeking the CEO’s removal from OpenAI, the redistribution of $134bn to the firm’s non-profit and the undoing of its for-profit conversion. Continue reading...
 
 ---
 
