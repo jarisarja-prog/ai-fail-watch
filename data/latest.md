@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-17
+# AI Fail Watch – 2026-05-18
 
 ## 1. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
@@ -11,18 +11,7 @@ Nine-person jury to consider whether AI firm bilked world’s richest person and
 
 ---
 
-## 2. Sam Altman defends OpenAI in courtroom showdown with Elon Musk
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk
-
-The OpenAI chief rejects claims he deceived Elon Musk as high-stakes AI trial nears its end Sign up for the Breaking News US newsletter email The OpenAI CEO, Sam Altman , took the stand on Tuesday to defend himself and his company against a lawsuit by Elon Musk . Altman is set to be one of the final witnesses in the trial, which has pitted two of the tech industry’s most powerful men against each other in a dramatic courtroom showdown. Musk has accused Altman and OpenAI of breaking the AI firm’s founding agreement by restructuring it into a for-profit enterprise, alleging that Altman essentially swindled him into co-founding the company and providing tens of millions in financial backing. Musk also claims Altman unjustly enriched himself in the process and is seeking the CEO’s removal from OpenAI, the redistribution of $134bn to the firm’s non-profit and the undoing of its for-profit conversion. Continue reading...
-
----
-
-## 3. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+## 2. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -33,7 +22,7 @@ A new divide is emerging: between workers who use AI at work and those who are m
 
 ---
 
-## 4. One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds
+## 3. One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +33,7 @@ Exclusive: Doctors say ‘highly concerning’ poll highlights risk to patients 
 
 ---
 
-## 5. Patch Tuesday, May 2026 Edition
+## 4. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 6. Chinese court awards compensation to sacked worker replaced by AI
+## 5. Chinese court awards compensation to sacked worker replaced by AI
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,18 +55,18 @@ Case attracts widespread attention as example of China balancing enthusiastic ad
 
 ---
 
-## 7. Is Big Brother watching you shop? – podcast
-**Source:** AI (artificial intelligence) | The Guardian
+## 6. Revamped Siri will reportedly offer autodeleting chats
+**Source:** The Verge
 **Category:** Privacy
 **Language:** EN
 **Score:** 17
-**Link:** https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast
+**Link:** https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats
 
-From supermarkets to corner shops, live facial recognition could be coming to retailers near you. Jessica Murray on the AI systems increasingly used by the police and stores Live facial recognition is being hailed as a powerful new frontier in the fight against crime, not only by police but by private companies too. Retailers from supermarkets to corner shops hope it will help them fight back against shoplifting. But the Guardian’s social affairs correspondent, Jessica Murray , points out that it will also expand surveillance into more and more public spaces. And the technology doesn’t always get it right. Continue reading...
+Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat histories. […]
 
 ---
 
-## 8. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
+## 7. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,8 +77,8 @@ The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security 
 
 ---
 
-## 9. Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech
-**Source:** Technology | The Guardian
+## 8. Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 14
@@ -99,7 +88,7 @@ Emergence AI’s experiment with AI agents shows extent to which programming sha
 
 ---
 
-## 10. ‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era
+## 9. ‘There are no rules’: spotlight on Gossip Goblin as AI film-making enters new era
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -107,5 +96,16 @@ Emergence AI’s experiment with AI agents shows extent to which programming sha
 **Link:** https://www.theguardian.com/technology/2026/may/14/gossip-goblin-ai-film-making-new-era-hollywood
 
 Defying criticisms of ‘slop’ and ‘theft’, the growing culture of AI-powered creativity is attracting interest from Hollywood In a former hemstitching workshop where artisans sewed pleats for Stockholm’s 19th-century bourgeoisie, a distinctly 21st-century craft is taking root: AI film-making. One day last week, an actor, director and composer squeezed into a tiny studio booth to record a voiceover for their next AI release. Critics disparage AI movies as “automated slop” or cheating, and fume at what they claim to be industrial-scale copyright theft. But this had a distinctly homespun feel, the little team fussing over a monologue by a poetic Scottish gorilla inhabiting a transhumanist cyberpunk universe. It was a bit like recording the Archers, one of them joked. Continue reading...
+
+---
+
+## 10. ‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters
+
+Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in Wisconsin Last summer, journalist turned comedian Charlie Berens started getting social media messages from concerned Wisconsin residents about plans for a massive datacenter campus in their state. The developer, Vantage Data Centers, claimed the $8 bn project would largely run on zero-emission energy resources like solar, wind and battery storage. The company said the campus would bring thousands of temporary construction jobs and potentially more than 1,000 permanent jobs to Port Washington, a city of 13,000 people about a half-hour north of Milwaukee. Residents opposed the project for what they said was lack of transparency and criticized the lucrative tax incentives offered to Vantage. They worried about the strain on local water and energy sources from an enormous 1.3-gigawatt project that could ultimately span 1,900 acres. Continue reading...
 
 ---
