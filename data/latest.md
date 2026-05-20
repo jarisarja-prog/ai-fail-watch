@@ -1,6 +1,28 @@
-# AI Fail Watch – 2026-05-19
+# AI Fail Watch – 2026-05-20
 
-## 1. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+## 1. AI engineer says Google unfairly sacked him after he protested against work for Israel
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/may/20/ai-engineer-says-google-unfairly-sacked-him-after-he-protested-against-work-for-israel
+
+Exclusive: Employment tribunal claim says worker lost his job after distributing leaflets throughout London office Google is facing a legal challenge from an AI engineer who claims he was unfairly dismissed after he protested against its work for the Israeli government, in the latest sign of growing concern about the social and ethical impacts of AI. The engineer distributed flyers around Google DeepMind’s London offices, which read “Google provides military AI to forces committing genocide” and asking colleagues: “Is your paycheck worth this?” He also emailed colleagues about Google’s 2025 decision to drop a promise not to pursue weapons that harm people and surveillance violating international norms and urged them to unionise. Continue reading...
+
+---
+
+## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/may/14/sam-altman-elon-musk-openai-lawsuit
+
+Nine-person jury to consider whether AI firm bilked world’s richest person and unjustly enriched themselves Closing arguments began on Thursday in Elon Musk ’s lawsuit against Sam Altman and OpenAI , bringing the weeks-long courtroom battle between the two tech moguls nearer to a decision. A nine-person jury is set to deliberate and return a verdict on whether they believe the AI firm and Altman are liable in the case. The trial, which began last month in an Oakland, California, federal courthouse, has gripped Silicon Valley and featured some of the tech industry’s biggest names as witnesses. Attorneys for both sides have presented testimony and documents that have exposed Musk and Altman’s private dealings, as well as provided a window into the contentious history of OpenAI. Continue reading...
+
+---
+
+## 3. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -11,18 +33,7 @@ A new divide is emerging: between workers who use AI at work and those who are m
 
 ---
 
-## 2. All of the updates from Elon Musk and Sam Altman’s battle over OpenAI
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
-
-Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month […]
-
----
-
-## 3. Patch Tuesday, May 2026 Edition
+## 4. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,18 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 4. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
+## 5. Real or AI: can a photographer and internet addict spot fake portraits? – video
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video
+
+It's getting harder and harder to guess whether a face is AI. The University of New South Wales recently launched an AI faces test, which challenges users ability to distinguish between real and fake faces. Guardian Australia's Carly Earl and Matilda Boseley take the test to see if it's a science or just vibes Continue reading...
+
+---
+
+## 6. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +66,7 @@ The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security 
 
 ---
 
-## 5. Tech firms face tougher UK rules on intimate image abuse
+## 7. Tech firms face tougher UK rules on intimate image abuse
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -55,7 +77,7 @@ Ofcom to update codes of practice amid rise in ‘revenge porn’ and AI-generat
 
 ---
 
-## 6. ‘Capitalism has to become more humane’: a Stanford economist on big tech, power hoarding and democracy
+## 8. ‘Capitalism has to become more humane’: a Stanford economist on big tech, power hoarding and democracy
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -66,8 +88,8 @@ Mordecai Kurz argues tech oligarchs erode democracy through monopolies – and p
 
 ---
 
-## 7. Pope Leo to issue text on human dignity and AI with Anthropic co-founder
-**Source:** Technology | The Guardian
+## 9. Pope Leo to issue text on human dignity and AI with Anthropic co-founder
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 13
@@ -77,18 +99,7 @@ The pope’s encyclical will address ‘the protection of the human person in th
 
 ---
 
-## 8. ‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters
-
-Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in Wisconsin Last summer, journalist turned comedian Charlie Berens started getting social media messages from concerned Wisconsin residents about plans for a massive datacenter campus in their state. The developer, Vantage Data Centers, claimed the $8bn project would largely run on zero-emission energy resources like solar, wind and battery storage. The company said the campus would bring thousands of temporary construction jobs and potentially more than 1,000 permanent jobs to Port Washington, a city of 13,000 people about a half-hour north of Milwaukee. Residents opposed the project for what they said was lack of transparency and criticized the lucrative tax incentives offered to Vantage. They worried about the strain on local water and energy sources from an enormous 1.3-gigawatt project that could ultimately span 1,900 acres. Continue reading...
-
----
-
-## 9. What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge
+## 10. What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -96,16 +107,5 @@ Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist 
 **Link:** https://www.theguardian.com/technology/2026/may/09/elon-musk-sam-altman-openai-trial
 
 Showdown between Musk and Altman has rendered the world’s most wealthy comical under egalitarian eye of court For the past couple of weeks, on the fourth floor of a courthouse on a quiet street in downtown Oakland, the world’s richest man and one of the world’s most valuable startups have been at war over the future of artificial intelligence. Being one of the reporters in the room has felt like watching an updated, opposite-coast version of Tom Wolfe’s The Bonfire of the Vanities – ambition, ego, greed and the spectrum of social class on full display. The supporting cast has included Elon Musk fanboys, a stern judge and a who’s who of Silicon Valley’s most influential people. Continue reading...
-
----
-
-## 10. LLMs and Text-in-Text Steganography
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 12
-**Link:** https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html
-
-Turns out that LLMs are really good at hiding text messages in other text messages.
 
 ---
