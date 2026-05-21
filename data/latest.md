@@ -1,6 +1,28 @@
-# AI Fail Watch – 2026-05-20
+# AI Fail Watch – 2026-05-21
 
-## 1. AI engineer says Google unfairly sacked him after he protested against work for Israel
+## 1. ChatGPT and other AI bots made huge errors before Scottish election, study finds
+**Source:** Technology | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 42
+**Link:** https://www.theguardian.com/technology/2026/may/20/ai-chatbots-chatgpt-replika-grok-gemini-misinformation-scottish-election-demos
+
+Exclusive: Electoral Commission calls for new controls as Demos finds tools made up fake scandals, invented candidates or gave wrong date UK politics live – latest updates The Electoral Commission has called for new legal controls over misinformation from AI chatbots, after a thinktank found they had made serious mistakes during the recent Scottish election. The thinktank Demos said its investigation had found that AI services gave voters misinformation to 34% of the questions it posed, which it said raised worrying questions about the lack of regulation of AI platforms in the UK. Continue reading...
+
+---
+
+## 2. AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic
+
+Jack Clark describes ‘vertiginous sense of progress’ and ‘profound changes’ to society alongside risks of technology An AI system will work with humans to make a Nobel prize-winning discovery within 12 months and tradespeople will be helped by bipedal robots in two years, according to the co-founder of Anthropic. Jack Clark described a “vertiginous sense of progress” in the technology and made a series of predictions, including that companies run solely by AIs would be generating millions of dollars in revenue within 18 months, and that by the end of 2028, AI systems would be able to design their own successors. Continue reading...
+
+---
+
+## 3. AI engineer says Google unfairly sacked him after he protested against work for Israel
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -11,7 +33,7 @@ Exclusive: Employment tribunal claim says worker lost his job after distributing
 
 ---
 
-## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+## 4. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,7 +44,7 @@ Nine-person jury to consider whether AI firm bilked world’s richest person and
 
 ---
 
-## 3. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+## 5. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -33,7 +55,7 @@ A new divide is emerging: between workers who use AI at work and those who are m
 
 ---
 
-## 4. Patch Tuesday, May 2026 Edition
+## 6. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +66,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 5. Real or AI: can a photographer and internet addict spot fake portraits? – video
+## 7. Real or AI: can a photographer and internet addict spot fake portraits? – video
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -55,7 +77,7 @@ It's getting harder and harder to guess whether a face is AI. The University of 
 
 ---
 
-## 6. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
+## 8. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -66,18 +88,7 @@ The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security 
 
 ---
 
-## 7. Tech firms face tougher UK rules on intimate image abuse
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/may/18/tech-firms-uk-rules-intimate-image-abuse
-
-Ofcom to update codes of practice amid rise in ‘revenge porn’ and AI-generated deepfakes targeting women and girls Social media, messaging platforms and online forums that publish intimate image abuse – often intended to humiliate women and girls – are being instructed to follow new guidelines to stop it spreading. Ofcom said it would change its codes of practice to force service providers to detect and quash intimate image abuse – sometimes called “revenge porn” – and crack down on AI-generated deepfakes. A wave of deepfakes emerged in January when Elon Musk’s Grok AI was widely used to create sexualised videos of women in bikinis. Continue reading...
-
----
-
-## 8. ‘Capitalism has to become more humane’: a Stanford economist on big tech, power hoarding and democracy
+## 9. ‘Capitalism has to become more humane’: a Stanford economist on big tech, power hoarding and democracy
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -88,24 +99,13 @@ Mordecai Kurz argues tech oligarchs erode democracy through monopolies – and p
 
 ---
 
-## 9. Pope Leo to issue text on human dignity and AI with Anthropic co-founder
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/world/2026/may/18/pope-leo-encyclical-human-dignity-ai-anthropic
-
-The pope’s encyclical will address ‘the protection of the human person in the age of AI’, the Vatican says In the first major text of his papacy, Pope Leo will address the rapid rise of artificial intelligence . The Chicago-born pontiff will present the document, known as an encyclical, at the Vatican next week during an event attended by Christopher Olah, the co-founder of Anthropic – a US-based AI firm that has clashed with Donald Trump’s administration. Continue reading...
-
----
-
-## 10. What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge
+## 10. ‘I don’t worry about a robot takeover’: AI expert Michael Wooldridge on big tech’s real dangers (and occasional blessings)
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/technology/2026/may/09/elon-musk-sam-altman-openai-trial
+**Score:** 13
+**Link:** https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings
 
-Showdown between Musk and Altman has rendered the world’s most wealthy comical under egalitarian eye of court For the past couple of weeks, on the fourth floor of a courthouse on a quiet street in downtown Oakland, the world’s richest man and one of the world’s most valuable startups have been at war over the future of artificial intelligence. Being one of the reporters in the room has felt like watching an updated, opposite-coast version of Tom Wolfe’s The Bonfire of the Vanities – ambition, ego, greed and the spectrum of social class on full display. The supporting cast has included Elon Musk fanboys, a stern judge and a who’s who of Silicon Valley’s most influential people. Continue reading...
+Almost 50 years after he first got his hands on a computer, the Oxford professor still believes in the power of technology. Can his beloved game theory explain why Silicon Valley’s entrepreneurs consistently misuse it? Michael Wooldridge is like the teacher you wish you’d had: approachable, able to explain difficult things in simple terms, neither dauntingly highbrow nor off-puttingly cool, and genuinely enthusiastic about what he does. “I love it when you see the light go on in somebody, when they understand something that they didn’t understand before,” he says. “I find that incredibly gratifying.” He comes across a regular sort of guy, which, as an Oxford professor with more than 500 scientific articles and 10 books to his name, he clearly isn’t. Typically, his favourite work is his contribution to Ladybird’s Expert Books – an update of the classic children’s series – on artificial intelligence . “I’m very proud of this,” he says, as he hands me a copy from his bookshelf. We’re in his study in the University of Oxford’s somewhat municipal computing department on a sunny spring day. Maybe it’s the campus setting, but our discussion almost takes the form of a seminar. Continue reading...
 
 ---
