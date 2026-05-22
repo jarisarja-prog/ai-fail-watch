@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-21
+# AI Fail Watch – 2026-05-22
 
 ## 1. ChatGPT and other AI bots made huge errors before Scottish election, study finds
 **Source:** Technology | The Guardian
@@ -55,7 +55,18 @@ A new divide is emerging: between workers who use AI at work and those who are m
 
 ---
 
-## 6. Patch Tuesday, May 2026 Edition
+## 6. All of the updates from Elon Musk and Sam Altman’s battle over OpenAI
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
+
+Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month, […]
+
+---
+
+## 7. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 7. Real or AI: can a photographer and internet addict spot fake portraits? – video
+## 8. Real or AI: can a photographer and internet addict spot fake portraits? – video
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -77,7 +88,7 @@ It's getting harder and harder to guess whether a face is AI. The University of 
 
 ---
 
-## 8. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
+## 9. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,24 +99,13 @@ The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security 
 
 ---
 
-## 9. ‘Capitalism has to become more humane’: a Stanford economist on big tech, power hoarding and democracy
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz
-
-Mordecai Kurz argues tech oligarchs erode democracy through monopolies – and predicts how the trend may end The billionaires of today are unusually aggressive in their hoarding of cultural and technological influence, according to Mordecai Kurz, a Stanford economist whose research connects monopoly power with political and economic inequality. In his new book, Private Power and Democracy’s Decline, publishing 19 May, he argues the US is living through an extreme version of a pattern that has repeated itself since industrialization: technological power concentrating in the hands of a few, which is eroding democracy. According to Kurz, technological moguls have long seen themselves as superior beings whose natural role is to shape society – so they have no problem disrupting the institution of democracy. During the first Gilded Age, in the late 19th century, as the US was enjoying its first ascent as an industrial powerhouse, wealthy industrialists like Andrew Carnegie and John D Rockefeller “invented all kinds of theories about human evolution”, twisting the logic of social Darwinism to convince themselves that their success was a sign they had been selected by nature to influence society, Kurz explained. Now, the Anthropic CEO, Dario Amodei, has suggested his technology has a mystical potential to become a transcendent good. He has also openly acknowledged it could lead to mass unemployment . Continue reading...
-
----
-
-## 10. ‘I don’t worry about a robot takeover’: AI expert Michael Wooldridge on big tech’s real dangers (and occasional blessings)
-**Source:** Technology | The Guardian
+## 10. Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/lifeandstyle/2026/may/20/i-dont-worry-about-a-robot-takeover-ai-expert-michael-wooldridge-on-big-techs-real-dangers-and-occasional-blessings
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/may/22/spacex-ipo-filing-details
 
-Almost 50 years after he first got his hands on a computer, the Oxford professor still believes in the power of technology. Can his beloved game theory explain why Silicon Valley’s entrepreneurs consistently misuse it? Michael Wooldridge is like the teacher you wish you’d had: approachable, able to explain difficult things in simple terms, neither dauntingly highbrow nor off-puttingly cool, and genuinely enthusiastic about what he does. “I love it when you see the light go on in somebody, when they understand something that they didn’t understand before,” he says. “I find that incredibly gratifying.” He comes across a regular sort of guy, which, as an Oxford professor with more than 500 scientific articles and 10 books to his name, he clearly isn’t. Typically, his favourite work is his contribution to Ladybird’s Expert Books – an update of the classic children’s series – on artificial intelligence . “I’m very proud of this,” he says, as he hands me a copy from his bookshelf. We’re in his study in the University of Oxford’s somewhat municipal computing department on a sunny spring day. Maybe it’s the campus setting, but our discussion almost takes the form of a seminar. Continue reading...
+IPO filing from Elon Musk’s company reveals closer look at finances, cosmic ambitions and tech empire’s quirks SpaceX publicly released an investor prospectus on Wednesday as part of its plan for a $1.75tn debut on the US stock market next month, revealing unseen details about the finances and future plans of Elon Musk ’s flagship company. In addition to new information on operating costs and revenue, the filing also included trademark Muskian sweeping proclamations about the universe and insights into some of the quirks of his tech empire. Scattered throughout the 300-plus-page prospectus are several disclosures and risk warnings that show the eccentricities of Musk’s company and its cosmic ambitions. Other financial details in the document highlight how interdependent Musk’s various businesses have become and the risks that they carry. Continue reading...
 
 ---
