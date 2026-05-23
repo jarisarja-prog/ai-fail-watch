@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-22
+# AI Fail Watch – 2026-05-23
 
 ## 1. ChatGPT and other AI bots made huge errors before Scottish election, study finds
 **Source:** Technology | The Guardian
@@ -22,18 +22,7 @@ Jack Clark describes ‘vertiginous sense of progress’ and ‘profound changes
 
 ---
 
-## 3. AI engineer says Google unfairly sacked him after he protested against work for Israel
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/may/20/ai-engineer-says-google-unfairly-sacked-him-after-he-protested-against-work-for-israel
-
-Exclusive: Employment tribunal claim says worker lost his job after distributing leaflets throughout London office Google is facing a legal challenge from an AI engineer who claims he was unfairly dismissed after he protested against its work for the Israeli government, in the latest sign of growing concern about the social and ethical impacts of AI. The engineer distributed flyers around Google DeepMind’s London offices, which read “Google provides military AI to forces committing genocide” and asking colleagues: “Is your paycheck worth this?” He also emailed colleagues about Google’s 2025 decision to drop a promise not to pursue weapons that harm people and surveillance violating international norms and urged them to unionise. Continue reading...
-
----
-
-## 4. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+## 3. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +33,7 @@ Nine-person jury to consider whether AI firm bilked world’s richest person and
 
 ---
 
-## 5. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+## 4. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -55,18 +44,7 @@ A new divide is emerging: between workers who use AI at work and those who are m
 
 ---
 
-## 6. All of the updates from Elon Musk and Sam Altman’s battle over OpenAI
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit
-
-Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits instead. After nearly a month, […]
-
----
-
-## 7. Patch Tuesday, May 2026 Edition
+## 5. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -77,29 +55,18 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 8. Real or AI: can a photographer and internet addict spot fake portraits? – video
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
+## 6. SpaceX och AI-jättar intar Wall Street – handelsvåg väntas
+**Source:** Ekot
+**Category:** General
 **Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video
+**Score:** 15
+**Link:** https://www.sverigesradio.se/artikel/9223087
 
-It's getting harder and harder to guess whether a face is AI. The University of New South Wales recently launched an AI faces test, which challenges users ability to distinguish between real and fake faces. Guardian Australia's Carly Earl and Matilda Boseley take the test to see if it's a science or just vibes Continue reading...
+De amerikanska rymd-, teknik- och AI-bolagen SpaceX, OpenAI och Anthropic förbereder historiskt stora börsnoteringar som förväntas utlösa en aldrig tidigare skådad handelsvåg på Wall Street. I en artikel i Financial Times beskrivs en möjlig konsekvens av att indexfonder tvingas genomföra stora köp i en marknad som är både hektisk och volatil. Analytikern Peter Malmqvist bedömer att utvecklingen kan förstärka koncentrationen av techbolag i globala indexfonder, men att börsnoteringarna också har positiva sidor, bland annat ökad transparens och bättre information om bolagen.
 
 ---
 
-## 9. OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 17
-**Link:** https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html
-
-The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security vulnerabilities, and found that it is comparable to Claude Mythos. Note that the OpenAI model is generally available. Here is the Institute’s evaluation of Mythos. And here is an analysis of a smaller, cheaper model. It requires more scaffolding from the prompter, but it is also just as good.
-
----
-
-## 10. Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors
+## 7. Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +74,38 @@ The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security 
 **Link:** https://www.theguardian.com/technology/2026/may/22/spacex-ipo-filing-details
 
 IPO filing from Elon Musk’s company reveals closer look at finances, cosmic ambitions and tech empire’s quirks SpaceX publicly released an investor prospectus on Wednesday as part of its plan for a $1.75tn debut on the US stock market next month, revealing unseen details about the finances and future plans of Elon Musk ’s flagship company. In addition to new information on operating costs and revenue, the filing also included trademark Muskian sweeping proclamations about the universe and insights into some of the quirks of his tech empire. Scattered throughout the 300-plus-page prospectus are several disclosures and risk warnings that show the eccentricities of Musk’s company and its cosmic ambitions. Other financial details in the document highlight how interdependent Musk’s various businesses have become and the risks that they carry. Continue reading...
+
+---
+
+## 8. ‘Capitalism has to become more humane’: a Stanford economist on big tech, power hoarding and democracy
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz
+
+Mordecai Kurz argues tech oligarchs erode democracy through monopolies – and predicts how the trend may end The billionaires of today are unusually aggressive in their hoarding of cultural and technological influence, according to Mordecai Kurz, a Stanford economist whose research connects monopoly power with political and economic inequality. In his new book, Private Power and Democracy’s Decline, publishing 19 May, he argues the US is living through an extreme version of a pattern that has repeated itself since industrialization: technological power concentrating in the hands of a few, which is eroding democracy. According to Kurz, technological moguls have long seen themselves as superior beings whose natural role is to shape society – so they have no problem disrupting the institution of democracy. During the first Gilded Age, in the late 19th century, as the US was enjoying its first ascent as an industrial powerhouse, wealthy industrialists like Andrew Carnegie and John D Rockefeller “invented all kinds of theories about human evolution”, twisting the logic of social Darwinism to convince themselves that their success was a sign they had been selected by nature to influence society, Kurz explained. Now, the Anthropic CEO, Dario Amodei, has suggested his technology has a mystical potential to become a transcendent good. He has also openly acknowledged it could lead to mass unemployment . Private Power and Democracy’s Decline by Mordecai Kurz (MIT Press Ltd, £38). To support the Guardian, order your copy at guardianbookshop.com . Delivery charges may apply. Continue reading...
+
+---
+
+## 9. Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
+**Source:** The Verge
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
+
+Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term "disregard," the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the […]
+
+---
+
+## 10. OpenAI makes breakthrough on 80-year-old maths problem
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 13
+**Link:** https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough
+
+Company says work on Paul Erdős planar unit distance problem shows advance in AI reasoning OpenAI has claimed a further advance in AI reasoning after its technology successfully tackled an 80-year-old maths problem. The company behind ChatGPT said it had made a breakthrough with a challenge first posed by Hungarian mathematician Paul Erdős in 1946: the planar unit distance problem. Continue reading...
 
 ---
