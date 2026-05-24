@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-05-23
+# AI Fail Watch – 2026-05-24
 
-## 1. ChatGPT and other AI bots made huge errors before Scottish election, study finds
-**Source:** Technology | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 42
-**Link:** https://www.theguardian.com/technology/2026/may/20/ai-chatbots-chatgpt-replika-grok-gemini-misinformation-scottish-election-demos
-
-Exclusive: Electoral Commission calls for new controls as Demos finds tools made up fake scandals, invented candidates or gave wrong date UK politics live – latest updates The Electoral Commission has called for new legal controls over misinformation from AI chatbots, after a thinktank found they had made serious mistakes during the recent Scottish election. The thinktank Demos said its investigation had found that AI services gave voters misinformation to 34% of the questions it posed, which it said raised worrying questions about the lack of regulation of AI platforms in the UK. Continue reading...
-
----
-
-## 2. AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder
+## 1. AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +11,7 @@ Jack Clark describes ‘vertiginous sense of progress’ and ‘profound changes
 
 ---
 
-## 3. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -33,7 +22,7 @@ Nine-person jury to consider whether AI firm bilked world’s richest person and
 
 ---
 
-## 4. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
+## 3. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -44,7 +33,7 @@ A new divide is emerging: between workers who use AI at work and those who are m
 
 ---
 
-## 5. Patch Tuesday, May 2026 Edition
+## 4. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -55,14 +44,25 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 6. SpaceX och AI-jättar intar Wall Street – handelsvåg väntas
-**Source:** Ekot
-**Category:** General
+## 5. Google’s new anything-to-anything AI model is wild
+**Source:** The Verge
+**Category:** Hallucination
 **Language:** EN
 **Score:** 15
-**Link:** https://www.sverigesradio.se/artikel/9223087
+**Link:** https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
 
-De amerikanska rymd-, teknik- och AI-bolagen SpaceX, OpenAI och Anthropic förbereder historiskt stora börsnoteringar som förväntas utlösa en aldrig tidigare skådad handelsvåg på Wall Street. I en artikel i Financial Times beskrivs en möjlig konsekvens av att indexfonder tvingas genomföra stora köp i en marknad som är både hektisk och volatil. Analytikern Peter Malmqvist bedömer att utvecklingen kan förstärka koncentrationen av techbolag i globala indexfonder, men att börsnoteringarna också har positiva sidor, bland annat ökad transparens och bättre information om bolagen.
+Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. […]
+
+---
+
+## 6. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes
+
+Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’ Under a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit. “There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects though his new studio, Primordial Soup, at a time when artificial intelligence has become one of the film industry’s most divisive fault lines. Continue reading...
 
 ---
 
@@ -77,18 +77,7 @@ IPO filing from Elon Musk’s company reveals closer look at finances, cosmic am
 
 ---
 
-## 8. ‘Capitalism has to become more humane’: a Stanford economist on big tech, power hoarding and democracy
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/books/2026/may/18/big-tech-monopolies-democracy-mordecai-kurz
-
-Mordecai Kurz argues tech oligarchs erode democracy through monopolies – and predicts how the trend may end The billionaires of today are unusually aggressive in their hoarding of cultural and technological influence, according to Mordecai Kurz, a Stanford economist whose research connects monopoly power with political and economic inequality. In his new book, Private Power and Democracy’s Decline, publishing 19 May, he argues the US is living through an extreme version of a pattern that has repeated itself since industrialization: technological power concentrating in the hands of a few, which is eroding democracy. According to Kurz, technological moguls have long seen themselves as superior beings whose natural role is to shape society – so they have no problem disrupting the institution of democracy. During the first Gilded Age, in the late 19th century, as the US was enjoying its first ascent as an industrial powerhouse, wealthy industrialists like Andrew Carnegie and John D Rockefeller “invented all kinds of theories about human evolution”, twisting the logic of social Darwinism to convince themselves that their success was a sign they had been selected by nature to influence society, Kurz explained. Now, the Anthropic CEO, Dario Amodei, has suggested his technology has a mystical potential to become a transcendent good. He has also openly acknowledged it could lead to mass unemployment . Private Power and Democracy’s Decline by Mordecai Kurz (MIT Press Ltd, £38). To support the Guardian, order your copy at guardianbookshop.com . Delivery charges may apply. Continue reading...
-
----
-
-## 9. Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
+## 8. Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
 **Source:** The Verge
 **Category:** General
 **Language:** EN
@@ -99,7 +88,7 @@ Google's AI Overviews are running into an interesting problem right now. Earlier
 
 ---
 
-## 10. OpenAI makes breakthrough on 80-year-old maths problem
+## 9. OpenAI makes breakthrough on 80-year-old maths problem
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +96,16 @@ Google's AI Overviews are running into an interesting problem right now. Earlier
 **Link:** https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough
 
 Company says work on Paul Erdős planar unit distance problem shows advance in AI reasoning OpenAI has claimed a further advance in AI reasoning after its technology successfully tackled an 80-year-old maths problem. The company behind ChatGPT said it had made a breakthrough with a challenge first posed by Hungarian mathematician Paul Erdős in 1946: the planar unit distance problem. Continue reading...
+
+---
+
+## 10. macOS Kernel Memory Corruption Exploit
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html
+
+A group used Anthropic’s Mythos AI model to help find a kernel memory corruption vulnerability and exploit on Apple’s M5. News article .
 
 ---
