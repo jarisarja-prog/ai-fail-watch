@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-24
+# AI Fail Watch – 2026-05-25
 
 ## 1. AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder
 **Source:** AI (artificial intelligence) | The Guardian
@@ -44,14 +44,14 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 5. Google’s new anything-to-anything AI model is wild
-**Source:** The Verge
-**Category:** Hallucination
+## 5. OpenAI makes breakthrough on 80-year-old maths problem
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
 **Language:** EN
-**Score:** 15
-**Link:** https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough
 
-Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. […]
+Company says work on Paul Erdős planar unit distance problem shows advance in AI reasoning OpenAI has claimed a further advance in AI reasoning after its technology successfully tackled an 80-year-old maths problem. The company behind ChatGPT said it had made a breakthrough with a challenge first posed by Hungarian mathematician Paul Erdős in 1946: the planar unit distance problem. Continue reading...
 
 ---
 
@@ -77,29 +77,7 @@ IPO filing from Elon Musk’s company reveals closer look at finances, cosmic am
 
 ---
 
-## 8. Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for
-**Source:** The Verge
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard
-
-Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term "disregard," the AI Overview section would include a response like what you'd see from a more traditional AI chatbot instead of the typical AI summary, as spotted on X. As you can see in the […]
-
----
-
-## 9. OpenAI makes breakthrough on 80-year-old maths problem
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough
-
-Company says work on Paul Erdős planar unit distance problem shows advance in AI reasoning OpenAI has claimed a further advance in AI reasoning after its technology successfully tackled an 80-year-old maths problem. The company behind ChatGPT said it had made a breakthrough with a challenge first posed by Hungarian mathematician Paul Erdős in 1946: the planar unit distance problem. Continue reading...
-
----
-
-## 10. macOS Kernel Memory Corruption Exploit
+## 8. macOS Kernel Memory Corruption Exploit
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
