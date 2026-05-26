@@ -1,13 +1,13 @@
-# AI Fail Watch – 2026-05-25
+# AI Fail Watch – 2026-05-26
 
-## 1. AI will help make a Nobel prize-winning discovery within a year, says Anthropic co-founder
-**Source:** AI (artificial intelligence) | The Guardian
+## 1. Pope Leo calls for being ‘profoundly human’ in the age of AI
+**Source:** The Verge
 **Category:** General
 **Language:** EN
 **Score:** 23
-**Link:** https://www.theguardian.com/technology/2026/may/21/ai-nobel-prize-winning-discovery-robots-jack-clark-anthropic
+**Link:** https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare
 
-Jack Clark describes ‘vertiginous sense of progress’ and ‘profound changes’ to society alongside risks of technology An AI system will work with humans to make a Nobel prize-winning discovery within 12 months and tradespeople will be helped by bipedal robots in two years, according to the co-founder of Anthropic. Jack Clark described a “vertiginous sense of progress” in the technology and made a series of predictions, including that companies run solely by AIs would be generating millions of dollars in revenue within 18 months, and that by the end of 2028, AI systems would be able to design their own successors. Continue reading...
+Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on "safeguarding the human person in the time of artificial intelligence," in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and […]
 
 ---
 
@@ -22,18 +22,7 @@ Nine-person jury to consider whether AI firm bilked world’s richest person and
 
 ---
 
-## 3. Forget the AI job apocalypse. AI’s real threat is worker control and surveillance
-**Source:** Technology | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance
-
-A new divide is emerging: between workers who use AI at work and those who are managed by it The real danger that artificial intelligence poses to work is not just job loss – it is the growing divide between people who use AI to extend their skills and those whose working lives are increasingly shaped by opaque, AI-powered systems of surveillance and control. The debate about artificial intelligence and how it will affect workers is stuck in the wrong place. On one side are warnings that machines are coming for millions of jobs. On the other are claims that AI will turbocharge productivity . Both stories miss what is already happening in workplaces across the world, from Britain to Kenya to the United States . Continue reading...
-
----
-
-## 4. Patch Tuesday, May 2026 Edition
+## 3. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -44,18 +33,18 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 5. OpenAI makes breakthrough on 80-year-old maths problem
+## 4. A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+**Category:** Legal
 **Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/may/21/openai-paul-erdos-maths-problem-breakthrough
+**Score:** 15
+**Link:** https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter
 
-Company says work on Paul Erdős planar unit distance problem shows advance in AI reasoning OpenAI has claimed a further advance in AI reasoning after its technology successfully tackled an 80-year-old maths problem. The company behind ChatGPT said it had made a breakthrough with a challenge first posed by Hungarian mathematician Paul Erdős in 1946: the planar unit distance problem. Continue reading...
+Jay Morris denies experts’ claims that he violated ethics rules over land deals near the site of Meta’s Hyperion datacenter This story is from Floodlight , a non-profit newsroom that investigates the powers stalling climate action For more than two years, John “Jay” Morris, a Louisiana state senator, helped pave the way for Meta to build one of the world’s largest datacenters, called Hyperion, in Richland Parish. Continue reading...
 
 ---
 
-## 6. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
+## 5. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +55,7 @@ Darren Aronofsky among proponents of using technology, while Guillermo del Toro 
 
 ---
 
-## 7. Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors
+## 6. Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +66,7 @@ IPO filing from Elon Musk’s company reveals closer look at finances, cosmic am
 
 ---
 
-## 8. macOS Kernel Memory Corruption Exploit
+## 7. macOS Kernel Memory Corruption Exploit
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
