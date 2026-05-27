@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-05-26
+# AI Fail Watch – 2026-05-27
 
-## 1. Pope Leo calls for being ‘profoundly human’ in the age of AI
-**Source:** The Verge
-**Category:** General
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare
-
-Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on "safeguarding the human person in the time of artificial intelligence," in which he discusses the dangers of AI-powered warfare, the effects of AI on labor, and […]
-
----
-
-## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+## 1. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -19,6 +8,17 @@ Pope Leo XIV warned of the risks of AI and unconstrained technological power in 
 **Link:** https://www.theguardian.com/technology/2026/may/14/sam-altman-elon-musk-openai-lawsuit
 
 Nine-person jury to consider whether AI firm bilked world’s richest person and unjustly enriched themselves Closing arguments began on Thursday in Elon Musk ’s lawsuit against Sam Altman and OpenAI , bringing the weeks-long courtroom battle between the two tech moguls nearer to a decision. A nine-person jury is set to deliberate and return a verdict on whether they believe the AI firm and Altman are liable in the case. The trial, which began last month in an Oakland, California, federal courthouse, has gripped Silicon Valley and featured some of the tech industry’s biggest names as witnesses. Attorneys for both sides have presented testimony and documents that have exposed Musk and Altman’s private dealings, as well as provided a window into the contentious history of OpenAI. Continue reading...
+
+---
+
+## 2. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo
+
+As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens its grip on AI’s future Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Let’s recap a whirlwind five days that may determine the future of AI. SpaceX reveals plan for $1.75tn stock market debut that could make Musk a trillionaire Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors The main takeaways from Elon Musk’s plans for $1.75tn SpaceX flotation Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ Nvidia’s revenue blows past Wall Street expectations as AI boom accelerates Incoming Ofcom chair vows to take on ‘tech bros’ OpenAI makes breakthrough on 80-year-old maths problem Meta settles major social media addiction lawsuit with school district Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’ Continue reading...
 
 ---
 
@@ -45,7 +45,7 @@ Jay Morris denies experts’ claims that he violated ethics rules over land deal
 ---
 
 ## 5. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 14
