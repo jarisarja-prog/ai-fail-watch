@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-05-27
+# AI Fail Watch – 2026-05-28
 
-## 1. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+## 1. Are robots nearing their ChatGPT moment? – podcast
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast
+
+Last month at Beijing’s half marathon, a robot named Lightning beat the human world record by nearly seven minutes. It’s the latest in a string of AI-powered milestones that have got people wondering whether robots are about to enter our everyday lives, just as chatbots have. And the country leading the charge is China, where the government has pledged to invest more than £100bn in robotics over the next 20 years. To find out how robots are already entering the workforce, and what needs to happen to get them cleaning our homes and weeding our gardens, Ian Sample hears from the Guardian’s senior China correspondent, Amy Hawkins, and from Nathan Lepora, professor of robotics and AI at Bristol University, who researches how robots can achieve human-like dexterity Clips: Global News, BBC, CGTN Continue reading...
+
+---
+
+## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -11,7 +22,7 @@ Nine-person jury to consider whether AI firm bilked world’s richest person and
 
 ---
 
-## 2. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 3. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,7 +33,7 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 
 ---
 
-## 3. Patch Tuesday, May 2026 Edition
+## 4. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 4. A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it
+## 5. A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,25 +55,14 @@ Jay Morris denies experts’ claims that he violated ethics rules over land deal
 
 ---
 
-## 5. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
-**Source:** AI (artificial intelligence) | The Guardian
+## 6. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
+**Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 14
 **Link:** https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes
 
 Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’ Under a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit. “There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects though his new studio, Primordial Soup, at a time when artificial intelligence has become one of the film industry’s most divisive fault lines. Continue reading...
-
----
-
-## 6. Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/may/22/spacex-ipo-filing-details
-
-IPO filing from Elon Musk’s company reveals closer look at finances, cosmic ambitions and tech empire’s quirks SpaceX publicly released an investor prospectus on Wednesday as part of its plan for a $1.75tn debut on the US stock market next month, revealing unseen details about the finances and future plans of Elon Musk ’s flagship company. In addition to new information on operating costs and revenue, the filing also included trademark Muskian sweeping proclamations about the universe and insights into some of the quirks of his tech empire. Scattered throughout the 300-plus-page prospectus are several disclosures and risk warnings that show the eccentricities of Musk’s company and its cosmic ambitions. Other financial details in the document highlight how interdependent Musk’s various businesses have become and the risks that they carry. Continue reading...
 
 ---
 
