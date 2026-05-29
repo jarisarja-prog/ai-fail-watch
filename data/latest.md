@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-05-28
+# AI Fail Watch – 2026-05-29
 
 ## 1. Are robots nearing their ChatGPT moment? – podcast
 **Source:** Technology | The Guardian
@@ -11,18 +11,7 @@ Last month at Beijing’s half marathon, a robot named Lightning beat the human 
 
 ---
 
-## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/may/14/sam-altman-elon-musk-openai-lawsuit
-
-Nine-person jury to consider whether AI firm bilked world’s richest person and unjustly enriched themselves Closing arguments began on Thursday in Elon Musk ’s lawsuit against Sam Altman and OpenAI , bringing the weeks-long courtroom battle between the two tech moguls nearer to a decision. A nine-person jury is set to deliberate and return a verdict on whether they believe the AI firm and Altman are liable in the case. The trial, which began last month in an Oakland, California, federal courthouse, has gripped Silicon Valley and featured some of the tech industry’s biggest names as witnesses. Attorneys for both sides have presented testimony and documents that have exposed Musk and Altman’s private dealings, as well as provided a window into the contentious history of OpenAI. Continue reading...
-
----
-
-## 3. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 2. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -33,7 +22,7 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 
 ---
 
-## 4. Patch Tuesday, May 2026 Edition
+## 3. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 5. A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it
+## 4. A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -52,6 +41,17 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 **Link:** https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter
 
 Jay Morris denies experts’ claims that he violated ethics rules over land deals near the site of Meta’s Hyperion datacenter This story is from Floodlight , a non-profit newsroom that investigates the powers stalling climate action For more than two years, John “Jay” Morris, a Louisiana state senator, helped pave the way for Meta to build one of the world’s largest datacenters, called Hyperion, in Richland Parish. Continue reading...
+
+---
+
+## 5. Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** FI
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/may/28/image-of-thai-police-in-sparkly-dresses-with-handcuffed-suspect-turns-out-to-be-ai-fake
+
+Picture was created by administrator in charge of station’s Facebook account who wanted to create ‘friendlier image’ It was an arresting image and an irresistible story. A group of tough Thai police officers – five men and one woman – all wearing elaborate festival-style dresses, surrounding a drug dealer they had caught while undercover. The image, released by local police, was so compelling that it found its way on to the front page of the UK’s Daily Star, as well as in picture stories in the Telegraph, the Sun and the New York Post. Continue reading...
 
 ---
 
@@ -66,7 +66,18 @@ Darren Aronofsky among proponents of using technology, while Guillermo del Toro 
 
 ---
 
-## 7. macOS Kernel Memory Corruption Exploit
+## 7. Claude’s new model is more ‘honest’ when it messes up
+**Source:** The Verge
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort
+
+Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's "honesty." According to Anthropic, it trains "all [its] models to be honest - for instance, to avoid making claims that they can't support." But it notes that "a general problem with AI models is that they sometimes jump to conclusions, […]
+
+---
+
+## 8. macOS Kernel Memory Corruption Exploit
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
