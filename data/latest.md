@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-05-30
+# AI Fail Watch – 2026-05-31
 
-## 1. Are robots nearing their ChatGPT moment? – podcast
+## 1. Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction
+
+Guardian readers in the US spoke of fears about unregulated AI in response to the pope’s encyclical warning about the risks of the technology In his first major papal text since assuming leadership of the Catholic church last year, Pope Leo issued a stark warning about the rise of artificial intelligence this week, denouncing the “culture of power” driving the AI age. Calling for the “most rigorous” ethical constraints on AI – which he described as one of the greatest threats facing humanity today – the first US-born pope also warned of “new forms of slavery” emerging through the digital economy. Continue reading...
+
+---
+
+## 2. Are robots nearing their ChatGPT moment? – podcast
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -11,7 +22,18 @@ Last month at Beijing’s half marathon, a robot named Lightning beat the human 
 
 ---
 
-## 2. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
+## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai
+
+Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination Why did Anthropic’s founder sit beside the pope during a warning about AI? In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers , accelerating war and exploiting the environment . At a ceremony honoring the holy teaching the day of its release at the Vatican, the pope was flanked by an unusual guest speaker: Anthropic co-founder Chris Olah, one of the people behind the AI boom so worrying Leo. Continue reading...
+
+---
+
+## 4. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,7 +44,7 @@ Nine-person jury to consider whether AI firm bilked world’s richest person and
 
 ---
 
-## 3. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 5. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -33,7 +55,7 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 
 ---
 
-## 4. Patch Tuesday, May 2026 Edition
+## 6. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +66,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 5. Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake
+## 7. Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** FI
@@ -55,7 +77,7 @@ Picture was created by administrator in charge of station’s Facebook account w
 
 ---
 
-## 6. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
+## 8. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +88,7 @@ Darren Aronofsky among proponents of using technology, while Guillermo del Toro 
 
 ---
 
-## 7. macOS Kernel Memory Corruption Exploit
+## 9. macOS Kernel Memory Corruption Exploit
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
