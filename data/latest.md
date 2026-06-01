@@ -1,7 +1,7 @@
-# AI Fail Watch – 2026-05-31
+# AI Fail Watch – 2026-06-01
 
 ## 1. Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’
-**Source:** AI (artificial intelligence) | The Guardian
+**Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 26
@@ -66,7 +66,18 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 7. Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake
+## 7. Insändare. Låt inte amerikanska Palantir nästla sig in i vårt samhälle
+**Source:** DN.se - Dagens Nyheter
+**Category:** Privacy
+**Language:** SV
+**Score:** 15
+**Link:** https://www.dn.se/insandare/lat-inte-amerikanska-palantir-nastla-sig-in-i-vart-samhalle/
+
+INSÄNDARE. Den svenska polisens användning av amerikanskägd artificiell intelligens för övervakning är ett farligt steg. Vi måste värna om vår demokrati och inte låta oss manipuleras av företaget Palantir, skriver Iwan Langermo.
+
+---
+
+## 8. Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** FI
@@ -77,7 +88,7 @@ Picture was created by administrator in charge of station’s Facebook account w
 
 ---
 
-## 8. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
+## 9. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -88,7 +99,7 @@ Darren Aronofsky among proponents of using technology, while Guillermo del Toro 
 
 ---
 
-## 9. macOS Kernel Memory Corruption Exploit
+## 10. macOS Kernel Memory Corruption Exploit
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
