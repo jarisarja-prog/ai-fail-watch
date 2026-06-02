@@ -1,6 +1,39 @@
-# AI Fail Watch – 2026-06-01
+# AI Fail Watch – 2026-06-02
 
-## 1. Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’
+## 1. Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 47
+**Link:** https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman
+
+State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’ Florida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chatbot. Florida is the first state in the US to sue the artificial intelligence company. The 83-page suit was brought by Florida’s attorney general, James Uthmeier, and alleges that OpenAI “aggressively marketed” ChatGPT to the public while ignoring safety warnings and possible dangers of the product. Continue reading...
+
+---
+
+## 2. Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 43
+**Link:** https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram
+
+Breach of high-profile accounts raises concerns about reliance on AI for security measures such as passwords Hackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company has confirmed, saying it resolved the problem after researchers exposed it. The targets ranged from Barack Obama’s White House account to the beauty retailer Sephora and the US Space Force chief master sergeant, John Bentivegna, according to reporting from 404 Media . Everyday users complained of similar hijackings on Reddit and X over the weekend. Continue reading...
+
+---
+
+## 3. Tuesday briefing: Palantir’s rise – and why so many oppose its role in the British state
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/world/2026/jun/02/tuesday-briefing-palantirs-rise-and-why-so-many-oppose-its-role-in-the-british-state
+
+In today’s newsletter: Its software is used from health services to militaries. But controversies and criticism of the $375bn company are leading some to ask if Palantir is too powerful Good morning. The Peter Mandelson story keeps unfolding. Peter Walker explains here what is in the latest release of documents, and Henry Dyer takes a look at the key papers missing from the latest disclosures. Today we are covering another major story: Palantir. Few companies attract controversy more than Palantir. Since the pandemic, the US data analytics company has grown voraciously, using its AI-driven software to make sense of intractable datasets for customers around the world. For the NHS, it analyses patient records; for the US military, it’s focused on targets in Iran. Palantir’s products are widely used, with the business now worth $375bn. UK politics | Peter Mandelson was receiving sensitive security briefings about the Foreign Office’s work, and was in discussions with the head of MI6, before he had completed the developed vetting process, documents reveal . Ukraine | Russian air raids on major Ukrainian centres including Kyiv, Dnipro and Kharkiv killed at least five people and wounded dozens by early morning on Tuesday, authorities said. Environment | More than a million jobs, higher wages, nearly half a trillion pounds in investment in the pipeline – the UK’s green economy is powering ahead , according to research by the country’s leading business organisation. US news | Donald Trump is reconsidering whether to keep pressing for a $1.8bn fund to compensate his allies, a person familiar with his thinking said, as the justice department paused the program to comply with a court order. UK news | Sir Alan Bates has said that the schemes set up to compensate post office operators over the Horizon IT scandal have been an “utter disaster” and that the government should not be involved in running them. Continue reading...
+
+---
+
+## 4. Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -11,19 +44,30 @@ Guardian readers in the US spoke of fears about unregulated AI in response to th
 
 ---
 
-## 2. Are robots nearing their ChatGPT moment? – podcast
-**Source:** Technology | The Guardian
-**Category:** Research integrity
+## 5. Vulnerability Disclosure in the Age of AI
+**Source:** Schneier on Security
+**Category:** Security
 **Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast
+**Score:** 26
+**Link:** https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html
 
-Last month at Beijing’s half marathon, a robot named Lightning beat the human world record by nearly seven minutes. It’s the latest in a string of AI-powered milestones that have got people wondering whether robots are about to enter our everyday lives, just as chatbots have. And the country leading the charge is China, where the government has pledged to invest more than £100bn in robotics over the next 20 years. To find out how robots are already entering the workforce, and what needs to happen to get them cleaning our homes and weeding our gardens, Ian Sample hears from the Guardian’s senior China correspondent, Amy Hawkins, and from Nathan Lepora, professor of robotics and AI at Bristol University, who researches how robots can achieve human-like dexterity Clips: Global News, BBC, CGTN Continue reading...
+New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Action ,” by Melissa Hathaway. Abstract: Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying exploitable software vulnerabilities at unprecedented speed and scale. This development exposes decades of accumulated technical debt created by a software industry that prioritized rapid deployment over secure-by-design engineering practices. Drawing on the evolution of software assurance, vulnerability disclosure frameworks, and U.S. cyber policy, this perspective argues that the current moment represents a strategic inflection point for governments, industry, and critical infrastructure operators. The author examines the growing tension between offensive and defensive equities in cyberspace, the emergence of AI-enabled vulnerability discovery capabilities in both the U.S. and China, and the increasing risks posed by unsupported legacy systems and AI-assisted code generation practices. Responsible disclosure can no longer remain a reactive or fragmented process, but must become a coordinated national and international resilience effort involving governments, software vendors, infrastructure operators, and emergency response organizations. The article concludes with an urgent call for accelerated remediation, large-scale patch management coordination, and sustained investment in automated vulnerability repair capabilities before adversaries exploit this rapidly narrowing window of opportunity...
 
 ---
 
-## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
-**Source:** Technology | The Guardian
+## 6. Floridas statsåklagare stämmer OpenAI
+**Source:** Ekot
+**Category:** Legal
+**Language:** EN
+**Score:** 23
+**Link:** https://www.sverigesradio.se/artikel/9229026
+
+Floridas statsåklagare stämmer företaget OpenAI, som ligger bakom AI-tjänsten ChatGPT - och dess vd Sam Altman, skriver BBC. Statsåklagaren menar att AI-tjänsten utsätter barn för fara och gör de beroende, samtidigt som företaget jagar vinst. Till BBC uppger OpenAI att man har branschledande skydd för barn inbyggt i sina tjänster. Den här stämningen är en i raden med liknande anklagelser som riktats mot bolaget senaste tiden.
+
+---
+
+## 7. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 21
@@ -33,18 +77,18 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 4. High-stakes courtroom drama of Musk v OpenAI hears closing arguments
-**Source:** Technology | The Guardian
-**Category:** Legal
+## 8. Gemini’s new AI agent is about as good as Google’s demo
+**Source:** The Verge
+**Category:** Privacy
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/may/14/sam-altman-elon-musk-openai-lawsuit
+**Score:** 19
+**Link:** https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on
 
-Nine-person jury to consider whether AI firm bilked world’s richest person and unjustly enriched themselves Closing arguments began on Thursday in Elon Musk ’s lawsuit against Sam Altman and OpenAI , bringing the weeks-long courtroom battle between the two tech moguls nearer to a decision. A nine-person jury is set to deliberate and return a verdict on whether they believe the AI firm and Altman are liable in the case. The trial, which began last month in an Oakland, California, federal courthouse, has gripped Silicon Valley and featured some of the tech industry’s biggest names as witnesses. Attorneys for both sides have presented testimony and documents that have exposed Musk and Altman’s private dealings, as well as provided a window into the contentious history of OpenAI. Continue reading...
+Google's new "24/7" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them […]
 
 ---
 
-## 5. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 9. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +99,7 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 
 ---
 
-## 6. Patch Tuesday, May 2026 Edition
+## 10. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -63,49 +107,5 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 **Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
 
 Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
-
----
-
-## 7. Insändare. Låt inte amerikanska Palantir nästla sig in i vårt samhälle
-**Source:** DN.se - Dagens Nyheter
-**Category:** Privacy
-**Language:** SV
-**Score:** 15
-**Link:** https://www.dn.se/insandare/lat-inte-amerikanska-palantir-nastla-sig-in-i-vart-samhalle/
-
-INSÄNDARE. Den svenska polisens användning av amerikanskägd artificiell intelligens för övervakning är ett farligt steg. Vi måste värna om vår demokrati och inte låta oss manipuleras av företaget Palantir, skriver Iwan Langermo.
-
----
-
-## 8. Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** FI
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/may/28/image-of-thai-police-in-sparkly-dresses-with-handcuffed-suspect-turns-out-to-be-ai-fake
-
-Picture was created by administrator in charge of station’s Facebook account who wanted to create ‘friendlier image’ It was an arresting image and an irresistible story. A group of tough Thai police officers – five men and one woman – all wearing elaborate festival-style dresses, surrounding a drug dealer they had caught while undercover. The image, released by local police, was so compelling that it found its way on to the front page of the UK’s Daily Star, as well as in picture stories in the Telegraph, the Sun and the New York Post. Continue reading...
-
----
-
-## 9. ‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes
-
-Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’ Under a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit. “There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects though his new studio, Primordial Soup, at a time when artificial intelligence has become one of the film industry’s most divisive fault lines. Continue reading...
-
----
-
-## 10. macOS Kernel Memory Corruption Exploit
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 13
-**Link:** https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html
-
-A group used Anthropic’s Mythos AI model to help find a kernel memory corruption vulnerability and exploit on Apple’s M5. News article .
 
 ---
