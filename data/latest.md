@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-02
+# AI Fail Watch – 2026-06-03
 
 ## 1. Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk
 **Source:** Technology | The Guardian
@@ -7,7 +7,7 @@
 **Score:** 47
 **Link:** https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman
 
-State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’ Florida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chatbot. Florida is the first state in the US to sue the artificial intelligence company. The 83-page suit was brought by Florida’s attorney general, James Uthmeier, and alleges that OpenAI “aggressively marketed” ChatGPT to the public while ignoring safety warnings and possible dangers of the product. Continue reading...
+State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’ Florida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chatbot. Florida is the first US state to sue the artificial intelligence company. The 83-page suit was brought by Florida’s attorney general, James Uthmeier, and alleges that OpenAI “aggressively marketed” ChatGPT to the public while ignoring safety warnings and possible dangers of the product. Continue reading...
 
 ---
 
@@ -33,14 +33,14 @@ In today’s newsletter: Its software is used from health services to militaries
 
 ---
 
-## 4. Americans echo Pope Leo’s concerns about AI: ‘It threatens workers, privacy and human life’
+## 4. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/world/2026/may/30/pope-leo-ai-reaction
+**Score:** 30
+**Link:** https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival
 
-Guardian readers in the US spoke of fears about unregulated AI in response to the pope’s encyclical warning about the risks of the technology In his first major papal text since assuming leadership of the Catholic church last year, Pope Leo issued a stark warning about the rise of artificial intelligence this week, denouncing the “culture of power” driving the AI age. Calling for the “most rigorous” ethical constraints on AI – which he described as one of the greatest threats facing humanity today – the first US-born pope also warned of “new forms of slavery” emerging through the digital economy. Continue reading...
+It should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival. It could transform indie film-making, claims the director Next week a breakthrough 75-minute drama about the brutal crackdown in Iran on anti-government protesters in January will premiere at the Tribeca film festival in New York. It is called Dreams of Violets and is based on journalism, video footage and eyewitness accounts. “I would say 80% of it is a recreation of events that actually happened,” says its Iranian-British director Ash Koosha. But Dreams of Violets is a work of fiction, not a documentary: a drama following a group of strangers caught up in the protests, who meet by chance in an alleyway. How on earth has Koosha managed to pull together a drama about the killings in less than six months? The answer, it turns out, is by using artificial intelligence. Every image and character in Dreams of Violets is AI-generated. Koosha says he created the characters by describing their physical appearances, using people he has known in the past as references. It would be too dangerous to base characters on living people in Iran, he says. “Because of the security issue, it would not be safe for the characters to even remotely resemble someone.” Continue reading...
 
 ---
 
@@ -55,40 +55,7 @@ New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Acti
 
 ---
 
-## 6. Floridas statsåklagare stämmer OpenAI
-**Source:** Ekot
-**Category:** Legal
-**Language:** EN
-**Score:** 23
-**Link:** https://www.sverigesradio.se/artikel/9229026
-
-Floridas statsåklagare stämmer företaget OpenAI, som ligger bakom AI-tjänsten ChatGPT - och dess vd Sam Altman, skriver BBC. Statsåklagaren menar att AI-tjänsten utsätter barn för fara och gör de beroende, samtidigt som företaget jagar vinst. Till BBC uppger OpenAI att man har branschledande skydd för barn inbyggt i sina tjänster. Den här stämningen är en i raden med liknande anklagelser som riktats mot bolaget senaste tiden.
-
----
-
-## 7. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai
-
-Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination Why did Anthropic’s founder sit beside the pope during a warning about AI? In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers , accelerating war and exploiting the environment . At a ceremony honoring the holy teaching the day of its release at the Vatican, the pope was flanked by an unusual guest speaker: Anthropic co-founder Chris Olah, one of the people behind the AI boom so worrying Leo. Continue reading...
-
----
-
-## 8. Gemini’s new AI agent is about as good as Google’s demo
-**Source:** The Verge
-**Category:** Privacy
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on
-
-Google's new "24/7" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them […]
-
----
-
-## 9. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 6. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -99,7 +66,7 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 
 ---
 
-## 10. Patch Tuesday, May 2026 Edition
+## 7. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -107,5 +74,38 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 **Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
 
 Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
+
+---
+
+## 8. AI Used to Decrypt Medieval Ciphers
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 17
+**Link:** https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html
+
+Researchers are using machine learning algorithms to decrypt historical pencil-and-paper ciphers.
+
+---
+
+## 9. Insändare. Låt inte amerikanska Palantir nästla sig in i vårt samhälle
+**Source:** DN.se - Dagens Nyheter
+**Category:** Privacy
+**Language:** SV
+**Score:** 15
+**Link:** https://www.dn.se/insandare/lat-inte-amerikanska-palantir-nastla-sig-in-i-vart-samhalle/
+
+INSÄNDARE. Den svenska polisens användning av amerikanskägd artificiell intelligens för övervakning är ett farligt steg. Vi måste värna om vår demokrati och inte låta oss manipuleras av företaget Palantir, skriver Iwan Langermo.
+
+---
+
+## 10. Explosionsrisk när polisen evakuerade villaområde i Boden – faran över på kvällen
+**Source:** SVT Nyheter
+**Category:** General
+**Language:** SV
+**Score:** 13
+**Link:** https://www.svt.se/nyheter/lokalt/norrbotten/explosionsrisk-polisen-evakuerar-villaomrade-i-boden
+
+En sopbil brann på Smaragdvägen utanför centrala Boden under måndagen och det fanns en explosionsrisk. Men efter flera timmars arbete bedömde räddningstjänsten vid 17.30-tiden att det inte längre fanns någon fara för allmänheten.
 
 ---
