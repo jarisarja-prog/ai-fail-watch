@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-06-03
+# AI Fail Watch – 2026-06-04
 
-## 1. Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 47
-**Link:** https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman
-
-State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’ Florida filed a lawsuit against OpenAI, the maker of ChatGPT, and its CEO, Sam Altman, on Monday alleging that the company concealed serious safety risks with its chatbot. Florida is the first US state to sue the artificial intelligence company. The 83-page suit was brought by Florida’s attorney general, James Uthmeier, and alleges that OpenAI “aggressively marketed” ChatGPT to the public while ignoring safety warnings and possible dangers of the product. Continue reading...
-
----
-
-## 2. Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account
+## 1. Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -22,18 +11,7 @@ Breach of high-profile accounts raises concerns about reliance on AI for securit
 
 ---
 
-## 3. Tuesday briefing: Palantir’s rise – and why so many oppose its role in the British state
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 31
-**Link:** https://www.theguardian.com/world/2026/jun/02/tuesday-briefing-palantirs-rise-and-why-so-many-oppose-its-role-in-the-british-state
-
-In today’s newsletter: Its software is used from health services to militaries. But controversies and criticism of the $375bn company are leading some to ask if Palantir is too powerful Good morning. The Peter Mandelson story keeps unfolding. Peter Walker explains here what is in the latest release of documents, and Henry Dyer takes a look at the key papers missing from the latest disclosures. Today we are covering another major story: Palantir. Few companies attract controversy more than Palantir. Since the pandemic, the US data analytics company has grown voraciously, using its AI-driven software to make sense of intractable datasets for customers around the world. For the NHS, it analyses patient records; for the US military, it’s focused on targets in Iran. Palantir’s products are widely used, with the business now worth $375bn. UK politics | Peter Mandelson was receiving sensitive security briefings about the Foreign Office’s work, and was in discussions with the head of MI6, before he had completed the developed vetting process, documents reveal . Ukraine | Russian air raids on major Ukrainian centres including Kyiv, Dnipro and Kharkiv killed at least five people and wounded dozens by early morning on Tuesday, authorities said. Environment | More than a million jobs, higher wages, nearly half a trillion pounds in investment in the pipeline – the UK’s green economy is powering ahead , according to research by the country’s leading business organisation. US news | Donald Trump is reconsidering whether to keep pressing for a $1.8bn fund to compensate his allies, a person familiar with his thinking said, as the justice department paused the program to comply with a court order. UK news | Sir Alan Bates has said that the schemes set up to compensate post office operators over the Horizon IT scandal have been an “utter disaster” and that the government should not be involved in running them. Continue reading...
-
----
-
-## 4. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
+## 2. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +22,18 @@ It should have taken years, but Ash Koosha made a drama about Iran’s anti-gove
 
 ---
 
-## 5. Vulnerability Disclosure in the Age of AI
+## 3. AI-verktyg i Kina ska upptäcka kritiker av kommunistpartiet i förväg
+**Source:** Ekot
+**Category:** Security
+**Language:** SV
+**Score:** 29
+**Link:** https://www.sverigesradio.se/artikel/9230881
+
+Enligt en dokumentläcka till ett amerikanskt universitet bygger Kina ett AI-verktyg som ska kunna förutsäga vilka personer som kan bli kritiker av kommunistpartiet redan innan personen i fråga gjort något. Det här är vad som sker när massövervakning möter AI, säger en forskarna till tidningen New York Times. Dokumenten har läckt från det kinesiska företaget Geedge, som tidigare byggt en kommersiell version av Kinas hårda censursystem för internet, som de säljer utomlands.
+
+---
+
+## 4. Vulnerability Disclosure in the Age of AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,29 @@ New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Acti
 
 ---
 
-## 6. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 5. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai
+
+Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination Why did Anthropic’s founder sit beside the pope during a warning about AI? In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers , accelerating war and exploiting the environment . At a ceremony honoring the holy teaching the day of its release at the Vatican, the pope was flanked by an unusual guest speaker: Anthropic co-founder Chris Olah, one of the people behind the AI boom so worrying Leo. Continue reading...
+
+---
+
+## 6. Labour MP sues Elon Musk’s xAI company over fake sexualised images
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images
+
+Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures A Labour MP has taken legal action against Elon Musk’s xAI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of such images that flooded the social media platform X earlier this year. Jess Asato, the MP for Lowestoft, said in January that seeing herself portrayed by the AI tool as wearing a bikini without her consent was “violating”. Continue reading...
+
+---
+
+## 7. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,7 +77,7 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 
 ---
 
-## 7. Patch Tuesday, May 2026 Edition
+## 8. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +88,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 8. AI Used to Decrypt Medieval Ciphers
+## 9. AI Used to Decrypt Medieval Ciphers
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,24 +99,13 @@ Researchers are using machine learning algorithms to decrypt historical pencil-a
 
 ---
 
-## 9. Insändare. Låt inte amerikanska Palantir nästla sig in i vårt samhälle
-**Source:** DN.se - Dagens Nyheter
-**Category:** Privacy
-**Language:** SV
-**Score:** 15
-**Link:** https://www.dn.se/insandare/lat-inte-amerikanska-palantir-nastla-sig-in-i-vart-samhalle/
+## 10. ‘Happiness is not just about GDP’: ambitious plan or utopia?
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia
 
-INSÄNDARE. Den svenska polisens användning av amerikanskägd artificiell intelligens för övervakning är ett farligt steg. Vi måste värna om vår demokrati och inte låta oss manipuleras av företaget Palantir, skriver Iwan Langermo.
-
----
-
-## 10. Explosionsrisk när polisen evakuerade villaområde i Boden – faran över på kvällen
-**Source:** SVT Nyheter
-**Category:** General
-**Language:** SV
-**Score:** 13
-**Link:** https://www.svt.se/nyheter/lokalt/norrbotten/explosionsrisk-polisen-evakuerar-villaomrade-i-boden
-
-En sopbil brann på Smaragdvägen utanför centrala Boden under måndagen och det fanns en explosionsrisk. Men efter flera timmars arbete bedömde räddningstjänsten vid 17.30-tiden att det inte längre fanns någon fara för allmänheten.
+Some will question its credibility – but the alternative future to the one imagined in the World Justice Report is far more bleak ‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival In our increasingly dystopian world, who wouldn’t want to at least be open to a utopian antidote? The World Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It’s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more – while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. Continue reading...
 
 ---
