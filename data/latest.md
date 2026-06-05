@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-06-04
+# AI Fail Watch – 2026-06-05
 
-## 1. Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 43
-**Link:** https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram
-
-Breach of high-profile accounts raises concerns about reliance on AI for security measures such as passwords Hackers used Meta’s AI-powered support chatbot to infiltrate high-profile Instagram accounts, the company has confirmed, saying it resolved the problem after researchers exposed it. The targets ranged from Barack Obama’s White House account to the beauty retailer Sephora and the US Space Force chief master sergeant, John Bentivegna, according to reporting from 404 Media . Everyday users complained of similar hijackings on Reddit and X over the weekend. Continue reading...
-
----
-
-## 2. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
+## 1. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,18 +11,18 @@ It should have taken years, but Ash Koosha made a drama about Iran’s anti-gove
 
 ---
 
-## 3. AI-verktyg i Kina ska upptäcka kritiker av kommunistpartiet i förväg
-**Source:** Ekot
-**Category:** Security
-**Language:** SV
-**Score:** 29
-**Link:** https://www.sverigesradio.se/artikel/9230881
+## 2. New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit
 
-Enligt en dokumentläcka till ett amerikanskt universitet bygger Kina ett AI-verktyg som ska kunna förutsäga vilka personer som kan bli kritiker av kommunistpartiet redan innan personen i fråga gjort något. Det här är vad som sker när massövervakning möter AI, säger en forskarna till tidningen New York Times. Dokumenten har läckt från det kinesiska företaget Geedge, som tidigare byggt en kommersiell version av Kinas hårda censursystem för internet, som de säljer utomlands.
+Jess Asato’s lawyer says others want to take action over demeaning sexualised material created by Grok AI tool New claimants have come forward to take legal action against Elon Musk’s company xAI after the Labour MP Jess Asato launched a test case against the firm over demeaning sexualised material created by its Grok AI tool. A handful of complainants contacted Asato’s lawyer on Thursday in response to coverage of the MP’s decision to sue Musk’s company for damages over its creation and circulation of fake images of her in a bikini and an AI-created video that she said showed her “being chloroformed and prepared for a sexual assault”. Continue reading...
 
 ---
 
-## 4. Vulnerability Disclosure in the Age of AI
+## 3. Vulnerability Disclosure in the Age of AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,29 @@ New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Acti
 
 ---
 
-## 5. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 4. Hacking Meta’s AI Chatbot
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 23
+**Link:** https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html
+
+Hackers are convincing Meta’s AI support chatbot to let them take over other peoples’ accounts: A video posted on X showed the step-by-step process to hack someone’s Instagram account. The hacker allegedly used a VPN to spoof the targets’ presumed location to avoid triggering Instagram’s automated account protections. Then, the hacker opened a chat with Meta AI Support Assistant and asked the bot to add a new email address to the target’s account. The chatbot can be seen sending a verification code to the email address provided by the hacker; the hacker then shares the verification code with the chatbot, which prompts the chatbot to show a button to “Reset Password.” The hacker enters a new password and takes over the victim’s account...
+
+---
+
+## 5. Labour MP sues Elon Musk’s xAI company over fake sexualised images
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images
+
+Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures A Labour MP has taken legal action against Elon Musk’s xAI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of such images that flooded the social media platform X earlier this year. Jess Asato, the MP for Lowestoft, said in January that seeing herself portrayed by the AI tool as wearing a bikini without her consent was “violating”. Continue reading...
+
+---
+
+## 6. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -52,17 +63,6 @@ New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Acti
 **Link:** https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai
 
 Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination Why did Anthropic’s founder sit beside the pope during a warning about AI? In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers , accelerating war and exploiting the environment . At a ceremony honoring the holy teaching the day of its release at the Vatican, the pope was flanked by an unusual guest speaker: Anthropic co-founder Chris Olah, one of the people behind the AI boom so worrying Leo. Continue reading...
-
----
-
-## 6. Labour MP sues Elon Musk’s xAI company over fake sexualised images
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images
-
-Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures A Labour MP has taken legal action against Elon Musk’s xAI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of such images that flooded the social media platform X earlier this year. Jess Asato, the MP for Lowestoft, said in January that seeing herself portrayed by the AI tool as wearing a bikini without her consent was “violating”. Continue reading...
 
 ---
 
@@ -106,6 +106,6 @@ Researchers are using machine learning algorithms to decrypt historical pencil-a
 **Score:** 14
 **Link:** https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia
 
-Some will question its credibility – but the alternative future to the one imagined in the World Justice Report is far more bleak ‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival In our increasingly dystopian world, who wouldn’t want to at least be open to a utopian antidote? The World Justice Report, published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It’s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more – while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. Continue reading...
+Some will question its credibility – but the alternative future to the one imagined in the Global Justice Report is far more bleak ‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival In our increasingly dystopian world, who wouldn’t want to at least be open to a utopian antidote? The Global Justice Report , published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It’s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more – while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. Continue reading...
 
 ---
