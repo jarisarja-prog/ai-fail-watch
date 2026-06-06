@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-06-05
+# AI Fail Watch – 2026-06-06
 
-## 1. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
+## 1. Anthropic says the world should have option to ‘pause’ on AI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks
+
+US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products. In a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to make better and more powerful versions of itself. Recursive self-improvement is a bugbear of AI safety researchers, viewed as the key step for AI to become superintelligent and therefore unleash widespread consequences on humanity. Continue reading...
+
+---
+
+## 2. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -11,7 +22,7 @@ It should have taken years, but Ash Koosha made a drama about Iran’s anti-gove
 
 ---
 
-## 2. New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case
+## 3. New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,7 +33,7 @@ Jess Asato’s lawyer says others want to take action over demeaning sexualised 
 
 ---
 
-## 3. Vulnerability Disclosure in the Age of AI
+## 4. Vulnerability Disclosure in the Age of AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Acti
 
 ---
 
-## 4. Hacking Meta’s AI Chatbot
+## 5. Hacking Meta’s AI Chatbot
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ Hackers are convincing Meta’s AI support chatbot to let them take over other p
 
 ---
 
-## 5. Labour MP sues Elon Musk’s xAI company over fake sexualised images
+## 6. Labour MP sues Elon Musk’s xAI company over fake sexualised images
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +66,7 @@ Jess Asato was portrayed wearing a bikini in Grok-generated images after she cri
 
 ---
 
-## 6. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 7. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +77,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 7. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 8. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,7 +88,7 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 
 ---
 
-## 8. Patch Tuesday, May 2026 Edition
+## 9. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -88,24 +99,13 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 9. AI Used to Decrypt Medieval Ciphers
-**Source:** Schneier on Security
-**Category:** Security
+## 10. It’s no surprise that an AI-faked presidential speech condemning foreign exploitation went viral – the world is suffering from a leadership vacuum
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
 **Language:** EN
 **Score:** 17
-**Link:** https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html
+**Link:** https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean
 
-Researchers are using machine learning algorithms to decrypt historical pencil-and-paper ciphers.
-
----
-
-## 10. ‘Happiness is not just about GDP’: ambitious plan or utopia?
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/environment/2026/jun/04/happiness-is-not-just-about-gdp-ambitious-plan-or-utopia
-
-Some will question its credibility – but the alternative future to the one imagined in the Global Justice Report is far more bleak ‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival In our increasingly dystopian world, who wouldn’t want to at least be open to a utopian antidote? The Global Justice Report , published on Thursday, outlines how to build a prosperous, equitable world within safe planetary boundaries. It’s a push from the modern eco-socialist left in a global battle for ideas that will shape the future. Based on past social achievements and future energy transformation, it indicates that the overwhelming majority of people on the planet could, by the end of the century, work less and earn more – while keeping temperatures down and avoiding much of the current destruction of nature. It is an ambitious, comprehensive and upbeat plan, and a stronger argument around which to build a political campaign than abstract goals of net zero or decarbonisation. Continue reading...
+Attributed to the president of Namibia, the speech is still being shared as citizens across Africa and the Caribbean cry out for moral leaders willing to speak uncomfortable truths For a moment, the speech attributed to Namibia’s president travelled across the world like a gust of hope. It was fierce. Defiant. Unapologetically sovereign. The speaker denounced corruption, condemned foreign exploitation and declared that Africa’s resources belonged not to politicians or multinational corporations but to its people. Netumbo Nandi-Ndaitwah spoke of leaders who signed away national wealth behind closed doors and warned that those who betrayed the public trust would face accountability. It sounded like the language of decolonisation reborn. Across social media, many listened with admiration. Finally, here was a leader speaking with moral clarity. Here was the rhetoric that generations of postcolonial citizens had been waiting to hear. But there was one problem. It was fake. Nandi-Ndaitwah rejected it as an AI-generated fabrication. Continue reading...
 
 ---
