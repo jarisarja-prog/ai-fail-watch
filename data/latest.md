@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-06-06
+# AI Fail Watch – 2026-06-07
 
-## 1. Anthropic says the world should have option to ‘pause’ on AI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 31
-**Link:** https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks
-
-US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products. In a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to make better and more powerful versions of itself. Recursive self-improvement is a bugbear of AI safety researchers, viewed as the key step for AI to become superintelligent and therefore unleash widespread consequences on humanity. Continue reading...
-
----
-
-## 2. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
+## 1. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -19,6 +8,17 @@ US firm says it will convene policymakers for discussion of dangers, in post det
 **Link:** https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival
 
 It should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival. It could transform indie film-making, claims the director Next week a breakthrough 75-minute drama about the brutal crackdown in Iran on anti-government protesters in January will premiere at the Tribeca film festival in New York. It is called Dreams of Violets and is based on journalism, video footage and eyewitness accounts. “I would say 80% of it is a recreation of events that actually happened,” says its Iranian-British director Ash Koosha. But Dreams of Violets is a work of fiction, not a documentary: a drama following a group of strangers caught up in the protests, who meet by chance in an alleyway. How on earth has Koosha managed to pull together a drama about the killings in less than six months? The answer, it turns out, is by using artificial intelligence. Every image and character in Dreams of Violets is AI-generated. Koosha says he created the characters by describing their physical appearances, using people he has known in the past as references. It would be too dangerous to base characters on living people in Iran, he says. “Because of the security issue, it would not be safe for the characters to even remotely resemble someone.” Continue reading...
+
+---
+
+## 2. Anthropic says the world should have option to ‘pause’ on AI
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks
+
+US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products. In a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to make better and more powerful versions of itself. Recursive self-improvement is a bugbear of AI safety researchers, viewed as the key step for AI to become superintelligent and therefore unleash widespread consequences on humanity. Continue reading...
 
 ---
 
@@ -55,14 +55,14 @@ Hackers are convincing Meta’s AI support chatbot to let them take over other p
 
 ---
 
-## 6. Labour MP sues Elon Musk’s xAI company over fake sexualised images
+## 6. ‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
+**Category:** Hallucination
 **Language:** EN
 **Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images
+**Link:** https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites
 
-Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures A Labour MP has taken legal action against Elon Musk’s xAI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of such images that flooded the social media platform X earlier this year. Jess Asato, the MP for Lowestoft, said in January that seeing herself portrayed by the AI tool as wearing a bikini without her consent was “violating”. Continue reading...
+Buyers are ripped off after assuming online stores were genuine because they are recommended by an AI tool You want to buy a new bag and so you ask ChatGPT for help. You have always liked Russell & Bromley so you ask ChatGPT what is popular there at the moment. The artificial intelligence (AI) assistant gives you cross body, shoulder, casual and formal options with the prices listed beside them. You click through from the sources to what looks like the official Russell & Bromley site and buy your new bag, which is conveniently on sale. Continue reading...
 
 ---
 
