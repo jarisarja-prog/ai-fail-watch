@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-06-07
+# AI Fail Watch – 2026-06-08
 
-## 1. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
+## 1. Anthropic says the world should have option to ‘pause’ on AI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks
+
+US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products. In a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to make better and more powerful versions of itself. Recursive self-improvement is a bugbear of AI safety researchers, viewed as the key step for AI to become superintelligent and therefore unleash widespread consequences on humanity. Continue reading...
+
+---
+
+## 2. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -8,17 +19,6 @@
 **Link:** https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival
 
 It should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival. It could transform indie film-making, claims the director Next week a breakthrough 75-minute drama about the brutal crackdown in Iran on anti-government protesters in January will premiere at the Tribeca film festival in New York. It is called Dreams of Violets and is based on journalism, video footage and eyewitness accounts. “I would say 80% of it is a recreation of events that actually happened,” says its Iranian-British director Ash Koosha. But Dreams of Violets is a work of fiction, not a documentary: a drama following a group of strangers caught up in the protests, who meet by chance in an alleyway. How on earth has Koosha managed to pull together a drama about the killings in less than six months? The answer, it turns out, is by using artificial intelligence. Every image and character in Dreams of Violets is AI-generated. Koosha says he created the characters by describing their physical appearances, using people he has known in the past as references. It would be too dangerous to base characters on living people in Iran, he says. “Because of the security issue, it would not be safe for the characters to even remotely resemble someone.” Continue reading...
-
----
-
-## 2. Anthropic says the world should have option to ‘pause’ on AI
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks
-
-US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products. In a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to make better and more powerful versions of itself. Recursive self-improvement is a bugbear of AI safety researchers, viewed as the key step for AI to become superintelligent and therefore unleash widespread consequences on humanity. Continue reading...
 
 ---
 
@@ -55,8 +55,19 @@ Hackers are convincing Meta’s AI support chatbot to let them take over other p
 
 ---
 
-## 6. ‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites
-**Source:** AI (artificial intelligence) | The Guardian
+## 6. Aviva detects record £230m in bogus insurance claims as use of AI rises
+**Source:** Technology | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket
+
+Insurer found 18,400 suspect claims last year with some scammers using AI to fake accident scenes and documents Bogus insurance claims worth more than £230m were detected by the insurance firm Aviva last year as scammers tried new tricks including using artificial intelligence to fake car accident scenes, documents and to exaggerate damage. The insurer identified more than 18,400 suspect claims across its brands in 2025, with a combined value of £233m. The fraud claims level was a record for the insurer, although this was the first year that it included the Direct Line brands it acquired last summer . Continue reading...
+
+---
+
+## 7. ‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites
+**Source:** Technology | The Guardian
 **Category:** Hallucination
 **Language:** EN
 **Score:** 22
@@ -66,7 +77,7 @@ Buyers are ripped off after assuming online stores were genuine because they are
 
 ---
 
-## 7. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 8. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +88,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 8. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 9. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -88,7 +99,7 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 
 ---
 
-## 9. Patch Tuesday, May 2026 Edition
+## 10. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -96,16 +107,5 @@ As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens it
 **Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
 
 Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
-
----
-
-## 10. It’s no surprise that an AI-faked presidential speech condemning foreign exploitation went viral – the world is suffering from a leadership vacuum
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean
-
-Attributed to the president of Namibia, the speech is still being shared as citizens across Africa and the Caribbean cry out for moral leaders willing to speak uncomfortable truths For a moment, the speech attributed to Namibia’s president travelled across the world like a gust of hope. It was fierce. Defiant. Unapologetically sovereign. The speaker denounced corruption, condemned foreign exploitation and declared that Africa’s resources belonged not to politicians or multinational corporations but to its people. Netumbo Nandi-Ndaitwah spoke of leaders who signed away national wealth behind closed doors and warned that those who betrayed the public trust would face accountability. It sounded like the language of decolonisation reborn. Across social media, many listened with admiration. Finally, here was a leader speaking with moral clarity. Here was the rhetoric that generations of postcolonial citizens had been waiting to hear. But there was one problem. It was fake. Nandi-Ndaitwah rejected it as an AI-generated fabrication. Continue reading...
 
 ---
