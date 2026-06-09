@@ -1,39 +1,17 @@
-# AI Fail Watch – 2026-06-08
+# AI Fail Watch – 2026-06-09
 
-## 1. Anthropic says the world should have option to ‘pause’ on AI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 31
-**Link:** https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks
-
-US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products. In a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to make better and more powerful versions of itself. Recursive self-improvement is a bugbear of AI safety researchers, viewed as the key step for AI to become superintelligent and therefore unleash widespread consequences on humanity. Continue reading...
-
----
-
-## 2. ‘The CGI would have cost millions. I spent $2,000.’ Is Dreams of Violets AI slop – or the future of film-making?
-**Source:** Technology | The Guardian
+## 1. Critical Zcash Vulnerability Found and Fixed
+**Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
-**Score:** 30
-**Link:** https://www.theguardian.com/film/2026/jun/03/dreams-of-violets-ash-koosha-iran-tribeca-film-festival
+**Score:** 37
+**Link:** https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html
 
-It should have taken years, but Ash Koosha made a drama about Iran’s anti-government protests in weeks – and now it’s the first AI-made movie to screen at a major film festival. It could transform indie film-making, claims the director Next week a breakthrough 75-minute drama about the brutal crackdown in Iran on anti-government protesters in January will premiere at the Tribeca film festival in New York. It is called Dreams of Violets and is based on journalism, video footage and eyewitness accounts. “I would say 80% of it is a recreation of events that actually happened,” says its Iranian-British director Ash Koosha. But Dreams of Violets is a work of fiction, not a documentary: a drama following a group of strangers caught up in the protests, who meet by chance in an alleyway. How on earth has Koosha managed to pull together a drama about the killings in less than six months? The answer, it turns out, is by using artificial intelligence. Every image and character in Dreams of Violets is AI-generated. Koosha says he created the characters by describing their physical appearances, using people he has known in the past as references. It would be too dangerous to base characters on living people in Iran, he says. “Because of the security issue, it would not be safe for the characters to even remotely resemble someone.” Continue reading...
-
----
-
-## 3. New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit
-
-Jess Asato’s lawyer says others want to take action over demeaning sexualised material created by Grok AI tool New claimants have come forward to take legal action against Elon Musk’s company xAI after the Labour MP Jess Asato launched a test case against the firm over demeaning sexualised material created by its Grok AI tool. A handful of complainants contacted Asato’s lawyer on Thursday in response to coverage of the MP’s decision to sue Musk’s company for damages over its creation and circulation of fake images of her in a bikini and an AI-created video that she said showed her “being chloroformed and prepared for a sexual assault”. Continue reading...
+If you’re a user—owner?—of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found one fast enough to be embarrassing. The Orchard pool is the newest and most advanced shielded transaction system in the cryptocurrency Zcash. Introduced in 2022, it allows users to send and receive ZEC while keeping transaction details private. It uses zero-knowledge proofs to validate transactions without revealing amounts or participants. The bug: a specific check that was supposed to validate transaction inputs wasn’t actually enforcing the rules it appeared to enforce. An attacker could have exploited the flaw to feed false inputs into that check and generate ZEC from nothing, with the zero-knowledge proof system blessing the fraudulent transaction as valid...
 
 ---
 
-## 4. Vulnerability Disclosure in the Age of AI
+## 2. Vulnerability Disclosure in the Age of AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +22,7 @@ New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Acti
 
 ---
 
-## 5. Hacking Meta’s AI Chatbot
+## 3. Hacking Meta’s AI Chatbot
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -52,6 +30,28 @@ New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Acti
 **Link:** https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html
 
 Hackers are convincing Meta’s AI support chatbot to let them take over other peoples’ accounts: A video posted on X showed the step-by-step process to hack someone’s Instagram account. The hacker allegedly used a VPN to spoof the targets’ presumed location to avoid triggering Instagram’s automated account protections. Then, the hacker opened a chat with Meta AI Support Assistant and asked the bot to add a new email address to the target’s account. The chatbot can be seen sending a verification code to the email address provided by the hacker; the hacker then shares the verification code with the chatbot, which prompts the chatbot to show a button to “Reset Password.” The hacker enters a new password and takes over the victim’s account...
+
+---
+
+## 4. Doctors and NHS could be sued for mistakes made by AI tools, report warns
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report
+
+Medical Protection Society calls for law to be overhauled to help medics avoid liability for errors made by technology Doctors and the NHS could be sued for medical negligence over mistakes made by artificial intelligence tools used in diagnosing patients and suggesting their treatment, ministers are being warned. Under the law as it stands, medics and the health service can be held liable for patients being harmed or dying even if it was AI that made the errors that resulted in their suffering. Continue reading...
+
+---
+
+## 5. Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art
+
+In response to AI’s hyperrealism, artists and creatives are gravitating toward the homespun and imperfect Earlier this year, a group of film-makers, commercial directors and AI industry influencers gathered in New York City for the Runway AI Summit – a daylong hype-fest, trumping up the potential of this new technology. During one talk, Rob Wrubel, co-founder and managing partner at San Francisco ad firm Silverside, talked up his work on the Coca-Cola company’s AI-generated 2025 Holiday Caravan ad . “What’s incredible about AI,” Wrubel said, “is that you can go from script to production is just two weeks!” What Wrubel failed to mention was that the ad – with its computerized polar bears and fake-looking trundling delivery trucks – was widely despised by pretty much anyone who saw it. Indeed, the public distaste for the campaign became its own news story, spawning headlines like “People really don’t like Coke’s AI holiday commercial” and “Coca-Cola’s New AI Holiday Ad is a Sloppy Eyesore” . It may indeed have been quickly conceived – and it looked like it. Reached for comment about the backlash, Wrubel admits: “The conversation around the ad became almost as important as the ad itself because it surfaced questions the entire creative industry is wrestling with right now.” Continue reading...
 
 ---
 
@@ -67,7 +67,7 @@ Insurer found 18,400 suspect claims last year with some scammers using AI to fak
 ---
 
 ## 7. ‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
 **Score:** 22
@@ -77,7 +77,18 @@ Buyers are ripped off after assuming online stores were genuine because they are
 
 ---
 
-## 8. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 8. OpenAI confidentially files for initial public offering on US stock market
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market
+
+ChatGPT maker expected to be valued at more than $850bn, one of most highly valued listings in market history OpenAI has filed confidentially to go public on the US stock market, according to a company blogpost published on Monday. The artificial intelligence giant’s debut on Wall Street is expected to be one of the most highly valued listings in market history with a valuation at more than $850bn. “We recently submitted a confidential S-1. We expect it to leak so we’re just announcing it,” the company’s post reads. “We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company. But it’s a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best.” Continue reading...
+
+---
+
+## 9. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -88,7 +99,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 9. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
+## 10. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -96,16 +107,5 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 **Link:** https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo
 
 As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens its grip on AI’s future Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Let’s recap a whirlwind five days that may determine the future of AI. SpaceX reveals plan for $1.75tn stock market debut that could make Musk a trillionaire Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors The main takeaways from Elon Musk’s plans for $1.75tn SpaceX flotation Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ Nvidia’s revenue blows past Wall Street expectations as AI boom accelerates Incoming Ofcom chair vows to take on ‘tech bros’ OpenAI makes breakthrough on 80-year-old maths problem Meta settles major social media addiction lawsuit with school district Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’ Continue reading...
-
----
-
-## 10. Patch Tuesday, May 2026 Edition
-**Source:** Krebs on Security
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
-
-Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
 
 ---
