@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-09
+# AI Fail Watch – 2026-06-10
 
 ## 1. Critical Zcash Vulnerability Found and Fixed
 **Source:** Schneier on Security
@@ -22,7 +22,18 @@ New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Acti
 
 ---
 
-## 3. Hacking Meta’s AI Chatbot
+## 3. Microsoft AI head calls out Anthropic for acting like Claude is conscious
+**Source:** The Verge
+**Category:** General
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious
+
+Microsoft AI CEO Mustafa Suleyman says it's "really, really dangerous" for Anthropic to speculate about Claude's consciousness inside its "constitution," or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I […]
+
+---
+
+## 4. Hacking Meta’s AI Chatbot
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,18 @@ Hackers are convincing Meta’s AI support chatbot to let them take over other p
 
 ---
 
-## 4. Doctors and NHS could be sued for mistakes made by AI tools, report warns
+## 5. Anthropic releases ‘safe’ version of Claude Mythos AI model to public
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model
+
+AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concerns Anthropic , the maker of the Claude artificial intelligence ( AI ) models, made a new version of its technology available to the general public on Tuesday while restricting its use in sensitive areas. Dubbed Fable 5, the model is the first to be made widely available from the company’s new Mythos class – its most advanced lineup of AI technology, unveiled in April but restricted to a small set of partner institutions for months over cybersecurity concerns. Continue reading...
+
+---
+
+## 6. Doctors and NHS could be sued for mistakes made by AI tools, report warns
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +66,7 @@ Medical Protection Society calls for law to be overhauled to help medics avoid l
 
 ---
 
-## 5. Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’
+## 7. Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -52,28 +74,6 @@ Medical Protection Society calls for law to be overhauled to help medics avoid l
 **Link:** https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art
 
 In response to AI’s hyperrealism, artists and creatives are gravitating toward the homespun and imperfect Earlier this year, a group of film-makers, commercial directors and AI industry influencers gathered in New York City for the Runway AI Summit – a daylong hype-fest, trumping up the potential of this new technology. During one talk, Rob Wrubel, co-founder and managing partner at San Francisco ad firm Silverside, talked up his work on the Coca-Cola company’s AI-generated 2025 Holiday Caravan ad . “What’s incredible about AI,” Wrubel said, “is that you can go from script to production is just two weeks!” What Wrubel failed to mention was that the ad – with its computerized polar bears and fake-looking trundling delivery trucks – was widely despised by pretty much anyone who saw it. Indeed, the public distaste for the campaign became its own news story, spawning headlines like “People really don’t like Coke’s AI holiday commercial” and “Coca-Cola’s New AI Holiday Ad is a Sloppy Eyesore” . It may indeed have been quickly conceived – and it looked like it. Reached for comment about the backlash, Wrubel admits: “The conversation around the ad became almost as important as the ad itself because it surfaced questions the entire creative industry is wrestling with right now.” Continue reading...
-
----
-
-## 6. Aviva detects record £230m in bogus insurance claims as use of AI rises
-**Source:** Technology | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket
-
-Insurer found 18,400 suspect claims last year with some scammers using AI to fake accident scenes and documents Bogus insurance claims worth more than £230m were detected by the insurance firm Aviva last year as scammers tried new tricks including using artificial intelligence to fake car accident scenes, documents and to exaggerate damage. The insurer identified more than 18,400 suspect claims across its brands in 2025, with a combined value of £233m. The fraud claims level was a record for the insurer, although this was the first year that it included the Direct Line brands it acquired last summer . Continue reading...
-
----
-
-## 7. ‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites
-
-Buyers are ripped off after assuming online stores were genuine because they are recommended by an AI tool You want to buy a new bag and so you ask ChatGPT for help. You have always liked Russell & Bromley so you ask ChatGPT what is popular there at the moment. The artificial intelligence (AI) assistant gives you cross body, shoulder, casual and formal options with the prices listed beside them. You click through from the sources to what looks like the official Russell & Bromley site and buy your new bag, which is conveniently on sale. Continue reading...
 
 ---
 
@@ -99,13 +99,13 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 10. Musk and Altman’s AI rivalry reaches boiling point as IPO race heats up
-**Source:** Technology | The Guardian
-**Category:** Legal
+## 10. Chinese activist in UK told by X that abusive deepfakes do not breach rules
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
 **Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/may/25/musk-altman-ai-rivalry-ipo
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes
 
-As SpaceX and OpenAI race toward IPOs, a tiny circle of tech leaders tightens its grip on AI’s future Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Let’s recap a whirlwind five days that may determine the future of AI. SpaceX reveals plan for $1.75tn stock market debut that could make Musk a trillionaire Mars colony and Grok warnings: five strange details in SpaceX’s pitch to investors The main takeaways from Elon Musk’s plans for $1.75tn SpaceX flotation Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’ Nvidia’s revenue blows past Wall Street expectations as AI boom accelerates Incoming Ofcom chair vows to take on ‘tech bros’ OpenAI makes breakthrough on 80-year-old maths problem Meta settles major social media addiction lawsuit with school district Tesla Cybertruck pulled from Texas lake after attempting ‘wade mode’ Continue reading...
+Apple Peiqing Ni targeted by account portraying her as promiscuous drug addict after posting about Tiananmen Square A high-profile Chinese activist in the UK who was inundated with deepfake posts on X portraying her as a sexually promiscuous drug addict was told that the abuse did not breach the rules of Elon Musk’s platform. Apple Peiqing Ni, the 27-year-old founder of the UK-based China Dissent Network, had been advised by UK police to complain to the US-headquartered platform after she was targeted by what she believes is a pro-regime bot. Continue reading...
 
 ---
