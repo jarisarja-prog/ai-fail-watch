@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-10
+# AI Fail Watch – 2026-06-11
 
 ## 1. Critical Zcash Vulnerability Found and Fixed
 **Source:** Schneier on Security
@@ -11,29 +11,18 @@ If you’re a user—owner?—of this cryptocurrency, this is important: On May 
 
 ---
 
-## 2. Vulnerability Disclosure in the Age of AI
-**Source:** Schneier on Security
-**Category:** Security
+## 2. Florida lawsuit alleges wrongful arrest after AI facial recognition error
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
 **Language:** EN
-**Score:** 26
-**Link:** https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html
+**Score:** 29
+**Link:** https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition
 
-New article: “ Responsible Disclosure in the Age of AI: A Call for Urgent Action ,” by Melissa Hathaway. Abstract: Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying exploitable software vulnerabilities at unprecedented speed and scale. This development exposes decades of accumulated technical debt created by a software industry that prioritized rapid deployment over secure-by-design engineering practices. Drawing on the evolution of software assurance, vulnerability disclosure frameworks, and U.S. cyber policy, this perspective argues that the current moment represents a strategic inflection point for governments, industry, and critical infrastructure operators. The author examines the growing tension between offensive and defensive equities in cyberspace, the emergence of AI-enabled vulnerability discovery capabilities in both the U.S. and China, and the increasing risks posed by unsupported legacy systems and AI-assisted code generation practices. Responsible disclosure can no longer remain a reactive or fragmented process, but must become a coordinated national and international resilience effort involving governments, software vendors, infrastructure operators, and emergency response organizations. The article concludes with an urgent call for accelerated remediation, large-scale patch management coordination, and sustained investment in automated vulnerability repair capabilities before adversaries exploit this rapidly narrowing window of opportunity...
+Robert Dillon was arrested at home in Florida despite living 300 miles away from where a crime was committed Sign up for the Breaking News US newsletter email A Florida man is suing several law enforcement agencies for his arrest and prosecution for allegedly luring a child after he was wrongly identified using faulty AI facial recognition software. According to the Jacksonville Beach police department, an algorithm returned a 93% probability that Robert Dillon was the man caught on security cameras at a McDonald’s in the town attempting to persuade an unaccompanied girl, aged younger than 12, to leave with him. Continue reading...
 
 ---
 
-## 3. Microsoft AI head calls out Anthropic for acting like Claude is conscious
-**Source:** The Verge
-**Category:** General
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious
-
-Microsoft AI CEO Mustafa Suleyman says it's "really, really dangerous" for Anthropic to speculate about Claude's consciousness inside its "constitution," or the instructions that tell the model how to behave. During an episode of Decoder, Suleyman argues that this kind of speculation may have set up the chatbot to act as though it's conscious: I […]
-
----
-
-## 4. Hacking Meta’s AI Chatbot
+## 3. Hacking Meta’s AI Chatbot
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ Hackers are convincing Meta’s AI support chatbot to let them take over other p
 
 ---
 
-## 5. Anthropic releases ‘safe’ version of Claude Mythos AI model to public
+## 4. Anthropic releases ‘safe’ version of Claude Mythos AI model to public
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ AI company restricted access to Fable 5, its most powerful Mythos model, for mon
 
 ---
 
-## 6. Doctors and NHS could be sued for mistakes made by AI tools, report warns
+## 5. Doctors and NHS could be sued for mistakes made by AI tools, report warns
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,19 +55,8 @@ Medical Protection Society calls for law to be overhauled to help medics avoid l
 
 ---
 
-## 7. Artists are making ‘anti-slop’ to rebel against AI: ‘It’s been rammed down our throats’
+## 6. OpenAI confidentially files for initial public offering on US stock market
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/jun/08/anti-slop-ai-art
-
-In response to AI’s hyperrealism, artists and creatives are gravitating toward the homespun and imperfect Earlier this year, a group of film-makers, commercial directors and AI industry influencers gathered in New York City for the Runway AI Summit – a daylong hype-fest, trumping up the potential of this new technology. During one talk, Rob Wrubel, co-founder and managing partner at San Francisco ad firm Silverside, talked up his work on the Coca-Cola company’s AI-generated 2025 Holiday Caravan ad . “What’s incredible about AI,” Wrubel said, “is that you can go from script to production is just two weeks!” What Wrubel failed to mention was that the ad – with its computerized polar bears and fake-looking trundling delivery trucks – was widely despised by pretty much anyone who saw it. Indeed, the public distaste for the campaign became its own news story, spawning headlines like “People really don’t like Coke’s AI holiday commercial” and “Coca-Cola’s New AI Holiday Ad is a Sloppy Eyesore” . It may indeed have been quickly conceived – and it looked like it. Reached for comment about the backlash, Wrubel admits: “The conversation around the ad became almost as important as the ad itself because it surfaced questions the entire creative industry is wrestling with right now.” Continue reading...
-
----
-
-## 8. OpenAI confidentially files for initial public offering on US stock market
-**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 21
@@ -88,7 +66,7 @@ ChatGPT maker expected to be valued at more than $850bn, one of most highly valu
 
 ---
 
-## 9. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 7. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -99,7 +77,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 10. Chinese activist in UK told by X that abusive deepfakes do not breach rules
+## 8. Chinese activist in UK told by X that abusive deepfakes do not breach rules
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,27 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 **Link:** https://www.theguardian.com/technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes
 
 Apple Peiqing Ni targeted by account portraying her as promiscuous drug addict after posting about Tiananmen Square A high-profile Chinese activist in the UK who was inundated with deepfake posts on X portraying her as a sexually promiscuous drug addict was told that the abuse did not breach the rules of Elon Musk’s platform. Apple Peiqing Ni, the 27-year-old founder of the UK-based China Dissent Network, had been advised by UK police to complain to the US-headquartered platform after she was targeted by what she believes is a pro-regime bot. Continue reading...
+
+---
+
+## 9. Patch Tuesday, May 2026 Edition
+**Source:** Krebs on Security
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
+
+Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
+
+---
+
+## 10. Anthropic’s Project Glasswing Update
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html
+
+In April, Anthropic initated Project Glasswing . The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted Anthropic’s claims that it’s now common wisdom that Mythos is better at finding software vulnerabilities than other models. Which is just not true . In any case, Anthropic has published a Project Glasswing status report. It’s finding a lot of vulnerabilities in software—yay! Some of them are even dangerous. But almost none of them has been patched. It’s ...
 
 ---
