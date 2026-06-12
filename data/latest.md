@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-11
+# AI Fail Watch – 2026-06-12
 
 ## 1. Critical Zcash Vulnerability Found and Fixed
 **Source:** Schneier on Security
@@ -11,7 +11,18 @@ If you’re a user—owner?—of this cryptocurrency, this is important: On May 
 
 ---
 
-## 2. Florida lawsuit alleges wrongful arrest after AI facial recognition error
+## 2. Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/technology/2026/jun/11/elon-musk-engineer-fired-grok-lawsuit
+
+Former xAI engineer Devin Kim alleges he was illegally fired for trying to implement safety mechanisms for the chatbot A former engineer at Elon Musk ’s xAI who now heads a thinktank focused on AI safety filed a lawsuit claiming he was fired from the SpaceX subsidiary for raising concerns about the risks artificial intelligence poses to humanity. Devin Kim claims in the lawsuit filed in California state court on Tuesday that his efforts to place guardrails on the development of the chatbot Grok made him a target for company leadership. Continue reading...
+
+---
+
+## 3. Florida lawsuit alleges wrongful arrest after AI facial recognition error
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,7 +33,7 @@ Robert Dillon was arrested at home in Florida despite living 300 miles away from
 
 ---
 
-## 3. Hacking Meta’s AI Chatbot
+## 4. Hacking Meta’s AI Chatbot
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,8 +44,8 @@ Hackers are convincing Meta’s AI support chatbot to let them take over other p
 
 ---
 
-## 4. Anthropic releases ‘safe’ version of Claude Mythos AI model to public
-**Source:** Technology | The Guardian
+## 5. Anthropic releases ‘safe’ version of Claude Mythos AI model to public
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 22
@@ -44,29 +55,7 @@ AI company restricted access to Fable 5, its most powerful Mythos model, for mon
 
 ---
 
-## 5. Doctors and NHS could be sued for mistakes made by AI tools, report warns
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report
-
-Medical Protection Society calls for law to be overhauled to help medics avoid liability for errors made by technology Doctors and the NHS could be sued for medical negligence over mistakes made by artificial intelligence tools used in diagnosing patients and suggesting their treatment, ministers are being warned. Under the law as it stands, medics and the health service can be held liable for patients being harmed or dying even if it was AI that made the errors that resulted in their suffering. Continue reading...
-
----
-
-## 6. OpenAI confidentially files for initial public offering on US stock market
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market
-
-ChatGPT maker expected to be valued at more than $850bn, one of most highly valued listings in market history OpenAI has filed confidentially to go public on the US stock market, according to a company blogpost published on Monday. The artificial intelligence giant’s debut on Wall Street is expected to be one of the most highly valued listings in market history with a valuation at more than $850bn. “We recently submitted a confidential S-1. We expect it to leak so we’re just announcing it,” the company’s post reads. “We have not decided on timing yet; it may be a while because there are things we want to do that are likely easier as a private company. But it’s a complicated set of tradeoffs and this gives us the option to go public sooner if that ends up being best.” Continue reading...
-
----
-
-## 7. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 6. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +66,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 8. Chinese activist in UK told by X that abusive deepfakes do not breach rules
+## 7. Chinese activist in UK told by X that abusive deepfakes do not breach rules
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ Apple Peiqing Ni targeted by account portraying her as promiscuous drug addict a
 
 ---
 
-## 9. Patch Tuesday, May 2026 Edition
+## 8. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 10. Anthropic’s Project Glasswing Update
+## 9. Anthropic’s Project Glasswing Update
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 **Link:** https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html
 
 In April, Anthropic initated Project Glasswing . The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted Anthropic’s claims that it’s now common wisdom that Mythos is better at finding software vulnerabilities than other models. Which is just not true . In any case, Anthropic has published a Project Glasswing status report. It’s finding a lot of vulnerabilities in software—yay! Some of them are even dangerous. But almost none of them has been patched. It’s ...
+
+---
+
+## 10. After SpaceX’s huge IPO, Americans’ financial future will be bound to AI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market
+
+They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...
 
 ---
