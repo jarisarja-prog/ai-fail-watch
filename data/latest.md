@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-12
+# AI Fail Watch – 2026-06-13
 
 ## 1. Critical Zcash Vulnerability Found and Fixed
 **Source:** Schneier on Security
@@ -106,6 +106,6 @@ In April, Anthropic initated Project Glasswing . The idea was to let companies u
 **Score:** 17
 **Link:** https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market
 
-They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...
+They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Share your views on SpaceX’s stock market debut Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...
 
 ---
