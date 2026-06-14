@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-13
+# AI Fail Watch – 2026-06-14
 
 ## 1. Critical Zcash Vulnerability Found and Fixed
 **Source:** Schneier on Security
@@ -44,18 +44,7 @@ Hackers are convincing Meta’s AI support chatbot to let them take over other p
 
 ---
 
-## 5. Anthropic releases ‘safe’ version of Claude Mythos AI model to public
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model
-
-AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concerns Anthropic , the maker of the Claude artificial intelligence ( AI ) models, made a new version of its technology available to the general public on Tuesday while restricting its use in sensitive areas. Dubbed Fable 5, the model is the first to be made widely available from the company’s new Mythos class – its most advanced lineup of AI technology, unveiled in April but restricted to a small set of partner institutions for months over cybersecurity concerns. Continue reading...
-
----
-
-## 6. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 5. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,18 +55,18 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 7. Chinese activist in UK told by X that abusive deepfakes do not breach rules
-**Source:** AI (artificial intelligence) | The Guardian
+## 6. Amazon security research reportedly led to the White House’s Anthropic Fable ban
+**Source:** The Verge
 **Category:** Security
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/jun/10/chinese-activist-uk-apple-peiqing-ni-x-deepfakes
+**Score:** 19
+**Link:** https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
 
-Apple Peiqing Ni targeted by account portraying her as promiscuous drug addict after posting about Tiananmen Square A high-profile Chinese activist in the UK who was inundated with deepfake posts on X portraying her as a sexually promiscuous drug addict was told that the abuse did not breach the rules of Elon Musk’s platform. Apple Peiqing Ni, the 27-year-old founder of the UK-based China Dissent Network, had been advised by UK police to complain to the US-headquartered platform after she was targeted by what she believes is a pro-regime bot. Continue reading...
+According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]
 
 ---
 
-## 8. Patch Tuesday, May 2026 Edition
+## 7. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 9. Anthropic’s Project Glasswing Update
+## 8. Anthropic’s Project Glasswing Update
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ In April, Anthropic initated Project Glasswing . The idea was to let companies u
 
 ---
 
-## 10. After SpaceX’s huge IPO, Americans’ financial future will be bound to AI
+## 9. After SpaceX’s huge IPO, Americans’ financial future will be bound to AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +96,16 @@ In April, Anthropic initated Project Glasswing . The idea was to let companies u
 **Link:** https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market
 
 They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Share your views on SpaceX’s stock market debut Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...
+
+---
+
+## 10. AI Used to Decrypt Medieval Ciphers
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 17
+**Link:** https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html
+
+Researchers are using machine learning algorithms to decrypt historical pencil-and-paper ciphers.
 
 ---
