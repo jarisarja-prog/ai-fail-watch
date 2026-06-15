@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-14
+# AI Fail Watch – 2026-06-15
 
 ## 1. Critical Zcash Vulnerability Found and Fixed
 **Source:** Schneier on Security
@@ -22,29 +22,7 @@ Former xAI engineer Devin Kim alleges he was illegally fired for trying to imple
 
 ---
 
-## 3. Florida lawsuit alleges wrongful arrest after AI facial recognition error
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition
-
-Robert Dillon was arrested at home in Florida despite living 300 miles away from where a crime was committed Sign up for the Breaking News US newsletter email A Florida man is suing several law enforcement agencies for his arrest and prosecution for allegedly luring a child after he was wrongly identified using faulty AI facial recognition software. According to the Jacksonville Beach police department, an algorithm returned a 93% probability that Robert Dillon was the man caught on security cameras at a McDonald’s in the town attempting to persuade an unaccompanied girl, aged younger than 12, to leave with him. Continue reading...
-
----
-
-## 4. Hacking Meta’s AI Chatbot
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 23
-**Link:** https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html
-
-Hackers are convincing Meta’s AI support chatbot to let them take over other peoples’ accounts: A video posted on X showed the step-by-step process to hack someone’s Instagram account. The hacker allegedly used a VPN to spoof the targets’ presumed location to avoid triggering Instagram’s automated account protections. Then, the hacker opened a chat with Meta AI Support Assistant and asked the bot to add a new email address to the target’s account. The chatbot can be seen sending a verification code to the email address provided by the hacker; the hacker then shares the verification code with the chatbot, which prompts the chatbot to show a button to “Reset Password.” The hacker enters a new password and takes over the victim’s account...
-
----
-
-## 5. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -55,18 +33,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 6. Amazon security research reportedly led to the White House’s Anthropic Fable ban
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban
-
-According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]
-
----
-
-## 7. Patch Tuesday, May 2026 Edition
+## 4. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +44,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 8. Anthropic’s Project Glasswing Update
+## 5. Anthropic’s Project Glasswing Update
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +55,7 @@ In April, Anthropic initated Project Glasswing . The idea was to let companies u
 
 ---
 
-## 9. After SpaceX’s huge IPO, Americans’ financial future will be bound to AI
+## 6. After SpaceX’s huge IPO, Americans’ financial future will be bound to AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -99,13 +66,46 @@ They’re about to get more AI rammed down their throats, stuck into their pensi
 
 ---
 
-## 10. AI Used to Decrypt Medieval Ciphers
+## 7. Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/australia-news/2026/jun/15/andrew-hastie-ai-artificial-intelligence-power-cold-war-nuclear-arms-race-comparison-australia
+
+Liberal MP says Australia risks sovereignty and strategic independence being ‘constrained by the AI superpowers reshaping the global order’ Get our breaking news email , free app or daily news podcast Liberal MP Andrew Hastie says Australia should dramatically scale up investment in artificial intelligence to preserve strategic independence and warns the country risks being “a supplicant state” tethered to the US in an era of possible hot conflict with China. In a major address to Liberal members in Sydney on Monday night, the shadow minister for industry and sovereign capability likened the development of AI to the nuclear arms race of the cold-war era and proposed Australia position itself as a technology hub in the southern hemisphere. Continue reading...
+
+---
+
+## 8. AI Worm
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
-**Score:** 17
-**Link:** https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html
+**Score:** 16
+**Link:** https://www.schneier.com/blog/archives/2026/06/ai-worm.html
 
-Researchers are using machine learning algorithms to decrypt historical pencil-and-paper ciphers.
+Researchers have prototyped an AI-powered internet worm . The coolest thing about the prototype is that it carries its own LLM with it, and runs it on computers that have been broken into. This is the closest to John Brunner’s original 1975 conception of a computer worm that I’ve seen.
+
+---
+
+## 9. Anthropic to disable its most advanced AI models after US order limiting foreign access
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order
+
+Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilities Anthropic said it will “abruptly disable” its most advanced AI models for all users after the US government ordered it to suspend access to the models for foreign nationals, citing national security concerns. The company received the export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without being given specific details of the national security concern, Anthropic said in a statement. Continue reading...
+
+---
+
+## 10. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
+
+73 packages run self-replicating stealer as soon as they're opened by an AI agent.
 
 ---
