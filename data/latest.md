@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-15
+# AI Fail Watch – 2026-06-16
 
 ## 1. Critical Zcash Vulnerability Found and Fixed
 **Source:** Schneier on Security
@@ -11,18 +11,7 @@ If you’re a user—owner?—of this cryptocurrency, this is important: On May 
 
 ---
 
-## 2. Musk’s xAI fired engineer for raising concerns about Grok chatbot, lawsuit claims
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 31
-**Link:** https://www.theguardian.com/technology/2026/jun/11/elon-musk-engineer-fired-grok-lawsuit
-
-Former xAI engineer Devin Kim alleges he was illegally fired for trying to implement safety mechanisms for the chatbot A former engineer at Elon Musk ’s xAI who now heads a thinktank focused on AI safety filed a lawsuit claiming he was fired from the SpaceX subsidiary for raising concerns about the risks artificial intelligence poses to humanity. Devin Kim claims in the lawsuit filed in California state court on Tuesday that his efforts to place guardrails on the development of the chatbot Grok made him a target for company leadership. Continue reading...
-
----
-
-## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 2. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +22,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 4. Patch Tuesday, May 2026 Edition
+## 3. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 5. Anthropic’s Project Glasswing Update
+## 4. Anthropic’s Project Glasswing Update
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ In April, Anthropic initated Project Glasswing . The idea was to let companies u
 
 ---
 
-## 6. After SpaceX’s huge IPO, Americans’ financial future will be bound to AI
+## 5. After SpaceX’s huge IPO, Americans’ financial future will be bound to AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +55,7 @@ They’re about to get more AI rammed down their throats, stuck into their pensi
 
 ---
 
-## 7. Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind
+## 6. Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,18 +66,7 @@ Liberal MP says Australia risks sovereignty and strategic independence being ‘
 
 ---
 
-## 8. AI Worm
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 16
-**Link:** https://www.schneier.com/blog/archives/2026/06/ai-worm.html
-
-Researchers have prototyped an AI-powered internet worm . The coolest thing about the prototype is that it carries its own LLM with it, and runs it on computers that have been broken into. This is the closest to John Brunner’s original 1975 conception of a computer worm that I’ve seen.
-
----
-
-## 9. Anthropic to disable its most advanced AI models after US order limiting foreign access
+## 7. Anthropic to disable its most advanced AI models after US order limiting foreign access
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,7 @@ Company said US government believes safeguards can be bypassed and product used 
 
 ---
 
-## 10. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,16 @@ Company said US government believes safeguards can be bypassed and product used 
 **Link:** https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
 
 73 packages run self-replicating stealer as soon as they're opened by an AI agent.
+
+---
+
+## 9. Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time
+
+Other projects include developing tools to help visually impaired people navigate video games Parents are constantly being told to limit their children’s screen time. But when it comes to deciphering which films or TV shows are best suited to developing minds, the guidance remains largely one-size-fits-all. A relatively slow-paced programme such as Bluey offers a very different viewing experience to a fast-moving action series such as PAW Patrol, yet both are broadly considered suitable for young children. This challenge is growing as the type of content children are exposed to evolves. “Today’s young viewers are increasingly engaging with short-form, fast-paced, highly captivating content, often created by splicing and rearranging existing episodic content into quickly digestible snippets or compilations,” said Prof Tim Smith, director of University of the Arts London’s Nerve Lab. “This evolution is not only changing how content is produced and distributed, but may also affect children’s attention, comprehension and emotional response.” Continue reading...
 
 ---
