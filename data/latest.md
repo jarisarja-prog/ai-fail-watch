@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-16
+# AI Fail Watch – 2026-06-17
 
 ## 1. Critical Zcash Vulnerability Found and Fixed
 **Source:** Schneier on Security
@@ -22,7 +22,18 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 3. Patch Tuesday, May 2026 Edition
+## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 20
+**Link:** https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
+
+SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
+
+---
+
+## 4. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -33,29 +44,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 4. Anthropic’s Project Glasswing Update
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html
-
-In April, Anthropic initated Project Glasswing . The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted Anthropic’s claims that it’s now common wisdom that Mythos is better at finding software vulnerabilities than other models. Which is just not true . In any case, Anthropic has published a Project Glasswing status report. It’s finding a lot of vulnerabilities in software—yay! Some of them are even dangerous. But almost none of them has been patched. It’s ...
-
----
-
-## 5. After SpaceX’s huge IPO, Americans’ financial future will be bound to AI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market
-
-They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Share your views on SpaceX’s stock market debut Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...
-
----
-
-## 6. Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind
+## 5. Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +55,29 @@ Liberal MP says Australia risks sovereignty and strategic independence being ‘
 
 ---
 
-## 7. Anthropic to disable its most advanced AI models after US order limiting foreign access
+## 6. How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians
+
+Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over the facilities powering an AI boom A controversial haunted house near Philadelphia, Pennsylvania , taps into its dark history every fall to scare tens of thousands of visitors. In 1968, a local news station documented appalling conditions for disabled people in the red brick buildings on the banks of Schuylkill River. Residents were found naked and emaciated at what was then known as the Pennhurst state school and hospital . The institution shut its doors permanently in 1987 after a lawsuit over inhumane conditions. By 2010, a Halloween attraction stood in its place, and Pennhurst asylum’s previous owner suggested during its early years that he wanted to spook guests by repurposing the hospital’s surgical lights and medical cabinets to use as props. Continue reading...
+
+---
+
+## 7. Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration
+
+Justice department urges judge to throw out suit brought by NAACP over xAI’s methane-gas turbines in Mississippi The Trump administration is coming to the defense of Elon Musk in a lawsuit over claims that his artificial intelligence company, xAI, is polluting residential neighborhoods in north Mississippi. The justice department told a federal court late on Monday to throw out the case. The lawsuit was filed by the NAACP in April over allegations that xAI and its subsidiary MZX Tech set up dozens of methane-gas turbines to power its datacenter in Southaven, Mississippi, without air permits. The suit claims these turbines emit toxic pollutants in violation of the Clean Air Act, and is asking a judge to block xAI from operating the machines. Continue reading...
+
+---
+
+## 8. Anthropic to disable its most advanced AI models after US order limiting foreign access
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -77,7 +88,18 @@ Company said US government believes safeguards can be bypassed and product used 
 
 ---
 
-## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 9. Elon Musk’s unprecendented accumulation of wealth
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/jun/16/elon-musk-techscape
+
+IPO mints Musk as world’s first trillionaire – now SpaceX is public, it will be harder than ever not to have a stake in its future Hi and welcome to TechScape. Nick Robins-Early here, US tech and power reporter at the Guardian. I’m filling in for your usual host Blake Montgomery, who is out this week on vacation. Today, we’ll be talking about the historic SpaceX IPO and the US government’s surprise order to limit the use of Anthropic’s most advanced AI model over cybersecurity concerns. I’ll also share a dispatch from Web Summit Rio, South America’s largest tech event. SpaceX makes largest ever stock market debut, minting Musk as a trillionaire After SpaceX’s huge IPO, Americans’ financial future will be bound to AI How much money did Elon Musk make in SpaceX’s stock market debut? Continue reading...
+
+---
+
+## 10. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -85,16 +107,5 @@ Company said US government believes safeguards can be bypassed and product used 
 **Link:** https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
 
 73 packages run self-replicating stealer as soon as they're opened by an AI agent.
-
----
-
-## 9. Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time
-
-Other projects include developing tools to help visually impaired people navigate video games Parents are constantly being told to limit their children’s screen time. But when it comes to deciphering which films or TV shows are best suited to developing minds, the guidance remains largely one-size-fits-all. A relatively slow-paced programme such as Bluey offers a very different viewing experience to a fast-moving action series such as PAW Patrol, yet both are broadly considered suitable for young children. This challenge is growing as the type of content children are exposed to evolves. “Today’s young viewers are increasingly engaging with short-form, fast-paced, highly captivating content, often created by splicing and rearranging existing episodic content into quickly digestible snippets or compilations,” said Prof Tim Smith, director of University of the Arts London’s Nerve Lab. “This evolution is not only changing how content is produced and distributed, but may also affect children’s attention, comprehension and emotional response.” Continue reading...
 
 ---
