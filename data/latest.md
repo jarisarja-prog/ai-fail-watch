@@ -1,17 +1,28 @@
-# AI Fail Watch – 2026-06-18
+# AI Fail Watch – 2026-06-19
 
-## 1. Critical Zcash Vulnerability Found and Fixed
-**Source:** Schneier on Security
-**Category:** Legal
+## 1. Over-reliance on chatbots can diminish critical-thinking skills, study finds
+**Source:** Technology | The Guardian
+**Category:** Hallucination
 **Language:** EN
-**Score:** 37
-**Link:** https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html
+**Score:** 29
+**Link:** https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills
 
-If you’re a user—owner?—of this cryptocurrency, this is important: On May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this kind of issue. He found one fast enough to be embarrassing. The Orchard pool is the newest and most advanced shielded transaction system in the cryptocurrency Zcash. Introduced in 2022, it allows users to send and receive ZEC while keeping transaction details private. It uses zero-knowledge proofs to validate transactions without revealing amounts or participants. The bug: a specific check that was supposed to validate transaction inputs wasn’t actually enforcing the rules it appeared to enforce. An attacker could have exploited the flaw to feed false inputs into that check and generate ZEC from nothing, with the zero-knowledge proof system blessing the fraudulent transaction as valid...
+Depending on AI can also potentially decrease the ability to discern misinformation, research says A new study from the Massachusetts Institute of Technology is the latest research to find that relying too much on chatbots can diminish critical-thinking skills, and potentially decrease our ability to discern misinformation for ourselves. As AI tools are becoming more sophisticated and accessible, manipulated images and misleading headlines are becoming more common. AI can be part of the solution, and has proved useful in helping users identify fake content – but there’s a cost to using it this way, the new research suggests. An over-dependence on AI to help figure out what’s real on the internet can lead to trouble making those judgments. Continue reading...
 
 ---
 
-## 2. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 2. Anthropic’s Fable and the State of AI
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 26
+**Link:** https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html
+
+On June 9th, Anthropic released its Fable generative AI model. Three days later, the US government classified it as a dangerous munition, and used its export-control authority to prohibit any foreign nationals from accessing it. Unable to differentiate between Americans and foreigners, the company shut off access for everyone. The government’s actions won’t help . The problem isn’t any one particular model; it’s the general trend of increasing AI capabilities. And any real solution requires the sort of collective action that just isn’t possible right now...
+
+---
+
+## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +33,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 4. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 4. Patch Tuesday, May 2026 Edition
+## 5. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -44,8 +55,19 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 5. Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind
-**Source:** Technology | The Guardian
+## 6. Jennifer Siebel Newsom’s new film shines a light on the human cost of unregulated social media
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up
+
+California first lady’s Miss Representation: Rise Up studies the backlash against women in the era of algorithms and deepfakes Life moves pretty fast. It is Monday lunchtime when Jennifer Siebel Newsom drops into the Guardian’s office in Washington, just a couple of blocks from the White House, for an interview to promote her new film. Less than two hours later her husband, the California governor, Gavin Newsom, announces that the couple are under investigation by the justice department. One strand of the investigation specifically targets Siebel Newsom’s taxes and the California Partners Project, a gender equity non-profit she co-founded that received $4.3m in donations solicited by her husband. Gavin Newsom denounced the move as a “personal vendetta” directed by Donald Trump because the governor is considering running for US president. Continue reading...
+
+---
+
+## 7. Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 16
@@ -55,7 +77,7 @@ Liberal MP says Australia risks sovereignty and strategic independence being ‘
 
 ---
 
-## 6. Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit
+## 8. Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,7 +88,7 @@ Justice department urges judge to throw out suit brought by NAACP over xAI’s m
 
 ---
 
-## 7. How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’
+## 9. How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,18 +99,7 @@ Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over t
 
 ---
 
-## 8. Anthropic to disable its most advanced AI models after US order limiting foreign access
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order
-
-Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilities Anthropic said it will “abruptly disable” its most advanced AI models for all users after the US government ordered it to suspend access to the models for foreign nationals, citing national security concerns. The company received the export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without being given specific details of the national security concern, Anthropic said in a statement. Continue reading...
-
----
-
-## 9. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 10. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
