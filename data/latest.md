@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-19
+# AI Fail Watch – 2026-06-20
 
 ## 1. Over-reliance on chatbots can diminish critical-thinking skills, study finds
 **Source:** Technology | The Guardian
