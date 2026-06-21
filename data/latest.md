@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-20
+# AI Fail Watch – 2026-06-21
 
 ## 1. Over-reliance on chatbots can diminish critical-thinking skills, study finds
 **Source:** Technology | The Guardian
@@ -66,18 +66,7 @@ California first lady’s Miss Representation: Rise Up studies the backlash agai
 
 ---
 
-## 7. Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/australia-news/2026/jun/15/andrew-hastie-ai-artificial-intelligence-power-cold-war-nuclear-arms-race-comparison-australia
-
-Liberal MP says Australia risks sovereignty and strategic independence being ‘constrained by the AI superpowers reshaping the global order’ Get our breaking news email , free app or daily news podcast Liberal MP Andrew Hastie says Australia should dramatically scale up investment in artificial intelligence to preserve strategic independence and warns the country risks being “a supplicant state” tethered to the US in an era of possible hot conflict with China. In a major address to Liberal members in Sydney on Monday night, the shadow minister for industry and sovereign capability likened the development of AI to the nuclear arms race of the cold-war era and proposed Australia position itself as a technology hub in the southern hemisphere. Continue reading...
-
----
-
-## 8. Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit
+## 7. Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -88,7 +77,7 @@ Justice department urges judge to throw out suit brought by NAACP over xAI’s m
 
 ---
 
-## 9. How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’
+## 8. How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -99,7 +88,7 @@ Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over t
 
 ---
 
-## 10. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 9. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
