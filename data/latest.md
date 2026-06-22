@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-21
+# AI Fail Watch – 2026-06-22
 
 ## 1. Over-reliance on chatbots can diminish critical-thinking skills, study finds
 **Source:** Technology | The Guardian
@@ -88,7 +88,18 @@ Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over t
 
 ---
 
-## 9. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 9. Forskare vill ha fler mygg – uppmanar allmänheten
+**Source:** Ekot
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.sverigesradio.se/artikel/9243304
+
+Forskare uppmanar allmänheten att skicka in mygg. Det för att kunna kartlägga spridningsrisker av myggburna sjukdomar i Sverige bättre. När samma sak gjordes förra året skickades nästan 700 mygg in till forskningsprojektet som är knutet till Statens veterinärmedicinska anstalt och SLU.
+
+---
+
+## 10. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
