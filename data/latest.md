@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-22
+# AI Fail Watch – 2026-06-23
 
 ## 1. Over-reliance on chatbots can diminish critical-thinking skills, study finds
 **Source:** Technology | The Guardian
@@ -44,7 +44,18 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 5. Patch Tuesday, May 2026 Edition
+## 5. AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security
+
+Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model Powerful AI models capable of devastating new cyber attacks on governments and businesses are mere months away, intelligence agencies for the Five Eyes have warned in a rare joint statement, urging leaders to “act now”. The surprising public intervention by signals agencies for Australia, the US, the UK, New Zealand and Canada comes after the Trump administration earlier this month decided to block “foreign nationals” from using a much-hyped AI model built by tech company Anthropic, called Fable. Continue reading...
+
+---
+
+## 6. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 6. Jennifer Siebel Newsom’s new film shines a light on the human cost of unregulated social media
+## 7. Jennifer Siebel Newsom’s new film shines a light on the human cost of unregulated social media
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -66,40 +77,7 @@ California first lady’s Miss Representation: Rise Up studies the backlash agai
 
 ---
 
-## 7. Trump’s DoJ intervenes to back Elon Musk in datacenter pollution lawsuit
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration
-
-Justice department urges judge to throw out suit brought by NAACP over xAI’s methane-gas turbines in Mississippi The Trump administration is coming to the defense of Elon Musk in a lawsuit over claims that his artificial intelligence company, xAI, is polluting residential neighborhoods in north Mississippi. The justice department told a federal court late on Monday to throw out the case. The lawsuit was filed by the NAACP in April over allegations that xAI and its subsidiary MZX Tech set up dozens of methane-gas turbines to power its datacenter in Southaven, Mississippi, without air permits. The suit claims these turbines emit toxic pollutants in violation of the Clean Air Act, and is asking a judge to block xAI from operating the machines. Continue reading...
-
----
-
-## 8. How the fight over US datacenters is scrambling this state’s politics: ‘We don’t want it’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/jun/16/pennsylvania-datacenters-debate-politicians
-
-Josh Shapiro, Pennsylvania’s governor, squares off with state lawmakers over the facilities powering an AI boom A controversial haunted house near Philadelphia, Pennsylvania , taps into its dark history every fall to scare tens of thousands of visitors. In 1968, a local news station documented appalling conditions for disabled people in the red-brick buildings on the banks of Schuylkill River. Residents were found naked and emaciated at what was then known as the Pennhurst state school and hospital . The institution shut its doors permanently in 1987 after a lawsuit over inhumane conditions. By 2010, a Halloween attraction stood in its place, and Pennhurst asylum’s previous owner suggested during its early years that he wanted to spook guests by repurposing the hospital’s surgical lights and medical cabinets to use as props. Continue reading...
-
----
-
-## 9. Forskare vill ha fler mygg – uppmanar allmänheten
-**Source:** Ekot
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.sverigesradio.se/artikel/9243304
-
-Forskare uppmanar allmänheten att skicka in mygg. Det för att kunna kartlägga spridningsrisker av myggburna sjukdomar i Sverige bättre. När samma sak gjordes förra året skickades nästan 700 mygg in till forskningsprojektet som är knutet till Statens veterinärmedicinska anstalt och SLU.
-
----
-
-## 10. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
