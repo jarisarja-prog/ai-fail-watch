@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-06-23
+# AI Fail Watch – 2026-06-24
 
-## 1. Over-reliance on chatbots can diminish critical-thinking skills, study finds
-**Source:** Technology | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills
-
-Depending on AI can also potentially decrease the ability to discern misinformation, research says A new study from the Massachusetts Institute of Technology is the latest research to find that relying too much on chatbots can diminish critical-thinking skills, and potentially decrease our ability to discern misinformation for ourselves. As AI tools are becoming more sophisticated and accessible, manipulated images and misleading headlines are becoming more common. AI can be part of the solution, and has proved useful in helping users identify fake content – but there’s a cost to using it this way, the new research suggests. An over-dependence on AI to help figure out what’s real on the internet can lead to trouble making those judgments. Continue reading...
-
----
-
-## 2. Anthropic’s Fable and the State of AI
+## 1. Anthropic’s Fable and the State of AI
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -22,7 +11,29 @@ On June 9th, Anthropic released its Fable generative AI model. Three days later,
 
 ---
 
-## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 2. AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security
+
+Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model Powerful AI models capable of devastating new cyber attacks on governments and businesses are mere months away, intelligence agencies for the Five Eyes have warned in a rare joint statement, urging leaders to “act now”. The surprising public intervention by signals agencies for Australia, the US, the UK, New Zealand and Canada comes after the Trump administration earlier this month decided to block “foreign nationals” from using a much-hyped AI model built by tech company Anthropic, called Fable. Continue reading...
+
+---
+
+## 3. Majority of datacenters are vulnerable to climate threats like floods and fires, study finds
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/us-news/2026/jun/23/datacenters-climate-hazards-study
+
+Study warns AI datacenters are vulnerable to the climate hazards that their global greenhouse gas emissions bolster Amid rising concern that the artificial intelligence boom is fueling the climate crisis, a new report has found that nearly 80% of datacenters are also exposed to extreme climate hazards, including flooding, extreme winds and wildfires. Those impacts are leaving the infrastructure vulnerable to disrupted operations, increased time offline, and inflated insurance and repair costs, the research from climate risk analytics firm First Street shows. Continue reading...
+
+---
+
+## 4. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +44,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 4. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 5. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -41,17 +52,6 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 **Link:** https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
 
 SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
-
----
-
-## 5. AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security
-
-Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model Powerful AI models capable of devastating new cyber attacks on governments and businesses are mere months away, intelligence agencies for the Five Eyes have warned in a rare joint statement, urging leaders to “act now”. The surprising public intervention by signals agencies for Australia, the US, the UK, New Zealand and Canada comes after the Trump administration earlier this month decided to block “foreign nationals” from using a much-hyped AI model built by tech company Anthropic, called Fable. Continue reading...
 
 ---
 
@@ -66,18 +66,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 7. Jennifer Siebel Newsom’s new film shines a light on the human cost of unregulated social media
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up
-
-California first lady’s Miss Representation: Rise Up studies the backlash against women in the era of algorithms and deepfakes Life moves pretty fast. It is Monday lunchtime when Jennifer Siebel Newsom drops into the Guardian’s office in Washington, just a couple of blocks from the White House, for an interview to promote her new film. Less than two hours later her husband, the California governor, Gavin Newsom, announces that the couple are under investigation by the justice department. One strand of the investigation specifically targets Siebel Newsom’s taxes and the California Partners Project, a gender equity non-profit she co-founded that received $4.3m in donations solicited by her husband. Gavin Newsom denounced the move as a “personal vendetta” directed by Donald Trump because the governor is considering running for US president. Continue reading...
-
----
-
-## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 7. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
