@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-24
+# AI Fail Watch – 2026-06-25
 
 ## 1. Anthropic’s Fable and the State of AI
 **Source:** Schneier on Security
@@ -11,19 +11,8 @@ On June 9th, Anthropic released its Fable generative AI model. Three days later,
 
 ---
 
-## 2. AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns
+## 2. Majority of datacenters are vulnerable to climate threats like floods and fires, study finds
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security
-
-Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model Powerful AI models capable of devastating new cyber attacks on governments and businesses are mere months away, intelligence agencies for the Five Eyes have warned in a rare joint statement, urging leaders to “act now”. The surprising public intervention by signals agencies for Australia, the US, the UK, New Zealand and Canada comes after the Trump administration earlier this month decided to block “foreign nationals” from using a much-hyped AI model built by tech company Anthropic, called Fable. Continue reading...
-
----
-
-## 3. Majority of datacenters are vulnerable to climate threats like floods and fires, study finds
-**Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
 **Score:** 21
@@ -33,7 +22,7 @@ Study warns AI datacenters are vulnerable to the climate hazards that their glob
 
 ---
 
-## 4. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +33,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 5. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 4. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 6. Patch Tuesday, May 2026 Edition
+## 5. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,29 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 7. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 6. Meta pauses employee tracker for AI training amid privacy concerns
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns
+
+About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen content Mark Zuckerberg’s Meta has paused a program that tracked employees’ computer activity amid data privacy concerns and a staff backlash. The owner of Facebook, Instagram and WhatsApp had introduced a tool that tracked staff keystrokes, mouse clicks and content displayed on computer screens in order to collect data for training its AI models. Continue reading...
+
+---
+
+## 7. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
+**Source:** Technology | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal
+
+Spending on government contracts with tech firms that use AI-powered tools to track immigrants has soared to record levels under Trump 2.0, report says A new report sheds light on the unprecedented growth of the US government’s immigration surveillance arsenal, revealing fresh details about how spending on technology and AI tools to find and track migrants has soared to record levels during Donald Trump’s second term. The report, released this week, analyzed US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP) contracts with 11 companies the authors said provide surveillance tech. They found the money awarded to these firms doubled from 2024 to 2025, to just over $310m – and in 2026, that number soared to a record $513m. Continue reading...
+
+---
+
+## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -74,5 +85,16 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 **Link:** https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
 
 73 packages run self-replicating stealer as soon as they're opened by an AI agent.
+
+---
+
+## 9. Congresswoman denies staff used AI to write defense funding amendment
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 13
+**Link:** https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
+
+Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is ever drafted with AI." Luna issued the response after accounts on X began sharing screenshots of an amendment summary […]
 
 ---
