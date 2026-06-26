@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-25
+# AI Fail Watch – 2026-06-26
 
 ## 1. Anthropic’s Fable and the State of AI
 **Source:** Schneier on Security
@@ -77,7 +77,18 @@ Spending on government contracts with tech firms that use AI-powered tools to tr
 
 ---
 
-## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 8. Interesting Paper Exploring Prompt Injection
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** FI
+**Score:** 14
+**Link:** https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html
+
+This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We’ve shown that this architecture doesn’t survive into the model’s actual representations, and that such role confusion is linked to prompt injection. Unless LLMs achieve genuine role perception, we think injection defense will remain a perpetual whack-a-mole game. And the continuous nature of role boundaries opens the threat of injections designed to subtly shift LLM states through seemingly innocuous text, legally and at scale...
+
+---
+
+## 9. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -85,16 +96,5 @@ Spending on government contracts with tech firms that use AI-powered tools to tr
 **Link:** https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
 
 73 packages run self-replicating stealer as soon as they're opened by an AI agent.
-
----
-
-## 9. Congresswoman denies staff used AI to write defense funding amendment
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude
-
-Rep. Anna Paulina Luna (R-FL) says her staff used AI for "spellcheck" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says "NO Legislation is ever drafted with AI." Luna issued the response after accounts on X began sharing screenshots of an amendment summary […]
 
 ---

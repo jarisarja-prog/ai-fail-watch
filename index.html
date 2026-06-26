@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Fail Watch – 2026-06-25</title>
+    <title>AI Fail Watch – 2026-06-26</title>
     <style>
         :root {
             --bg: #0b1020;
@@ -261,7 +261,7 @@
                     <h1 class="brand">AI Fail Watch</h1>
                     <div class="sub">Daily tracking of leaks, lawsuits, hallucinations, privacy failures and other AI risks.</div>
                 </div>
-                <div class="status">Last updated: 2026-06-25 10:00</div>
+                <div class="status">Last updated: 2026-06-26 10:12</div>
             </div>
 
             <div class="filters">
@@ -273,7 +273,7 @@
 
             
     <div class="trend">
-        🔎 Trend today: <strong>Security</strong> (4 cases)
+        🔎 Trend today: <strong>Security</strong> (5 cases)
     </div>
     
         </header>
@@ -423,9 +423,30 @@
         </article>
         
 
-        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/')">
+        <article class="card" data-lang="FI" onclick="openLink('https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html')">
             <div class="card-top">
                 <span class="rank">#7</span>
+                <span class="badge cat-security">Security</span>
+                <span class="badge lang">FI</span>
+                <span class="score-big">🔥 14</span>
+            </div>
+
+            <h3><a href="https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Interesting Paper Exploring Prompt Injection</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> Schneier on Security</span>
+            </div>
+
+            <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
+            <p>This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We’ve shown that this architecture doesn’t survive into the model’s actual representations, and that such role confusion is linked to prompt injection. Unless LLMs achieve genuine role perception, we think injection defense will remain a perpetual whack-a-mole game. And the continuous nature of role boundaries opens the threat of injections designed to subtly shift LLM states through seemingly innocuous text, legally and at scale...</p>
+
+            <a class="readmore" href="https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
+        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/')">
+            <div class="card-top">
+                <span class="rank">#8</span>
                 <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 13</span>
@@ -441,27 +462,6 @@
             <p>73 packages run self-replicating stealer as soon as they&#x27;re opened by an AI agent.</p>
 
             <a class="readmore" href="https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude')">
-            <div class="card-top">
-                <span class="rank">#8</span>
-                <span class="badge cat-legal">Legal</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 13</span>
-            </div>
-
-            <h3><a href="https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Congresswoman denies staff used AI to write defense funding amendment</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> The Verge</span>
-            </div>
-
-            <p class="why"><em>Legal risk: AI use triggered legal or copyright issues.</em></p>
-            <p>Rep. Anna Paulina Luna (R-FL) says her staff used AI for &quot;spellcheck&quot; in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says &quot;NO Legislation is ever drafted with AI.&quot; Luna issued the response after accounts on X began sharing screenshots of an amendment summary […]</p>
-
-            <a class="readmore" href="https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
         </section>
