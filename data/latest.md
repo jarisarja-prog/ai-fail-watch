@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-26
+# AI Fail Watch – 2026-06-27
 
 ## 1. Anthropic’s Fable and the State of AI
 **Source:** Schneier on Security
@@ -11,18 +11,7 @@ On June 9th, Anthropic released its Fable generative AI model. Three days later,
 
 ---
 
-## 2. Majority of datacenters are vulnerable to climate threats like floods and fires, study finds
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/us-news/2026/jun/23/datacenters-climate-hazards-study
-
-Study warns AI datacenters are vulnerable to the climate hazards that their global greenhouse gas emissions bolster Amid rising concern that the artificial intelligence boom is fueling the climate crisis, a new report has found that nearly 80% of datacenters are also exposed to extreme climate hazards, including flooding, extreme winds and wildfires. Those impacts are leaving the infrastructure vulnerable to disrupted operations, increased time offline, and inflated insurance and repair costs, the research from climate risk analytics firm First Street shows. Continue reading...
-
----
-
-## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 2. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +22,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 4. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 5. Patch Tuesday, May 2026 Edition
+## 4. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 6. Meta pauses employee tracker for AI training amid privacy concerns
+## 5. Meta pauses employee tracker for AI training amid privacy concerns
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -66,7 +55,7 @@ About 1,600 workers signed petition against tool that tracked staff keystrokes, 
 
 ---
 
-## 7. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
+## 6. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -77,7 +66,7 @@ Spending on government contracts with tech firms that use AI-powered tools to tr
 
 ---
 
-## 8. Interesting Paper Exploring Prompt Injection
+## 7. Interesting Paper Exploring Prompt Injection
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** FI
@@ -88,7 +77,7 @@ This is a fascinating explotation of how LLMs fall for prompt injection attacks.
 
 ---
 
-## 9. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
