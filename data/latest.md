@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-27
+# AI Fail Watch – 2026-06-28
 
 ## 1. Anthropic’s Fable and the State of AI
 **Source:** Schneier on Security
@@ -33,14 +33,14 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 4. Patch Tuesday, May 2026 Edition
-**Source:** Krebs on Security
-**Category:** Security
+## 4. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
 **Language:** EN
-**Score:** 18
-**Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
+**Score:** 19
+**Link:** https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal
 
-Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
+Spending on government contracts with tech firms that use AI-powered tools to track immigrants has soared to record levels under Trump 2.0, report says A new report sheds light on the unprecedented growth of the US government’s immigration surveillance arsenal, revealing fresh details about how spending on technology and AI tools to find and track migrants has soared to record levels during Donald Trump’s second term. The report, released this week, analyzed US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP) contracts with 11 companies the authors said provide surveillance tech. They found the money awarded to these firms doubled from 2024 to 2025, to just over $310m – and in 2026, that number soared to a record $513m. Continue reading...
 
 ---
 
@@ -55,18 +55,7 @@ About 1,600 workers signed petition against tool that tracked staff keystrokes, 
 
 ---
 
-## 6. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
-**Source:** Technology | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal
-
-Spending on government contracts with tech firms that use AI-powered tools to track immigrants has soared to record levels under Trump 2.0, report says A new report sheds light on the unprecedented growth of the US government’s immigration surveillance arsenal, revealing fresh details about how spending on technology and AI tools to find and track migrants has soared to record levels during Donald Trump’s second term. The report, released this week, analyzed US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP) contracts with 11 companies the authors said provide surveillance tech. They found the money awarded to these firms doubled from 2024 to 2025, to just over $310m – and in 2026, that number soared to a record $513m. Continue reading...
-
----
-
-## 7. Interesting Paper Exploring Prompt Injection
+## 6. Interesting Paper Exploring Prompt Injection
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** FI
@@ -77,7 +66,7 @@ This is a fascinating explotation of how LLMs fall for prompt injection attacks.
 
 ---
 
-## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 7. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
