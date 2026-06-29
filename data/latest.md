@@ -1,17 +1,28 @@
-# AI Fail Watch – 2026-06-28
+# AI Fail Watch – 2026-06-29
 
-## 1. Anthropic’s Fable and the State of AI
-**Source:** Schneier on Security
-**Category:** Security
+## 1. ‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
 **Language:** EN
 **Score:** 26
-**Link:** https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html
+**Link:** https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres
 
-On June 9th, Anthropic released its Fable generative AI model. Three days later, the US government classified it as a dangerous munition, and used its export-control authority to prohibit any foreign nationals from accessing it. Unable to differentiate between Americans and foreigners, the company shut off access for everyone. The government’s actions won’t help . The problem isn’t any one particular model; it’s the general trend of increasing AI capabilities. And any real solution requires the sort of collective action that just isn’t possible right now...
+In 1993, she squeezed a $333m settlement from a Californian energy company in a scandal over contaminated water. Three decades later, she has a new target in her sights – and it’s global When Erin Brockovich woke to find 30 emails from people from the same town, she realised something was going on. People email Brockovich all the time because of what happened in 1993, when she was instrumental in suing Pacific Gas and Electric Company (PG&E) on behalf of residents of the town of Hinkley, California, whose groundwater had been contaminated. The case resulted in a settlement of $333m – then the largest ever payout for a direct-action lawsuit. When she was immortalised by Julia Roberts in the 2000 film Erin Brockovich, she became the hero we didn’t know we needed, a modern day Joan of Arc. She had won against PG&E with no formal legal training. The emails she received a few weeks ago were about datacentres. In April, she put a callout on her website asking for anyone with concerns about one near them to get in touch. Within a month, 3,862 people had replied. Tech companies have needed datacentres to power their technology “for ever”, she says, but the new ones being built to power AI? “This feels like Hinkley on steroids.” Continue reading...
 
 ---
 
-## 2. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 2. China’s Z.ai claims it can match Mythos on cybersecurity
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
+
+China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of […]
+
+---
+
+## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +33,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 4. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 4. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
+## 5. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -44,18 +55,18 @@ Spending on government contracts with tech firms that use AI-powered tools to tr
 
 ---
 
-## 5. Meta pauses employee tracker for AI training amid privacy concerns
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+## 6. Patch Tuesday, May 2026 Edition
+**Source:** Krebs on Security
+**Category:** Security
 **Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns
+**Score:** 18
+**Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
 
-About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen content Mark Zuckerberg’s Meta has paused a program that tracked employees’ computer activity amid data privacy concerns and a staff backlash. The owner of Facebook, Instagram and WhatsApp had introduced a tool that tracked staff keystrokes, mouse clicks and content displayed on computer screens in order to collect data for training its AI models. Continue reading...
+Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
 
 ---
 
-## 6. Interesting Paper Exploring Prompt Injection
+## 7. Interesting Paper Exploring Prompt Injection
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** FI
@@ -66,7 +77,7 @@ This is a fascinating explotation of how LLMs fall for prompt injection attacks.
 
 ---
 
-## 7. For the 2nd time in weeks, Microsoft packages laced with credential stealer
+## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -74,5 +85,16 @@ This is a fascinating explotation of how LLMs fall for prompt injection attacks.
 **Link:** https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
 
 73 packages run self-replicating stealer as soon as they're opened by an AI agent.
+
+---
+
+## 9. Prosecutors used ChatGPT logs as evidence in the Palisades fire trial
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
+
+Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that […]
 
 ---
