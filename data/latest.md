@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-06-29
+# AI Fail Watch – 2026-06-30
 
 ## 1. ‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres
 **Source:** AI (artificial intelligence) | The Guardian
@@ -11,18 +11,7 @@ In 1993, she squeezed a $333m settlement from a Californian energy company in a 
 
 ---
 
-## 2. China’s Z.ai claims it can match Mythos on cybersecurity
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity
-
-China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has dramatically reduced the gap in the capabilities between its models and those of […]
-
----
-
-## 3. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 2. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +22,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 4. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 5. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
+## 4. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -55,7 +44,7 @@ Spending on government contracts with tech firms that use AI-powered tools to tr
 
 ---
 
-## 6. Patch Tuesday, May 2026 Edition
+## 5. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -63,6 +52,17 @@ Spending on government contracts with tech firms that use AI-powered tools to tr
 **Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
 
 Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
+
+---
+
+## 6. ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind
+
+Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate – and think through – the impact of AI. But as commercial and geopolitical pressures escalate, can ethicists make any difference? In 2017, a 33-year-old political philosopher named Iason Gabriel was told by a friend that he ought to apply for a job at DeepMind, the London-based subsidiary of Google where much of its AI research was concentrated. The suggestion was not an obvious one. Gabriel was a cheerful but intense junior academic with a passion for Vipassana meditation and what his brother calls “enthusiastic” rock climbing. The eldest son of a Greek management professor and a British documentary maker, Gabriel split his time between teaching and international development work. At the University of Oxford, where he was a fellow at St John’s College, Gabriel taught courses on political theory and wrote papers on the moral contortions of “yuppie ethics” and the ethical blind spots of effective altruism. When he wasn’t there, he did crisis work for the United Nations Development Programme in Sudan and Lebanon. Continue reading...
 
 ---
 
@@ -85,16 +85,5 @@ This is a fascinating explotation of how LLMs fall for prompt injection attacks.
 **Link:** https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
 
 73 packages run self-replicating stealer as soon as they're opened by an AI agent.
-
----
-
-## 9. Prosecutors used ChatGPT logs as evidence in the Palisades fire trial
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial
-
-Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But they also turned to his ChatGPT logs. Prosecutors said that […]
 
 ---
