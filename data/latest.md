@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-06-30
+# AI Fail Watch – 2026-07-01
 
-## 1. ‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres
+## 1. Rocky week for AI as shares slump but no sign of crash – yet
+**Source:** Technology | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares
+
+The markets are souring on artificial intelligence, but is this the bubble being burst? Meanwhile, California proposes a tax on billionaires Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you after fending off sunburns at the beach. Today, we’re discussing a rocky week for the AI industry’s finances and how California’s proposed billionaire’s tax is changing the political posture of the state’s governor. Impact of social media ban for under-16s in UK hinges on how firm it is UK under-16s social media ban: which apps will be blocked and how will it work? ‘Tech firms are losing the public’: social media age bans near tipping point OpenAI staggers AI model release after Trump administration request Meta pauses employee tracker for AI training amid privacy concerns ‘It’s dangerous and it’s going to erode trust’: redesign of US government websites stokes surveillance fears California billionaire tax will appear on ballot after deadline for deal passes | Technology | The Guardian Continue reading...
+
+---
+
+## 2. ‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -11,7 +22,18 @@ In 1993, she squeezed a $333m settlement from a Californian energy company in a 
 
 ---
 
-## 2. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 3. Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll
+
+Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing autism Adults in the US who frequently seek out health advice from artificial intelligence chatbots are more likely to believe myths about vaccines, according to a poll released on Tuesday by health research firm KFF. The survey, which was conducted in May and polled a representative sample of 2,480 US adults, found that use of AI tools and chatbots correlated with belief in falsehoods such as vaccines causing autism or that the measles vaccine poses more danger than the corresponding virus. The connection remained while controlling for factors such as age, race, education and political partisanship. Continue reading...
+
+---
+
+## 4. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +44,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 5. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -33,18 +55,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 4. ‘We should be worried’: report sheds light on ICE’s booming arsenal of hi-tech surveillance tools
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/us-news/2026/jun/24/ice-tech-surveillance-arsenal
-
-Spending on government contracts with tech firms that use AI-powered tools to track immigrants has soared to record levels under Trump 2.0, report says A new report sheds light on the unprecedented growth of the US government’s immigration surveillance arsenal, revealing fresh details about how spending on technology and AI tools to find and track migrants has soared to record levels during Donald Trump’s second term. The report, released this week, analyzed US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP) contracts with 11 companies the authors said provide surveillance tech. They found the money awarded to these firms doubled from 2024 to 2025, to just over $310m – and in 2026, that number soared to a record $513m. Continue reading...
-
----
-
-## 5. Patch Tuesday, May 2026 Edition
+## 6. Patch Tuesday, May 2026 Edition
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ Artificial intelligence platforms may be just as susceptible to social engineeri
 
 ---
 
-## 6. ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI
+## 7. ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -66,7 +77,29 @@ Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate –
 
 ---
 
-## 7. Interesting Paper Exploring Prompt Injection
+## 8. Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted
+
+AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals Business live – latest updates Anthropic has restored customer access to its powerful newest AI model, Fable, after a more than two-week blackout resulting from US government safety concerns that it could be abused to enable serious cyber-attacks. The San Francisco company said export controls had been lifted, citing a social media post from the US commerce secretary, Howard Lutnick, in which he said: “Over the past two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America’s leadership in AI.” Continue reading...
+
+---
+
+## 9. New attack provides one more reason why AI browsers are a bad idea
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
+
+Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
+
+---
+
+## 10. Interesting Paper Exploring Prompt Injection
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** FI
@@ -74,16 +107,5 @@ Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate –
 **Link:** https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html
 
 This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We’ve shown that this architecture doesn’t survive into the model’s actual representations, and that such role confusion is linked to prompt injection. Unless LLMs achieve genuine role perception, we think injection defense will remain a perpetual whack-a-mole game. And the continuous nature of role boundaries opens the threat of injections designed to subtly shift LLM states through seemingly innocuous text, legally and at scale...
-
----
-
-## 8. For the 2nd time in weeks, Microsoft packages laced with credential stealer
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 13
-**Link:** https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/
-
-73 packages run self-replicating stealer as soon as they're opened by an AI agent.
 
 ---
