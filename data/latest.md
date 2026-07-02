@@ -1,7 +1,7 @@
-# AI Fail Watch – 2026-07-01
+# AI Fail Watch – 2026-07-02
 
 ## 1. Rocky week for AI as shares slump but no sign of crash – yet
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
 **Score:** 31
