@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-02
+# AI Fail Watch – 2026-07-03
 
 ## 1. Rocky week for AI as shares slump but no sign of crash – yet
 **Source:** AI (artificial intelligence) | The Guardian
@@ -23,7 +23,7 @@ In 1993, she squeezed a $333m settlement from a Californian energy company in a 
 ---
 
 ## 3. Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
 **Score:** 23
@@ -55,18 +55,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 6. Patch Tuesday, May 2026 Edition
-**Source:** Krebs on Security
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/
-
-Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.
-
----
-
-## 7. ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI
+## 6. ‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -77,7 +66,7 @@ Since 2017, Iason Gabriel has worked at the tech giant, trying to anticipate –
 
 ---
 
-## 8. Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears
+## 7. Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ AI company was forced last month to suspend access to its Fable 5 and Mythos 5 m
 
 ---
 
-## 9. New attack provides one more reason why AI browsers are a bad idea
+## 8. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 
 ---
 
-## 10. Interesting Paper Exploring Prompt Injection
+## 9. Interesting Paper Exploring Prompt Injection
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** FI
@@ -107,5 +96,16 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 **Link:** https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html
 
 This is a fascinating explotation of how LLMs fall for prompt injection attacks. It turns out that they learn to recognize the style of text in different role/instruction blocks, and not just the tags. Their conclusion: Role tags were a formatting trick that became the security architecture and the cognitive scaffolding of modern LLMs. We’ve shown that this architecture doesn’t survive into the model’s actual representations, and that such role confusion is linked to prompt injection. Unless LLMs achieve genuine role perception, we think injection defense will remain a perpetual whack-a-mole game. And the continuous nature of role boundaries opens the threat of injections designed to subtly shift LLM states through seemingly innocuous text, legally and at scale...
+
+---
+
+## 10. ‘Don’t kill music’: Anthony Albanese’s favourite bands beg PM to stop AI companies from stealing their work
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/music/2026/jul/03/dont-kill-music-anthony-albaneses-favourite-bands-beg-pm-to-stop-ai-companies-from-stealing-their-work
+
+A potential deal with the government would allow international tech companies to mine the creative work of Australian musicians. Some of the prime minister’s favourite artists told the Guardian how they feel about it Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’ Big tech companies are asking for Australian copyright laws to be watered down, to allow them to scrape Australian output – including journalism, music and books – in order to improve their AI models. Guardian Australia this week reported on an industry proposal under which companies would commit more than $50bn in investment in datacentres and set up a $350m fund to compensate creatives in exchange for weaker copyright laws. Senator David Pocock has described it as the “ultimate dirty deal” . The Albanese government has insisted it has no plans to weaken copyright protections, after ruling out the potential text and data mining exemption last year – but creatives are sounding the alarm. Loudest among them this week are musicians, some of whom discovered last month that their work was already being scraped . Albanese is known for his love of Australian music. Guardian Australia spoke to some of his favourite bands to hear what they had to say to him. Continue reading...
 
 ---
