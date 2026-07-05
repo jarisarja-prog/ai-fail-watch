@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-07-04
+# AI Fail Watch – 2026-07-05
 
-## 1. Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll
-
-Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing autism Adults in the US who frequently seek out health advice from artificial intelligence chatbots are more likely to believe myths about vaccines, according to a poll released on Tuesday by health research firm KFF. The survey, which was conducted in May and polled a representative sample of 2,480 US adults, found that use of AI tools and chatbots correlated with belief in falsehoods such as vaccines causing autism or that the measles vaccine poses more danger than the corresponding virus. The connection remained while controlling for factors such as age, race, education and political partisanship. Continue reading...
-
----
-
-## 2. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
+## 1. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +11,7 @@ Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ di
 
 ---
 
-## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 2. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -33,7 +22,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 4. Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears
+## 3. Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -41,6 +30,17 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 **Link:** https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted
 
 AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals Business live – latest updates Anthropic has restored customer access to its powerful newest AI model, Fable, after a more than two-week blackout resulting from US government safety concerns that it could be abused to enable serious cyber-attacks. The San Francisco company said export controls had been lifted, citing a social media post from the US commerce secretary, Howard Lutnick, in which he said: “Over the past two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America’s leadership in AI.” Continue reading...
+
+---
+
+## 4. Doctors’ soaring use of AI scribes prompts Australian government warning over privacy
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning
+
+Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its implementation and potential pitfalls Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The federal health department has raised concerns about the use of AI scribes by doctors as the health regulator considers the need for safeguards around the technology. AI scribe tools record, transcribe and summarise conversations between doctors and patients for medical notes, and have boomed in popularity in the past 18 months. Continue reading...
 
 ---
 
@@ -66,7 +66,18 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 
 ---
 
-## 7. ‘Don’t kill music’: Anthony Albanese’s favourite bands beg PM to stop AI companies from stealing their work
+## 7. OpenAI’s apparent failure to visit key site raises questions over UK investment
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project
+
+Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypothetical It was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. Stargate UK – a multibillion-pound UK datacentre project – would represent “a major step forward in the US-UK technology partnership”. But the plans were paused in April , with an OpenAI spokesperson citing concerns over regulation and high energy costs . Continue reading...
+
+---
+
+## 8. ‘Don’t kill music’: Anthony Albanese’s favourite bands beg PM to stop AI companies from stealing their work
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
