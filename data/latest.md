@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-06
+# AI Fail Watch – 2026-07-07
 
 ## 1. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
 **Source:** Technology | The Guardian
@@ -23,7 +23,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 ---
 
 ## 3. AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** FI
 **Score:** 18
@@ -44,18 +44,7 @@ Exclusive: With the technology fast becoming popular in GP surgeries, regulators
 
 ---
 
-## 5. UK parents warned over posting images of children amid AI sexual abuse fears
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency
-
-Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material online AI prey: why watchdogs are telling parents to protect children from nudification apps Parents should not put photos of their children on public display online, according to landmark guidance issued to tackle the rise of AI-generated sexual abuse material. The recommendation has come from the National Crime Agency and the Internet Watch Foundation, which fear that most people are unaware of the dangers posed by paedophiles and criminal networks. They suggest that parents and guardians make their social media accounts private or share pictures of their children through a “close friends” group. The NCA and the IWF stressed they were not telling parents how to behave online, but said they should be aware of the problem and how to tackle it. Continue reading...
-
----
-
-## 6. New attack provides one more reason why AI browsers are a bad idea
+## 5. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,7 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 
 ---
 
-## 7. OpenAI’s apparent failure to visit key site raises questions over UK investment
+## 6. OpenAI’s apparent failure to visit key site raises questions over UK investment
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -74,5 +63,16 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 **Link:** https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project
 
 Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypothetical It was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. Stargate UK – a multibillion-pound UK datacentre project – would represent “a major step forward in the US-UK technology partnership”. But the plans were paused in April , with an OpenAI spokesperson citing concerns over regulation and high energy costs . Continue reading...
+
+---
+
+## 7. Scotland could freeze datacentre projects in challenge to UK’s AI strategy
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy
+
+Scottish government to consider SNP national council motion for moratorium on all new datacentres The Scottish government is about to consider a sweeping moratorium on building new datacentres, putting a key plank of the UK’s AI strategy at risk. Last Sunday the Scottish National party (SNP)’s national council passed a motion to freeze all new datacentres in Scotland. That motion has been sent to the Scottish government to consider. Continue reading...
 
 ---
