@@ -1,17 +1,28 @@
-# AI Fail Watch – 2026-07-07
+# AI Fail Watch – 2026-07-08
 
-## 1. Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’
-**Source:** Technology | The Guardian
-**Category:** General
+## 1. Google Is Suing Chinese Scammers Who Are Using Gemini
+**Source:** Schneier on Security
+**Category:** Legal
 **Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai
+**Score:** 24
+**Link:** https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html
 
-Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination Why did Anthropic’s founder sit beside the pope during a warning about AI? In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers , accelerating war and exploiting the environment . At a ceremony honoring the holy teaching the day of its release at the Vatican, the pope was flanked by an unusual guest speaker: Anthropic co-founder Chris Olah, one of the people behind the AI boom so worrying Leo. Continue reading...
+Not sure this will have any effect, but I support the effort: According to Google’s legal filing, Outsider Enterprise operates through Telegram. The group offers phishing-as-a-service to individuals who may not be technically savvy enough to set up fraudulent websites and text campaigns on their own. In its Telegram channels, Outsider Enterprise reportedly provided instructions on how to use Google’s Gemini AI to create websites that imitate those of Google, YouTube, and government agencies such as New York’s E-ZPass. The group offered nearly 300 scam templates...
 
 ---
 
-## 2. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
+## 2. Big tech’s lofty climate goals wrecked by energy-hungry AI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis
+
+Net-zero pledges of Google and Amazon slip out of reach, and struggling Meta makes frantic moves Hello, and welcome to TechScape. I’m your host, Blake Montgomery, the Guardian’s US tech editor, writing to you after a rodeo in rural Texas, where I celebrated Independence Day. Today in tech, we’re discussing how tech giants’ investments in AI are hindering their pledges of climate neutrality, Meta’s frantic search for new lines of business, and Americans’ anger at tech’s political influence. Revealed: landmark Scottish AI project has no prospect of meeting renewables promise US residents angry at datacenters ‘being shoved down our throats’ are recalling officials Americans disgusted at Trump earning $1bn from crypto as president: ‘Obviously a grift’ Tesla sales surpass expectations for second quarter as Musk backlash seems to cool 3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom China wants to solve the hardest problem in robotics – making hands What are Britain’s AI growth zones – and are the plans feasible or ‘complete bunk’? Continue reading...
+
+---
+
+## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -22,25 +33,14 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 3. AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** FI
-**Score:** 18
-**Link:** https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper
-
-Exclusive: Foreign secretary warns of combined risks of AI, climate crisis, irregular migration and foreign interference Artificial intelligence poses a “Hiroshima”-style risk to humanity if governments do not agree to curb how it is developed, the foreign secretary has warned. Yvette Cooper urged countries, including the US and China, to agree international rules for AI, telling the Guardian she believes the issue will dominate foreign policy over the next two years. Continue reading...
-
----
-
-## 4. Doctors’ soaring use of AI scribes prompts Australian government warning over privacy
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+## 4. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
 **Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning
+**Score:** 18
+**Link:** https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
 
-Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its implementation and potential pitfalls Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The federal health department has raised concerns about the use of AI scribes by doctors as the health regulator considers the need for safeguards around the technology. AI scribe tools record, transcribe and summarise conversations between doctors and patients for medical notes, and have boomed in popularity in the past 18 months. Continue reading...
+"HalluSquatting" weaponizes LLMs' inability to say "I don't know."
 
 ---
 
@@ -55,7 +55,18 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 
 ---
 
-## 6. OpenAI’s apparent failure to visit key site raises questions over UK investment
+## 6. The rapid rise of housefishing: are AI-enhanced property listings helpful – or sinister?
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/lifeandstyle/2026/jul/08/the-rapid-rise-of-housefishing-are-ai-enhanced-property-listings-helpful-or-sinister
+
+From repainted walls to imaginary lawns, estate agents say modified photos help buyers ‘visualise the potential of a property’. But how much AI enhancement is too much? Agents, viewers and trading standards experts tell all It is twilight on a desirable street in Chiswick, or it could be Hampstead, Wilmslow or Hove. A spectacular sunset has left a vivid stripe of orange fading into a violet sky. Against this saturated backdrop, a large Victorian house is clearly outlined despite the darkening atmosphere, perhaps thanks to the lights blazing from every single room. The effect is dazzling, in an unhinged, halfway-through-an-exorcism way. It is also quite obviously fake: a digital trick previously achieved with software such as Photoshop, but increasingly using quicker, cheaper AI programs. If you are one of the many Britons for whom browsing expensive property listings is a big pastime, you’ll be familiar with the dusk shot, one of the many ways estate agents try to make their wares stand out in the endless scroll of Rightmove, Zoopla and Instagram. It is a level of artifice that most of us are prepared to overlook. We understand we are being sold a dream and we are generally happy to be transported to a world untroubled by the energy crisis, nosy neighbours or natural shadow. Continue reading...
+
+---
+
+## 7. OpenAI’s apparent failure to visit key site raises questions over UK investment
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +77,7 @@ Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers
 
 ---
 
-## 7. Scotland could freeze datacentre projects in challenge to UK’s AI strategy
+## 8. Scotland could freeze datacentre projects in challenge to UK’s AI strategy
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
