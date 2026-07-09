@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-07-08
+# AI Fail Watch – 2026-07-09
 
-## 1. Google Is Suing Chinese Scammers Who Are Using Gemini
+## 1. Cybersecurity and the Gap Between Skill and Ability
+**Source:** Schneier on Security
+**Category:** Legal
+**Language:** EN
+**Score:** 26
+**Link:** https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html
+
+Last week, national security agencies from the Five Eyes—that’s the rich, English-language-speaking countries club—jointly released a statement warning of the increasing cyber risks of AI models: in particular, their ability to autonomously hack into systems and networks. The statement was more measured than some of the breathless headlines about it, and the advice they gave is pretty much the standard advice everyone gives—albeit with newfound urgency. Internet risks are nothing new, and cyberattacks—both large and small—have been a significant issue since long before the current crop of generative AI models...
+
+---
+
+## 2. Google Is Suing Chinese Scammers Who Are Using Gemini
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -11,7 +22,18 @@ Not sure this will have any effect, but I support the effort: According to Googl
 
 ---
 
-## 2. Big tech’s lofty climate goals wrecked by energy-hungry AI
+## 3. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
+**Source:** Technology | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns
+
+Political campaigns are increasingly deploying AI and deepfakes to further their messaging, and the scale of spread has experts concerned From the comfort of his bed, Jonathan Rinaldi, a political candidate for a city council seat in Queens, New York, tinkered away on his iPhone, prompting an artificial intelligence chatbot to mock up fake news hits and endorsements he had never received. During the campaign last October, Rinaldi shared one of those stories, made to appear real with a CNN logo, on his Facebook and Instagram. It stated that Lynn Schulman, his opponent and an incumbent Democrat, had been “forced to drop out of the race due to a series of critical mistakes”. But Schulman had not quit her campaign, and in November, won by a landslide. Continue reading...
+
+---
+
+## 4. Big tech’s lofty climate goals wrecked by energy-hungry AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,18 +44,7 @@ Net-zero pledges of Google and Amazon slip out of reach, and struggling Meta mak
 
 ---
 
-## 3. Critical Copilot vulnerability allowed hackers to steal 2FA code from users
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 20
-**Link:** https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/
-
-SearchLeak exploit shows why the industry's approach to LLM security fails over and over.
-
----
-
-## 4. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 5. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ SearchLeak exploit shows why the industry's approach to LLM security fails over 
 
 ---
 
-## 5. New attack provides one more reason why AI browsers are a bad idea
+## 6. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 
 ---
 
-## 6. The rapid rise of housefishing: are AI-enhanced property listings helpful – or sinister?
+## 7. The rapid rise of housefishing: are AI-enhanced property listings helpful – or sinister?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -66,7 +77,7 @@ From repainted walls to imaginary lawns, estate agents say modified photos help 
 
 ---
 
-## 7. OpenAI’s apparent failure to visit key site raises questions over UK investment
+## 8. OpenAI’s apparent failure to visit key site raises questions over UK investment
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +88,7 @@ Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers
 
 ---
 
-## 8. Scotland could freeze datacentre projects in challenge to UK’s AI strategy
+## 9. Scotland could freeze datacentre projects in challenge to UK’s AI strategy
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
