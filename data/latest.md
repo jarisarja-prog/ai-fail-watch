@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-07-09
+# AI Fail Watch – 2026-07-10
 
-## 1. Cybersecurity and the Gap Between Skill and Ability
+## 1. OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity
+
+Staggered release of ChatGPT 5.6 follows similar restrictions on rival firm Anthropic’s latest AI models OpenAI released its latest advanced AI model, called ChatGPT 5.6, on Thursday after earlier delaying the public rollout over US government concerns about cybersecurity. The Trump administration had requested last month that OpenAI limit the release to a small group of government-approved users. OpenAI complied with the White House’s request last month. The company stated in a blogpost that it had briefed government officials on ChatGPT 5.6’s capabilities and restricted the model to trusted partners at their behest. The product’s wider release came after additional testing by the government’s Center for AI Standards and Innovation agency, according to Axios . Continue reading...
+
+---
+
+## 2. Cybersecurity and the Gap Between Skill and Ability
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -11,7 +22,7 @@ Last week, national security agencies from the Five Eyes—that’s the rich, En
 
 ---
 
-## 2. Google Is Suing Chinese Scammers Who Are Using Gemini
+## 3. Google Is Suing Chinese Scammers Who Are Using Gemini
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -22,7 +33,18 @@ Not sure this will have any effect, but I support the effort: According to Googl
 
 ---
 
-## 3. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
+## 4. Instagram’s AI image generator alarms privacy experts
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy
+
+Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warn Meta has sparked blowback from privacy advocates for allowing its new AI image maker to generate photos of users with public profiles by default. Users of Meta’s Muse Image AI tool, released Tuesday, can tag public Instagram profiles and generate pictures that pull from faces of people featured in these social media posts. Instagram users are not notified when their posts are integrated into what the company describes as its “most advanced image generation model yet”. Continue reading...
+
+---
+
+## 5. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
 **Source:** Technology | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -33,18 +55,29 @@ Political campaigns are increasingly deploying AI and deepfakes to further their
 
 ---
 
-## 4. Big tech’s lofty climate goals wrecked by energy-hungry AI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+## 6. ‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
+**Source:** Technology | The Guardian
+**Category:** Privacy
 **Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills
 
-Net-zero pledges of Google and Amazon slip out of reach, and struggling Meta makes frantic moves Hello, and welcome to TechScape. I’m your host, Blake Montgomery, the Guardian’s US tech editor, writing to you after a rodeo in rural Texas, where I celebrated Independence Day. Today in tech, we’re discussing how tech giants’ investments in AI are hindering their pledges of climate neutrality, Meta’s frantic search for new lines of business, and Americans’ anger at tech’s political influence. Revealed: landmark Scottish AI project has no prospect of meeting renewables promise US residents angry at datacenters ‘being shoved down our throats’ are recalling officials Americans disgusted at Trump earning $1bn from crypto as president: ‘Obviously a grift’ Tesla sales surpass expectations for second quarter as Musk backlash seems to cool 3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom China wants to solve the hardest problem in robotics – making hands What are Britain’s AI growth zones – and are the plans feasible or ‘complete bunk’? Continue reading...
+Exclusive: Senator Ed Markey on why he has proposed legislation aimed at curbing datacenters, automated hiring systems and harm to children US senator Ed Markey is worried about the perils of unregulated artificial intelligence. What part? All of it: the costs associated with thirsty, energy-guzzling datacenters, intrusive workplace surveillance, bias in discriminatory algorithms, AI overriding workers’ judgments, and deepening economic inequality – as those who profit most from AI rake in extraordinary windfalls. Continue reading...
 
 ---
 
-## 5. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 7. The Language of AI Could Change How Humans Speak
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 20
+**Link:** https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html
+
+Because of the way they are trained, large language models capture only a slice of human language. They’re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face to face or voice to voice. This is the vast majority of speech, and a vital component of human culture. There’s a risk to this. The increased use of large language models means we humans will encounter much more AI-generated text. We humans, in turn, will begin to adopt the linguistic patterns and behaviors of these models. This will affect not just how we communicate with one another, but also how we ...
+
+---
+
+## 8. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +88,7 @@ Net-zero pledges of Google and Amazon slip out of reach, and struggling Meta mak
 
 ---
 
-## 6. New attack provides one more reason why AI browsers are a bad idea
+## 9. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +99,7 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 
 ---
 
-## 7. The rapid rise of housefishing: are AI-enhanced property listings helpful – or sinister?
+## 10. The rapid rise of housefishing: are AI-enhanced property listings helpful – or sinister?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -74,27 +107,5 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 **Link:** https://www.theguardian.com/lifeandstyle/2026/jul/08/the-rapid-rise-of-housefishing-are-ai-enhanced-property-listings-helpful-or-sinister
 
 From repainted walls to imaginary lawns, estate agents say modified photos help buyers ‘visualise the potential of a property’. But how much AI enhancement is too much? Agents, viewers and trading standards experts tell all It is twilight on a desirable street in Chiswick, or it could be Hampstead, Wilmslow or Hove. A spectacular sunset has left a vivid stripe of orange fading into a violet sky. Against this saturated backdrop, a large Victorian house is clearly outlined despite the darkening atmosphere, perhaps thanks to the lights blazing from every single room. The effect is dazzling, in an unhinged, halfway-through-an-exorcism way. It is also quite obviously fake: a digital trick previously achieved with software such as Photoshop, but increasingly using quicker, cheaper AI programs. If you are one of the many Britons for whom browsing expensive property listings is a big pastime, you’ll be familiar with the dusk shot, one of the many ways estate agents try to make their wares stand out in the endless scroll of Rightmove, Zoopla and Instagram. It is a level of artifice that most of us are prepared to overlook. We understand we are being sold a dream and we are generally happy to be transported to a world untroubled by the energy crisis, nosy neighbours or natural shadow. Continue reading...
-
----
-
-## 8. OpenAI’s apparent failure to visit key site raises questions over UK investment
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project
-
-Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypothetical It was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. Stargate UK – a multibillion-pound UK datacentre project – would represent “a major step forward in the US-UK technology partnership”. But the plans were paused in April , with an OpenAI spokesperson citing concerns over regulation and high energy costs . Continue reading...
-
----
-
-## 9. Scotland could freeze datacentre projects in challenge to UK’s AI strategy
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy
-
-Scottish government to consider SNP national council motion for moratorium on all new datacentres The Scottish government is about to consider a sweeping moratorium on building new datacentres, putting a key plank of the UK’s AI strategy at risk. Last Sunday the Scottish National party (SNP)’s national council passed a motion to freeze all new datacentres in Scotland. That motion has been sent to the Scottish government to consider. Continue reading...
 
 ---
