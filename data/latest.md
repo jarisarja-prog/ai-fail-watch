@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-10
+# AI Fail Watch – 2026-07-11
 
 ## 1. OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns
 **Source:** AI (artificial intelligence) | The Guardian
@@ -55,7 +55,18 @@ Political campaigns are increasingly deploying AI and deepfakes to further their
 
 ---
 
-## 6. ‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
+## 6. Apple sues OpenAI, alleging artificial intelligence company stole trade secrets
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets
+
+Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardware Apple filed a lawsuit against OpenAI on Friday alleging the artificial intelligence firm stole company trade secrets in a move to create its own hardware device. The suit claims OpenAI poached Apple employees, coaxing them to hand over confidential material, product designs and other tightly held information. Continue reading...
+
+---
+
+## 7. ‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -66,7 +77,18 @@ Exclusive: Senator Ed Markey on why he has proposed legislation aimed at curbing
 
 ---
 
-## 7. The Language of AI Could Change How Humans Speak
+## 8. Apple sues OpenAI for allegedly stealing hardware secrets
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
+
+Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple." In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, […]
+
+---
+
+## 9. The Language of AI Could Change How Humans Speak
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,35 +99,13 @@ Because of the way they are trained, large language models capture only a slice 
 
 ---
 
-## 8. Hackers can use 9 of the most popular AI tools to assemble massive botnets
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
-
-"HalluSquatting" weaponizes LLMs' inability to say "I don't know."
-
----
-
-## 9. New attack provides one more reason why AI browsers are a bad idea
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 14
-**Link:** https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
-
-Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
-
----
-
-## 10. The rapid rise of housefishing: are AI-enhanced property listings helpful – or sinister?
+## 10. Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
+**Category:** Privacy
 **Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/lifeandstyle/2026/jul/08/the-rapid-rise-of-housefishing-are-ai-enhanced-property-listings-helpful-or-sinister
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy
 
-From repainted walls to imaginary lawns, estate agents say modified photos help buyers ‘visualise the potential of a property’. But how much AI enhancement is too much? Agents, viewers and trading standards experts tell all It is twilight on a desirable street in Chiswick, or it could be Hampstead, Wilmslow or Hove. A spectacular sunset has left a vivid stripe of orange fading into a violet sky. Against this saturated backdrop, a large Victorian house is clearly outlined despite the darkening atmosphere, perhaps thanks to the lights blazing from every single room. The effect is dazzling, in an unhinged, halfway-through-an-exorcism way. It is also quite obviously fake: a digital trick previously achieved with software such as Photoshop, but increasingly using quicker, cheaper AI programs. If you are one of the many Britons for whom browsing expensive property listings is a big pastime, you’ll be familiar with the dusk shot, one of the many ways estate agents try to make their wares stand out in the endless scroll of Rightmove, Zoopla and Instagram. It is a level of artifice that most of us are prepared to overlook. We understand we are being sold a dream and we are generally happy to be transported to a world untroubled by the energy crisis, nosy neighbours or natural shadow. Continue reading...
+Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts Meta has said ⁠it is discontinuing an AI feature launched this week that allowed users to generate images using public Instagram ⁠accounts, after drawing widespread ⁠criticism over ​privacy concerns, including from a Hollywood union. “Our intent was to provide a useful creative tool and to give people control ⁠over whether their public content could be referenced in this way,” Meta said in a statement. Continue reading...
 
 ---
