@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-11
+# AI Fail Watch – 2026-07-12
 
 ## 1. OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns
 **Source:** AI (artificial intelligence) | The Guardian
@@ -77,18 +77,7 @@ Exclusive: Senator Ed Markey on why he has proposed legislation aimed at curbing
 
 ---
 
-## 8. Apple sues OpenAI for allegedly stealing hardware secrets
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets
-
-Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered "a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple." In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, […]
-
----
-
-## 9. The Language of AI Could Change How Humans Speak
+## 8. The Language of AI Could Change How Humans Speak
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ Because of the way they are trained, large language models capture only a slice 
 
 ---
 
-## 10. Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
+## 9. Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -107,5 +96,16 @@ Because of the way they are trained, large language models capture only a slice 
 **Link:** https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy
 
 Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts Meta has said ⁠it is discontinuing an AI feature launched this week that allowed users to generate images using public Instagram ⁠accounts, after drawing widespread ⁠criticism over ​privacy concerns, including from a Hollywood union. “Our intent was to provide a useful creative tool and to give people control ⁠over whether their public content could be referenced in this way,” Meta said in a statement. Continue reading...
+
+---
+
+## 10. Bank of England handed powers to regulate key tech firms including Amazon and Google
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google
+
+Direct oversight of ‘critical third parties’ such as Oracle and Microsoft given to ensure resilient cyber-defences and help safeguard UK economy The Bank of England has been handed powers to regulate important tech firms including Amazon and Google from next week, amid fears that system failures could threaten financial stability and harm consumers. From Monday, the Bank and fellow City regulator the Financial Conduct Authority (FCA) will be in charge of ensuring that four large-scale providers of cloud and tech services to banks are resilient and actively reducing the risk of cyber-attacks and major outages that could disrupt services for millions of people and businesses across the UK. Continue reading...
 
 ---
