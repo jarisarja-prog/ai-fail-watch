@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-07-12
+# AI Fail Watch – 2026-07-13
 
-## 1. OpenAI releases latest ChatGPT model after delay over White House cybersecurity concerns
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity
-
-Staggered release of ChatGPT 5.6 follows similar restrictions on rival firm Anthropic’s latest AI models OpenAI released its latest advanced AI model, called ChatGPT 5.6, on Thursday after earlier delaying the public rollout over US government concerns about cybersecurity. The Trump administration had requested last month that OpenAI limit the release to a small group of government-approved users. OpenAI complied with the White House’s request last month. The company stated in a blogpost that it had briefed government officials on ChatGPT 5.6’s capabilities and restricted the model to trusted partners at their behest. The product’s wider release came after additional testing by the government’s Center for AI Standards and Innovation agency, according to Axios . Continue reading...
-
----
-
-## 2. Cybersecurity and the Gap Between Skill and Ability
+## 1. Cybersecurity and the Gap Between Skill and Ability
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -22,7 +11,7 @@ Last week, national security agencies from the Five Eyes—that’s the rich, En
 
 ---
 
-## 3. Google Is Suing Chinese Scammers Who Are Using Gemini
+## 2. Google Is Suing Chinese Scammers Who Are Using Gemini
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -33,18 +22,7 @@ Not sure this will have any effect, but I support the effort: According to Googl
 
 ---
 
-## 4. Instagram’s AI image generator alarms privacy experts
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy
-
-Instagram users should check privacy settings after rollout of new Meta AI image generator, advocates warn Meta has sparked blowback from privacy advocates for allowing its new AI image maker to generate photos of users with public profiles by default. Users of Meta’s Muse Image AI tool, released Tuesday, can tag public Instagram profiles and generate pictures that pull from faces of people featured in these social media posts. Instagram users are not notified when their posts are integrated into what the company describes as its “most advanced image generation model yet”. Continue reading...
-
----
-
-## 5. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
+## 3. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
 **Source:** Technology | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -55,7 +33,7 @@ Political campaigns are increasingly deploying AI and deepfakes to further their
 
 ---
 
-## 6. Apple sues OpenAI, alleging artificial intelligence company stole trade secrets
+## 4. Apple sues OpenAI, alleging artificial intelligence company stole trade secrets
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,7 +44,7 @@ Suit claims OpenAI poached Apple workers, coaxing them to share confidential mat
 
 ---
 
-## 7. ‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
+## 5. ‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -77,7 +55,7 @@ Exclusive: Senator Ed Markey on why he has proposed legislation aimed at curbing
 
 ---
 
-## 8. The Language of AI Could Change How Humans Speak
+## 6. The Language of AI Could Change How Humans Speak
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +66,7 @@ Because of the way they are trained, large language models capture only a slice 
 
 ---
 
-## 9. Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
+## 7. Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -99,7 +77,7 @@ Meta was criticised for feature launched on Tuesday that automatically lets user
 
 ---
 
-## 10. Bank of England handed powers to regulate key tech firms including Amazon and Google
+## 8. Bank of England handed powers to regulate key tech firms including Amazon and Google
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +85,27 @@ Meta was criticised for feature launched on Tuesday that automatically lets user
 **Link:** https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google
 
 Direct oversight of ‘critical third parties’ such as Oracle and Microsoft given to ensure resilient cyber-defences and help safeguard UK economy The Bank of England has been handed powers to regulate important tech firms including Amazon and Google from next week, amid fears that system failures could threaten financial stability and harm consumers. From Monday, the Bank and fellow City regulator the Financial Conduct Authority (FCA) will be in charge of ensuring that four large-scale providers of cloud and tech services to banks are resilient and actively reducing the risk of cyber-attacks and major outages that could disrupt services for millions of people and businesses across the UK. Continue reading...
+
+---
+
+## 9. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
+
+"HalluSquatting" weaponizes LLMs' inability to say "I don't know."
+
+---
+
+## 10. Alarm over launch of facial recognition in UK shops that instantly alerts police
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties
+
+Civil liberties groups say Facewatch system in stores such as Sainsbury’s and B&M is ‘dangerous escalation’ Facial recognition technology in shops will soon alert police in real time to the presence of serious offenders, with civil liberties groups warning of a “dangerous escalation” towards surveillance and criminalisation in the retail sector. Facewatch, a facial recognition system used by more than 100 businesses including Sainsbury’s, B&M and Spar to monitor thieves, said it was launching a UK-first feature to “alert police instantly when the most serious offenders trigger a live facial recognition match”. Continue reading...
 
 ---
