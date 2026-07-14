@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-13
+# AI Fail Watch – 2026-07-14
 
 ## 1. Cybersecurity and the Gap Between Skill and Ability
 **Source:** Schneier on Security
@@ -34,7 +34,7 @@ Political campaigns are increasingly deploying AI and deepfakes to further their
 ---
 
 ## 4. Apple sues OpenAI, alleging artificial intelligence company stole trade secrets
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 20
@@ -45,7 +45,7 @@ Suit claims OpenAI poached Apple workers, coaxing them to share confidential mat
 ---
 
 ## 5. ‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
 **Score:** 20
@@ -99,13 +99,13 @@ Direct oversight of ‘critical third parties’ such as Oracle and Microsoft gi
 
 ---
 
-## 10. Alarm over launch of facial recognition in UK shops that instantly alerts police
+## 10. Can Labor save us from the risks of AI? – podcast
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+**Category:** Legal
 **Language:** EN
 **Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties
+**Link:** https://www.theguardian.com/australia-news/audio/2026/jul/13/can-labor-save-us-from-the-risks-of-ai-full-story-podcast
 
-Civil liberties groups say Facewatch system in stores such as Sainsbury’s and B&M is ‘dangerous escalation’ Facial recognition technology in shops will soon alert police in real time to the presence of serious offenders, with civil liberties groups warning of a “dangerous escalation” towards surveillance and criminalisation in the retail sector. Facewatch, a facial recognition system used by more than 100 businesses including Sainsbury’s, B&M and Spar to monitor thieves, said it was launching a UK-first feature to “alert police instantly when the most serious offenders trigger a live facial recognition match”. Continue reading...
+The AI revolution is here, and with it a fear that soon it will replace many of us in the workplace. The Australian government is grappling with how to deal with the multi-layered disruption but so far reform has been slow as it weighs up regulation against the claims of investment opportunities an AI boom presents. Could that change on Wednesday when the prime minister delivers a landmark speech addressing the government’s approach to the technology? The chief political correspondent, Dan Jervis-Bardy , speaks to Reged Ahmad about the tightrope the PM needs to walk between embracing new technology and protecting workers Read more: AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split Continue reading...
 
 ---
