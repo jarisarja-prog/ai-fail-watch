@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-14
+# AI Fail Watch – 2026-07-15
 
 ## 1. Cybersecurity and the Gap Between Skill and Ability
 **Source:** Schneier on Security
@@ -11,7 +11,18 @@ Last week, national security agencies from the Five Eyes—that’s the rich, En
 
 ---
 
-## 2. Google Is Suing Chinese Scammers Who Are Using Gemini
+## 2. Book publishers sue Google for copyright infringement over Gemini AI training
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/books/2026/jul/14/publishers-sue-google-gemini-ai-training
+
+Group of major publishers accuses the tech giant of ‘one of the most prolific infringements of copyrighted materials in history’ A group of major publishers have filed a lawsuit against Google, accusing the company of illegally using millions of copyrighted books to help build its Gemini artificial intelligence models, in “one of the most prolific infringements of copyrighted materials in history”. The case, filed in federal court in New York, has been brought by three publishers – Hachette Book Group, Cengage Learning, and Elsevier – and bestselling American author Scott Turow. Continue reading...
+
+---
+
+## 3. Google Is Suing Chinese Scammers Who Are Using Gemini
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -22,7 +33,18 @@ Not sure this will have any effect, but I support the effort: According to Googl
 
 ---
 
-## 3. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
+## 4. Meta accused of using biased AI targeting for mass layoffs
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
+
+A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a "constellation" of internal AI tools, […]
+
+---
+
+## 5. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
 **Source:** Technology | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -33,29 +55,29 @@ Political campaigns are increasingly deploying AI and deepfakes to further their
 
 ---
 
-## 4. Apple sues OpenAI, alleging artificial intelligence company stole trade secrets
-**Source:** AI (artificial intelligence) | The Guardian
+## 6. Meta used AI to tag workers who took leave to be laid off, lawsuit claims
+**Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit
 
-Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardware Apple filed a lawsuit against OpenAI on Friday alleging the artificial intelligence firm stole company trade secrets in a move to create its own hardware device. The suit claims OpenAI poached Apple employees, coaxing them to hand over confidential material, product designs and other tightly held information. Continue reading...
+Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffs Dozens of Meta employees have sued the social media company over claims that it used artificial intelligence tools to tag workers for mass layoffs. The workers allege that those AI tools targeted them after they asked for protected or maternity leave or disability accommodation. The lawsuit, filed Monday in federal court in the northern district of California, points to Meta’s workforce reduction of about 8,000 employees earlier this year. Meta is the parent company of Facebook, Instagram and WhatsApp. The suit alleges that Meta used a “constellation of internal artificial intelligence systems”, including AI performance ratings and keystroke- and activity-monitoring data, to pinpoint who to lay off. Continue reading...
 
 ---
 
-## 5. ‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+## 7. The UK wants to catch up in the global AI race – but is too wary to go all-in
+**Source:** Technology | The Guardian
+**Category:** General
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks
 
-Exclusive: Senator Ed Markey on why he has proposed legislation aimed at curbing datacenters, automated hiring systems and harm to children US senator Ed Markey is worried about the perils of unregulated artificial intelligence. What part? All of it: the costs associated with thirsty, energy-guzzling datacenters, intrusive workplace surveillance, bias in discriminatory algorithms, AI overriding workers’ judgments, and deepening economic inequality – as those who profit most from AI rake in extraordinary windfalls. Continue reading...
+UK fears a ‘triple whammy’: oversized investment in AI stocks, slower adoption of AI than predicted and the breakneck pace of AI’s development Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Today, we’re discussing the UK’s difficult position in the AI race, new doubts over OpenAI’s path toward a trillion-dollar stock market debut and the changes to IRL tech reporting in the age of AI. My patients use ChatGPT for therapy. Now I use it too | Sarah Darghouth | The Guardian Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI Continue reading...
 
 ---
 
-## 6. The Language of AI Could Change How Humans Speak
+## 8. The Language of AI Could Change How Humans Speak
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -63,28 +85,6 @@ Exclusive: Senator Ed Markey on why he has proposed legislation aimed at curbing
 **Link:** https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html
 
 Because of the way they are trained, large language models capture only a slice of human language. They’re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face to face or voice to voice. This is the vast majority of speech, and a vital component of human culture. There’s a risk to this. The increased use of large language models means we humans will encounter much more AI-generated text. We humans, in turn, will begin to adopt the linguistic patterns and behaviors of these models. This will affect not just how we communicate with one another, but also how we ...
-
----
-
-## 7. Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy
-
-Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts Meta has said ⁠it is discontinuing an AI feature launched this week that allowed users to generate images using public Instagram ⁠accounts, after drawing widespread ⁠criticism over ​privacy concerns, including from a Hollywood union. “Our intent was to provide a useful creative tool and to give people control ⁠over whether their public content could be referenced in this way,” Meta said in a statement. Continue reading...
-
----
-
-## 8. Bank of England handed powers to regulate key tech firms including Amazon and Google
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google
-
-Direct oversight of ‘critical third parties’ such as Oracle and Microsoft given to ensure resilient cyber-defences and help safeguard UK economy The Bank of England has been handed powers to regulate important tech firms including Amazon and Google from next week, amid fears that system failures could threaten financial stability and harm consumers. From Monday, the Bank and fellow City regulator the Financial Conduct Authority (FCA) will be in charge of ensuring that four large-scale providers of cloud and tech services to banks are resilient and actively reducing the risk of cyber-attacks and major outages that could disrupt services for millions of people and businesses across the UK. Continue reading...
 
 ---
 
@@ -99,13 +99,13 @@ Direct oversight of ‘critical third parties’ such as Oracle and Microsoft gi
 
 ---
 
-## 10. Can Labor save us from the risks of AI? – podcast
+## 10. Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 18
-**Link:** https://www.theguardian.com/australia-news/audio/2026/jul/13/can-labor-save-us-from-the-risks-of-ai-full-story-podcast
+**Link:** https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment
 
-The AI revolution is here, and with it a fear that soon it will replace many of us in the workplace. The Australian government is grappling with how to deal with the multi-layered disruption but so far reform has been slow as it weighs up regulation against the claims of investment opportunities an AI boom presents. Could that change on Wednesday when the prime minister delivers a landmark speech addressing the government’s approach to the technology? The chief political correspondent, Dan Jervis-Bardy , speaks to Reged Ahmad about the tightrope the PM needs to walk between embracing new technology and protecting workers Read more: AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split Continue reading...
+PM to declare Australia the first country worldwide to bring economic, social, security and environmental issues from AI under single office in major speech Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says the federal government will introduce faster approval processes for AI projects, including datacentres, across Australia, seeking to shore up investor certainty and maintain community confidence in the rapidly advancing technology . Announcing the creation of a new office of AI to be established within his department in a major speech on Wednesday, the prime minister will declare Australia is set to become the first country in the world to bring the economic, social, national security and environmental issues stemming from AI into a single, national framework. Continue reading...
 
 ---
