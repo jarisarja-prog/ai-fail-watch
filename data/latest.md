@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-07-15
+# AI Fail Watch – 2026-07-16
 
-## 1. Cybersecurity and the Gap Between Skill and Ability
+## 1. xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 40
+**Link:** https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam
+
+The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood "knowingly and intentionally used Grok to circumvent safeguards, alter nonconsensual images, and generate and distribute CSAM," breaching the […]
+
+---
+
+## 2. Cybersecurity and the Gap Between Skill and Ability
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -11,8 +22,8 @@ Last week, national security agencies from the Five Eyes—that’s the rich, En
 
 ---
 
-## 2. Book publishers sue Google for copyright infringement over Gemini AI training
-**Source:** AI (artificial intelligence) | The Guardian
+## 3. Book publishers sue Google for copyright infringement over Gemini AI training
+**Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 24
@@ -22,7 +33,7 @@ Group of major publishers accuses the tech giant of ‘one of the most prolific 
 
 ---
 
-## 3. Google Is Suing Chinese Scammers Who Are Using Gemini
+## 4. Google Is Suing Chinese Scammers Who Are Using Gemini
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -30,17 +41,6 @@ Group of major publishers accuses the tech giant of ‘one of the most prolific 
 **Link:** https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html
 
 Not sure this will have any effect, but I support the effort: According to Google’s legal filing, Outsider Enterprise operates through Telegram. The group offers phishing-as-a-service to individuals who may not be technically savvy enough to set up fraudulent websites and text campaigns on their own. In its Telegram channels, Outsider Enterprise reportedly provided instructions on how to use Google’s Gemini AI to create websites that imitate those of Google, YouTube, and government agencies such as New York’s E-ZPass. The group offered nearly 300 scam templates...
-
----
-
-## 4. Meta accused of using biased AI targeting for mass layoffs
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs
-
-A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a "constellation" of internal AI tools, […]
 
 ---
 
@@ -66,18 +66,7 @@ Lawsuit filed by dozens of employees says people who took maternity or disabilit
 
 ---
 
-## 7. The UK wants to catch up in the global AI race – but is too wary to go all-in
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks
-
-UK fears a ‘triple whammy’: oversized investment in AI stocks, slower adoption of AI than predicted and the breakneck pace of AI’s development Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Today, we’re discussing the UK’s difficult position in the AI race, new doubts over OpenAI’s path toward a trillion-dollar stock market debut and the changes to IRL tech reporting in the age of AI. My patients use ChatGPT for therapy. Now I use it too | Sarah Darghouth | The Guardian Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI Continue reading...
-
----
-
-## 8. The Language of AI Could Change How Humans Speak
+## 7. The Language of AI Could Change How Humans Speak
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ Because of the way they are trained, large language models capture only a slice 
 
 ---
 
-## 9. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 8. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ Because of the way they are trained, large language models capture only a slice 
 
 ---
 
-## 10. Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment
+## 9. Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -107,5 +96,16 @@ Because of the way they are trained, large language models capture only a slice 
 **Link:** https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment
 
 PM to declare Australia the first country worldwide to bring economic, social, security and environmental issues from AI under single office in major speech Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says the federal government will introduce faster approval processes for AI projects, including datacentres, across Australia, seeking to shore up investor certainty and maintain community confidence in the rapidly advancing technology . Announcing the creation of a new office of AI to be established within his department in a major speech on Wednesday, the prime minister will declare Australia is set to become the first country in the world to bring the economic, social, national security and environmental issues stemming from AI into a single, national framework. Continue reading...
+
+---
+
+## 10. New attack provides one more reason why AI browsers are a bad idea
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
+
+Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
 
 ---
