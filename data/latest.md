@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-17
+# AI Fail Watch – 2026-07-18
 
 ## 1. Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material
 **Source:** Technology | The Guardian
@@ -11,29 +11,7 @@ Case is one of first brought by an AI company against a user ⁠for allegedly us
 
 ---
 
-## 2. Cybersecurity and the Gap Between Skill and Ability
-**Source:** Schneier on Security
-**Category:** Legal
-**Language:** EN
-**Score:** 26
-**Link:** https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html
-
-Last week, national security agencies from the Five Eyes—that’s the rich, English-language-speaking countries club—jointly released a statement warning of the increasing cyber risks of AI models: in particular, their ability to autonomously hack into systems and networks. The statement was more measured than some of the breathless headlines about it, and the advice they gave is pretty much the standard advice everyone gives—albeit with newfound urgency. Internet risks are nothing new, and cyberattacks—both large and small—have been a significant issue since long before the current crop of generative AI models...
-
----
-
-## 3. Google Is Suing Chinese Scammers Who Are Using Gemini
-**Source:** Schneier on Security
-**Category:** Legal
-**Language:** EN
-**Score:** 24
-**Link:** https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html
-
-Not sure this will have any effect, but I support the effort: According to Google’s legal filing, Outsider Enterprise operates through Telegram. The group offers phishing-as-a-service to individuals who may not be technically savvy enough to set up fraudulent websites and text campaigns on their own. In its Telegram channels, Outsider Enterprise reportedly provided instructions on how to use Google’s Gemini AI to create websites that imitate those of Google, YouTube, and government agencies such as New York’s E-ZPass. The group offered nearly 300 scam templates...
-
----
-
-## 4. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
+## 2. Can AI equalize political campaign ads – or will it remain a tool for spreading lies?
 **Source:** Technology | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -44,18 +22,7 @@ Political campaigns are increasingly deploying AI and deepfakes to further their
 
 ---
 
-## 5. Meta used AI to tag workers who took leave to be laid off, lawsuit claims
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit
-
-Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffs Dozens of Meta employees have sued the social media company over claims that it used artificial intelligence tools to tag workers for mass layoffs. The workers allege that those AI tools targeted them after they asked for protected or maternity leave or disability accommodation. The lawsuit, filed Monday in federal court in the northern district of California, points to Meta’s workforce reduction of about 8,000 employees earlier this year. Meta is the parent company of Facebook, Instagram and WhatsApp. The suit alleges that Meta used a “constellation of internal artificial intelligence systems”, including AI performance ratings and keystroke- and activity-monitoring data, to pinpoint who to lay off. Continue reading...
-
----
-
-## 6. ‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?
+## 3. ‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -66,7 +33,18 @@ Designers say that as well as offering a degree of protection from surveillance,
 
 ---
 
-## 7. The Language of AI Could Change How Humans Speak
+## 4. Apple’s plot to crush OpenAI
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast
+
+Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The […]
+
+---
+
+## 5. The Language of AI Could Change How Humans Speak
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +55,7 @@ Because of the way they are trained, large language models capture only a slice 
 
 ---
 
-## 8. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 6. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +66,7 @@ Because of the way they are trained, large language models capture only a slice 
 
 ---
 
-## 9. TikTok facing UK investigation amid fears over age checks and harm to children
+## 7. TikTok facing UK investigation amid fears over age checks and harm to children
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -99,7 +77,7 @@ Ofcom concerned TikTok’s age verification is ineffective, leaving some exposed
 
 ---
 
-## 10. New attack provides one more reason why AI browsers are a bad idea
+## 8. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,16 @@ Ofcom concerned TikTok’s age verification is ineffective, leaving some exposed
 **Link:** https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
 
 Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
+
+---
+
+## 9. Microsoft Patches a Record 570 Security Flaws
+**Source:** Krebs on Security
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+
+Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.
 
 ---
