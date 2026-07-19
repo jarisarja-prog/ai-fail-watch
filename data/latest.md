@@ -1,10 +1,10 @@
-# AI Fail Watch – 2026-07-18
+# AI Fail Watch – 2026-07-19
 
 ## 1. Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 28
+**Score:** 32
 **Link:** https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam
 
 Case is one of first brought by an AI company against a user ⁠for allegedly using a tool to generate child abuse material Elon Musk’s artificial-intelligence startup xAI has sued a South Carolina man arrested ⁠earlier this year on charges of sexually exploiting minors, alleging he misused the company’s AI system Grok to ⁠create child sexual abuse ⁠material. xAI ​alleged in the lawsuit, filed in federal court in Texas on Tuesday, that Terry Harwood violated the company’s ⁠terms of service. The case is one of the first brought by an AI company against one of its users ⁠for allegedly using an AI system to generate child sexual abuse material. Continue reading...
@@ -22,7 +22,18 @@ Political campaigns are increasingly deploying AI and deepfakes to further their
 
 ---
 
-## 3. ‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?
+## 3. ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments
+
+Australia risks ‘shipping’ intellectual capability overseas if educational rigour not restored, experts warn Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An academic at the Australian National University has accused it of a “hysterical” response to students using AI to cheat, as tertiary institutions rush to shore up the credibility of assessments. But a colleague warned Australia is in danger of “shipping our national intellectual capability” to companies in California and China if educational rigour is not restored. Continue reading...
+
+---
+
+## 4. ‘Adversarial clothing’: are garments designed to confuse facial recognition systems about to go mainstream?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -30,17 +41,6 @@ Political campaigns are increasingly deploying AI and deepfakes to further their
 **Link:** https://www.theguardian.com/fashion/2026/jul/17/adversarial-clothing-are-garments-designed-to-confuse-facial-recognition-systems-about-to-go-mainstream
 
 Designers say that as well as offering a degree of protection from surveillance, their clothes make a powerful fashion statement about the importance of privacy As facial recognition technology is rolled out across Britain’s public spaces, a new generation of designers say privacy could be the next big fashion trend. Companies have started incorporating “adversarial patterns” in their garments – carefully designed arrangements of shapes, colours and repeated motifs said to exploit weaknesses in some computer vision systems. Continue reading...
-
----
-
-## 4. Apple’s plot to crush OpenAI
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast
-
-Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The […]
 
 ---
 
