@@ -1,13 +1,13 @@
-# AI Fail Watch – 2026-07-20
+# AI Fail Watch – 2026-07-21
 
-## 1. Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material
+## 1. Election voting advice from AI chatbots ‘inaccurate and unreliable’
 **Source:** Technology | The Guardian
-**Category:** Legal
+**Category:** Research integrity
 **Language:** EN
-**Score:** 28
-**Link:** https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary
 
-Case is one of first brought by an AI company against a user ⁠for allegedly using a tool to generate child abuse material Elon Musk’s artificial-intelligence startup xAI has sued a South Carolina man arrested ⁠earlier this year on charges of sexually exploiting minors, alleging he misused the company’s AI system Grok to ⁠create child sexual abuse ⁠material. xAI ​alleged in the lawsuit, filed in federal court in Texas on Tuesday, that Terry Harwood violated the company’s ⁠terms of service. The case is one of the first brought by an AI company against one of its users ⁠for allegedly using an AI system to generate child sexual abuse material. Continue reading...
+Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical prompts AI chatbots provide inaccurate, inconsistent and unreliable guidance to voters asking which party they should back, a study suggests, often recommending the wrong party, not mentioning the right one, or listing parties not even running. “The results raise serious concerns about the reliability of general-purpose AI systems in electoral contexts,” the study , published by the civil liberties group Liberties and based on research during this year’s Hungarian parliamentary elections, concluded. Continue reading...
 
 ---
 
@@ -55,18 +55,7 @@ Designers say that as well as offering a degree of protection from surveillance,
 
 ---
 
-## 6. The Language of AI Could Change How Humans Speak
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 20
-**Link:** https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html
-
-Because of the way they are trained, large language models capture only a slice of human language. They’re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face to face or voice to voice. This is the vast majority of speech, and a vital component of human culture. There’s a risk to this. The increased use of large language models means we humans will encounter much more AI-generated text. We humans, in turn, will begin to adopt the linguistic patterns and behaviors of these models. This will affect not just how we communicate with one another, but also how we ...
-
----
-
-## 7. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 6. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,19 +66,8 @@ Because of the way they are trained, large language models capture only a slice 
 
 ---
 
-## 8. TikTok facing UK investigation amid fears over age checks and harm to children
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide
-
-Ofcom concerned TikTok’s age verification is ineffective, leaving some exposed to posts on suicide, self-harm and pornography TikTok is under formal investigation over concerns it has failed to protect children from harmful content, the UK’s online regulator, Ofcom, has announced. The social media platform’s approach to checking the ages of users has sparked “particular concerns” at the watchdog, almost a year after measures to protect children from the worst of online content came into effect under the Online Safety Act. Continue reading...
-
----
-
-## 9. Government use of automated AI decision-making to be curbed under new Australian rules
-**Source:** AI (artificial intelligence) | The Guardian
+## 7. Government use of automated AI decision-making to be curbed under new Australian rules
+**Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
 **Score:** 15
@@ -99,7 +77,7 @@ New national plan is accompanied by Labor push for digital duty of care legislat
 
 ---
 
-## 10. New attack provides one more reason why AI browsers are a bad idea
+## 8. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,27 @@ New national plan is accompanied by Labor push for digital duty of care legislat
 **Link:** https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
 
 Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
+
+---
+
+## 9. Not enough water for UK’s datacentre plans, trade body says
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says
+
+Industry says government’s failure to address cooling demands means AI growth plans are ‘fatally flawed’ The UK will not have enough water for future datacentres, the water industry has said in stark criticism of the government’s AI growth plans. Datacentres rely on large amounts of water to manage the heat generated by densely packed servers. Cooling towers, chillers and humidification systems make direct use of this water, with large volumes also consumed indirectly through high electrical power needs. Continue reading...
+
+---
+
+## 10. Microsoft Patches a Record 570 Security Flaws
+**Source:** Krebs on Security
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+
+Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.
 
 ---
