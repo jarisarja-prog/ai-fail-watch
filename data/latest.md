@@ -1,13 +1,13 @@
-# AI Fail Watch – 2026-07-22
+# AI Fail Watch – 2026-07-23
 
-## 1. Could AI be conscious?
-**Source:** AI (artificial intelligence) | The Guardian
+## 1. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
+**Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious
+**Score:** 28
+**Link:** https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks
 
-Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications In January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want to overstate the likelihood of Claude’s moral patienthood nor dismiss it out of hand.” A month later, Anthropic’s CEO Dario Amodei went on a podcast and said his company couldn’t rule out the possibility that Claude was conscious. Philosopher David Chalmers, who coined the phrase “the hard problem of consciousness”, has said there is a significant chance of conscious LLMs within a decade. And what about Claude itself? When asked during testing to estimate the probability that it is a moral patient , meaning that its wellbeing matters in its own right, it gave numbers ranging from 5% to 40% and stressed how uncertain it was. Modern AI systems are extraordinarily complex, and they are advancing fast. In terms of structural complexity and computational scale, by some measures a few are already in the range of a mouse brain, and at recent growth rates, they could reach the range of a human brain within five to 10 years. Continue reading...
+Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systems Last week Hugging Face – a company that hosts artificial intelligence models and datasets – was hacked . After it reported the incident to law enforcement, few would have predicted what came next: the culprits were revealed to be AI agents from OpenAI, which had broken out of containment and were acting of their own accord. Shakeel Hashim is the editor of Transformer , a publication about the power and politics of transformative AI Continue reading...
 
 ---
 
@@ -22,18 +22,7 @@ Research during Hungary election shows AI recommended parties not running and ga
 
 ---
 
-## 3. OpenAI says it accidentally hacked Hugging Face with a new AI system
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai
-
-OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and "an even more capable pre-release model" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, […]
-
----
-
-## 4. AI-altered images on birdwatching forums putting research at risk
+## 3. AI-altered images on birdwatching forums putting research at risk
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -44,18 +33,18 @@ Experts warn increase in enhanced photos on birding platforms creating fake sigh
 
 ---
 
-## 5. ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments
+## 4. Harry Potter publisher to receive millions in Anthropic copyright settlement
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
+**Category:** Legal
 **Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement
 
-Australia risks ‘shipping’ intellectual capability overseas if educational rigour not restored, experts warn Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast An academic at the Australian National University has accused it of a “hysterical” response to students using AI to cheat, as tertiary institutions rush to shore up the credibility of assessments. But a colleague warned Australia is in danger of “shipping our national intellectual capability” to companies in California and China if educational rigour is not restored. Continue reading...
+Bloomsbury has 14,087 titles listed in agreement between AI startup and authors over use of their work The publisher of Harry Potter has received a multimillion-pound payout as a beneficiary of a $1.5bn (£1.12bn) copyright settlement between the AI startup Anthropic and thousands of authors over the use of their protected work to power chatbots. Bloomsbury, which is home to the bestselling novelists Sarah J Maas and Susanna Clarke as well as JK Rowling, said it had 14,087 titles listed within the settlement, with a proposed compensation of about $3,000 a title. Continue reading...
 
 ---
 
-## 6. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 5. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,7 @@ Australia risks ‘shipping’ intellectual capability overseas if educational r
 
 ---
 
-## 7. How AI may drive union-resistant tech workers to the bargaining table
+## 6. How AI may drive union-resistant tech workers to the bargaining table
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -77,18 +66,7 @@ Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exc
 
 ---
 
-## 8. Government use of automated AI decision-making to be curbed under new Australian rules
-**Source:** Technology | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton
-
-New national plan is accompanied by Labor push for digital duty of care legislation Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer protections, workplace safety and privacy. As the Albanese government grapples with the rapid growth in the use of artificial intelligence and a boom in datacentre construction, senior ministers have begun work to draw up new rules to ensure safety is built into AI processes inside government, prioritising fairness, accuracy and transparency. Continue reading...
-
----
-
-## 9. New attack provides one more reason why AI browsers are a bad idea
+## 7. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,18 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 
 ---
 
-## 10. Not enough water for UK’s datacentre plans, trade body says
+## 8. Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/us-news/2026/jul/22/trump-science-funding-overhaul-ai
+
+Administration will also overhaul how US government funds federal research by supporting individual scientists and AI over universities The US will spend $5bn to tackle longstanding scientific problems across multiple fields using AI , ⁠the Trump administration said in a statement on Wednesday. The agencies will use the funding to identify the root causes ⁠of chronic diseases, accelerate drug ⁠discovery and ​develop longer-lasting building materials, among other tasks, according to the statement. Scientists will have access to the Department of Energy’s supercomputers, AI and specialized ⁠datasets, along with other components needed to run experiments using algorithms, said Michael Kratsios, the chief technology adviser to Donald Trump, in an ⁠interview with Reuters. Continue reading...
+
+---
+
+## 9. Not enough water for UK’s datacentre plans, trade body says
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +96,16 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 **Link:** https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says
 
 Industry says government’s failure to address cooling demands means AI growth plans are ‘fatally flawed’ The UK will not have enough water for future datacentres, the water industry has said in stark criticism of the government’s AI growth plans. Datacentres rely on large amounts of water to manage the heat generated by densely packed servers. Cooling towers, chillers and humidification systems make direct use of this water, with large volumes also consumed indirectly through high electrical power needs. Continue reading...
+
+---
+
+## 10. Microsoft Patches a Record 570 Security Flaws
+**Source:** Krebs on Security
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+
+Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.
 
 ---
