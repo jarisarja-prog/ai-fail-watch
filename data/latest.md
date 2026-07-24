@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-07-23
+# AI Fail Watch – 2026-07-24
 
-## 1. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
+## 1. Election voting advice from AI chatbots ‘inaccurate and unreliable’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary
+
+Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical prompts AI chatbots provide inaccurate, inconsistent and unreliable guidance to voters asking which party they should back, a study suggests, often recommending the wrong party, not mentioning the right one, or listing parties not even running. “The results raise serious concerns about the reliability of general-purpose AI systems in electoral contexts,” the study , published by the civil liberties group Liberties and based on research during this year’s Hungarian parliamentary elections, concluded. Continue reading...
+
+---
+
+## 2. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -11,40 +22,7 @@ Hacking of Hugging Face shows we do not seem to have reliable ways to curb extre
 
 ---
 
-## 2. Election voting advice from AI chatbots ‘inaccurate and unreliable’
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary
-
-Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical prompts AI chatbots provide inaccurate, inconsistent and unreliable guidance to voters asking which party they should back, a study suggests, often recommending the wrong party, not mentioning the right one, or listing parties not even running. “The results raise serious concerns about the reliability of general-purpose AI systems in electoral contexts,” the study , published by the civil liberties group Liberties and based on research during this year’s Hungarian parliamentary elections, concluded. Continue reading...
-
----
-
-## 3. AI-altered images on birdwatching forums putting research at risk
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe
-
-Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientists For many birdwatchers, recording a species outside its normal range is the holy grail. In the UK, the discoveries often make national headlines. The western reef heron, for example, usually found in Africa and southern Europe, was spotted in a seaside town in north Wales in June, and widely celebrated on birding forums. But a new scourge is threatening to disrupt the fun: AI slop. Continue reading...
-
----
-
-## 4. Harry Potter publisher to receive millions in Anthropic copyright settlement
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement
-
-Bloomsbury has 14,087 titles listed in agreement between AI startup and authors over use of their work The publisher of Harry Potter has received a multimillion-pound payout as a beneficiary of a $1.5bn (£1.12bn) copyright settlement between the AI startup Anthropic and thousands of authors over the use of their protected work to power chatbots. Bloomsbury, which is home to the bestselling novelists Sarah J Maas and Susanna Clarke as well as JK Rowling, said it had 14,087 titles listed within the settlement, with a proposed compensation of about $3,000 a title. Continue reading...
-
----
-
-## 5. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 3. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +33,18 @@ Bloomsbury has 14,087 titles listed in agreement between AI startup and authors 
 
 ---
 
-## 6. How AI may drive union-resistant tech workers to the bargaining table
+## 4. Harry Potter publisher to receive millions in Anthropic copyright settlement
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement
+
+Bloomsbury has 14,087 titles listed in agreement between AI startup and authors over use of their work The publisher of Harry Potter has received a multimillion-pound payout as a beneficiary of a $1.5bn (£1.12bn) copyright settlement between the AI startup Anthropic and thousands of authors over the use of their protected work to power chatbots. Bloomsbury, which is home to the bestselling novelists Sarah J Maas and Susanna Clarke as well as JK Rowling, said it had 14,087 titles listed within the settlement, with a proposed compensation of about $3,000 a title. Continue reading...
+
+---
+
+## 5. How AI may drive union-resistant tech workers to the bargaining table
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,7 @@ Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exc
 
 ---
 
-## 7. New attack provides one more reason why AI browsers are a bad idea
+## 6. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions
 
 ---
 
-## 8. Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort
+## 7. Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -88,7 +77,7 @@ Administration will also overhaul how US government funds federal research by su
 
 ---
 
-## 9. Not enough water for UK’s datacentre plans, trade body says
+## 8. Not enough water for UK’s datacentre plans, trade body says
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -99,7 +88,7 @@ Industry says government’s failure to address cooling demands means AI growth 
 
 ---
 
-## 10. Microsoft Patches a Record 570 Security Flaws
+## 9. Microsoft Patches a Record 570 Security Flaws
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
