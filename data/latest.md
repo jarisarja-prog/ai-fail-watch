@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-25
+# AI Fail Watch – 2026-07-26
 
 ## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
@@ -11,7 +11,18 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 
 ---
 
-## 2. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
+## 2. The AI jobs apocalypse probably isn’t coming anytime soon
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 28
+**Link:** https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor
+
+Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay In March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an analysis on the impact of AI on employment, to help us assess the claim that intelligent robots were about to redefine human existence, ending demand for human labor. Last year in May, Anthropic’s co-founder, Dario Amodei, claimed AI could wipe out half of all entry-level jobs in one to five years. Last January, he told us AI would probably become a “general labor substitute for humans”. In June he said we risk “a world where the economic trade-off dial is stuck on the hypergrowth, hyper-inequality setting”. Continue reading...
+
+---
+
+## 3. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +33,7 @@ Hacking of Hugging Face shows we do not seem to have reliable ways to curb extre
 
 ---
 
-## 3. Could AI be conscious?
+## 4. Could AI be conscious?
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +44,7 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 4. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 5. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 5. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT
+## 6. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
@@ -55,7 +66,7 @@ Avtar spent decades wondering what happened to the mother he never got to know. 
 
 ---
 
-## 6. Harry Potter publisher to receive millions in Anthropic copyright settlement
+## 7. Harry Potter publisher to receive millions in Anthropic copyright settlement
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -63,17 +74,6 @@ Avtar spent decades wondering what happened to the mother he never got to know. 
 **Link:** https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement
 
 Bloomsbury has 14,087 titles listed in agreement between AI startup and authors over use of their work The publisher of Harry Potter has received a multimillion-pound payout as a beneficiary of a $1.5bn (£1.12bn) copyright settlement between the AI startup Anthropic and thousands of authors over the use of their protected work to power chatbots. Bloomsbury, which is home to the bestselling novelists Sarah J Maas and Susanna Clarke as well as JK Rowling, said it had 14,087 titles listed within the settlement, with a proposed compensation of about $3,000 a title. Continue reading...
-
----
-
-## 7. How AI may drive union-resistant tech workers to the bargaining table
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize
-
-Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence For decades, the technology industry was a fortress that labor unions couldn’t breach. Tech workers already had cushy compensation packages, dream benefits like unlimited vacation and free lunch, and a flat corporate hierarchy that made engineers feel as powerful as their bosses, all of whom dressed down in sneakers and hoodies. So why unionize? Now, that fortress is cracking from the inside. Unions have become increasingly popular for tech employees. After months of mass layoffs tied to artificial intelligence and mounting anxieties about how it’s being deployed, some tech workers say they’ve been saddled with higher workloads while facing the threat of job loss caused by the very products they’re building. Workers from Google DeepMind and Meta in the UK are also objecting to how their companies’ AI products are being used, such as for military purposes or to monitor employee productivity . Those same workers are now attempting to unionize. Continue reading...
 
 ---
 
