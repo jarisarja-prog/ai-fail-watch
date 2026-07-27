@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-26
+# AI Fail Watch – 2026-07-27
 
 ## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
@@ -44,7 +44,18 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 5. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 5. Misleading AI-generated doctors pose ‘huge danger to public safety’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok
+
+Research shows AI accounts are gaining millions of views on TikTok by spreading dubious health advice Misleading health claims online pose a “huge danger to public safety”, experts have warned, after research has shown that AI-generated doctors are gaining millions of views on TikTok by spreading dubious health advice. The British Medical Association council deputy chair, Dr Emma Runswick, flagged the risks posed by AI accounts that “peddle medical myths and promote so-called miracle cures”. Continue reading...
+
+---
+
+## 6. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 6. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT
+## 7. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
@@ -66,7 +77,7 @@ Avtar spent decades wondering what happened to the mother he never got to know. 
 
 ---
 
-## 7. Harry Potter publisher to receive millions in Anthropic copyright settlement
+## 8. Harry Potter publisher to receive millions in Anthropic copyright settlement
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,7 +88,18 @@ Bloomsbury has 14,087 titles listed in agreement between AI startup and authors 
 
 ---
 
-## 8. New attack provides one more reason why AI browsers are a bad idea
+## 9. How AI may drive union-resistant tech workers to the bargaining table
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize
+
+Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence For decades, the technology industry was a fortress that labor unions couldn’t breach. Tech workers already had cushy compensation packages, dream benefits like unlimited vacation and free lunch, and a flat corporate hierarchy that made engineers feel as powerful as their bosses, all of whom dressed down in sneakers and hoodies. So why unionize? Now, that fortress is cracking from the inside. Unions have become increasingly popular for tech employees. After months of mass layoffs tied to artificial intelligence and mounting anxieties about how it’s being deployed, some tech workers say they’ve been saddled with higher workloads while facing the threat of job loss caused by the very products they’re building. Workers from Google DeepMind and Meta in the UK are also objecting to how their companies’ AI products are being used, such as for military purposes or to monitor employee productivity . Those same workers are now attempting to unionize. Continue reading...
+
+---
+
+## 10. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -85,27 +107,5 @@ Bloomsbury has 14,087 titles listed in agreement between AI startup and authors 
 **Link:** https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
 
 Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
-
----
-
-## 9. Trump administration says 15 agencies will get $5bn in ‘AI for science’ effort
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/us-news/2026/jul/22/trump-science-funding-overhaul-ai
-
-Administration will also overhaul how US government funds federal research by supporting individual scientists and AI over universities The US will spend $5bn to tackle longstanding scientific problems across multiple fields using AI , ⁠the Trump administration said in a statement on Wednesday. The agencies will use the funding to identify the root causes ⁠of chronic diseases, accelerate drug ⁠discovery and ​develop longer-lasting building materials, among other tasks, according to the statement. Scientists will have access to the Department of Energy’s supercomputers, AI and specialized ⁠datasets, along with other components needed to run experiments using algorithms, said Michael Kratsios, the chief technology adviser to Donald Trump, in an ⁠interview with Reuters. Continue reading...
-
----
-
-## 10. Microsoft Patches a Record 570 Security Flaws
-**Source:** Krebs on Security
-**Category:** Security
-**Language:** EN
-**Score:** 12
-**Link:** https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
-
-Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.
 
 ---
