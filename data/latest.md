@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-27
+# AI Fail Watch – 2026-07-28
 
 ## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
@@ -12,7 +12,7 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 ---
 
 ## 2. The AI jobs apocalypse probably isn’t coming anytime soon
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 28
@@ -55,7 +55,18 @@ Research shows AI accounts are gaining millions of views on TikTok by spreading 
 
 ---
 
-## 6. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 6. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Education
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai
+
+Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born. How did a chatbot bring them together? As a small boy growing up in Amritsar, India, in the 1960s, Avtar Singh used to hear whispers. Your mum isn’t really your mum , the rumours would say. Your mum lives abroad. Avtar didn’t really pay any attention to it. “I thought, the neighbours are just making up stories.” But the stories were true: the woman raising Avtar was actually his grandmother. When he was too young to remember it, his father had emigrated to Canada to work as a teacher, leaving Avtar in the care of his paternal grandparents. His grandfather, a police officer, was a fearsome authoritarian, but his grandmother brought him up with tenderness, as if he were her own son. She called him by his nickname, Titu. He felt loved. When Avtar was around eight years old, he was told about his family in Canada: his dad, his mum and a little brother were waiting for him there, and he would soon travel to join them. Just after his ninth birthday, Avtar found himself sitting on a plane, dressed in a three‑piece suit and tie. He was travelling alone. He had never flown before. He didn’t speak a word of English. He landed in Halifax, Nova Scotia, on Christmas Eve, 1968; his family met him at the airport and took him home. “I didn’t know what to think,” Avtar, now 66, tells me in a video call from his home in Abbotsford, British Columbia. “Before I knew it, it was the first week of January, and I was put in school.” Continue reading...
+
+---
+
+## 7. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,29 +77,7 @@ Research shows AI accounts are gaining millions of views on TikTok by spreading 
 
 ---
 
-## 7. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT
-**Source:** Technology | The Guardian
-**Category:** Education
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai
-
-Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born. How did a chatbot bring them together? As a small boy growing up in Amritsar, India, in the 1960s, Avtar Singh used to hear whispers. Your mum isn’t really your mum , the rumours would say. Your mum lives abroad. Avtar didn’t really pay any attention to it. “I thought, the neighbours are just making up stories.” But the stories were true: the woman raising Avtar was actually his grandmother. When he was too young to remember it, his father had emigrated to Canada to work as a teacher, leaving Avtar in the care of his paternal grandparents. His grandfather, a police officer, was a fearsome authoritarian, but his grandmother brought him up with tenderness, as if he were her own son. She called him by his nickname, Titu. He felt loved. When Avtar was around eight years old, he was told about his family in Canada: his dad, his mum and a little brother were waiting for him there, and he would soon travel to join them. Just after his ninth birthday, Avtar found himself sitting on a plane, dressed in a three‑piece suit and tie. He was travelling alone. He had never flown before. He didn’t speak a word of English. He landed in Halifax, Nova Scotia, on Christmas Eve, 1968; his family met him at the airport and took him home. “I didn’t know what to think,” Avtar, now 66, tells me in a video call from his home in Abbotsford, British Columbia. “Before I knew it, it was the first week of January, and I was put in school.” Continue reading...
-
----
-
-## 8. Harry Potter publisher to receive millions in Anthropic copyright settlement
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/jul/22/bloomsbury-book-publisher-anthropic-copyright-settlement
-
-Bloomsbury has 14,087 titles listed in agreement between AI startup and authors over use of their work The publisher of Harry Potter has received a multimillion-pound payout as a beneficiary of a $1.5bn (£1.12bn) copyright settlement between the AI startup Anthropic and thousands of authors over the use of their protected work to power chatbots. Bloomsbury, which is home to the bestselling novelists Sarah J Maas and Susanna Clarke as well as JK Rowling, said it had 14,087 titles listed within the settlement, with a proposed compensation of about $3,000 a title. Continue reading...
-
----
-
-## 9. How AI may drive union-resistant tech workers to the bargaining table
+## 8. How AI may drive union-resistant tech workers to the bargaining table
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exc
 
 ---
 
-## 10. New attack provides one more reason why AI browsers are a bad idea
+## 9. New attack provides one more reason why AI browsers are a bad idea
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exc
 **Link:** https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
 
 Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
+
+---
+
+## 10. When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer
+
+Journalist and author Cory Doctorow is coming to Australia to spread his message – humans will take their jobs back Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast When the AI bubble bursts, executives who enthusiastically replaced their staff with AI tools will learn that it takes a “really long time” to replace those lost skills, says Cory Doctorow, a science fiction author and journalist. But those in creative fields should also be warned not to put all their faith in copyright as the best way to safeguard their work, Doctorow warns, just one week after the Australian prime minister, Anthony Albanese, promised to ramp up protection against AI companies who refuse to pay . Continue reading...
 
 ---
