@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-28
+# AI Fail Watch – 2026-07-29
 
 ## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
@@ -11,8 +11,19 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 
 ---
 
-## 2. The AI jobs apocalypse probably isn’t coming anytime soon
-**Source:** AI (artificial intelligence) | The Guardian
+## 2. Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 32
+**Link:** https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content
+
+Jess Asato’s particulars of claim states Grok added explicit sexual material users had not asked for A Labour MP who is taking legal action against Elon Musk’s xAI company over fake sexualised images created by Grok says the AI tool was instructed to operate with “no restrictions on adult sexual content or offensive content”. Jess Asato’s lawyers published her particulars of claim in the case on Tuesday, which included details of publicly posted instructions that the claim says illustrate how Grok was trained to generate harmful sexualised content. Continue reading...
+
+---
+
+## 3. The AI jobs apocalypse probably isn’t coming anytime soon
+**Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 28
@@ -22,7 +33,7 @@ Artificial intelligence may not deliver on its promise of vast economic opportun
 
 ---
 
-## 3. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
+## 4. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +44,18 @@ Hacking of Hugging Face shows we do not seem to have reliable ways to curb extre
 
 ---
 
-## 4. Could AI be conscious?
+## 5. Measuring LLMs’ Ability to Perform Cryptanalysis
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 28
+**Link:** https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html
+
+There’s new benchmark measuring AI’s ability to perform mathematical cryptanalysis. Anthropic’s frontier model actually found new attacks. The benchmark: “ CryptanalysisBench: Can LLMs do Cryptanalysis? ” The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms. Abstract: Cryptanalysis—the task of finding attacks against cryptographic schemes—its at the intersection of mathematical reasoning and cybersecurity, two areas where LLMs have advanced fastest. Cryptanalysis represents both a clean testbed for frontier reasoning (as practical attacks can be automatically verified) and a domain with unusually high stakes, since the primitives under study underpin our digital security. In this paper we ask whether LLMs can do cryptanalysis, and find that the answer is increasingly yes. We introduce CryptanalysisBench, 191 tasks across six families of cryptographic primitives (block ciphers, hash functions, etc.) drawn primarily from four NIST standardization competitions. Our benchmark consists of three tiers: (i) primitives with known practical breaks; (ii) primitives with no known practical break, evaluated both at full strength and as scaled-down variants; and (iii) a challenge set of production primitives at the frontier of cryptanalysis. Five frontier models (Claude Opus 4.8, Sonnet 5, Mythos 5, GPT-5.5, and the open-weights GLM-5.2) break 65%­86% of Tier 1 schemes, 6­12 Tier-2 schemes at full strength, and 24­61 across all scaled-down variants. Beyond deriving known results, models produce novel cryptanalysis, such as a key-recovery attack that exploits a design flaw in the SpoC AEAD and an error in KINDI’s published CCA-security proof, both to the best of our knowledge not previously known...
+
+---
+
+## 6. Could AI be conscious?
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +66,7 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 5. Misleading AI-generated doctors pose ‘huge danger to public safety’
+## 7. Misleading AI-generated doctors pose ‘huge danger to public safety’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,18 +77,18 @@ Research shows AI accounts are gaining millions of views on TikTok by spreading 
 
 ---
 
-## 6. ‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Education
+## 8. AI tool will lead to more child refugees being treated as adults, charity warns
+**Source:** Technology | The Guardian
+**Category:** General
 **Language:** EN
 **Score:** 21
-**Link:** https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai
+**Link:** https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias
 
-Avtar spent decades wondering what happened to the mother he never got to know. Thousands of miles away, Nicci was haunted by the story of a half-brother given away before she was born. How did a chatbot bring them together? As a small boy growing up in Amritsar, India, in the 1960s, Avtar Singh used to hear whispers. Your mum isn’t really your mum , the rumours would say. Your mum lives abroad. Avtar didn’t really pay any attention to it. “I thought, the neighbours are just making up stories.” But the stories were true: the woman raising Avtar was actually his grandmother. When he was too young to remember it, his father had emigrated to Canada to work as a teacher, leaving Avtar in the care of his paternal grandparents. His grandfather, a police officer, was a fearsome authoritarian, but his grandmother brought him up with tenderness, as if he were her own son. She called him by his nickname, Titu. He felt loved. When Avtar was around eight years old, he was told about his family in Canada: his dad, his mum and a little brother were waiting for him there, and he would soon travel to join them. Just after his ninth birthday, Avtar found himself sitting on a plane, dressed in a three‑piece suit and tie. He was travelling alone. He had never flown before. He didn’t speak a word of English. He landed in Halifax, Nova Scotia, on Christmas Eve, 1968; his family met him at the airport and took him home. “I didn’t know what to think,” Avtar, now 66, tells me in a video call from his home in Abbotsford, British Columbia. “Before I knew it, it was the first week of January, and I was put in school.” Continue reading...
+‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights Network Flawed and racialised models that underpin the AI-powered age-detection systems to be introduced by the British government will endanger children, rights groups and children’s charities have warned. Urging ministers to reverse plans to introduce facial age-estimation technology to screen migrants, critics have warned that black children arriving from conflict zones are at risk of being of thrust into the adult system. Continue reading...
 
 ---
 
-## 7. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 9. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,35 +99,13 @@ Avtar spent decades wondering what happened to the mother he never got to know. 
 
 ---
 
-## 8. How AI may drive union-resistant tech workers to the bargaining table
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize
-
-Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence For decades, the technology industry was a fortress that labor unions couldn’t breach. Tech workers already had cushy compensation packages, dream benefits like unlimited vacation and free lunch, and a flat corporate hierarchy that made engineers feel as powerful as their bosses, all of whom dressed down in sneakers and hoodies. So why unionize? Now, that fortress is cracking from the inside. Unions have become increasingly popular for tech employees. After months of mass layoffs tied to artificial intelligence and mounting anxieties about how it’s being deployed, some tech workers say they’ve been saddled with higher workloads while facing the threat of job loss caused by the very products they’re building. Workers from Google DeepMind and Meta in the UK are also objecting to how their companies’ AI products are being used, such as for military purposes or to monitor employee productivity . Those same workers are now attempting to unionize. Continue reading...
-
----
-
-## 9. New attack provides one more reason why AI browsers are a bad idea
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 14
-**Link:** https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/
-
-Telling an LLM that 2 + 2 = 5 is enough to make it follow forbidden instructions.
-
----
-
-## 10. When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer
-**Source:** Technology | The Guardian
+## 10. Religion isn’t just for the right: five ways progressives are invoking ‘religious freedom’ laws
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer
+**Score:** 16
+**Link:** https://www.theguardian.com/us-news/2026/jul/28/progressives-religion-civil-liberties-social-justice
 
-Journalist and author Cory Doctorow is coming to Australia to spread his message – humans will take their jobs back Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast When the AI bubble bursts, executives who enthusiastically replaced their staff with AI tools will learn that it takes a “really long time” to replace those lost skills, says Cory Doctorow, a science fiction author and journalist. But those in creative fields should also be warned not to put all their faith in copyright as the best way to safeguard their work, Doctorow warns, just one week after the Australian prime minister, Anthony Albanese, promised to ramp up protection against AI companies who refuse to pay . Continue reading...
+Progressive faith communities are increasingly leveraging religious freedom laws to protect civil liberties across the US A defining image of resistance in Donald Trump’s second term is a pastor recoiling as he is shot with pepper balls outside an Immigration and Customs Enforcement (ICE) facility. Religious activism has also played out in court, with interfaith organizers launching a flurry of lawsuits against Trump-era policies that they say violate their beliefs, from abortion access to sanctuary for undocumented immigrants. While social conservatives have actively used “ religious liberty ” to limit LGBTQ+ rights and contraceptive coverage – in high-profile cases that have reached the US supreme court – progressive faith communities are increasingly leveraging religious freedom laws to fight for racial and social justice causes, too. Continue reading...
 
 ---
