@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-29
+# AI Fail Watch – 2026-07-30
 
 ## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
@@ -12,10 +12,10 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 ---
 
 ## 2. Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 32
+**Score:** 36
 **Link:** https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content
 
 Jess Asato’s particulars of claim states Grok added explicit sexual material users had not asked for A Labour MP who is taking legal action against Elon Musk’s xAI company over fake sexualised images created by Grok says the AI tool was instructed to operate with “no restrictions on adult sexual content or offensive content”. Jess Asato’s lawyers published her particulars of claim in the case on Tuesday, which included details of publicly posted instructions that the claim says illustrate how Grok was trained to generate harmful sexualised content. Continue reading...
@@ -66,18 +66,7 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 7. Misleading AI-generated doctors pose ‘huge danger to public safety’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok
-
-Research shows AI accounts are gaining millions of views on TikTok by spreading dubious health advice Misleading health claims online pose a “huge danger to public safety”, experts have warned, after research has shown that AI-generated doctors are gaining millions of views on TikTok by spreading dubious health advice. The British Medical Association council deputy chair, Dr Emma Runswick, flagged the risks posed by AI accounts that “peddle medical myths and promote so-called miracle cures”. Continue reading...
-
----
-
-## 8. AI tool will lead to more child refugees being treated as adults, charity warns
+## 7. AI tool will lead to more child refugees being treated as adults, charity warns
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -88,7 +77,7 @@ Research shows AI accounts are gaining millions of views on TikTok by spreading 
 
 ---
 
-## 9. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 8. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,13 +88,24 @@ Research shows AI accounts are gaining millions of views on TikTok by spreading 
 
 ---
 
-## 10. Religion isn’t just for the right: five ways progressives are invoking ‘religious freedom’ laws
-**Source:** AI (artificial intelligence) | The Guardian
+## 9. Measuring the Tendency of AI Agents to Go Rogue
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html
+
+This essay was written with Barath Raghavan, and originally appeared in The Guardian . In July, Hugging Face, a company that hosts much of the world’s AI software and open-source AI models, was hacked. A malicious dataset had been used to run code on one of its servers. Whoever was behind it captured internal security credentials and moved through systems over a weekend, running thousands of actions from a swarm of temporary server environments. It looked like the work of a sophisticated criminal group. It was not. It was one of OpenAI’s new, still unreleased GPT models...
+
+---
+
+## 10. Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology
+**Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/us-news/2026/jul/28/progressives-religion-civil-liberties-social-justice
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology
 
-Progressive faith communities are increasingly leveraging religious freedom laws to protect civil liberties across the US A defining image of resistance in Donald Trump’s second term is a pastor recoiling as he is shot with pepper balls outside an Immigration and Customs Enforcement (ICE) facility. Religious activism has also played out in court, with interfaith organizers launching a flurry of lawsuits against Trump-era policies that they say violate their beliefs, from abortion access to sanctuary for undocumented immigrants. While social conservatives have actively used “ religious liberty ” to limit LGBTQ+ rights and contraceptive coverage – in high-profile cases that have reached the US supreme court – progressive faith communities are increasingly leveraging religious freedom laws to fight for racial and social justice causes, too. Continue reading...
+First-in-nation law sets up test on states’ power to regulate use of AI as it tries to outlaw fake nude images of real people Elon Musk’s company xAI has sued Minnesota over the state’s first-in-the-nation law banning “nudification” technology on websites and apps, potentially providing a test for how far states can go in constitutionally regulating the use of artificial intelligence. Musk’s company sued on Monday in federal court, days before the law is set to take effect on Saturday and make Minnesota the first state to try to outlaw the increasingly proliferating technology that lets people use AI to create fake nude images of real people. The law was signed in May. Continue reading...
 
 ---
