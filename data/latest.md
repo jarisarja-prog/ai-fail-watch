@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-30
+# AI Fail Watch – 2026-07-31
 
 ## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
@@ -11,18 +11,7 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 
 ---
 
-## 2. Labour MP suing Elon Musk’s xAI says chatbot added own fake abusive content
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 36
-**Link:** https://www.theguardian.com/technology/2026/jul/28/jess-asato-labour-mp-sue-elon-musk-xai-chatbot-abusive-content
-
-Jess Asato’s particulars of claim states Grok added explicit sexual material users had not asked for A Labour MP who is taking legal action against Elon Musk’s xAI company over fake sexualised images created by Grok says the AI tool was instructed to operate with “no restrictions on adult sexual content or offensive content”. Jess Asato’s lawyers published her particulars of claim in the case on Tuesday, which included details of publicly posted instructions that the claim says illustrate how Grok was trained to generate harmful sexualised content. Continue reading...
-
----
-
-## 3. The AI jobs apocalypse probably isn’t coming anytime soon
+## 2. The AI jobs apocalypse probably isn’t coming anytime soon
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +22,7 @@ Artificial intelligence may not deliver on its promise of vast economic opportun
 
 ---
 
-## 4. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
+## 3. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +33,7 @@ Hacking of Hugging Face shows we do not seem to have reliable ways to curb extre
 
 ---
 
-## 5. Measuring LLMs’ Ability to Perform Cryptanalysis
+## 4. Measuring LLMs’ Ability to Perform Cryptanalysis
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -52,6 +41,17 @@ Hacking of Hugging Face shows we do not seem to have reliable ways to curb extre
 **Link:** https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html
 
 There’s new benchmark measuring AI’s ability to perform mathematical cryptanalysis. Anthropic’s frontier model actually found new attacks. The benchmark: “ CryptanalysisBench: Can LLMs do Cryptanalysis? ” The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms. Abstract: Cryptanalysis—the task of finding attacks against cryptographic schemes—its at the intersection of mathematical reasoning and cybersecurity, two areas where LLMs have advanced fastest. Cryptanalysis represents both a clean testbed for frontier reasoning (as practical attacks can be automatically verified) and a domain with unusually high stakes, since the primitives under study underpin our digital security. In this paper we ask whether LLMs can do cryptanalysis, and find that the answer is increasingly yes. We introduce CryptanalysisBench, 191 tasks across six families of cryptographic primitives (block ciphers, hash functions, etc.) drawn primarily from four NIST standardization competitions. Our benchmark consists of three tiers: (i) primitives with known practical breaks; (ii) primitives with no known practical break, evaluated both at full strength and as scaled-down variants; and (iii) a challenge set of production primitives at the frontier of cryptanalysis. Five frontier models (Claude Opus 4.8, Sonnet 5, Mythos 5, GPT-5.5, and the open-weights GLM-5.2) break 65%­86% of Tier 1 schemes, 6­12 Tier-2 schemes at full strength, and 24­61 across all scaled-down variants. Beyond deriving known results, models produce novel cryptanalysis, such as a key-recovery attack that exploits a design flaw in the SpoC AEAD and an error in KINDI’s published CCA-security proof, both to the best of our knowledge not previously known...
+
+---
+
+## 5. AI tool will lead to more child refugees being treated as adults, charity warns
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias
+
+‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights Network Flawed and racialised models that underpin the AI-powered age-detection systems to be introduced by the British government will endanger children, rights groups and children’s charities have warned. Urging ministers to reverse plans to introduce facial age-estimation technology to screen migrants, critics have warned that black children arriving from conflict zones are at risk of being of thrust into the adult system. Continue reading...
 
 ---
 
@@ -66,14 +66,14 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 7. AI tool will lead to more child refugees being treated as adults, charity warns
-**Source:** Technology | The Guardian
-**Category:** General
+## 7. Flock surveillance cameras can pose a crash risk for drivers, US experts say
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
 **Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias
+**Score:** 20
+**Link:** https://www.theguardian.com/us-news/2026/jul/30/controversial-flock-ai-surveillance-camera-risk
 
-‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights Network Flawed and racialised models that underpin the AI-powered age-detection systems to be introduced by the British government will endanger children, rights groups and children’s charities have warned. Urging ministers to reverse plans to introduce facial age-estimation technology to screen migrants, critics have warned that black children arriving from conflict zones are at risk of being of thrust into the adult system. Continue reading...
+Roadside safety advocates say some automated license plate readers may not meet highway safety standards Flock Safety cameras have been pilloried for facilitating the AI -powered surveillance of private citizens and for targeting immigrants for years. But now safety advocates are also claiming that their physical location can pose potential roadside hazards. At the bottom of a tree-lined hill on a narrow, two lane rural road in Greene county, Ohio, stands a black metal rod with a camera and solar panel attached at the top. Continue reading...
 
 ---
 
