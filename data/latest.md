@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-07-31
+# AI Fail Watch – 2026-08-01
 
 ## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
@@ -44,18 +44,7 @@ There’s new benchmark measuring AI’s ability to perform mathematical cryptan
 
 ---
 
-## 5. AI tool will lead to more child refugees being treated as adults, charity warns
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias
-
-‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights Network Flawed and racialised models that underpin the AI-powered age-detection systems to be introduced by the British government will endanger children, rights groups and children’s charities have warned. Urging ministers to reverse plans to introduce facial age-estimation technology to screen migrants, critics have warned that black children arriving from conflict zones are at risk of being of thrust into the adult system. Continue reading...
-
----
-
-## 6. Could AI be conscious?
+## 5. Could AI be conscious?
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -63,6 +52,17 @@ There’s new benchmark measuring AI’s ability to perform mathematical cryptan
 **Link:** https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious
 
 Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications In January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want to overstate the likelihood of Claude’s moral patienthood nor dismiss it out of hand.” A month later, Anthropic’s CEO Dario Amodei went on a podcast and said his company couldn’t rule out the possibility that Claude was conscious. Philosopher David Chalmers, who coined the phrase “the hard problem of consciousness”, has said there is a significant chance of conscious LLMs within a decade. And what about Claude itself? When asked during testing to estimate the probability that it is a moral patient , meaning that its wellbeing matters in its own right, it gave numbers ranging from 5% to 40% and stressed how uncertain it was. Modern AI systems are extraordinarily complex, and they are advancing fast. In terms of structural complexity and computational scale, by some measures a few are already in the range of a mouse brain, and at recent growth rates, they could reach the range of a human brain within five to 10 years. Continue reading...
+
+---
+
+## 6. FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates
+
+Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes The story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner , the AI Wunderkind (he’s German-born) who has been forced to sell off his fund in a fire sale after the AI boom ran out of steam. The 24-year-old had persuaded a lot of people to give him a lot of money for a hedge fund, after previously working for OpenAI and the FTX Future Fund, a charitable arm of the fraudulent crypto empire of Sam Bankman-Fried, who is now in prison . Aschenbrenner ploughed that money into debt-fuelled bets on artificial intelligence companies, earning huge returns until he found out that stocks can also fall. The trader dubbed the “Nostradamus of AI” would have been hard-pressed to foresee how quickly his high-flying hedge fund would run into trouble. The firm’s rapid downward spiral is a familiar tale, as Silicon Valley and Wall Street once again threw their weight behind a bright-eyed but untested investor who promised this time would be different. “Everybody always wants to find the next golden child,” said one longtime hedge fund executive. “It just keeps happening.” In less than 24 hours — which included a conversation between Griffin and Aschenbrenner — Griffin’s Citadel hedge fund reached out to Situational Awareness and snapped up the investments at a discount, according to a person familiar with the matter who asked not to be identified citing private information. It was a startling reversal for Aschenbrenner, a former researcher at OpenAI who – before starting his hedge fund roughly two years ago — had no previous investment experience. His fledging firm has watched its assets plunge from $45bn at the start of July to about $10bn. Continue reading...
 
 ---
 
