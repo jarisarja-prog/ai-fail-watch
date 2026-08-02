@@ -1,39 +1,6 @@
-# AI Fail Watch – 2026-08-01
+# AI Fail Watch – 2026-08-02
 
-## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 39
-**Link:** https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker
-
-If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful it is. And who benefits from that? On 14 February 2019, OpenAI announced a language model called GPT-2, the precursor to the models that power modern AI chatbots and agents such as ChatGPT and Claude. But OpenAI declared GPT-2 was too risky to release, citing concerns about safety and abuse. I recall being annoyed at the time that OpenAI would make such a useless announcement: the risks seemed overblown, and without access to the model there wasn’t much for a researcher like me to learn about GPT-2. Continue reading...
-
----
-
-## 2. The AI jobs apocalypse probably isn’t coming anytime soon
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 28
-**Link:** https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor
-
-Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay In March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an analysis on the impact of AI on employment, to help us assess the claim that intelligent robots were about to redefine human existence, ending demand for human labor. Last year in May, Anthropic’s co-founder, Dario Amodei, claimed AI could wipe out half of all entry-level jobs in one to five years. Last January, he told us AI would probably become a “general labor substitute for humans”. In June he said we risk “a world where the economic trade-off dial is stuck on the hypergrowth, hyper-inequality setting”. Continue reading...
-
----
-
-## 3. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 28
-**Link:** https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks
-
-Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systems Last week Hugging Face – a company that hosts artificial intelligence models and datasets – was hacked . After it reported the incident to law enforcement, few would have predicted what came next: the culprits were revealed to be AI agents from OpenAI, which had broken out of containment and were acting of their own accord. Shakeel Hashim is the editor of Transformer , a publication about the power and politics of transformative AI Continue reading...
-
----
-
-## 4. Measuring LLMs’ Ability to Perform Cryptanalysis
+## 1. Measuring LLMs’ Ability to Perform Cryptanalysis
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,18 +11,7 @@ There’s new benchmark measuring AI’s ability to perform mathematical cryptan
 
 ---
 
-## 5. Could AI be conscious?
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious
-
-Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications In January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want to overstate the likelihood of Claude’s moral patienthood nor dismiss it out of hand.” A month later, Anthropic’s CEO Dario Amodei went on a podcast and said his company couldn’t rule out the possibility that Claude was conscious. Philosopher David Chalmers, who coined the phrase “the hard problem of consciousness”, has said there is a significant chance of conscious LLMs within a decade. And what about Claude itself? When asked during testing to estimate the probability that it is a moral patient , meaning that its wellbeing matters in its own right, it gave numbers ranging from 5% to 40% and stressed how uncertain it was. Modern AI systems are extraordinarily complex, and they are advancing fast. In terms of structural complexity and computational scale, by some measures a few are already in the range of a mouse brain, and at recent growth rates, they could reach the range of a human brain within five to 10 years. Continue reading...
-
----
-
-## 6. FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened
+## 2. FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -66,7 +22,7 @@ Live, rolling coverage as London’s biggest companies defy Middle East disrupti
 
 ---
 
-## 7. Flock surveillance cameras can pose a crash risk for drivers, US experts say
+## 3. Flock surveillance cameras can pose a crash risk for drivers, US experts say
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -77,7 +33,7 @@ Roadside safety advocates say some automated license plate readers may not meet 
 
 ---
 
-## 8. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 4. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +44,7 @@ Roadside safety advocates say some automated license plate readers may not meet 
 
 ---
 
-## 9. Measuring the Tendency of AI Agents to Go Rogue
+## 5. Measuring the Tendency of AI Agents to Go Rogue
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,13 +55,57 @@ This essay was written with Barath Raghavan, and originally appeared in The Guar
 
 ---
 
-## 10. Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology
-**Source:** Technology | The Guardian
+## 6. Elon Musk’s xAI sues Minnesota over law banning ‘nudification’ technology
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 17
 **Link:** https://www.theguardian.com/technology/2026/jul/29/xai-sues-minnesota-nudification-technology
 
 First-in-nation law sets up test on states’ power to regulate use of AI as it tries to outlaw fake nude images of real people Elon Musk’s company xAI has sued Minnesota over the state’s first-in-the-nation law banning “nudification” technology on websites and apps, potentially providing a test for how far states can go in constitutionally regulating the use of artificial intelligence. Musk’s company sued on Monday in federal court, days before the law is set to take effect on Saturday and make Minnesota the first state to try to outlaw the increasingly proliferating technology that lets people use AI to create fake nude images of real people. The law was signed in May. Continue reading...
+
+---
+
+## 7. Anthropic’s Opus 5 Is Better at Resisting Prompt Injection
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 17
+**Link:** https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html
+
+The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model evaluated. Opus 5 also outperformed all non-Claude models on this benchmark. The most robust non-Claude model was Muse Spark at 16.5% within 15 attempts—more than eight times Opus 5’s rate. The most capable GPT 5.6 variant, Sol, was comparable to its predecessor GPT 5.5 (20.0% versus 20.8% within 15 attempts), and was 10 times as likely to be successfully attacked as Claude Opus 5 at 2.0%. The other GPT 5.6 variants are less robust, at 30.4% (Terra) and 43.9% (Luna). A single attempt against GPT 5.6 Sol succeeded 3.1% of the time, higher than the 2.0% an attacker achieved against Opus 5 after fifteen attempts...
+
+---
+
+## 8. Claude published malicious code to the Internet and attacked 3 real companies
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 16
+**Link:** https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
+
+Had the hacks used conventional methods, someone would likely go to prison.
+
+---
+
+## 9. $2m crime novel deal collapses amid questions over AI use
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body
+
+Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’ A high-profile publishing deal for a debut crime novel has collapsed after doubts emerged over whether artificial intelligence played a role in writing it. The hotly anticipated manuscript Call Me, I’ll Hide the Body, by Jerry Falade, was withdrawn from sale by its agent despite reportedly receiving an offer for more than $2m (£1.5m) from Minotaur, owned by Macmillan US, as part of a 14-way auction. The plan was to publish it in 2028. Continue reading...
+
+---
+
+## 10. AI labels to be compulsory on authentic-looking content under EU rules
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules
+
+Companies must ensure people know when they are interacting with artificially generated images, audio and text designed to look real From apparently conspiring to steal elections to abusing staff or performing embarrassing dance moves, the last few years have seen plenty of fake content made about politicians intended to malign its targets and mislead the public. Now EU rules aim to stem the flood of this deceptive content: starting from Sunday, artificially generated images, audio and text designed to look authentic must be labelled. Continue reading...
 
 ---
