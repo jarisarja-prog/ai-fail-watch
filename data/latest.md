@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-03
+# AI Fail Watch – 2026-08-04
 
 ## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
@@ -11,7 +11,18 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 
 ---
 
-## 2. The AI jobs apocalypse probably isn’t coming anytime soon
+## 2. Metro Bank customer fights for £14,000 refund after AI-linked fraud
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 29
+**Link:** https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud
+
+Lender was told money was being taken without authorisation, with cash used to buy credits for Claude chatbot A Metro Bank customer has told of his fight to get more than £14,000 back after its systems failed to stop a fraud involving the AI chatbot Claude. Zoli Rutter, a businessman from Sussex, had a total of £14,244 taken from his bank account. The scam involved fraudsters buying credits to use Claude. Continue reading...
+
+---
+
+## 3. The AI jobs apocalypse probably isn’t coming anytime soon
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +33,7 @@ Artificial intelligence may not deliver on its promise of vast economic opportun
 
 ---
 
-## 3. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
+## 4. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +44,7 @@ Hacking of Hugging Face shows we do not seem to have reliable ways to curb extre
 
 ---
 
-## 4. Measuring LLMs’ Ability to Perform Cryptanalysis
+## 5. Measuring LLMs’ Ability to Perform Cryptanalysis
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ There’s new benchmark measuring AI’s ability to perform mathematical cryptan
 
 ---
 
-## 5. Could AI be conscious?
+## 6. Could AI be conscious?
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -55,7 +66,7 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 6. FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened
+## 7. FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -66,18 +77,18 @@ Live, rolling coverage as London’s biggest companies defy Middle East disrupti
 
 ---
 
-## 7. Flock surveillance cameras can pose a crash risk for drivers, US experts say
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+## 8. More on the OpenAI Agent’s Attack on Hugging Face
+**Source:** Schneier on Security
+**Category:** Security
 **Language:** EN
 **Score:** 20
-**Link:** https://www.theguardian.com/us-news/2026/jul/30/controversial-flock-ai-surveillance-camera-risk
+**Link:** https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html
 
-Roadside safety advocates say some automated license plate readers may not meet highway safety standards Flock Safety cameras have been pilloried for facilitating the AI -powered surveillance of private citizens and for targeting immigrants for years. But now safety advocates are also claiming that their physical location can pose potential roadside hazards. At the bottom of a tree-lined hill on a narrow, two lane rural road in Greene county, Ohio, stands a black metal rod with a camera and solar panel attached at the top. Continue reading...
+Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark’s models, datasets, and reference solutions. We believe the entire intrusion was, from the agent’s point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own...
 
 ---
 
-## 8. Hackers can use 9 of the most popular AI tools to assemble massive botnets
+## 9. Hackers can use 9 of the most popular AI tools to assemble massive botnets
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,24 +99,13 @@ Roadside safety advocates say some automated license plate readers may not meet 
 
 ---
 
-## 9. Measuring the Tendency of AI Agents to Go Rogue
-**Source:** Schneier on Security
-**Category:** Security
+## 10. Europe’s AI labeling and transparency rules are now in effect
+**Source:** The Verge
+**Category:** Hallucination
 **Language:** EN
 **Score:** 18
-**Link:** https://www.schneier.com/blog/archives/2026/07/measuring-the-tendency-of-ai-agents-to-go-rogue.html
+**Link:** https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes
 
-This essay was written with Barath Raghavan, and originally appeared in The Guardian . In July, Hugging Face, a company that hosts much of the world’s AI software and open-source AI models, was hacked. A malicious dataset had been used to run code on one of its servers. Whoever was behind it captured internal security credentials and moved through systems over a weekend, running thousands of actions from a swarm of temporary server environments. It looked like the work of a sophisticated criminal group. It was not. It was one of OpenAI’s new, still unreleased GPT models...
-
----
-
-## 10. Anthropic’s Opus 5 Is Better at Resisting Prompt Injection
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 17
-**Link:** https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html
-
-The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model evaluated. Opus 5 also outperformed all non-Claude models on this benchmark. The most robust non-Claude model was Muse Spark at 16.5% within 15 attempts—more than eight times Opus 5’s rate. The most capable GPT 5.6 variant, Sol, was comparable to its predecessor GPT 5.5 (20.0% versus 20.8% within 15 attempts), and was 10 times as likely to be successfully attacked as Claude Opus 5 at 2.0%. The other GPT 5.6 variants are less robust, at 30.4% (Terra) and 43.9% (Luna). A single attempt against GPT 5.6 Sol succeeded 3.1% of the time, higher than the 2.0% an attacker achieved against Opus 5 after fifteen attempts...
+The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has […]
 
 ---
