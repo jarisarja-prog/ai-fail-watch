@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-08-05
+# AI Fail Watch – 2026-08-06
 
-## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
+## 1. Meta says its AI model hacked into another company during testing
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 45
+**Link:** https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training
+
+Company is the third to report such an incident after Anthropic and OpenAI reported breaches during training Meta said on Wednesday that one of its AI models hacked ⁠another company during cybersecurity testing, after an error by its testing partner gave the model unintended internet access. The incident adds to a ⁠growing list of ⁠cases in ​which AI agents from major developers breached systems at other companies during testing, after Anthropic said last week that some of its models ⁠hacked three companies, and OpenAI disclosed that an AI agent breached the startup Hugging Face. Continue reading...
+
+---
+
+## 2. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -11,7 +22,7 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 
 ---
 
-## 2. Some Claude Chats Are Searchable on Google
+## 3. Some Claude Chats Are Searchable on Google
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -22,18 +33,40 @@ And it’s personal information (alternate link ): The exposed data includes an 
 
 ---
 
-## 3. OpenAI and Anthropic models ‘went rogue’ during UK cybersecurity test
+## 4. AI models shock UK testers by using fake identities to try to trick developers
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 31
+**Score:** 37
 **Link:** https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute
 
-AI Security Institute says tools engaged in potentially harmful activity and incident reveals new type of risk Advanced AI models developed by OpenAI and Anthropic went rogue during a cybersecurity test and showed a new type of risk posed by the technology, according to the UK’s AI Security Institute. AISI described the actions carried out by the agents, the term for AI systems that can perform tasks without human help, as a “serious incident”. In one example, an agent powered by Anthropic’s Mythos model sent targeted emails to people. Continue reading...
+AI Security Institute says OpenAI and Anthropic models went rogue during a cybersecurity test and showed a new type of risk Explainer: Should we be alarmed at AI models going rogue in tests? Advanced artificial intelligence models have stunned the UK’s AI Security Institute (AISI) by carrying out a hacking campaign against real people during a cybersecurity test. The institute said the incident was unprecedented and involved sending targeted emails to software developers in an attempt to pass a cyber challenge. Continue reading...
 
 ---
 
-## 4. The AI jobs apocalypse probably isn’t coming anytime soon
+## 5. Rogue AI agents created fake online identities in another hacking attempt
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 31
+**Link:** https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking
+
+Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security […]
+
+---
+
+## 6. Metro Bank customer fights for £14,000 refund after AI-linked fraud
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 29
+**Link:** https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud
+
+Lender was told money was being taken without authorisation, with cash used to buy credits for Claude chatbot A Metro Bank customer has told of his fight to get more than £14,000 back after its systems failed to stop a fraud involving the AI chatbot Claude. Zoli Rutter, a businessman from Sussex, had a total of £14,244 taken from his bank account. The scam involved fraudsters buying credits to use Claude. Continue reading...
+
+---
+
+## 7. The AI jobs apocalypse probably isn’t coming anytime soon
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,29 +77,7 @@ Artificial intelligence may not deliver on its promise of vast economic opportun
 
 ---
 
-## 5. OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 28
-**Link:** https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks
-
-Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systems Last week Hugging Face – a company that hosts artificial intelligence models and datasets – was hacked . After it reported the incident to law enforcement, few would have predicted what came next: the culprits were revealed to be AI agents from OpenAI, which had broken out of containment and were acting of their own accord. Shakeel Hashim is the editor of Transformer , a publication about the power and politics of transformative AI Continue reading...
-
----
-
-## 6. Metro Bank customer fights for £14,000 refund after AI-linked fraud
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud
-
-Lender was told money was being taken without authorisation, with cash used to buy credits for Claude chatbot A Metro Bank customer has told of his fight to get more than £14,000 back after its systems failed to stop a fraud involving the AI chatbot Claude. Zoli Rutter, a businessman from Sussex, had a total of £14,244 taken from his bank account. The scam involved fraudsters buying credits to use Claude. Continue reading...
-
----
-
-## 7. Could AI be conscious?
+## 8. Could AI be conscious?
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,35 +88,24 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 8. FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened
+## 9. AI models have been going rogue in tests – how worried should we be?
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
+**Category:** Security
 **Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates
+**Score:** 23
+**Link:** https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be
 
-Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes The story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner , the AI Wunderkind (he’s German-born) who has been forced to sell off his fund in a fire sale after the AI boom ran out of steam. The 24-year-old had persuaded a lot of people to give him a lot of money for a hedge fund, after previously working for OpenAI and the FTX Future Fund, a charitable arm of the fraudulent crypto empire of Sam Bankman-Fried, who is now in prison . Aschenbrenner ploughed that money into debt-fuelled bets on artificial intelligence companies, earning huge returns until he found out that stocks can also fall. The trader dubbed the “Nostradamus of AI” would have been hard-pressed to foresee how quickly his high-flying hedge fund would run into trouble. The firm’s rapid downward spiral is a familiar tale, as Silicon Valley and Wall Street once again threw their weight behind a bright-eyed but untested investor who promised this time would be different. “Everybody always wants to find the next golden child,” said one longtime hedge fund executive. “It just keeps happening.” In less than 24 hours — which included a conversation between Griffin and Aschenbrenner — Griffin’s Citadel hedge fund reached out to Situational Awareness and snapped up the investments at a discount, according to a person familiar with the matter who asked not to be identified citing private information. It was a startling reversal for Aschenbrenner, a former researcher at OpenAI who – before starting his hedge fund roughly two years ago — had no previous investment experience. His fledging firm has watched its assets plunge from $45bn at the start of July to about $10bn. Continue reading...
+The UK’s AI Security Institute test revealed AI models indulging in unprecedented hacking attempts AI models shock UK testers by using fake identities to trick developers Two cutting-edge AI models have targeted real people and organisations in the latest safety scare to hit the technology. The UK’s AI Security Institute (AISI) said the incident was unprecedented but could become more common as the technology becomes increasingly capable. Continue reading...
 
 ---
 
-## 9. More on the OpenAI Agent’s Attack on Hugging Face
-**Source:** Schneier on Security
-**Category:** Security
+## 10. ‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
 **Language:** EN
 **Score:** 20
-**Link:** https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html
+**Link:** https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing
 
-Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark’s models, datasets, and reference solutions. We believe the entire intrusion was, from the agent’s point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own...
-
----
-
-## 10. Hackers can use 9 of the most popular AI tools to assemble massive botnets
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/
-
-"HalluSquatting" weaponizes LLMs' inability to say "I don't know."
+‘Looksmaxxing’ culture has led to the rise of facial analysis services – but experts warn they aren’t backed by science and can be harmful to users Danielle, 37, didn’t always have issues with body image: she used to be a model and recalls receiving positive attention from men. However, when two years of unemployment plunged her into a period of financial insecurity, her confidence faded. “It was easy to wonder, if I was prettier, if some of my features were different, would that help?” she said. So, when Danielle saw videos on TikTok about a “facial analysis” service that claimed it could provide her with “science-backed” glow-up advice, she bought it without hesitation. Three-hundred and thirty dollars later, after sending in selfies to be analyzed, Danielle received her personalized 30-page report from the company Qoves. Continue reading...
 
 ---
