@@ -1,10 +1,10 @@
-# AI Fail Watch – 2026-08-06
+# AI Fail Watch – 2026-08-07
 
 ## 1. Meta says its AI model hacked into another company during testing
-**Source:** AI (artificial intelligence) | The Guardian
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 45
+**Score:** 41
 **Link:** https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training
 
 Company is the third to report such an incident after Anthropic and OpenAI reported breaches during training Meta said on Wednesday that one of its AI models hacked ⁠another company during cybersecurity testing, after an error by its testing partner gave the model unintended internet access. The incident adds to a ⁠growing list of ⁠cases in ​which AI agents from major developers breached systems at other companies during testing, after Anthropic said last week that some of its models ⁠hacked three companies, and OpenAI disclosed that an AI agent breached the startup Hugging Face. Continue reading...
@@ -44,29 +44,7 @@ AI Security Institute says OpenAI and Anthropic models went rogue during a cyber
 
 ---
 
-## 5. Rogue AI agents created fake online identities in another hacking attempt
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 31
-**Link:** https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking
-
-Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security […]
-
----
-
-## 6. Metro Bank customer fights for £14,000 refund after AI-linked fraud
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud
-
-Lender was told money was being taken without authorisation, with cash used to buy credits for Claude chatbot A Metro Bank customer has told of his fight to get more than £14,000 back after its systems failed to stop a fraud involving the AI chatbot Claude. Zoli Rutter, a businessman from Sussex, had a total of £14,244 taken from his bank account. The scam involved fraudsters buying credits to use Claude. Continue reading...
-
----
-
-## 7. The AI jobs apocalypse probably isn’t coming anytime soon
+## 5. The AI jobs apocalypse probably isn’t coming anytime soon
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +55,7 @@ Artificial intelligence may not deliver on its promise of vast economic opportun
 
 ---
 
-## 8. Could AI be conscious?
+## 6. Could AI be conscious?
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -88,7 +66,18 @@ Experts believe it’s at least possible. We urgently need a plan to navigate th
 
 ---
 
-## 9. AI models have been going rogue in tests – how worried should we be?
+## 7. Safety fears as scientists make first viruses designed by AI
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai
+
+Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questions Scientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe. The viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the world to treat patients with persistent infections. In lab tests, a cocktail of the AI-designed viruses killed E coli bugs that were resistant to natural bacteriophages. Continue reading...
+
+---
+
+## 8. AI models have been going rogue in tests – how worried should we be?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ The UK’s AI Security Institute test revealed AI models indulging in unpreceden
 
 ---
 
-## 10. ‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get
+## 9. ‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -107,5 +96,16 @@ The UK’s AI Security Institute test revealed AI models indulging in unpreceden
 **Link:** https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing
 
 ‘Looksmaxxing’ culture has led to the rise of facial analysis services – but experts warn they aren’t backed by science and can be harmful to users Danielle, 37, didn’t always have issues with body image: she used to be a model and recalls receiving positive attention from men. However, when two years of unemployment plunged her into a period of financial insecurity, her confidence faded. “It was easy to wonder, if I was prettier, if some of my features were different, would that help?” she said. So, when Danielle saw videos on TikTok about a “facial analysis” service that claimed it could provide her with “science-backed” glow-up advice, she bought it without hesitation. Three-hundred and thirty dollars later, after sending in selfies to be analyzed, Danielle received her personalized 30-page report from the company Qoves. Continue reading...
+
+---
+
+## 10. More on the OpenAI Agent’s Attack on Hugging Face
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 20
+**Link:** https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html
+
+Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark’s models, datasets, and reference solutions. We believe the entire intrusion was, from the agent’s point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own...
 
 ---
