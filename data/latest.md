@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-07
+# AI Fail Watch – 2026-08-08
 
 ## 1. Meta says its AI model hacked into another company during testing
 **Source:** Technology | The Guardian
@@ -55,18 +55,7 @@ Artificial intelligence may not deliver on its promise of vast economic opportun
 
 ---
 
-## 6. Could AI be conscious?
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious
-
-Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implications In January, the AI company Anthropic published a new constitution for Claude, its most advanced large language model (LLM), which contained the comment: “We are caught in a difficult position where we neither want to overstate the likelihood of Claude’s moral patienthood nor dismiss it out of hand.” A month later, Anthropic’s CEO Dario Amodei went on a podcast and said his company couldn’t rule out the possibility that Claude was conscious. Philosopher David Chalmers, who coined the phrase “the hard problem of consciousness”, has said there is a significant chance of conscious LLMs within a decade. And what about Claude itself? When asked during testing to estimate the probability that it is a moral patient , meaning that its wellbeing matters in its own right, it gave numbers ranging from 5% to 40% and stressed how uncertain it was. Modern AI systems are extraordinarily complex, and they are advancing fast. In terms of structural complexity and computational scale, by some measures a few are already in the range of a mouse brain, and at recent growth rates, they could reach the range of a human brain within five to 10 years. Continue reading...
-
----
-
-## 7. Safety fears as scientists make first viruses designed by AI
+## 6. Safety fears as scientists make first viruses designed by AI
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ Researchers say breakthrough offers hope for new medicines but also raises urgen
 
 ---
 
-## 8. AI models have been going rogue in tests – how worried should we be?
+## 7. AI models have been going rogue in tests – how worried should we be?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ The UK’s AI Security Institute test revealed AI models indulging in unpreceden
 
 ---
 
-## 9. ‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get
+## 8. ‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -99,7 +88,7 @@ The UK’s AI Security Institute test revealed AI models indulging in unpreceden
 
 ---
 
-## 10. More on the OpenAI Agent’s Attack on Hugging Face
+## 9. More on the OpenAI Agent’s Attack on Hugging Face
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ The UK’s AI Security Institute test revealed AI models indulging in unpreceden
 **Link:** https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html
 
 Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark’s models, datasets, and reference solutions. We believe the entire intrusion was, from the agent’s point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own...
+
+---
+
+## 10. Can the government really get ahead of the curve on AI? - podcast
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast
+
+On Wednesday, the Labor government announced environmental and energy safeguards on new datacentres in Australia. Our political editor, Tom McIlroy , speaks to the assistant minister for science, technology and the digital economy, Dr Andrew Charlton, about the government’s push for national standards on datacentres. The former Rudd staffer and economist speaks about having his own book scraped by Anthropic, low public trust in AI, and how the government wants to use regulation to balance risk and opportunity Continue reading...
 
 ---
