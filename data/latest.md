@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-08
+# AI Fail Watch – 2026-08-09
 
 ## 1. Meta says its AI model hacked into another company during testing
 **Source:** Technology | The Guardian
@@ -55,7 +55,18 @@ Artificial intelligence may not deliver on its promise of vast economic opportun
 
 ---
 
-## 6. Safety fears as scientists make first viruses designed by AI
+## 6. ‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom
+
+Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back? If you set out to design from scratch a tool to facilitate authoritarian rule, it would look exactly like AI. You would cherish it for its ability to destabilise our shared reality and its creation of disinformation on a scale unprecedented in human history. With it you need no armies of typists and artists to spread your propaganda. It can enable mass surveillance and thereby put shackles on those who seek to resist you. Its lethal autonomous weapons systems can perfect and normalise remote killing. It will turbocharge inequality; it is already facilitating a breathtaking shift of power and wealth from the hands of the many to the hands of a tiny number of men who – to put it in terms for which I can’t be sued – seem to hold dangerously damaged views about the value and dignity of human life. AI could be a magnificent thing. It could revolutionise medicine, speed the cure of cancer, assist disabled people, transform the way we are able to understand data, democratise access to the law, bolster disaster early warning systems and uncover hitherto unimagined truths about the Earth’s ecosystems. But if it ends up in the hands of crooks and despots that will be completely irrelevant. Continue reading...
+
+---
+
+## 7. Safety fears as scientists make first viruses designed by AI
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,7 @@ Researchers say breakthrough offers hope for new medicines but also raises urgen
 
 ---
 
-## 7. AI models have been going rogue in tests – how worried should we be?
+## 8. AI models have been going rogue in tests – how worried should we be?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -77,35 +88,24 @@ The UK’s AI Security Institute test revealed AI models indulging in unpreceden
 
 ---
 
-## 8. ‘So destructive’: women are paying for face scans that tell them what cosmetic procedures to get
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/fashion/ng-interactive/2026/aug/05/facial-analysis-scans-qoves-epica-looksmaxxing
-
-‘Looksmaxxing’ culture has led to the rise of facial analysis services – but experts warn they aren’t backed by science and can be harmful to users Danielle, 37, didn’t always have issues with body image: she used to be a model and recalls receiving positive attention from men. However, when two years of unemployment plunged her into a period of financial insecurity, her confidence faded. “It was easy to wonder, if I was prettier, if some of my features were different, would that help?” she said. So, when Danielle saw videos on TikTok about a “facial analysis” service that claimed it could provide her with “science-backed” glow-up advice, she bought it without hesitation. Three-hundred and thirty dollars later, after sending in selfies to be analyzed, Danielle received her personalized 30-page report from the company Qoves. Continue reading...
-
----
-
-## 9. More on the OpenAI Agent’s Attack on Hugging Face
-**Source:** Schneier on Security
+## 9. OpenAI to pause some work on AI model Astra due to security concerns
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 20
-**Link:** https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns
 
-Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark’s models, datasets, and reference solutions. We believe the entire intrusion was, from the agent’s point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own...
+Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacks OpenAI will pause some work on an artificial intelligence model because of security concerns, the company stated on Friday, following a series of incidents in which AI agents have escaped containment. The company had evaluated the agent, Astra, and found “significant advancements in agentic coding and cybersecurity”, which had moved to a “critical” threshold where it can find and exploit vulnerabilities without human intervention, or devise and execute cyber-attacks when given only a “high level desired goal”. Continue reading...
 
 ---
 
-## 10. Can the government really get ahead of the curve on AI? - podcast
-**Source:** AI (artificial intelligence) | The Guardian
+## 10. ”I fel händer kan AI vara ett mycket farligt vapen”
+**Source:** SVT Nyheter
 **Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast
+**Language:** SV
+**Score:** 21
+**Link:** https://www.svt.se/nyheter/inrikes/i-fel-hander-kan-ai-vara-ett-mycket-farligt-vapen
 
-On Wednesday, the Labor government announced environmental and energy safeguards on new datacentres in Australia. Our political editor, Tom McIlroy , speaks to the assistant minister for science, technology and the digital economy, Dr Andrew Charlton, about the government’s push for national standards on datacentres. The former Rudd staffer and economist speaks about having his own book scraped by Anthropic, low public trust in AI, and how the government wants to use regulation to balance risk and opportunity Continue reading...
+Den senaste tidens incidenter visar på riskerna med artificiell intelligens: cyberangrepp, virus och manipulation. Nu är AI-säkerhet i fokus igen – hur kan man undvika att tekniken hamnar i fel händer?
 
 ---
