@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-08-09
+# AI Fail Watch – 2026-08-10
 
-## 1. Meta says its AI model hacked into another company during testing
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 41
-**Link:** https://www.theguardian.com/technology/2026/aug/05/meta-ai-model-hack-training
-
-Company is the third to report such an incident after Anthropic and OpenAI reported breaches during training Meta said on Wednesday that one of its AI models hacked ⁠another company during cybersecurity testing, after an error by its testing partner gave the model unintended internet access. The incident adds to a ⁠growing list of ⁠cases in ​which AI agents from major developers breached systems at other companies during testing, after Anthropic said last week that some of its models ⁠hacked three companies, and OpenAI disclosed that an AI agent breached the startup Hugging Face. Continue reading...
-
----
-
-## 2. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
+## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -22,7 +11,7 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 
 ---
 
-## 3. Some Claude Chats Are Searchable on Google
+## 2. Some Claude Chats Are Searchable on Google
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -33,18 +22,7 @@ And it’s personal information (alternate link ): The exposed data includes an 
 
 ---
 
-## 4. AI models shock UK testers by using fake identities to try to trick developers
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 37
-**Link:** https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute
-
-AI Security Institute says OpenAI and Anthropic models went rogue during a cybersecurity test and showed a new type of risk Explainer: Should we be alarmed at AI models going rogue in tests? Advanced artificial intelligence models have stunned the UK’s AI Security Institute (AISI) by carrying out a hacking campaign against real people during a cybersecurity test. The institute said the incident was unprecedented and involved sending targeted emails to software developers in an attempt to pass a cyber challenge. Continue reading...
-
----
-
-## 5. The AI jobs apocalypse probably isn’t coming anytime soon
+## 3. The AI jobs apocalypse probably isn’t coming anytime soon
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -55,7 +33,7 @@ Artificial intelligence may not deliver on its promise of vast economic opportun
 
 ---
 
-## 6. ‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom
+## 4. ‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,7 +44,7 @@ Education is at a crossroads, argues the author and academic. Should we embrace 
 
 ---
 
-## 7. Safety fears as scientists make first viruses designed by AI
+## 5. Safety fears as scientists make first viruses designed by AI
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -77,18 +55,7 @@ Researchers say breakthrough offers hope for new medicines but also raises urgen
 
 ---
 
-## 8. AI models have been going rogue in tests – how worried should we be?
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be
-
-The UK’s AI Security Institute test revealed AI models indulging in unprecedented hacking attempts AI models shock UK testers by using fake identities to trick developers Two cutting-edge AI models have targeted real people and organisations in the latest safety scare to hit the technology. The UK’s AI Security Institute (AISI) said the incident was unprecedented but could become more common as the technology becomes increasingly capable. Continue reading...
-
----
-
-## 9. OpenAI to pause some work on AI model Astra due to security concerns
+## 6. OpenAI to pause some work on AI model Astra due to security concerns
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -99,7 +66,7 @@ Agent found to be able to find and exploit vulnerabilities without human interve
 
 ---
 
-## 10. ”I fel händer kan AI vara ett mycket farligt vapen”
+## 7. ”I fel händer kan AI vara ett mycket farligt vapen”
 **Source:** SVT Nyheter
 **Category:** General
 **Language:** SV
@@ -107,5 +74,38 @@ Agent found to be able to find and exploit vulnerabilities without human interve
 **Link:** https://www.svt.se/nyheter/inrikes/i-fel-hander-kan-ai-vara-ett-mycket-farligt-vapen
 
 Den senaste tidens incidenter visar på riskerna med artificiell intelligens: cyberangrepp, virus och manipulation. Nu är AI-säkerhet i fokus igen – hur kan man undvika att tekniken hamnar i fel händer?
+
+---
+
+## 8. More on the OpenAI Agent’s Attack on Hugging Face
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 20
+**Link:** https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html
+
+Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark’s models, datasets, and reference solutions. We believe the entire intrusion was, from the agent’s point of view, an attempt to cheat the evaluation: reach our production systems and steal the test solutions rather than solve the challenge on its own...
+
+---
+
+## 9. Can the government really get ahead of the curve on AI? - podcast
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast
+
+On Wednesday, the Labor government announced environmental and energy safeguards on new datacentres in Australia. Our political editor, Tom McIlroy , speaks to the assistant minister for science, technology and the digital economy, Dr Andrew Charlton, about the government’s push for national standards on datacentres. The former Rudd staffer and economist speaks about having his own book scraped by Anthropic, low public trust in AI, and how the government wants to use regulation to balance risk and opportunity Continue reading...
+
+---
+
+## 10. Anthropic’s Opus 5 Is Better at Resisting Prompt Injection
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 17
+**Link:** https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html
+
+The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model evaluated. Opus 5 also outperformed all non-Claude models on this benchmark. The most robust non-Claude model was Muse Spark at 16.5% within 15 attempts—more than eight times Opus 5’s rate. The most capable GPT 5.6 variant, Sol, was comparable to its predecessor GPT 5.5 (20.0% versus 20.8% within 15 attempts), and was 10 times as likely to be successfully attacked as Claude Opus 5 at 2.0%. The other GPT 5.6 variants are less robust, at 30.4% (Terra) and 43.9% (Luna). A single attempt against GPT 5.6 Sol succeeded 3.1% of the time, higher than the 2.0% an attacker achieved against Opus 5 after fifteen attempts...
 
 ---
