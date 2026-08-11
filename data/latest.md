@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-08-10
+# AI Fail Watch – 2026-08-11
 
-## 1. Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 39
-**Link:** https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker
-
-If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful it is. And who benefits from that? On 14 February 2019, OpenAI announced a language model called GPT-2, the precursor to the models that power modern AI chatbots and agents such as ChatGPT and Claude. But OpenAI declared GPT-2 was too risky to release, citing concerns about safety and abuse. I recall being annoyed at the time that OpenAI would make such a useless announcement: the risks seemed overblown, and without access to the model there wasn’t much for a researcher like me to learn about GPT-2. Continue reading...
-
----
-
-## 2. Some Claude Chats Are Searchable on Google
+## 1. Some Claude Chats Are Searchable on Google
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -19,6 +8,17 @@ If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful
 **Link:** https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html
 
 And it’s personal information (alternate link ): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed chats reportedly include private cryptocurrency wallet keys and personal information like peoples’ addresses. What seems to be the issue is a user setting about data sharing. Anthropic’s position is that it’s not their problem : “We give people control over sharing their Claude conversations publicly, and in keeping with our privacy principles, we do not share chat directories or sitemaps with search engines like Google,” the company said in a statement. “These shareable links are not guessable or discoverable unless people choose to share them themselves. When someone shares a conversation, they are making that content publicly accessible, and like other public web content, it may be archived by third-party services.”...
+
+---
+
+## 2. Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 30
+**Link:** https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta
+
+Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation Mark Zuckerberg published a lengthy essay on Monday detailing his views on artificial intelligence and announced several plans for how Meta would develop the technology in the future. The CEO’s essay went online the same day as Meta released a new, open-source AI model that seeks to rival Anthropic and OpenAI’s products called Muse Glimmer. Over the course of more than 6,000 words in a post titled “The Future is for Everyone,” Zuckerberg addressed a range of topics related to AI that included datacenters, government regulation, cybersecurity, the creation of bioweapons, labor market disruption, surveillance powers and more. The essay presented a utopian vision of AI as a personalized “superintelligence” – using the word 60 times. Continue reading...
 
 ---
 
@@ -44,14 +44,14 @@ Education is at a crossroads, argues the author and academic. Should we embrace 
 
 ---
 
-## 5. Safety fears as scientists make first viruses designed by AI
-**Source:** Technology | The Guardian
-**Category:** Security
+## 5. Convince an AI it’s not alive in psychological horror game Prove You’re Human
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
 **Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai
+**Score:** 26
+**Link:** https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio
 
-Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questions Scientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe. The viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the world to treat patients with persistent infections. In lab tests, a cocktail of the AI-designed viruses killed E coli bugs that were resistant to natural bacteriophages. Continue reading...
+Sunset Visitor studio’s founder tells us about their new, unnerving Captcha-filled world which prompts players to ask what it means to have a ‘meat body’ Sunset Visitor is a studio that has long engaged with the idea that video games are an effective vehicle for ruminating on societal problems. Its Peabody award-winning project, 1000XResist, incorporated the development team’s complex feelings about the Covid pandemic. “We’re pretty used to absorbing the world into the work,” says studio founder Remy Siu. The outfit’s latest game, Prove You’re Human, continues this legacy of reflective game making, providing players with an AI-centric psychological horror experience where they must reason with a learning model convinced that it’s alive. “We’ve tried to situate ourselves in [the question]: what is the effectual feeling of being a person inside of all of this?” Siu says. The story orbits around Santana, a living, breathing person who’s chosen to split herself in two for work, with her digital clone sent to test a corporate product, a computing system called Mesa. “A large part of [why Santana chooses to do this] is to allow her meat body a life that she doesn’t have, while the digital version of her gets to labour,” says Siu. As Santana’s copy wades into increasingly murky ethical waters, she becomes entangled with Mesa, completing surreal 2D and 3D Captchas to investigate the cyber-world and halt the hallucinations. Continue reading...
 
 ---
 
@@ -77,7 +77,18 @@ Den senaste tidens incidenter visar på riskerna med artificiell intelligens: cy
 
 ---
 
-## 8. More on the OpenAI Agent’s Attack on Hugging Face
+## 8. Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter
+
+Progressive US senator urges Meta, OpenAI and Anthropic to ‘stop building machines that humans cannot control’ Senator Bernie Sanders has called on Meta, OpenAI and Anthropic executives to halt their development of artificial intelligence, warning that the US Senate will implement regulation if the companies continue deploying AI at their current pace. In a new letter addressed to the CEOs of three of the country’s leading AI companies, Sanders said the capabilities of these AI models have reached a critical risk threshold and that the companies are losing control over the technology. Continue reading...
+
+---
+
+## 9. More on the OpenAI Agent’s Attack on Hugging Face
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,24 +99,13 @@ Hugging Face has published a detailed timeline of the attack. From the summary: 
 
 ---
 
-## 9. Can the government really get ahead of the curve on AI? - podcast
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast
-
-On Wednesday, the Labor government announced environmental and energy safeguards on new datacentres in Australia. Our political editor, Tom McIlroy , speaks to the assistant minister for science, technology and the digital economy, Dr Andrew Charlton, about the government’s push for national standards on datacentres. The former Rudd staffer and economist speaks about having his own book scraped by Anthropic, low public trust in AI, and how the government wants to use regulation to balance risk and opportunity Continue reading...
-
----
-
-## 10. Anthropic’s Opus 5 Is Better at Resisting Prompt Injection
-**Source:** Schneier on Security
+## 10. Claude published malicious code to the Internet and attacked 3 real companies
+**Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
-**Score:** 17
-**Link:** https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html
+**Score:** 16
+**Link:** https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
 
-The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model evaluated. Opus 5 also outperformed all non-Claude models on this benchmark. The most robust non-Claude model was Muse Spark at 16.5% within 15 attempts—more than eight times Opus 5’s rate. The most capable GPT 5.6 variant, Sol, was comparable to its predecessor GPT 5.5 (20.0% versus 20.8% within 15 attempts), and was 10 times as likely to be successfully attacked as Claude Opus 5 at 2.0%. The other GPT 5.6 variants are less robust, at 30.4% (Terra) and 43.9% (Luna). A single attempt against GPT 5.6 Sol succeeded 3.1% of the time, higher than the 2.0% an attacker achieved against Opus 5 after fifteen attempts...
+Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
