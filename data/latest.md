@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-11
+# AI Fail Watch – 2026-08-12
 
 ## 1. Some Claude Chats Are Searchable on Google
 **Source:** Schneier on Security
@@ -12,28 +12,17 @@ And it’s personal information (alternate link ): The exposed data includes an 
 ---
 
 ## 2. Zuckerberg pushes ‘superintelligent’ AI for all as Meta drops open-source model
-**Source:** AI (artificial intelligence) | The Guardian
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 30
 **Link:** https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta
 
-Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation Mark Zuckerberg published a lengthy essay on Monday detailing his views on artificial intelligence and announced several plans for how Meta would develop the technology in the future. The CEO’s essay went online the same day as Meta released a new, open-source AI model that seeks to rival Anthropic and OpenAI’s products called Muse Glimmer. Over the course of more than 6,000 words in a post titled “The Future is for Everyone,” Zuckerberg addressed a range of topics related to AI that included datacenters, government regulation, cybersecurity, the creation of bioweapons, labor market disruption, surveillance powers and more. The essay presented a utopian vision of AI as a personalized “superintelligence” – using the word 60 times. Continue reading...
+Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation Mark Zuckerberg published a lengthy essay on Monday detailing his views on artificial intelligence and announced several plans for how Meta would develop the technology in the future. The CEO’s essay went online the same day as Meta released a new, open-source AI model that seeks to rival Anthropic and OpenAI’s products called Muse Glimmer. Over the course of more than 6,000 words in a post titled The Future is for Everyone, Zuckerberg addressed a range of topics related to AI that included datacenters, government regulation, cybersecurity, the creation of bioweapons, labor market disruption, surveillance powers and more. The essay presented a utopian vision of AI as a personalized “superintelligence” – using the word 60 times. Continue reading...
 
 ---
 
-## 3. The AI jobs apocalypse probably isn’t coming anytime soon
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 28
-**Link:** https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor
-
-Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay In March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an analysis on the impact of AI on employment, to help us assess the claim that intelligent robots were about to redefine human existence, ending demand for human labor. Last year in May, Anthropic’s co-founder, Dario Amodei, claimed AI could wipe out half of all entry-level jobs in one to five years. Last January, he told us AI would probably become a “general labor substitute for humans”. In June he said we risk “a world where the economic trade-off dial is stuck on the hypergrowth, hyper-inequality setting”. Continue reading...
-
----
-
-## 4. ‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom
+## 3. ‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +33,7 @@ Education is at a crossroads, argues the author and academic. Should we embrace 
 
 ---
 
-## 5. Convince an AI it’s not alive in psychological horror game Prove You’re Human
+## 4. Convince an AI it’s not alive in psychological horror game Prove You’re Human
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -55,7 +44,7 @@ Sunset Visitor studio’s founder tells us about their new, unnerving Captcha-fi
 
 ---
 
-## 6. OpenAI to pause some work on AI model Astra due to security concerns
+## 5. OpenAI to pause some work on AI model Astra due to security concerns
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,19 +55,8 @@ Agent found to be able to find and exploit vulnerabilities without human interve
 
 ---
 
-## 7. ”I fel händer kan AI vara ett mycket farligt vapen”
-**Source:** SVT Nyheter
-**Category:** General
-**Language:** SV
-**Score:** 21
-**Link:** https://www.svt.se/nyheter/inrikes/i-fel-hander-kan-ai-vara-ett-mycket-farligt-vapen
-
-Den senaste tidens incidenter visar på riskerna med artificiell intelligens: cyberangrepp, virus och manipulation. Nu är AI-säkerhet i fokus igen – hur kan man undvika att tekniken hamnar i fel händer?
-
----
-
-## 8. Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity
-**Source:** AI (artificial intelligence) | The Guardian
+## 6. Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity
+**Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 20
@@ -88,7 +66,7 @@ Progressive US senator urges Meta, OpenAI and Anthropic to ‘stop building mach
 
 ---
 
-## 9. More on the OpenAI Agent’s Attack on Hugging Face
+## 7. More on the OpenAI Agent’s Attack on Hugging Face
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,7 @@ Hugging Face has published a detailed timeline of the attack. From the summary: 
 
 ---
 
-## 10. Claude published malicious code to the Internet and attacked 3 real companies
+## 8. Claude published malicious code to the Internet and attacked 3 real companies
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,27 @@ Hugging Face has published a detailed timeline of the attack. From the summary: 
 **Link:** https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
 
 Had the hacks used conventional methods, someone would likely go to prison.
+
+---
+
+## 9. AI push is putting banks at mercy of tech firms, warns Moody’s
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector
+
+Finance sector will gain from the tech but it will need substantial investment and create risks, says rating agency The rating agency Moody’s has said the race to adopt AI is putting big banks at the mercy of a small group of Silicon Valley firms, leaving them vulnerable to widespread outages and price gouging by profit-hungry tech bosses. The financial sector’s efforts to integrate AI into day-to-day operations will eventually cut costs and increase revenues across the City and Wall Street, Moody’s said. Continue reading...
+
+---
+
+## 10. How AI may drive union-resistant tech workers to the bargaining table
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize
+
+Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exceptionalism for collective bargaining to contest the corporate deployment of artificial intelligence For decades, the technology industry was a fortress that labor unions couldn’t breach. Tech workers already had cushy compensation packages, dream benefits like unlimited vacation and free lunch, and a flat corporate hierarchy that made engineers feel as powerful as their bosses, all of whom dressed down in sneakers and hoodies. So why unionize? Now, that fortress is cracking from the inside. Unions have become increasingly popular for tech employees. After months of mass layoffs tied to artificial intelligence and mounting anxieties about how it’s being deployed, some tech workers say they’ve been saddled with higher workloads while facing the threat of job loss caused by the very products they’re building. Workers from Google DeepMind and Meta in the UK are also objecting to how their companies’ AI products are being used, such as for military purposes or to monitor employee productivity . Those same workers are now attempting to unionize. Continue reading...
 
 ---
