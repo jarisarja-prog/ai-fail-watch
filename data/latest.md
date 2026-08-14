@@ -1,18 +1,7 @@
-# AI Fail Watch – 2026-08-13
+# AI Fail Watch – 2026-08-14
 
-## 1. Some Claude Chats Are Searchable on Google
-**Source:** Schneier on Security
-**Category:** Legal
-**Language:** EN
-**Score:** 39
-**Link:** https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html
-
-And it’s personal information (alternate link ): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed chats reportedly include private cryptocurrency wallet keys and personal information like peoples’ addresses. What seems to be the issue is a user setting about data sharing. Anthropic’s position is that it’s not their problem : “We give people control over sharing their Claude conversations publicly, and in keeping with our privacy principles, we do not share chat directories or sitemaps with search engines like Google,” the company said in a statement. “These shareable links are not guessable or discoverable unless people choose to share them themselves. When someone shares a conversation, they are making that content publicly accessible, and like other public web content, it may be archived by third-party services.”...
-
----
-
-## 2. Zuckerberg pushes ‘superintelligent’ AI for all as Meta releases open-weight model
-**Source:** Technology | The Guardian
+## 1. Zuckerberg pushes ‘superintelligent’ AI for all as Meta releases open-weight model
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 30
@@ -22,18 +11,7 @@ Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley d
 
 ---
 
-## 3. Convince an AI it’s not alive in psychological horror game Prove You’re Human
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio
-
-Sunset Visitor studio’s founder tells us about their new, unnerving Captcha-filled world which prompts players to ask what it means to have a ‘meat body’ Sunset Visitor is a studio that has long engaged with the idea that video games are an effective vehicle for ruminating on societal problems. Its Peabody award-winning project, 1000XResist, incorporated the development team’s complex feelings about the Covid pandemic. “We’re pretty used to absorbing the world into the work,” says studio founder Remy Siu. The outfit’s latest game, Prove You’re Human, continues this legacy of reflective game making, providing players with an AI-centric psychological horror experience where they must reason with a learning model convinced that it’s alive. “We’ve tried to situate ourselves in [the question]: what is the effectual feeling of being a person inside of all of this?” Siu says. The story orbits around Santana, a living, breathing person who’s chosen to split herself in two for work, with her digital clone sent to test a corporate product, a computing system called Mesa. “A large part of [why Santana chooses to do this] is to allow her meat body a life that she doesn’t have, while the digital version of her gets to labour,” says Siu. As Santana’s copy wades into increasingly murky ethical waters, she becomes entangled with Mesa, completing surreal 2D and 3D Captchas to investigate the cyber-world and halt the hallucinations. Continue reading...
-
----
-
-## 4. Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack
+## 2. Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +22,7 @@ Taiwan’s statement comes a day after reports that suspected China-linked hacke
 
 ---
 
-## 5. Prompt Injections for Defense
+## 3. Prompt Injections for Defense
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +33,7 @@ This seems to work : Researchers from Tracebit on Monday said they found that pl
 
 ---
 
-## 6. Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity
+## 4. Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +44,7 @@ Progressive US senator urges Meta, OpenAI and Anthropic to ‘stop building mach
 
 ---
 
-## 7. Claude published malicious code to the Internet and attacked 3 real companies
+## 5. Claude published malicious code to the Internet and attacked 3 real companies
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,7 +55,7 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 8. How AI may drive union-resistant tech workers to the bargaining table
+## 6. How AI may drive union-resistant tech workers to the bargaining table
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -88,7 +66,7 @@ Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exc
 
 ---
 
-## 9. AI Genie in the Wild
+## 7. AI Genie in the Wild
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,7 @@ When I give talks about AI genies , I use this sort of example as a hypothetical
 
 ---
 
-## 10. AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?
+## 8. AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +85,27 @@ When I give talks about AI genies , I use this sort of example as a hypothetical
 **Link:** https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is
 
 After Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bots Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The law is clear, says Prof Jeannie Paterson. “If I deploy an AI agent and it causes harm to someone else, I am responsible for that harm. “Even if I didn’t intend for that to happen, it was foreseeable, and I should be taking responsibility.” Continue reading...
+
+---
+
+## 9. Spotify to distinguish AI artists from real people – and stop recommending them
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists
+
+Music streaming platform creates ‘AI persona’ label that will appear on profiles and track listings in crackdown on fake performers Spotify is to label AI artists and exclude them from algorithm recommendations as part of a crackdown on fake performers. The world’s largest music streaming platform is creating a label for AI-generated artist identities called “AI personas” that will appear on the artist profile and on track listings on playlists. Continue reading...
+
+---
+
+## 10. We now have a better understanding how OpenAI hacked into Hugging Face
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
+
+10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
 
 ---
