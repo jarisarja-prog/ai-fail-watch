@@ -1,13 +1,13 @@
-# AI Fail Watch – 2026-08-14
+# AI Fail Watch – 2026-08-15
 
-## 1. Zuckerberg pushes ‘superintelligent’ AI for all as Meta releases open-weight model
-**Source:** AI (artificial intelligence) | The Guardian
+## 1. If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them
+**Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
-**Score:** 30
-**Link:** https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta
+**Score:** 26
+**Link:** https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html
 
-Meta CEO presents utopian vision of AI in 6,000-word essay amid Silicon Valley debate over government regulation Mark Zuckerberg published a lengthy essay on Monday detailing his views on artificial intelligence and announced several plans for how Meta would develop the technology in the future. The CEO’s essay went online the same day as Meta released a new, open-weight AI model that seeks to rival Anthropic and OpenAI’s products called Muse Glimmer. Over the course of more than 6,000 words in a post titled The Future is for Everyone, Zuckerberg addressed a range of topics related to AI that included datacenters, government regulation, cybersecurity, the creation of bioweapons, labor market disruption, surveillance powers and more. The essay presented a utopian vision of AI as a personalized “superintelligence” – using the word 60 times. Continue reading...
+This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . OpenAI, and then Anthropic , were each formed by AI developers who feared unrestrained corporate AI development—specifically, that companies like Google and Meta would steer the technology towards deleterious, maybe even catastrophically unsafe, outcomes for society. Their founders proclaimed that their new labs, uniquely, could be trusted to develop the technology in humanity’s best interest. But each, in turn, were themselves co-opted by the same market incentives, themselves becoming corporate behemoths zealously guarding future investor value rather than the public interest...
 
 ---
 
@@ -33,18 +33,7 @@ This seems to work : Researchers from Tracebit on Monday said they found that pl
 
 ---
 
-## 4. Bernie Sanders calls on Silicon Valley to ‘pause AI development’ in interest of humanity
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter
-
-Progressive US senator urges Meta, OpenAI and Anthropic to ‘stop building machines that humans cannot control’ Senator Bernie Sanders has called on Meta, OpenAI and Anthropic executives to halt their development of artificial intelligence, warning that the US Senate will implement regulation if the companies continue deploying AI at their current pace. In a new letter addressed to the CEOs of three of the country’s leading AI companies, Sanders said the capabilities of these AI models have reached a critical risk threshold and that the companies are losing control over the technology. Continue reading...
-
----
-
-## 5. Claude published malicious code to the Internet and attacked 3 real companies
+## 4. Claude published malicious code to the Internet and attacked 3 real companies
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -52,6 +41,17 @@ Progressive US senator urges Meta, OpenAI and Anthropic to ‘stop building mach
 **Link:** https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
 
 Had the hacks used conventional methods, someone would likely go to prison.
+
+---
+
+## 5. Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre
+
+‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says Police in Scotland have issued a stark warning about the need for “robust security measures” to stop proposed AI datacentres from being attacked by protesters. There has been mounting opposition to AI infrastructure globally, including in the US where such projects have become a significant political rallying point . Continue reading...
 
 ---
 
@@ -77,7 +77,18 @@ When I give talks about AI genies , I use this sort of example as a hypothetical
 
 ---
 
-## 8. AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?
+## 8. A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime
+
+The administrative work required to run an effective investment scam has been drastically cut by using merging technology Get our breaking news email , free app or daily news podcast Within days of clicking on an online ad for a cryptocurrency trading app, a 29-year-old Queensland man watched his dashboard soar with profits. Making investment gains was as simple as downloading the slick-looking app and browser extension linked to his crypto wallet. So he invested more. Continue reading...
+
+---
+
+## 9. AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -88,7 +99,7 @@ After Australia’s first reported automated hacking accident, experts warn depl
 
 ---
 
-## 9. Spotify to distinguish AI artists from real people – and stop recommending them
+## 10. Spotify to distinguish AI artists from real people – and stop recommending them
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -96,16 +107,5 @@ After Australia’s first reported automated hacking accident, experts warn depl
 **Link:** https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists
 
 Music streaming platform creates ‘AI persona’ label that will appear on profiles and track listings in crackdown on fake performers Spotify is to label AI artists and exclude them from algorithm recommendations as part of a crackdown on fake performers. The world’s largest music streaming platform is creating a label for AI-generated artist identities called “AI personas” that will appear on the artist profile and on track listings on playlists. Continue reading...
-
----
-
-## 10. We now have a better understanding how OpenAI hacked into Hugging Face
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 13
-**Link:** https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
-
-10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
 
 ---
