@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-08-15
+# AI Fail Watch – 2026-08-16
 
-## 1. If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them
+## 1. AI cheating, leaked papers and marking errors: how exam protests went global
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 32
+**Link:** https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global
+
+Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collide Families with teenagers in education know the private, hidden pain of exam season. But this year, what might have been a summer of quiet family anxiety has erupted in several countries into public unrest. Exam-related turmoil has led to mass student protests in Mexico after nearly 60,000 university applicants were forced to resit tests amid suspected cheating , while Portugal’s disastrous attempt to digitise school exam marking sparked the country’s worst education crisis in decades. Continue reading...
+
+---
+
+## 2. If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -11,7 +22,7 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 
 ---
 
-## 2. Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack
+## 3. Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,7 +33,7 @@ Taiwan’s statement comes a day after reports that suspected China-linked hacke
 
 ---
 
-## 3. Prompt Injections for Defense
+## 4. Prompt Injections for Defense
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ This seems to work : Researchers from Tracebit on Monday said they found that pl
 
 ---
 
-## 4. Claude published malicious code to the Internet and attacked 3 real companies
+## 5. Claude published malicious code to the Internet and attacked 3 real companies
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 5. Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres
+## 6. Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +66,18 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 6. How AI may drive union-resistant tech workers to the bargaining table
+## 7. ‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook
+
+Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details You are on a short break in Porto and post some pictures of your family on Instagram or Facebook. With a small section of the Douro river in the background, you think it could have been taken anywhere. A few days later, you get a text saying that your card was compromised. “We detected unusual activity while you were travelling in Porto – please verify immediately,” says the message. Continue reading...
+
+---
+
+## 8. How AI may drive union-resistant tech workers to the bargaining table
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,7 +88,7 @@ Tech workers are increasingly unionizing, trading Silicon Valley’s myth of exc
 
 ---
 
-## 7. AI Genie in the Wild
+## 9. AI Genie in the Wild
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,35 +99,13 @@ When I give talks about AI genies , I use this sort of example as a hypothetical
 
 ---
 
-## 8. A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing
+## 10. A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 14
 **Link:** https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime
 
-The administrative work required to run an effective investment scam has been drastically cut by using merging technology Get our breaking news email , free app or daily news podcast Within days of clicking on an online ad for a cryptocurrency trading app, a 29-year-old Queensland man watched his dashboard soar with profits. Making investment gains was as simple as downloading the slick-looking app and browser extension linked to his crypto wallet. So he invested more. Continue reading...
-
----
-
-## 9. AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is
-
-After Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bots Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The law is clear, says Prof Jeannie Paterson. “If I deploy an AI agent and it causes harm to someone else, I am responsible for that harm. “Even if I didn’t intend for that to happen, it was foreseeable, and I should be taking responsibility.” Continue reading...
-
----
-
-## 10. Spotify to distinguish AI artists from real people – and stop recommending them
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists
-
-Music streaming platform creates ‘AI persona’ label that will appear on profiles and track listings in crackdown on fake performers Spotify is to label AI artists and exclude them from algorithm recommendations as part of a crackdown on fake performers. The world’s largest music streaming platform is creating a label for AI-generated artist identities called “AI personas” that will appear on the artist profile and on track listings on playlists. Continue reading...
+The administrative work required to run an effective investment scam has been drastically cut by using emerging technology Get our breaking news email , free app or daily news podcast Within days of clicking on an online ad for a cryptocurrency trading app, a 29-year-old Queensland man watched his dashboard soar with profits. Making investment gains was as simple as downloading the slick-looking app and browser extension linked to his crypto wallet. So he invested more. Continue reading...
 
 ---
