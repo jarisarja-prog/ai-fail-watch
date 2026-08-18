@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-17
+# AI Fail Watch – 2026-08-18
 
 ## 1. Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears
 **Source:** Technology | The Guardian
@@ -33,18 +33,7 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 
 ---
 
-## 4. Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas
-
-Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breach Taiwan says it detected AI-assisted cyber-attacks on government agencies that came from overseas last month, a new kind of threat that has been reported as “first-of-a-kind breach”. The Ministry of Digital Affairs (MDA) said its cybersecurity monitoring units ‌detected the “abnormal attack” targeting government agencies, which began on 20 July. The National Institute of Cyber Security issued a series of warning alerts while it investigated. Continue reading...
-
----
-
-## 5. Prompt Injections for Defense
+## 4. Prompt Injections for Defense
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ This seems to work : Researchers from Tracebit on Monday said they found that pl
 
 ---
 
-## 6. The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’
+## 5. The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +55,7 @@ Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters 
 
 ---
 
-## 7. ‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech
+## 6. ‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +66,7 @@ Amid fears for jobs, some film-makers say AI could enable them to bypass studio 
 
 ---
 
-## 8. Claude published malicious code to the Internet and attacked 3 real companies
+## 7. Claude published malicious code to the Internet and attacked 3 real companies
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 9. Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres
+## 8. Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -99,7 +88,7 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 10. ‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos
+## 9. ‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +96,16 @@ Had the hacks used conventional methods, someone would likely go to prison.
 **Link:** https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook
 
 Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details You are on a short break in Porto and post some pictures of your family on Instagram or Facebook. With a small section of the Douro river in the background, you think it could have been taken anywhere. A few days later, you get a text saying that your card was compromised. “We detected unusual activity while you were travelling in Porto – please verify immediately,” says the message. Continue reading...
+
+---
+
+## 10. AI Genie in the Wild
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 15
+**Link:** https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html
+
+When I give talks about AI genies , I use this sort of example as a hypothetical. It’s happened . The story is from Australia. Someone named Andrew tasked OpenClaw to book gym classes for him. And…. Minutes later, his AI agent reported it had discovered a way to book Andrew into classes several weeks in advance, far beyond what was supposed to be possible. Andrew, who was sitting fourth on a waitlist for a class later that week, asked if it was possible to move him to the top of the list. The agent came back and told Andrew that it had kicked another gym-goer off the list as part of the testing of its capabilities...
 
 ---
