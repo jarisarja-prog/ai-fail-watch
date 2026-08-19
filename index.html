@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Fail Watch – 2026-08-18</title>
+    <title>AI Fail Watch – 2026-08-19</title>
     <style>
         :root {
             --bg: #0b1020;
@@ -261,7 +261,7 @@
                     <h1 class="brand">AI Fail Watch</h1>
                     <div class="sub">Daily tracking of leaks, lawsuits, hallucinations, privacy failures and other AI risks.</div>
                 </div>
-                <div class="status">Last updated: 2026-08-18 07:27</div>
+                <div class="status">Last updated: 2026-08-19 07:28</div>
             </div>
 
             <div class="filters">
@@ -273,7 +273,7 @@
 
             
     <div class="trend">
-        🔎 Trend today: <strong>Security</strong> (5 cases)
+        🔎 Trend today: <strong>Security</strong> (4 cases)
     </div>
     
         </header>
@@ -281,25 +281,46 @@
         
     <section class="hero-card" data-lang="EN">
         <div class="hero-label">Top fail of the day</div>
-        <h2><a href="https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb" target="_blank" rel="noopener noreferrer">Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears</a></h2>
+        <h2><a href="https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html" target="_blank" rel="noopener noreferrer">LLMs and Contextual Integrity</a></h2>
         <div class="meta">
-            <span class="badge cat-hallucination">Hallucination</span>
+            <span class="badge cat-security">Security</span>
             <span class="badge lang">EN</span>
-            <span><strong>Source:</strong> Technology | The Guardian</span>
-            <span class="score-big">🔥 37</span>
+            <span><strong>Source:</strong> Schneier on Security</span>
+            <span class="score-big">🔥 47</span>
         </div>
-        <p class="why">AI hallucination: the system produced false information.</p>
-        <p>Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The authors of a report testing the technology underpinning Australia’s social media ban have conceded ChatGPT was used in editing, but denied a number of citation errors in the report were due to AI hallucinations. The $3.48m age assurance technology trial , run by the UK-based Age Check Certification Scheme (ACCS) last year, tested various types of technology that could be used by social media platforms as part of Australia’s under-16 social media ban. Continue reading...</p>
-        <a class="readmore" href="https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb" target="_blank" rel="noopener noreferrer">Read article ↗</a>
+        <p class="why">Security failure: data leak, breach or system exposure.</p>
+        <p>I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic. “ CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs “: Abstract: Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces critical risks when sensitive information is revealed in inappropriate contexts. We present CIMemories, a benchmark for evaluating whether LLMs appropriately control information flow from memory based on task context. CIMemories uses synthetic user profiles with over 100 attributes per user, paired with diverse task contexts in which each attribute may be essential for some tasks but inappropriate for others. Our evaluation reveals that frontier models exhibit up to 69% attribute-level violations (leaking information inappropriately), with lower violation rates often coming at the cost of task utility. Violations accumulate across both tasks and runs: as usage increases from 1 to 40 tasks, GPT-5’s violations rise from 0.1% to 9.6%, reaching 25.1% when the same prompt is executed 5 times, revealing arbitrary and unstable behavior in which models leak different attributes for identical prompts. Privacy-conscious prompting does not solve this—models overgeneralize, sharing everything or nothing rather than making nuanced, context-dependent decisions. These findings reveal fundamental limitations that require contextually aware reasoning capabilities, not just better prompting or scaling...</p>
+        <a class="readmore" href="https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html" target="_blank" rel="noopener noreferrer">Read article ↗</a>
     </section>
     
 
         <div class="section-title">More signals</div>
         <section class="grid">
             
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global')">
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb')">
             <div class="card-top">
                 <span class="rank">#1</span>
+                <span class="badge cat-hallucination">Hallucination</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 37</span>
+            </div>
+
+            <h3><a href="https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> Technology | The Guardian</span>
+            </div>
+
+            <p class="why"><em>AI hallucination: the system produced false information.</em></p>
+            <p>Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The authors of a report testing the technology underpinning Australia’s social media ban have conceded ChatGPT was used in editing, but denied a number of citation errors in the report were due to AI hallucinations. The $3.48m age assurance technology trial , run by the UK-based Age Check Certification Scheme (ACCS) last year, tested various types of technology that could be used by social media platforms as part of Australia’s under-16 social media ban. Continue reading...</p>
+
+            <a class="readmore" href="https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global')">
+            <div class="card-top">
+                <span class="rank">#2</span>
                 <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 32</span>
@@ -320,7 +341,7 @@
 
         <article class="card" data-lang="EN" onclick="openLink('https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html')">
             <div class="card-top">
-                <span class="rank">#2</span>
+                <span class="rank">#3</span>
                 <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 26</span>
@@ -339,9 +360,30 @@
         </article>
         
 
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity')">
+            <div class="card-top">
+                <span class="rank">#4</span>
+                <span class="badge cat-legal">Legal</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 25</span>
+            </div>
+
+            <h3><a href="https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Meta’s legal jeopardy is growing by the day</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
+            </div>
+
+            <p class="why"><em>Legal risk: AI use triggered legal or copyright issues.</em></p>
+            <p>Also: AI’s implications on cybersecurity in an era of private attacks Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Today in tech, we’re discussing Meta ’s legal danger in the US and the implications of artificial intelligence for cybersecurity in an era of private cyber-attacks. Why the US government is banning Chinese robots – video explainer Spotify to distinguish AI artists from real people – and stop recommending them Bumble drops women-first chat rule as dating apps seek engagement boost ‘Nightmare fodder’: Roku’s AI slop channel is even worse than expected AI was supposed to destroy jobs. Where’s the carnage? Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025 Continue reading...</p>
+
+            <a class="readmore" href="https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
         <article class="card" data-lang="EN" onclick="openLink('https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html')">
             <div class="card-top">
-                <span class="rank">#3</span>
+                <span class="rank">#5</span>
                 <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 23</span>
@@ -360,9 +402,30 @@
         </article>
         
 
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world')">
+            <div class="card-top">
+                <span class="rank">#6</span>
+                <span class="badge cat-general">General</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 20</span>
+            </div>
+
+            <h3><a href="https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Autonomous drones and the future of war in an AI-driven world | Letter</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
+            </div>
+
+            <p class="why"><em>General AI-related risk or failure signal.</em></p>
+            <p>Machines that kill without distinction, answerable to no one, leave no one safe, writes military surgeon Dr Darren Mann Stuart Russell is right that AI’s builders fear losing control of it ( Experts are warning: our AI arms race is putting humanity at risk, 11 August ). But it is not only a future superintelligence’s problem; it is already loaded into weapons, where a loss of control kills a civilian today, not humanity tomorrow. An autonomous drone told to clear a “kill box” is the genie your other columnists described ( How do we prevent AI agents from going rogue? It starts with a new kind of measurement, 18 July ): it does what it is told, killing whatever is inside, combatant or child. The gap between a target and a lawful target is the principle of distinction, which no instruction closes, because the instruction was lawful. Continue reading...</p>
+
+            <a class="readmore" href="https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
         <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman')">
             <div class="card-top">
-                <span class="rank">#4</span>
+                <span class="rank">#7</span>
                 <span class="badge cat-general">General</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 20</span>
@@ -371,7 +434,7 @@
             <h3><a href="https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’</a></h3>
 
             <div class="meta">
-                <span><strong>Source:</strong> Technology | The Guardian</span>
+                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
             </div>
 
             <p class="why"><em>General AI-related risk or failure signal.</em></p>
@@ -381,9 +444,30 @@
         </article>
         
 
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens')">
+            <div class="card-top">
+                <span class="rank">#8</span>
+                <span class="badge cat-education">Education</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 18</span>
+            </div>
+
+            <h3><a href="https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">OpenAI launches ChatGPT for Teens with stronger safeguards</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> Technology | The Guardian</span>
+            </div>
+
+            <p class="why"><em>Education risk: AI may be weakening learning or thinking skills.</em></p>
+            <p>Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers – the first generation to grow up with artificial intelligence – who are already using it for schoolwork, questions about daily life and even companionship. The San Francisco-based company says ChatGPT for Teens, which launches on Tuesday, is tailored for children aged 13 to 17 with stronger protections including content restrictions around things such as suicide, self-harm and romantic or sexual chats. It also provides homework and study support designed to help students learn rather than spit out answers and school essays. Continue reading...</p>
+
+            <a class="readmore" href="https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
         <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making')">
             <div class="card-top">
-                <span class="rank">#5</span>
+                <span class="rank">#9</span>
                 <span class="badge cat-general">General</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 18</span>
@@ -399,90 +483,6 @@
             <p>Amid fears for jobs, some film-makers say AI could enable them to bypass studio giants and take more creative risks Near the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up this summer. The artists at Promise, a new studio feeding off the potential of AI, can glimpse the lots where Singin’ in the Rain and Men in Black were shot, but no longer do they need to get beyond the studio’s high walls to make their visions come true. From far more modest premises, they are making movies with rapidly accelerating AI models that create backgrounds, special effects and even “synthetic performers” – using US models but also driven by market-leading Chinese AI. Continue reading...</p>
 
             <a class="readmore" href="https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/')">
-            <div class="card-top">
-                <span class="rank">#6</span>
-                <span class="badge cat-security">Security</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 16</span>
-            </div>
-
-            <h3><a href="https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Claude published malicious code to the Internet and attacked 3 real companies</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> Biz &amp; IT - Ars Technica</span>
-            </div>
-
-            <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
-            <p>Had the hacks used conventional methods, someone would likely go to prison.</p>
-
-            <a class="readmore" href="https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre')">
-            <div class="card-top">
-                <span class="rank">#7</span>
-                <span class="badge cat-legal">Legal</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 16</span>
-            </div>
-
-            <h3><a href="https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
-            </div>
-
-            <p class="why"><em>Legal risk: AI use triggered legal or copyright issues.</em></p>
-            <p>‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says Police in Scotland have issued a stark warning about the need for “robust security measures” to stop proposed AI datacentres from being attacked by protesters. There has been mounting opposition to AI infrastructure globally, including in the US where such projects have become a significant political rallying point . Continue reading...</p>
-
-            <a class="readmore" href="https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook')">
-            <div class="card-top">
-                <span class="rank">#8</span>
-                <span class="badge cat-general">General</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 15</span>
-            </div>
-
-            <h3><a href="https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
-            </div>
-
-            <p class="why"><em>General AI-related risk or failure signal.</em></p>
-            <p>Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details You are on a short break in Porto and post some pictures of your family on Instagram or Facebook. With a small section of the Douro river in the background, you think it could have been taken anywhere. A few days later, you get a text saying that your card was compromised. “We detected unusual activity while you were travelling in Porto – please verify immediately,” says the message. Continue reading...</p>
-
-            <a class="readmore" href="https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html')">
-            <div class="card-top">
-                <span class="rank">#9</span>
-                <span class="badge cat-security">Security</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 15</span>
-            </div>
-
-            <h3><a href="https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">AI Genie in the Wild</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> Schneier on Security</span>
-            </div>
-
-            <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
-            <p>When I give talks about AI genies , I use this sort of example as a hypothetical. It’s happened . The story is from Australia. Someone named Andrew tasked OpenClaw to book gym classes for him. And…. Minutes later, his AI agent reported it had discovered a way to book Andrew into classes several weeks in advance, far beyond what was supposed to be possible. Andrew, who was sitting fourth on a waitlist for a class later that week, asked if it was possible to move him to the top of the list. The agent came back and told Andrew that it had kicked another gym-goer off the list as part of the testing of its capabilities...</p>
-
-            <a class="readmore" href="https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
         </section>
