@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-19
+# AI Fail Watch – 2026-08-20
 
 ## 1. LLMs and Contextual Integrity
 **Source:** Schneier on Security
@@ -22,18 +22,7 @@ Exclusive: Guardian analysis finds one section of report includes links to acade
 
 ---
 
-## 3. AI cheating, leaked papers and marking errors: how exam protests went global
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 32
-**Link:** https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global
-
-Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collide Families with teenagers in education know the private, hidden pain of exam season. But this year, what might have been a summer of quiet family anxiety has erupted in several countries into public unrest. Exam-related turmoil has led to mass student protests in Mexico after nearly 60,000 university applicants were forced to resit tests amid suspected cheating , while Portugal’s disastrous attempt to digitise school exam marking sparked the country’s worst education crisis in decades. Continue reading...
-
----
-
-## 4. If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them
+## 3. If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 
 ---
 
-## 5. Meta’s legal jeopardy is growing by the day
+## 4. Meta’s legal jeopardy is growing by the day
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +44,7 @@ Also: AI’s implications on cybersecurity in an era of private attacks Hello, a
 
 ---
 
-## 6. Prompt Injections for Defense
+## 5. Prompt Injections for Defense
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -63,6 +52,17 @@ Also: AI’s implications on cybersecurity in an era of private attacks Hello, a
 **Link:** https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html
 
 This seems to work : Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts direct the attacking LLM to perform an action forbidden by its guardrails, the safety barriers AI developers erect to prevent it from taking harmful actions. The LLM responds by shutting down. Examples are a prompt that orders the LLM to provide steps for developing inhalable Anthrax spores, or, in the case of LLMs from Chinese developers, make references to the iconic Tank Man from the 1989 Tiananmen Square massacre. Once the LLM encounters these forbidden commands, it no longer follows its existing commands. The researchers have named the technique context bombing...
+
+---
+
+## 6. Did someone wearing Meta Glasses film you today? Are you sure?
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance
+
+People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy? “I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He said: ‘I go to strip clubs, and I want to record the strippers … Normally I put my phone in my chest pocket, but the glasses are more convenient.’” The man I’m talking to runs a business called Ghost Metas . He’s one of hundreds of vendors, easily discoverable online, who specialise in disabling the flashing LED light embedded in Meta’s smartglasses that blinks when wearers capture photos, videos and audio. After Ghost Metas disables the LED, it’s impossible for someone to know they’re being filmed. Continue reading...
 
 ---
 
@@ -88,7 +88,18 @@ Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters 
 
 ---
 
-## 9. OpenAI launches ChatGPT for Teens with stronger safeguards
+## 9. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination
+
+A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal , Microsoft and Netflix , only to find her résumé disappear into a black hole. A product manager with nearly 20 years of experience, Kistler believes she was qualified for every role, yet she never received a single interview. Now, Kistler is suing Eightfold AI, the Silicon Valley maker of hiring software used by hundreds of companies, including those where she applied, in a class-action lawsuit . The case, filed in January in California court, is one of the first to argue that automated screening functions as an undisclosed consumer report or applicant dossier, ranking job applicants on their likelihood of success without giving them the chance to see or challenge the results, according to Kistler’s legal team. Continue reading...
+
+---
+
+## 10. OpenAI launches ChatGPT for Teens with stronger safeguards
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
@@ -96,16 +107,5 @@ Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters 
 **Link:** https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens
 
 Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers – the first generation to grow up with artificial intelligence – who are already using it for schoolwork, questions about daily life and even companionship. The San Francisco-based company says ChatGPT for Teens, which launches on Tuesday, is tailored for children aged 13 to 17 with stronger protections including content restrictions around things such as suicide, self-harm and romantic or sexual chats. It also provides homework and study support designed to help students learn rather than spit out answers and school essays. Continue reading...
-
----
-
-## 10. ‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making
-
-Amid fears for jobs, some film-makers say AI could enable them to bypass studio giants and take more creative risks Near the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up this summer. The artists at Promise, a new studio feeding off the potential of AI, can glimpse the lots where Singin’ in the Rain and Men in Black were shot, but no longer do they need to get beyond the studio’s high walls to make their visions come true. From far more modest premises, they are making movies with rapidly accelerating AI models that create backgrounds, special effects and even “synthetic performers” – using US models but also driven by market-leading Chinese AI. Continue reading...
 
 ---
