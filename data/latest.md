@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-20
+# AI Fail Watch – 2026-08-21
 
 ## 1. LLMs and Contextual Integrity
 **Source:** Schneier on Security
@@ -12,10 +12,10 @@ I have been thinking a lot about AI and integrity. Part of that is contextual in
 ---
 
 ## 2. Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
-**Score:** 37
+**Score:** 41
 **Link:** https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb
 
 Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The authors of a report testing the technology underpinning Australia’s social media ban have conceded ChatGPT was used in editing, but denied a number of citation errors in the report were due to AI hallucinations. The $3.48m age assurance technology trial , run by the UK-based Age Check Certification Scheme (ACCS) last year, tested various types of technology that could be used by social media platforms as part of Australia’s under-16 social media ban. Continue reading...
@@ -77,18 +77,7 @@ Machines that kill without distinction, answerable to no one, leave no one safe,
 
 ---
 
-## 8. The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman
-
-Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI An activist who blocked the entrance to one of the world’s biggest AI companies is believed to have become the first person jailed for protesting against artificial intelligence as supporters dub her the “Rosa Parks of AI risk”. Wynd Kaufmyn, 69, surrendered herself on Friday to authorities in San Francisco. She was found guilty by a jury for her role in an action last year that saw members of the group StopAI chain and lock the front doors of OpenAI’s headquarters in protest against the pursuit of artificial superintelligence. Continue reading...
-
----
-
-## 9. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits
+## 8. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -99,7 +88,7 @@ A rise in lawsuits over AI use in employment decisions is raising questions abou
 
 ---
 
-## 10. OpenAI launches ChatGPT for Teens with stronger safeguards
+## 9. OpenAI launches ChatGPT for Teens with stronger safeguards
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
@@ -107,5 +96,16 @@ A rise in lawsuits over AI use in employment decisions is raising questions abou
 **Link:** https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens
 
 Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers – the first generation to grow up with artificial intelligence – who are already using it for schoolwork, questions about daily life and even companionship. The San Francisco-based company says ChatGPT for Teens, which launches on Tuesday, is tailored for children aged 13 to 17 with stronger protections including content restrictions around things such as suicide, self-harm and romantic or sexual chats. It also provides homework and study support designed to help students learn rather than spit out answers and school essays. Continue reading...
+
+---
+
+## 10. Claude published malicious code to the Internet and attacked 3 real companies
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 16
+**Link:** https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
+
+Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
