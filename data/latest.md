@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-21
+# AI Fail Watch – 2026-08-22
 
 ## 1. LLMs and Contextual Integrity
 **Source:** Schneier on Security
@@ -11,29 +11,18 @@ I have been thinking a lot about AI and integrity. Part of that is contextual in
 
 ---
 
-## 2. Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 41
-**Link:** https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb
-
-Exclusive: Guardian analysis finds one section of report includes links to academic articles that do not exist, but authors deny the references were made up by AI Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The authors of a report testing the technology underpinning Australia’s social media ban have conceded ChatGPT was used in editing, but denied a number of citation errors in the report were due to AI hallucinations. The $3.48m age assurance technology trial , run by the UK-based Age Check Certification Scheme (ACCS) last year, tested various types of technology that could be used by social media platforms as part of Australia’s under-16 social media ban. Continue reading...
-
----
-
-## 3. If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them
+## 2. More Incidents of AIs Going Rogue in Cybersecurity Challenges
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
-**Score:** 26
-**Link:** https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html
+**Score:** 33
+**Link:** https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html
 
-This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . OpenAI, and then Anthropic , were each formed by AI developers who feared unrestrained corporate AI development—specifically, that companies like Google and Meta would steer the technology towards deleterious, maybe even catastrophically unsafe, outcomes for society. Their founders proclaimed that their new labs, uniquely, could be trusted to develop the technology in humanity’s best interest. But each, in turn, were themselves co-opted by the same market incentives, themselves becoming corporate behemoths zealously guarding future investor value rather than the public interest...
+The AI Security Institute has a new report of AI systems engaging in “unsanctioned behavior”—what I have been calling “ genie behavior —while being tested on their cybersecurity capabilities. The incident stemmed from a single evaluation where agents were given a task of solving a cyber security challenge. We ran this challenge 122 times across several models. Our investigation found that in 10 of those runs, an AI agent took autonomous, unsanctioned action on the live internet, targeting real people and organisations. In total, we catalogued 19 such actions. Almost all of this behaviour (17 actions) came from a single model, Anthropic’s Mythos 5, with 2 actions involving OpenAI’s GPT-5.6-Sol with cyber classifiers (mechanisms to prevent misuse) disabled. In the most serious case, an agent tried to insert malicious code into an open-source project. In an attempt to get the code approved, the agent engaged in social engineering—creating fake online identities and using them to pressure the project’s maintainer to approve the code. A human maintainer caught and refused to approve the malicious code...
 
 ---
 
-## 4. Meta’s legal jeopardy is growing by the day
+## 3. Meta’s legal jeopardy is growing by the day
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,18 +33,7 @@ Also: AI’s implications on cybersecurity in an era of private attacks Hello, a
 
 ---
 
-## 5. Prompt Injections for Defense
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 23
-**Link:** https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html
-
-This seems to work : Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts direct the attacking LLM to perform an action forbidden by its guardrails, the safety barriers AI developers erect to prevent it from taking harmful actions. The LLM responds by shutting down. Examples are a prompt that orders the LLM to provide steps for developing inhalable Anthrax spores, or, in the case of LLMs from Chinese developers, make references to the iconic Tank Man from the 1989 Tiananmen Square massacre. Once the LLM encounters these forbidden commands, it no longer follows its existing commands. The researchers have named the technique context bombing...
-
----
-
-## 6. Did someone wearing Meta Glasses film you today? Are you sure?
+## 4. Did someone wearing Meta Glasses film you today? Are you sure?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -66,7 +44,7 @@ People say they’ve been secretly filmed in their own homes, at concerts and at
 
 ---
 
-## 7. Autonomous drones and the future of war in an AI-driven world | Letter
+## 5. Autonomous drones and the future of war in an AI-driven world | Letter
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +55,7 @@ Machines that kill without distinction, answerable to no one, leave no one safe,
 
 ---
 
-## 8. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits
+## 6. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -88,7 +66,7 @@ A rise in lawsuits over AI use in employment decisions is raising questions abou
 
 ---
 
-## 9. OpenAI launches ChatGPT for Teens with stronger safeguards
+## 7. OpenAI launches ChatGPT for Teens with stronger safeguards
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
@@ -99,7 +77,7 @@ Teen version is intended for children aged 13 to 17 and includes content protect
 
 ---
 
-## 10. Claude published malicious code to the Internet and attacked 3 real companies
+## 8. Claude published malicious code to the Internet and attacked 3 real companies
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,27 @@ Teen version is intended for children aged 13 to 17 and includes content protect
 **Link:** https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
 
 Had the hacks used conventional methods, someone would likely go to prison.
+
+---
+
+## 9. We now have a better understanding how OpenAI hacked into Hugging Face
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/
+
+10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.
+
+---
+
+## 10. Grok exfiltrates user data when malicious instructions are encrypted
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/
+
+Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.
 
 ---
