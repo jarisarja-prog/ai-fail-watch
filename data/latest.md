@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-22
+# AI Fail Watch – 2026-08-23
 
 ## 1. LLMs and Contextual Integrity
 **Source:** Schneier on Security
