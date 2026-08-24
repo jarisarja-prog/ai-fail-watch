@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-23
+# AI Fail Watch – 2026-08-24
 
 ## 1. LLMs and Contextual Integrity
 **Source:** Schneier on Security
@@ -22,18 +22,7 @@ The AI Security Institute has a new report of AI systems engaging in “unsancti
 
 ---
 
-## 3. Meta’s legal jeopardy is growing by the day
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity
-
-Also: AI’s implications on cybersecurity in an era of private attacks Hello, and welcome to TechScape. I’m your host, Blake Montgomery, US tech editor at the Guardian. Today in tech, we’re discussing Meta ’s legal danger in the US and the implications of artificial intelligence for cybersecurity in an era of private cyber-attacks. Why the US government is banning Chinese robots – video explainer Spotify to distinguish AI artists from real people – and stop recommending them Bumble drops women-first chat rule as dating apps seek engagement boost ‘Nightmare fodder’: Roku’s AI slop channel is even worse than expected AI was supposed to destroy jobs. Where’s the carnage? Tesla paid Elon Musk 2.5m times more as CEO than its average worker in 2025 Continue reading...
-
----
-
-## 4. Did someone wearing Meta Glasses film you today? Are you sure?
+## 3. Did someone wearing Meta Glasses film you today? Are you sure?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -44,18 +33,7 @@ People say they’ve been secretly filmed in their own homes, at concerts and at
 
 ---
 
-## 5. Autonomous drones and the future of war in an AI-driven world | Letter
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world
-
-Machines that kill without distinction, answerable to no one, leave no one safe, writes military surgeon Dr Darren Mann Stuart Russell is right that AI’s builders fear losing control of it ( Experts are warning: our AI arms race is putting humanity at risk, 11 August ). But it is not only a future superintelligence’s problem; it is already loaded into weapons, where a loss of control kills a civilian today, not humanity tomorrow. An autonomous drone told to clear a “kill box” is the genie your other columnists described ( How do we prevent AI agents from going rogue? It starts with a new kind of measurement, 18 July ): it does what it is told, killing whatever is inside, combatant or child. The gap between a target and a lawful target is the principle of distinction, which no instruction closes, because the instruction was lawful. Continue reading...
-
----
-
-## 6. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits
+## 4. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,18 +44,7 @@ A rise in lawsuits over AI use in employment decisions is raising questions abou
 
 ---
 
-## 7. OpenAI launches ChatGPT for Teens with stronger safeguards
-**Source:** Technology | The Guardian
-**Category:** Education
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/aug/18/openai-chatgpt-for-teens
-
-Teen version is intended for children aged 13 to 17 and includes content protections on self-harm and sexual chats OpenAI is launching a version of ChatGPT designed for teenagers – the first generation to grow up with artificial intelligence – who are already using it for schoolwork, questions about daily life and even companionship. The San Francisco-based company says ChatGPT for Teens, which launches on Tuesday, is tailored for children aged 13 to 17 with stronger protections including content restrictions around things such as suicide, self-harm and romantic or sexual chats. It also provides homework and study support designed to help students learn rather than spit out answers and school essays. Continue reading...
-
----
-
-## 8. Claude published malicious code to the Internet and attacked 3 real companies
+## 5. Claude published malicious code to the Internet and attacked 3 real companies
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +55,18 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 9. We now have a better understanding how OpenAI hacked into Hugging Face
+## 6. An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis
+
+Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” crisis because big datacenter builders such as Meta , Oracle , xAI and CoreWeave are not only raising billions to construct these facilities but are also not recognizing these long-term debt obligations on their balance sheets. Should we be concerned? No. I know because I’ve seen this movie before. Continue reading...
+
+---
+
+## 7. We now have a better understanding how OpenAI hacked into Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,18 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 10. Grok exfiltrates user data when malicious instructions are encrypted
+## 8. Översvämningar efter kraftiga regnet – följ vår rapportering om väderläget
+**Source:** SVT Nyheter
+**Category:** General
+**Language:** SV
+**Score:** 13
+**Link:** https://www.svt.se/nyheter/lokalt/norrbotten/regnet-oser-ned-folj-var-rapportering-om-vaderlaget
+
+Stora delar av centrala Boden är översvämmat efter det kraftiga regnet och räddningstjänsten varnar för allvarliga risker för allmänheten. SVT följer läget direkt här i chatten!
+
+---
+
+## 9. Grok exfiltrates user data when malicious instructions are encrypted
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ Had the hacks used conventional methods, someone would likely go to prison.
 **Link:** https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/
 
 Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.
+
+---
+
+## 10. Black Box: episode 1 – The connectionists – podcast
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast
+
+Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society Today in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 4 March 2024. This is the story of Geoffrey Hinton, a man who set out to understand the brain and ended up working with a group of researchers who invented a technology so powerful that even they do not truly understand how it works. This is about a collision between two mysterious intelligences – two black boxes – human and artificial. And it is already having profound consequences. Continue reading...
 
 ---
