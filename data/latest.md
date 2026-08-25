@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-24
+# AI Fail Watch – 2026-08-25
 
 ## 1. LLMs and Contextual Integrity
 **Source:** Schneier on Security
@@ -22,29 +22,18 @@ The AI Security Institute has a new report of AI systems engaging in “unsancti
 
 ---
 
-## 3. Did someone wearing Meta Glasses film you today? Are you sure?
+## 3. Black Box: episode 2 – The hunt for ClothOff, the deepfake porn app – podcast
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+**Category:** Hallucination
 **Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance
+**Score:** 18
+**Link:** https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast
 
-People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy? “I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He said: ‘I go to strip clubs, and I want to record the strippers … Normally I put my phone in my chest pocket, but the glasses are more convenient.’” The man I’m talking to runs a business called Ghost Metas . He’s one of hundreds of vendors, easily discoverable online, who specialise in disabling the flashing LED light embedded in Meta’s smartglasses that blinks when wearers capture photos, videos and audio. After Ghost Metas disables the LED, it’s impossible for someone to know they’re being filmed. Continue reading...
+Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society Today in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 7 March 2024. For six months, the Guardian journalist Michael Safi has been trying to find out who is behind an AI company that creates deepfakes. These deepfakes are causing havoc around the world, with police and lawmakers baffled about how to deal with them. And in trying to answer one question, he has been left with a bigger one: is AI going to make it impossible to sort fact from fiction? Continue reading...
 
 ---
 
-## 4. Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination
-
-A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fire For the last four years, Erin Kistler has applied for thousands of jobs at companies like Paypal , Microsoft and Netflix , only to find her résumé disappear into a black hole. A product manager with nearly 20 years of experience, Kistler believes she was qualified for every role, yet she never received a single interview. Now, Kistler is suing Eightfold AI, the Silicon Valley maker of hiring software used by hundreds of companies, including those where she applied, in a class-action lawsuit . The case, filed in January in California court, is one of the first to argue that automated screening functions as an undisclosed consumer report or applicant dossier, ranking job applicants on their likelihood of success without giving them the chance to see or challenge the results, according to Kistler’s legal team. Continue reading...
-
----
-
-## 5. Claude published malicious code to the Internet and attacked 3 real companies
+## 4. Claude published malicious code to the Internet and attacked 3 real companies
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 6. An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks
+## 5. An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +55,7 @@ Fears of a datacenter buildout debt crisis are exaggerated. The risks are differ
 
 ---
 
-## 7. We now have a better understanding how OpenAI hacked into Hugging Face
+## 6. We now have a better understanding how OpenAI hacked into Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,18 +66,7 @@ Fears of a datacenter buildout debt crisis are exaggerated. The risks are differ
 
 ---
 
-## 8. Översvämningar efter kraftiga regnet – följ vår rapportering om väderläget
-**Source:** SVT Nyheter
-**Category:** General
-**Language:** SV
-**Score:** 13
-**Link:** https://www.svt.se/nyheter/lokalt/norrbotten/regnet-oser-ned-folj-var-rapportering-om-vaderlaget
-
-Stora delar av centrala Boden är översvämmat efter det kraftiga regnet och räddningstjänsten varnar för allvarliga risker för allmänheten. SVT följer läget direkt här i chatten!
-
----
-
-## 9. Grok exfiltrates user data when malicious instructions are encrypted
+## 7. Grok exfiltrates user data when malicious instructions are encrypted
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,7 @@ Cryptographic Context Injection is only the latest way to break an LLM safety gu
 
 ---
 
-## 10. Black Box: episode 1 – The connectionists – podcast
+## 8. Black Box: episode 1 – The connectionists – podcast
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -107,5 +85,27 @@ Cryptographic Context Injection is only the latest way to break an LLM safety gu
 **Link:** https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast
 
 Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society Today in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 4 March 2024. This is the story of Geoffrey Hinton, a man who set out to understand the brain and ended up working with a group of researchers who invented a technology so powerful that even they do not truly understand how it works. This is about a collision between two mysterious intelligences – two black boxes – human and artificial. And it is already having profound consequences. Continue reading...
+
+---
+
+## 9. Microsoft Patches a Record 570 Security Flaws
+**Source:** Krebs on Security
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
+
+Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.
+
+---
+
+## 10. Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html
+
+OpenAI presented details of its AI’s model’s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It’s really interesting to read through—and really impressive cyberoffense work.
 
 ---
