@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-25
+# AI Fail Watch – 2026-08-26
 
 ## 1. LLMs and Contextual Integrity
 **Source:** Schneier on Security
@@ -66,7 +66,18 @@ Fears of a datacenter buildout debt crisis are exaggerated. The risks are differ
 
 ---
 
-## 7. Grok exfiltrates user data when malicious instructions are encrypted
+## 7. Black Box: episode 3 – Repocalypse now – podcast
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 13
+**Link:** https://www.theguardian.com/news/audio/2026/aug/26/black-box-episode-3-repocalypse-now-podcast
+
+Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society Today in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 11 March 2024. When Eugenia Kuyda created Replika, an AI companion app, she had no idea it would be downloaded millions of times all around the world. The results were more powerful than she could ever have predicted. But so was the backlash. Continue reading...
+
+---
+
+## 8. Grok exfiltrates user data when malicious instructions are encrypted
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,7 +88,7 @@ Cryptographic Context Injection is only the latest way to break an LLM safety gu
 
 ---
 
-## 8. Black Box: episode 1 – The connectionists – podcast
+## 9. Black Box: episode 1 – The connectionists – podcast
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -88,7 +99,7 @@ Revisited: Guardian journalist Michael Safi looks into the world of artificial i
 
 ---
 
-## 9. Microsoft Patches a Record 570 Security Flaws
+## 10. Microsoft Patches a Record 570 Security Flaws
 **Source:** Krebs on Security
 **Category:** Security
 **Language:** EN
@@ -96,16 +107,5 @@ Revisited: Guardian journalist Michael Safi looks into the world of artificial i
 **Link:** https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/
 
 Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.
-
----
-
-## 10. Detailed Timeline of OpenAI’s Cyberattack on Hugging Face
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 12
-**Link:** https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html
-
-OpenAI presented details of its AI’s model’s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It’s really interesting to read through—and really impressive cyberoffense work.
 
 ---
