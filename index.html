@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Fail Watch – 2026-08-26</title>
+    <title>AI Fail Watch – 2026-08-27</title>
     <style>
         :root {
             --bg: #0b1020;
@@ -261,7 +261,7 @@
                     <h1 class="brand">AI Fail Watch</h1>
                     <div class="sub">Daily tracking of leaks, lawsuits, hallucinations, privacy failures and other AI risks.</div>
                 </div>
-                <div class="status">Last updated: 2026-08-26 07:35</div>
+                <div class="status">Last updated: 2026-08-27 17:56</div>
             </div>
 
             <div class="filters">
@@ -281,16 +281,16 @@
         
     <section class="hero-card" data-lang="EN">
         <div class="hero-label">Top fail of the day</div>
-        <h2><a href="https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html" target="_blank" rel="noopener noreferrer">LLMs and Contextual Integrity</a></h2>
+        <h2><a href="https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html" target="_blank" rel="noopener noreferrer">LLM-Based Social Engineering Scams</a></h2>
         <div class="meta">
             <span class="badge cat-security">Security</span>
             <span class="badge lang">EN</span>
             <span><strong>Source:</strong> Schneier on Security</span>
-            <span class="score-big">🔥 47</span>
+            <span class="score-big">🔥 36</span>
         </div>
         <p class="why">Security failure: data leak, breach or system exposure.</p>
-        <p>I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic. “ CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs “: Abstract: Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces critical risks when sensitive information is revealed in inappropriate contexts. We present CIMemories, a benchmark for evaluating whether LLMs appropriately control information flow from memory based on task context. CIMemories uses synthetic user profiles with over 100 attributes per user, paired with diverse task contexts in which each attribute may be essential for some tasks but inappropriate for others. Our evaluation reveals that frontier models exhibit up to 69% attribute-level violations (leaking information inappropriately), with lower violation rates often coming at the cost of task utility. Violations accumulate across both tasks and runs: as usage increases from 1 to 40 tasks, GPT-5’s violations rise from 0.1% to 9.6%, reaching 25.1% when the same prompt is executed 5 times, revealing arbitrary and unstable behavior in which models leak different attributes for identical prompts. Privacy-conscious prompting does not solve this—models overgeneralize, sharing everything or nothing rather than making nuanced, context-dependent decisions. These findings reveal fundamental limitations that require contextually aware reasoning capabilities, not just better prompting or scaling...</p>
-        <a class="readmore" href="https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html" target="_blank" rel="noopener noreferrer">Read article ↗</a>
+        <p>OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating personas to build trust before introducing fraudulent investment opportunities involving cryptocurrencies and spot gold trading. Other users engaged in lengthy romantic conversations with targets using fictitious identities, posed as representatives of online gambling platforms offering fake bonuses and winnings, or impersonated law enforcement agencies to tell targets they needed to pay fines for committing serious criminal offenses...</p>
+        <a class="readmore" href="https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html" target="_blank" rel="noopener noreferrer">Read article ↗</a>
     </section>
     
 
@@ -318,30 +318,72 @@
         </article>
         
 
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast')">
+        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/')">
             <div class="card-top">
                 <span class="rank">#2</span>
-                <span class="badge cat-hallucination">Hallucination</span>
+                <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
-                <span class="score-big">🔥 18</span>
+                <span class="score-big">🔥 21</span>
             </div>
 
-            <h3><a href="https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Black Box: episode 2 – The hunt for ClothOff, the deepfake porn app – podcast</a></h3>
+            <h3><a href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">How OpenAI let a mob of LLM agents game a test and ransack Hugging Face</a></h3>
 
             <div class="meta">
-                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
+                <span><strong>Source:</strong> Biz &amp; IT - Ars Technica</span>
+            </div>
+
+            <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
+            <p>Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.</p>
+
+            <a class="readmore" href="https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda')">
+            <div class="card-top">
+                <span class="rank">#3</span>
+                <span class="badge cat-hallucination">Hallucination</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 20</span>
+            </div>
+
+            <h3><a href="https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Fake US thinktank set up and funded by Israel sought to game AI for propaganda</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> Technology | The Guardian</span>
             </div>
 
             <p class="why"><em>AI hallucination: the system produced false information.</em></p>
-            <p>Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society Today in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 7 March 2024. For six months, the Guardian journalist Michael Safi has been trying to find out who is behind an AI company that creates deepfakes. These deepfakes are causing havoc around the world, with police and lawmakers baffled about how to deal with them. And in trying to answer one question, he has been left with a bigger one: is AI going to make it impossible to sort fact from fiction? Continue reading...</p>
+            <p>In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows A pro-Israel messaging website badged with the name of a thinktank that does not exist has published more than half a million words in nine days, built on a commercial platform that promises to optimize content so that AI chatbots will cite it. The site gives Israel’s position on subjects including the torture of Palestinian prisoners , Israeli war crimes and whether Israel has deliberately starved Palestinians in Gaza, all presented as neutral research. Continue reading...</p>
 
-            <a class="readmore" href="https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+            <a class="readmore" href="https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley')">
+            <div class="card-top">
+                <span class="rank">#4</span>
+                <span class="badge cat-legal">Legal</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 20</span>
+            </div>
+
+            <h3><a href="https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Meta goes on trial as Silicon Valley faces a growing backlash</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> Technology | The Guardian</span>
+            </div>
+
+            <p class="why"><em>Legal risk: AI use triggered legal or copyright issues.</em></p>
+            <p>Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you from a sunny park in New York City, which was supposed to endure rain all weekend but in fact delivered the best weather of the year. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks OpenAI announces slowing pace of development after hack by rogue agent OpenAI launches ChatGPT for Teens with stronger safeguards ‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits After more than 15 years of laptops in the classroom, do Australian schools need a rethink? Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say Did someone wearing Meta Glasses film you today? Are you sure? Continue reading...</p>
+
+            <a class="readmore" href="https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
 
         <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/')">
             <div class="card-top">
-                <span class="rank">#3</span>
+                <span class="rank">#5</span>
                 <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 16</span>
@@ -360,112 +402,70 @@
         </article>
         
 
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis')">
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/science/2026/aug/27/surprising-ai-breakthroughs-raise-soul-searching-questions-for-mathematicians')">
             <div class="card-top">
-                <span class="rank">#4</span>
+                <span class="rank">#6</span>
                 <span class="badge cat-general">General</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 15</span>
             </div>
 
-            <h3><a href="https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks</a></h3>
+            <h3><a href="https://www.theguardian.com/science/2026/aug/27/surprising-ai-breakthroughs-raise-soul-searching-questions-for-mathematicians" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Surprising AI breakthroughs raise soul-searching questions for mathematicians | Letter</a></h3>
 
             <div class="meta">
                 <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
             </div>
 
             <p class="why"><em>General AI-related risk or failure signal.</em></p>
-            <p>Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable Some experts are warning of a looming “debt bomb” crisis because big datacenter builders such as Meta , Oracle , xAI and CoreWeave are not only raising billions to construct these facilities but are also not recognizing these long-term debt obligations on their balance sheets. Should we be concerned? No. I know because I’ve seen this movie before. Continue reading...</p>
+            <p>Whether mathematics thrives or perishes in the age of AI depends on what it is that society values in the human intellect, writes Dr Henry Bradford I share Kasra Rafi and Bruce Schneier’s impression that recent mathematical breakthroughs by AI consist in clever recombination of existing ideas, not development of truly novel theory ( No, AI doesn’t mean the end of mathematics – at least not yet, 25 August ). The question is: what happens to mathematics if this changes? Like many mathematicians, I have done much soul-searching in recent weeks, especially since a key problem in my own field of group theory (the existence of non-sofic groups) was solved this month by OpenAI’s Astra model. Astra’s proof consists largely in a slight twist on theorems by my colleagues Gabor Kun and Andreas Thom. That said, even a few months ago I would have found the idea that AI was capable of such a breakthrough incredible, so it seems foolhardy now to bet against AIs achieving superhuman capabilities in all areas of mathematical thought in the coming years. Continue reading...</p>
 
-            <a class="readmore" href="https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+            <a class="readmore" href="https://www.theguardian.com/science/2026/aug/27/surprising-ai-breakthroughs-raise-soul-searching-questions-for-mathematicians" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
 
-        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/')">
-            <div class="card-top">
-                <span class="rank">#5</span>
-                <span class="badge cat-security">Security</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 13</span>
-            </div>
-
-            <h3><a href="https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">We now have a better understanding how OpenAI hacked into Hugging Face</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> Biz &amp; IT - Ars Technica</span>
-            </div>
-
-            <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
-            <p>10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.</p>
-
-            <a class="readmore" href="https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/news/audio/2026/aug/26/black-box-episode-3-repocalypse-now-podcast')">
-            <div class="card-top">
-                <span class="rank">#6</span>
-                <span class="badge cat-research">Research integrity</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 13</span>
-            </div>
-
-            <h3><a href="https://www.theguardian.com/news/audio/2026/aug/26/black-box-episode-3-repocalypse-now-podcast" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Black Box: episode 3 – Repocalypse now – podcast</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
-            </div>
-
-            <p class="why"><em>Research issue: unreliable, fabricated or unverified results.</em></p>
-            <p>Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society Today in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 11 March 2024. When Eugenia Kuyda created Replika, an AI companion app, she had no idea it would be downloaded millions of times all around the world. The results were more powerful than she could ever have predicted. But so was the backlash. Continue reading...</p>
-
-            <a class="readmore" href="https://www.theguardian.com/news/audio/2026/aug/26/black-box-episode-3-repocalypse-now-podcast" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/')">
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/news/audio/2026/aug/27/black-box-episode-4-bing-and-i-podcast')">
             <div class="card-top">
                 <span class="rank">#7</span>
-                <span class="badge cat-security">Security</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 12</span>
-            </div>
-
-            <h3><a href="https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Grok exfiltrates user data when malicious instructions are encrypted</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> Biz &amp; IT - Ars Technica</span>
-            </div>
-
-            <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
-            <p>Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.</p>
-
-            <a class="readmore" href="https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast')">
-            <div class="card-top">
-                <span class="rank">#8</span>
                 <span class="badge cat-research">Research integrity</span>
                 <span class="badge lang">EN</span>
-                <span class="score-big">🔥 12</span>
+                <span class="score-big">🔥 15</span>
             </div>
 
-            <h3><a href="https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Black Box: episode 1 – The connectionists – podcast</a></h3>
+            <h3><a href="https://www.theguardian.com/news/audio/2026/aug/27/black-box-episode-4-bing-and-i-podcast" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Black Box: episode 4 – Bing and I – podcast</a></h3>
 
             <div class="meta">
                 <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
             </div>
 
             <p class="why"><em>Research issue: unreliable, fabricated or unverified results.</em></p>
-            <p>Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society Today in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 4 March 2024. This is the story of Geoffrey Hinton, a man who set out to understand the brain and ended up working with a group of researchers who invented a technology so powerful that even they do not truly understand how it works. This is about a collision between two mysterious intelligences – two black boxes – human and artificial. And it is already having profound consequences. Continue reading...</p>
+            <p>Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society Today in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 14 March 2024. Two stories about the way artificial intelligence could make the world better – and is already doing so. In Montana, when Lee Johnson discovered his wife, Yokie, had cancer, he turned to AI – and was surprised by the answers he got. Meanwhile, in Massachusetts, Prof Regina Barzilay’s experience with cancer has led her to build an AI system that can detect the disease years before a human can. Continue reading...</p>
 
-            <a class="readmore" href="https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+            <a class="readmore" href="https://www.theguardian.com/news/audio/2026/aug/27/black-box-episode-4-bing-and-i-podcast" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
 
-        <article class="card" data-lang="EN" onclick="openLink('https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/')">
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts')">
+            <div class="card-top">
+                <span class="rank">#8</span>
+                <span class="badge cat-security">Security</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 14</span>
+            </div>
+
+            <h3><a href="https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">AI-proof? Younger workers desert the digital world for traditional crafts</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
+            </div>
+
+            <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
+            <p>In a disrupted job market people are turning to heritage crafts such as bookbinding, metalwork and boatbuilding It’s a bleak moment for young people entering the workforce for the first time . For decades, a university degree seemed to promise a stable career – but entry-level white-collar jobs across almost all sectors are being disrupted by AI . Budding accountants, software engineers and junior lawyers increasingly find themselves displaced by cheap automation. Even creative fields are struggling against AI tech that can produce artwork, lengthy prose or complex design briefs in seconds. Continue reading...</p>
+
+            <a class="readmore" href="https://www.theguardian.com/money/2026/aug/27/ai-proof-jobs-traditional-crafts" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
+        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/')">
             <div class="card-top">
                 <span class="rank">#9</span>
                 <span class="badge cat-security">Security</span>
@@ -473,16 +473,16 @@
                 <span class="score-big">🔥 12</span>
             </div>
 
-            <h3><a href="https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Microsoft Patches a Record 570 Security Flaws</a></h3>
+            <h3><a href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Claude, Codex, and Hermes installed unowned code inside corporate networks</a></h3>
 
             <div class="meta">
-                <span><strong>Source:</strong> Krebs on Security</span>
+                <span><strong>Source:</strong> Biz &amp; IT - Ars Technica</span>
             </div>
 
             <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
-            <p>Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.</p>
+            <p>227 install commands were found in corporate docs pointing at code nobody owns.</p>
 
-            <a class="readmore" href="https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+            <a class="readmore" href="https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
         </section>
