@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-28
+# AI Fail Watch – 2026-08-29
 
 ## 1. LLM-Based Social Engineering Scams
 **Source:** Schneier on Security
@@ -88,7 +88,18 @@ Had the hacks used conventional methods, someone would likely go to prison.
 
 ---
 
-## 9. Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres
+## 9. UK risks falling behind in AI race without faster telecoms upgrades, say executives
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/aug/29/uk-risk-falling-behind-ai-telecoms-upgrades
+
+Planning delays and slow 5G upgrades could leave the UK unable to cope with a surge in AI-related traffic The UK risks becoming a laggard in the global AI race as crucial telecoms upgrades to harness the technology fall behind rival nations, according to senior industry executives. The infrastructure AI race has centred on the need to build datacentres , and to ensure they have access to the huge water and energy supplies required to cool and supply the computational power to train and run AI models. Continue reading...
+
+---
+
+## 10. Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -96,16 +107,5 @@ Had the hacks used conventional methods, someone would likely go to prison.
 **Link:** https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres
 
 Government says Green leader’s proposed moratorium on ‘energy-guzzling’ AI projects would be disaster for economy Labour has rejected calls to pause construction of major AI infrastructure in Britain after the Green party leader, Zack Polanski, said it was time to “slam the brakes on these energy-guzzling, water-guzzling datacentres”. The government hit back at the opposition party’s proposal of a “moratorium other than [for] local-scale datacentres for the local community”, saying it “would be a disaster for jobs and national security”. Continue reading...
-
----
-
-## 10. Surprising AI breakthroughs raise soul-searching questions for mathematicians | Letter
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/science/2026/aug/27/surprising-ai-breakthroughs-raise-soul-searching-questions-for-mathematicians
-
-Whether mathematics thrives or perishes in the age of AI depends on what it is that society values in the human intellect, writes Dr Henry Bradford I share Kasra Rafi and Bruce Schneier’s impression that recent mathematical breakthroughs by AI consist in clever recombination of existing ideas, not development of truly novel theory ( No, AI doesn’t mean the end of mathematics – at least not yet, 25 August ). The question is: what happens to mathematics if this changes? Like many mathematicians, I have done much soul-searching in recent weeks, especially since a key problem in my own field of group theory (the existence of non-sofic groups) was solved this month by OpenAI’s Astra model. Astra’s proof consists largely in a slight twist on theorems by my colleagues Gabor Kun and Andreas Thom. That said, even a few months ago I would have found the idea that AI was capable of such a breakthrough incredible, so it seems foolhardy now to bet against AIs achieving superhuman capabilities in all areas of mathematical thought in the coming years. Continue reading...
 
 ---
