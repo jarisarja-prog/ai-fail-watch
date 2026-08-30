@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-29
+# AI Fail Watch – 2026-08-30
 
 ## 1. LLM-Based Social Engineering Scams
 **Source:** Schneier on Security
@@ -55,14 +55,14 @@ Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construct
 
 ---
 
-## 6. Anthropic was illegally blacklisted by the Trump administration, court rules
+## 6. Sony Music and Warner Chappell are suing Anthropic
 **Source:** The Verge
 **Category:** Legal
 **Language:** EN
 **Score:** 20
-**Link:** https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling
+**Link:** https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright
 
-On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court, accused the Trump administration of unlawfully retaliating against Anthropic for setting "red […]
+Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the […]
 
 ---
 
