@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-30
+# AI Fail Watch – 2026-08-31
 
 ## 1. LLM-Based Social Engineering Scams
 **Source:** Schneier on Security
@@ -11,7 +11,18 @@ OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its
 
 ---
 
-## 2. More Incidents of AIs Going Rogue in Cybersecurity Challenges
+## 2. Anthropic sued over alleged theft of ‘tens of thousands’ of songs
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 33
+**Link:** https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude
+
+AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-dollar lawsuit against the startup behind the Claude chatbot. Sony Music Publishing and Warner Chappell, music publishers who manage the copyright of songs on behalf of songwriters and composers, are seeking damages for alleged misuse of “tens of thousands” of copyrighted works by Anthropic. Continue reading...
+
+---
+
+## 3. More Incidents of AIs Going Rogue in Cybersecurity Challenges
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -22,7 +33,7 @@ The AI Security Institute has a new report of AI systems engaging in “unsancti
 
 ---
 
-## 3. Pentagon’s blacklisting of Anthropic was unlawful, US judge rules
+## 4. Pentagon’s blacklisting of Anthropic was unlawful, US judge rules
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ Anthropic ​argued designation as ‘supply-chain risk’ could cost billions �
 
 ---
 
-## 4. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 5. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,29 +55,51 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 5. Meta goes on trial as Silicon Valley faces a growing backlash
+## 6. AI could cause global economic downturn, Bank of England governor tells G20
 **Source:** Technology | The Guardian
-**Category:** Legal
+**Category:** General
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley
+**Score:** 18
+**Link:** https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20
 
-Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you from a sunny park in New York City, which was supposed to endure rain all weekend but in fact delivered the best weather of the year. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks OpenAI announces slowing pace of development after hack by rogue agent OpenAI launches ChatGPT for Teens with stronger safeguards ‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits After more than 15 years of laptops in the classroom, do Australian schools need a rethink? Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say Did someone wearing Meta Glasses film you today? Are you sure? Continue reading...
+Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology. In a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of the international Financial Stability Board (FSB), Bailey said “frontier” AI models were “showing increasingly sophisticated autonomy and problem-solving abilities, as well as threat capabilities”. Continue reading...
 
 ---
 
-## 6. Sony Music and Warner Chappell are suing Anthropic
+## 7. Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns
+
+Exclusive: Patients identify errors in consultation transcripts that are missed by GPs, Healthwatch England finds AI technology that listens to and transcribes patients’ consultations with doctors can put them at risk by getting the names of drugs and illnesses wrong, an NHS watchdog has warned. In one case a woman was left badly shaken when the AI scribe’s summary of her conversation wrongly said she had demyelination – serious nerve damage that can lead to multiple sclerosis. Continue reading...
+
+---
+
+## 8. ChatGPT to face tougher regulation in the EU
 **Source:** The Verge
-**Category:** Legal
+**Category:** General
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright
+**Score:** 18
+**Link:** https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa
 
-Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for "tens of thousands" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the […]
+OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and […]
 
 ---
 
-## 7. AI Doesn’t Mean the End of Mathematics—at Least Not Yet
+## 9. Nya detaljer om AI-attack – så gick det till
+**Source:** Ekot
+**Category:** General
+**Language:** EN
+**Score:** 18
+**Link:** https://www.sverigesradio.se/artikel/9287192
+
+I juli infiltrerade nära 700 AI-agenter från Open AI plattformen Hugging Face, helt utan mänsklig inblandning. Och nu kommer fler detaljer om incidenten. ”Jag har aldrig sett något liknande”, säger Hjalmar Wijk som är forskningschef på den amerikanska forskningsorganisationen Metr, som specialiserar sig på att utvärdera risker och säkerhetsproblem i avancerade AI-system. Tillsammans med några kollegor har han besökt Open AI och tagit del av material kopplat till incidenten.
+
+---
+
+## 10. AI Doesn’t Mean the End of Mathematics—at Least Not Yet
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -74,38 +107,5 @@ Sony Music and Warner Chappell have filed suit against Anthropic in the US Distr
 **Link:** https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html
 
 This essay was written with Kasra Rafi, and originally appeared in The Guardian. Earlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by mathematicians are any guide, it was mostly pretty glum. People fear for their jobs, their careers and the work they love. We think the contrary view is more likely, at least in the short-term. AI models are nowhere near as capable as experienced academic mathematicians. This isn’t to say that AIs aren’t producing stunning mathematical results at the level of PhD researchers. In mid-May, OpenAI ...
-
----
-
-## 8. Claude published malicious code to the Internet and attacked 3 real companies
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 16
-**Link:** https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/
-
-Had the hacks used conventional methods, someone would likely go to prison.
-
----
-
-## 9. UK risks falling behind in AI race without faster telecoms upgrades, say executives
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/aug/29/uk-risk-falling-behind-ai-telecoms-upgrades
-
-Planning delays and slow 5G upgrades could leave the UK unable to cope with a surge in AI-related traffic The UK risks becoming a laggard in the global AI race as crucial telecoms upgrades to harness the technology fall behind rival nations, according to senior industry executives. The infrastructure AI race has centred on the need to build datacentres , and to ensure they have access to the huge water and energy supplies required to cool and supply the computational power to train and run AI models. Continue reading...
-
----
-
-## 10. Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres
-
-Government says Green leader’s proposed moratorium on ‘energy-guzzling’ AI projects would be disaster for economy Labour has rejected calls to pause construction of major AI infrastructure in Britain after the Green party leader, Zack Polanski, said it was time to “slam the brakes on these energy-guzzling, water-guzzling datacentres”. The government hit back at the opposition party’s proposal of a “moratorium other than [for] local-scale datacentres for the local community”, saying it “would be a disaster for jobs and national security”. Continue reading...
 
 ---
