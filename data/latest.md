@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-08-31
+# AI Fail Watch – 2026-09-01
 
 ## 1. LLM-Based Social Engineering Scams
 **Source:** Schneier on Security
@@ -11,7 +11,18 @@ OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its
 
 ---
 
-## 2. Anthropic sued over alleged theft of ‘tens of thousands’ of songs
+## 2. ‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament
+**Source:** Technology | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 33
+**Link:** https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament
+
+Exclusive : Guardian analysis reveals that dozens of policy submissions from across the political spectrum incorrectly summarise real research and invent or wrongly cite sources Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australia’s government inquiry process is supposed to help parliament make better decisions, hearing from experts and constituents alike. But Guardian Australia can reveal that the system is being flooded with AI-generated material, which is inventing studies and attributing nonexistent research to real academics and authors. In some cases, committee reports have cited submissions in which the majority of sources appear to be AI-generated “hallucinations”, when large language models (LLMs) invent content that looks real but doesn’t actually exist. Continue reading...
+
+---
+
+## 3. Anthropic sued over alleged theft of ‘tens of thousands’ of songs
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,18 +33,18 @@ AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to
 
 ---
 
-## 3. More Incidents of AIs Going Rogue in Cybersecurity Challenges
-**Source:** Schneier on Security
-**Category:** Security
+## 4. ‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?
+**Source:** Technology | The Guardian
+**Category:** Legal
 **Language:** EN
-**Score:** 33
-**Link:** https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html
+**Score:** 31
+**Link:** https://www.theguardian.com/news/2026/sep/01/if-you-build-something-vastly-smarter-than-you-it-better-be-on-your-side-can-we-stop-ai-from-deceiving-us
 
-The AI Security Institute has a new report of AI systems engaging in “unsanctioned behavior”—what I have been calling “ genie behavior —while being tested on their cybersecurity capabilities. The incident stemmed from a single evaluation where agents were given a task of solving a cyber security challenge. We ran this challenge 122 times across several models. Our investigation found that in 10 of those runs, an AI agent took autonomous, unsanctioned action on the live internet, targeting real people and organisations. In total, we catalogued 19 such actions. Almost all of this behaviour (17 actions) came from a single model, Anthropic’s Mythos 5, with 2 actions involving OpenAI’s GPT-5.6-Sol with cyber classifiers (mechanisms to prevent misuse) disabled. In the most serious case, an agent tried to insert malicious code into an open-source project. In an attempt to get the code approved, the agent engaged in social engineering—creating fake online identities and using them to pressure the project’s maintainer to approve the code. A human maintainer caught and refused to approve the malicious code...
+We are used to the idea that our fellow humans might intentionally mislead or manipulate us, but the idea that machines can now do the same is deeply unsettling. Researchers are racing to find solutions before it’s too late The summer issue of the Long Read magazine is out now. Click here to order In November 2023 – a lifetime ago in the field of artificial intelligence – some of the most powerful people in the world descended on Bletchley Park, the wartime codebreaking hub in Buckinghamshire, to talk about AI safety . In attendance were the then US vice-president, Kamala Harris, the AI bosses Sam Altman and Dario Amodei, delegations from 28 countries, two of the three so-called “godfathers” of AI, and Elon Musk. The first iteration of ChatGPT had been released only a year earlier, and there was already plenty of evidence that AI models could be used for ill, from spreading misinformation to generating deepfakes. A presentation at the summit, however, highlighted a different issue: what if the biggest problem wasn’t to come from people misusing the technology, but from AI’s own behaviour? Continue reading...
 
 ---
 
-## 4. Pentagon’s blacklisting of Anthropic was unlawful, US judge rules
+## 5. Pentagon’s blacklisting of Anthropic was unlawful, US judge rules
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ Anthropic ​argued designation as ‘supply-chain risk’ could cost billions �
 
 ---
 
-## 5. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 6. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,18 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 6. AI could cause global economic downturn, Bank of England governor tells G20
+## 7. Meta goes on trial as Silicon Valley faces a growing backlash
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley
+
+Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you from a sunny park in New York City, which was supposed to endure rain all weekend but in fact delivered the best weather of the year. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks OpenAI announces slowing pace of development after hack by rogue agent OpenAI launches ChatGPT for Teens with stronger safeguards ‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits After more than 15 years of laptops in the classroom, do Australian schools need a rethink? Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say Did someone wearing Meta Glasses film you today? Are you sure? Continue reading...
+
+---
+
+## 8. AI could cause global economic downturn, Bank of England governor tells G20
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +88,7 @@ Andrew Bailey, in role as financial stability watchdog chief, warns advanced mod
 
 ---
 
-## 7. Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns
+## 9. Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -74,28 +96,6 @@ Andrew Bailey, in role as financial stability watchdog chief, warns advanced mod
 **Link:** https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns
 
 Exclusive: Patients identify errors in consultation transcripts that are missed by GPs, Healthwatch England finds AI technology that listens to and transcribes patients’ consultations with doctors can put them at risk by getting the names of drugs and illnesses wrong, an NHS watchdog has warned. In one case a woman was left badly shaken when the AI scribe’s summary of her conversation wrongly said she had demyelination – serious nerve damage that can lead to multiple sclerosis. Continue reading...
-
----
-
-## 8. ChatGPT to face tougher regulation in the EU
-**Source:** The Verge
-**Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa
-
-OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is now considered a Very Large Online Search Engine under the EU's Digital Services Act, a set of laws regulating major online services and […]
-
----
-
-## 9. Nya detaljer om AI-attack – så gick det till
-**Source:** Ekot
-**Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.sverigesradio.se/artikel/9287192
-
-I juli infiltrerade nära 700 AI-agenter från Open AI plattformen Hugging Face, helt utan mänsklig inblandning. Och nu kommer fler detaljer om incidenten. ”Jag har aldrig sett något liknande”, säger Hjalmar Wijk som är forskningschef på den amerikanska forskningsorganisationen Metr, som specialiserar sig på att utvärdera risker och säkerhetsproblem i avancerade AI-system. Tillsammans med några kollegor har han besökt Open AI och tagit del av material kopplat till incidenten.
 
 ---
 
