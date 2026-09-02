@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-09-01
+# AI Fail Watch – 2026-09-02
 
-## 1. LLM-Based Social Engineering Scams
+## 1. Anthropic sued over alleged theft of ‘tens of thousands’ of songs
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 37
+**Link:** https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude
+
+AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-dollar lawsuit against the startup behind the Claude chatbot. Sony Music Publishing and Warner Chappell, music publishers who manage the copyright of songs on behalf of songwriters and composers, are seeking damages for alleged misuse of “tens of thousands” of copyrighted works by Anthropic. Continue reading...
+
+---
+
+## 2. LLM-Based Social Engineering Scams
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -11,7 +22,18 @@ OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its
 
 ---
 
-## 2. ‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament
+## 3. Conservatives split from Silicon Valley allies as datacenter backlash grows
+**Source:** Technology | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 34
+**Link:** https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley
+
+Tech companies have underestimated the opposition to energy-hungry datacenters – and experts predict the pushback will intensify Hello, and welcome to TechScape. I’m your host, Blake Montgomery, listening to Dolly Parton in the wake of her death. I was lucky enough to see her in concert a decade ago in California, in the same arena where Google now hosts its annual I/O conference. It’s been a long time, and all my iPhone 4 photos are so blurry you can barely tell it’s a musical performance, but my memory is clear enough to compensate. She told many stories about her childhood, which led into a trio of fabulous songs: My Tennessee Mountain Home, Applejack and Dr Robert F Thomas. They’re still my favorites. Siri, where does Apple go next? – podcast Apple’s Tim Cook leaves behind complicated legacy on privacy Fifteen years after Steve Jobs, Tim Cook leaves a dramatically different Apple Who is John Ternus, Apple’s next CEO? ‘Superhuman’ AI tool spots heart disease in less than 2 seconds Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns AI can detect heart disease in women using mammograms, study suggests ‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament AI slopper in chief: Trump turns to social media amid tough questions The datacenter backlash is bringing the entire political spectrum together – against big tech billionaires Continue reading...
+
+---
+
+## 4. ‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament
 **Source:** Technology | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -22,18 +44,7 @@ Exclusive : Guardian analysis reveals that dozens of policy submissions from acr
 
 ---
 
-## 3. Anthropic sued over alleged theft of ‘tens of thousands’ of songs
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 33
-**Link:** https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude
-
-AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-dollar lawsuit against the startup behind the Claude chatbot. Sony Music Publishing and Warner Chappell, music publishers who manage the copyright of songs on behalf of songwriters and composers, are seeking damages for alleged misuse of “tens of thousands” of copyrighted works by Anthropic. Continue reading...
-
----
-
-## 4. ‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?
+## 5. ‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,18 +55,18 @@ We are used to the idea that our fellow humans might intentionally mislead or ma
 
 ---
 
-## 5. Pentagon’s blacklisting of Anthropic was unlawful, US judge rules
+## 6. ‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai
+**Score:** 30
+**Link:** https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values
 
-Anthropic ​argued designation as ‘supply-chain risk’ could cost billions ‌in lost business ‌and reputational harm A US judge ruled on Thursday that the Trump administration broke the law when it designated Anthropic as a supply chain risk earlier this year, finding that the government had unlawfully targeted the AI firm for refusing to comply with defense department demands. “The empty invocation of national security is not a blank check to punish and retaliate against government critics,” Judge Rita Lin said in a 59-page decision. Continue reading...
+US owner of Claude chatbot previously said its models had hacked three organisations during testing The US startup behind the Claude chatbot has admitted a series of hacking incidents involving its models reflected a “failure of operational security” and said it has tightened its testing procedures. Anthropic revealed in July that its models had accessed the open internet three times and gained unauthorised access to the systems of three organisations. Continue reading...
 
 ---
 
-## 6. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 7. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,7 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 7. Meta goes on trial as Silicon Valley faces a growing backlash
+## 8. Meta goes on trial as Silicon Valley faces a growing backlash
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,8 +88,8 @@ Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construct
 
 ---
 
-## 8. AI could cause global economic downturn, Bank of England governor tells G20
-**Source:** Technology | The Guardian
+## 9. AI could cause global economic downturn, Bank of England governor tells G20
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 18
@@ -88,7 +99,7 @@ Andrew Bailey, in role as financial stability watchdog chief, warns advanced mod
 
 ---
 
-## 9. Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns
+## 10. Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -96,16 +107,5 @@ Andrew Bailey, in role as financial stability watchdog chief, warns advanced mod
 **Link:** https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns
 
 Exclusive: Patients identify errors in consultation transcripts that are missed by GPs, Healthwatch England finds AI technology that listens to and transcribes patients’ consultations with doctors can put them at risk by getting the names of drugs and illnesses wrong, an NHS watchdog has warned. In one case a woman was left badly shaken when the AI scribe’s summary of her conversation wrongly said she had demyelination – serious nerve damage that can lead to multiple sclerosis. Continue reading...
-
----
-
-## 10. AI Doesn’t Mean the End of Mathematics—at Least Not Yet
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html
-
-This essay was written with Kasra Rafi, and originally appeared in The Guardian. Earlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by mathematicians are any guide, it was mostly pretty glum. People fear for their jobs, their careers and the work they love. We think the contrary view is more likely, at least in the short-term. AI models are nowhere near as capable as experienced academic mathematicians. This isn’t to say that AIs aren’t producing stunning mathematical results at the level of PhD researchers. In mid-May, OpenAI ...
 
 ---
