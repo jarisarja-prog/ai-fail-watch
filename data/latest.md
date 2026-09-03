@@ -1,28 +1,39 @@
-# AI Fail Watch – 2026-09-02
+# AI Fail Watch – 2026-09-03
 
-## 1. Anthropic sued over alleged theft of ‘tens of thousands’ of songs
+## 1. Canberra ‘put on notice’ as AI-generated submissions bring false information into parliamentary inquiries
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 48
+**Link:** https://www.theguardian.com/technology/2026/sep/03/canberra-put-on-notice-ai-submissions-false-information-hallucinations-parliament
+
+Guardian Australia’s reporting on AI-generated content in inquiries has highlighted its dangers, politicians say Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The chairs of key federal parliamentary committees have warned that an onslaught of AI-generated material is introducing incorrect or even “hallucinated” information into policymaking, cautioning MPs to be vigilant about the veracity of material. Analysis by Guardian Australia this week found inquiries are being flooded with content created by AI , which is inventing studies and attributing nonexistent research to real academics and authors. In some cases, committee reports have even cited submissions in which the majority of sources appear to be AI-generated hallucinations – which occurs when large language models (LLMs) produce or refer to content that looks real, but doesn’t actually exist. Continue reading...
+
+---
+
+## 2. Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 37
-**Link:** https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude
+**Score:** 39
+**Link:** https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm
 
-AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude models All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a multibillion-dollar lawsuit against the startup behind the Claude chatbot. Sony Music Publishing and Warner Chappell, music publishers who manage the copyright of songs on behalf of songwriters and composers, are seeking damages for alleged misuse of “tens of thousands” of copyrighted works by Anthropic. Continue reading...
+Landmark lawsuit claims tech company’s pay-setting system has breached privacy laws and pushed down earnings Uber drivers have launched a landmark legal action against the ride-hailing company claiming they live in “constant fear” of a “soulless” algorithm it uses to set pay and allocate jobs. Drivers from the UK, the Netherlands and other countries have joined the compensation claim that could run into billions of dollars. It alleges an AI-powered pay-setting system breaches data protection laws and pushes down their earnings. Continue reading...
 
 ---
 
-## 2. LLM-Based Social Engineering Scams
-**Source:** Schneier on Security
-**Category:** Security
+## 3. Trump administration sides with OpenAI in lawsuit against New York Times
+**Source:** Technology | The Guardian
+**Category:** Legal
 **Language:** EN
 **Score:** 36
-**Link:** https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html
+**Link:** https://www.theguardian.com/technology/2026/sep/02/trump-new-york-times-lawsuit-ai
 
-OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating personas to build trust before introducing fraudulent investment opportunities involving cryptocurrencies and spot gold trading. Other users engaged in lengthy romantic conversations with targets using fictitious identities, posed as representatives of online gambling platforms offering fake bonuses and winnings, or impersonated law enforcement agencies to tell targets they needed to pay fines for committing serious criminal offenses...
+The Times and many companies are accusing OpenAI of misusing their material to train AI systems without compensation The Trump administration is supporting OpenAI in ⁠a lawsuit against the New York Times, arguing in favor of the use of copyrighted writing to train artificial intelligence. The Times accuses OpenAI and its largest financial backer, Microsoft, of using millions of newspaper articles without permission to train OpenAI’s popular chatbot. Other newspapers have joined in the suit, first filed in 2023. Continue reading...
 
 ---
 
-## 3. Conservatives split from Silicon Valley allies as datacenter backlash grows
+## 4. Conservatives split from Silicon Valley allies as datacenter backlash grows
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -33,7 +44,7 @@ Tech companies have underestimated the opposition to energy-hungry datacenters �
 
 ---
 
-## 4. ‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament
+## 5. ‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament
 **Source:** Technology | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -44,7 +55,7 @@ Exclusive : Guardian analysis reveals that dozens of policy submissions from acr
 
 ---
 
-## 5. ‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?
+## 6. ‘If you build something vastly smarter than you, it better be on your side’: can we stop AI from deceiving us?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +66,18 @@ We are used to the idea that our fellow humans might intentionally mislead or ma
 
 ---
 
-## 6. ‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents
+## 7. Tumbler Ridge mass shooting victims file 30 new lawsuits against OpenAI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 30
+**Link:** https://www.theguardian.com/world/2026/sep/02/openai-lawsuits-tumbler-ridge-mass-shooting
+
+The company says it prioritizes safety, but suits allege its ChatGPT bot induced shooter to carry out attack in Canada OpenAI faces 30 new lawsuits filed on behalf of victims of the Tumbler Ridge mass shooting. The suits, filed on Wednesday, allege the company’s ChatGPT chatbot induced the shooter to carry out the attack in rural Canada in February, in which eight people were killed and dozens more wounded – most of them children. Continue reading...
+
+---
+
+## 8. ‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,46 +88,24 @@ US owner of Claude chatbot previously said its models had hacked three organisat
 
 ---
 
-## 7. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 21
-**Link:** https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/
-
-Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.
-
----
-
-## 8. Meta goes on trial as Silicon Valley faces a growing backlash
+## 9. Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley
+**Score:** 28
+**Link:** https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit
 
-Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you from a sunny park in New York City, which was supposed to endure rain all weekend but in fact delivered the best weather of the year. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks OpenAI announces slowing pace of development after hack by rogue agent OpenAI launches ChatGPT for Teens with stronger safeguards ‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits After more than 15 years of laptops in the classroom, do Australian schools need a rethink? Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say Did someone wearing Meta Glasses film you today? Are you sure? Continue reading...
-
----
-
-## 9. AI could cause global economic downturn, Bank of England governor tells G20
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/business/2026/aug/31/advanced-frontier-ai-financial-stability-andrew-bailey-g20
-
-Andrew Bailey, in role as financial stability watchdog chief, warns advanced models risk destabilising system The Bank of England’s governor, Andrew Bailey, has joined the throng of figures warning about the global risks posed by the most advanced artificial intelligence technology. In a two-page letter sent to international finance ministers and central bank governors as part of his role as chair of the international Financial Stability Board (FSB), Bailey said “frontier” AI models were “showing increasingly sophisticated autonomy and problem-solving abilities, as well as threat capabilities”. Continue reading...
+Musk denied he was aware Grok ever produced ‘any naked underage images’ A survivor of child sexual abuse has sued Elon Musk ’s artificial intelligence company, alleging that its chatbot used pictures of her abuse to generate new illegal pornographic images that depict her. “Using real images of Plaintiff and class members, Grok generated child pornography depicting Plaintiff and class members,” states the complaint, which was filed last week in a US district court in California. Continue reading...
 
 ---
 
-## 10. Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+## 10. Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
+**Source:** Technology | The Guardian
+**Category:** Legal
 **Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup
 
-Exclusive: Patients identify errors in consultation transcripts that are missed by GPs, Healthwatch England finds AI technology that listens to and transcribes patients’ consultations with doctors can put them at risk by getting the names of drugs and illnesses wrong, an NHS watchdog has warned. In one case a woman was left badly shaken when the AI scribe’s summary of her conversation wrongly said she had demyelination – serious nerve damage that can lead to multiple sclerosis. Continue reading...
+As more companies turn to AI, they’re hiring freelancers to clean up its mistakes rather than create original work Lisa, a freelance graphic designer based in Spain, noticed a shift in her work after the release of ChatGPT in 2022. She went from receiving slow one-off jobs creating logos and packaging to an onslaught of requests asking her to fix versions that were generated by artificial intelligence – from sharpening fuzzy images for printing to turning flawed designs into usable files. By 2025, Lisa, who asked not to be fully named to avoid solicitations, said 90% of her incoming logo and packaging design requests required cleaning up AI-generated content, work that accounted for 60% to 70% of her annual income. But the grind was exhausting. Clients lowballed her;' some AI-generated designs were so flawed that she had to recreate them from scratch and she worried about being complicit in AI-driven copyright infringement. By the end of the year, she began turning those jobs down. Continue reading...
 
 ---
