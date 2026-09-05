@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-09-04
+# AI Fail Watch – 2026-09-05
 
-## 1. Uber drivers launch European class action over ‘soulless’ and ‘scary’ AI algorithm
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 39
-**Link:** https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm
-
-Landmark lawsuit claims tech company’s pay-setting system has breached privacy laws and pushed down earnings Uber drivers have launched a landmark legal action against the ride-hailing company claiming they live in “constant fear” of a “soulless” algorithm it uses to set pay and allocate jobs. Drivers from the UK, the Netherlands and other countries have joined the compensation claim that could run into billions of dollars. It alleges an AI-powered pay-setting system breaches data protection laws and pushes down their earnings. Continue reading...
-
----
-
-## 2. Black Box: The Chatbots | Happy Accident | Ep 3 – podcast
+## 1. Black Box: The Chatbots | Happy Accident | Ep 3 – podcast
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -22,7 +11,7 @@ Why are AI chatbots pulling so many people down a rabbit hole? Our answer starts
 
 ---
 
-## 3. Trump administration sides with OpenAI in lawsuit against New York Times
+## 2. Trump administration sides with OpenAI in lawsuit against New York Times
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -33,7 +22,7 @@ The Times and many companies are accusing OpenAI of misusing their material to t
 
 ---
 
-## 4. Conservatives split from Silicon Valley allies as datacenter backlash grows
+## 3. Conservatives split from Silicon Valley allies as datacenter backlash grows
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -44,7 +33,7 @@ Tech companies have underestimated the opposition to energy-hungry datacenters �
 
 ---
 
-## 5. AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks
+## 4. AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ We cannot forget that AI coding agents are not yet trustworthy : Researchers at 
 
 ---
 
-## 6. Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images
+## 5. Child sexual abuse survivor alleges Elon Musk’s AI chatbot used photos of her to generate new illegal images
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -63,6 +52,17 @@ We cannot forget that AI coding agents are not yet trustworthy : Researchers at 
 **Link:** https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit
 
 Musk denied he was aware Grok ever produced ‘any naked underage images’ A survivor of child sexual abuse has sued Elon Musk ’s artificial intelligence company, alleging that its chatbot used pictures of her abuse to generate new illegal pornographic images that depict her. “Using real images of Plaintiff and class members, Grok generated child pornography depicting Plaintiff and class members,” states the complaint, which was filed last week in a US district court in California. Continue reading...
+
+---
+
+## 6. Microsoft says virtually nobody was grabbing NYT articles through its chatbot
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit
+
+Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and book authors. As part of the lawsuit's discovery, Microsoft provided 8.2 million Copilot […]
 
 ---
 
