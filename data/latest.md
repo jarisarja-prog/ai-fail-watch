@@ -1,13 +1,13 @@
-# AI Fail Watch – 2026-09-07
+# AI Fail Watch – 2026-09-08
 
-## 1. Black Box: The Chatbots | Happy Accident | Ep 3 – podcast
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
+## 1. Stealing AI Reasoning Traces
+**Source:** Schneier on Security
+**Category:** Security
 **Language:** EN
-**Score:** 37
-**Link:** https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-happy-accident-episode-3-podcast
+**Score:** 40
+**Link:** https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html
 
-Why are AI chatbots pulling so many people down a rabbit hole? Our answer starts with the world’s first-ever chatbot, the strange effect it had on people and the ‘time bomb’ that exploded when ChatGPT was released four years ago. The result is a strange experiment we are all living through – whether we know it or not Studies and surveys cited in this episode: Amelia Miller’s interviews with AI researchers , engineers, product managers and executives. The 2022 Anthropic pre-print study that identified sycophancy as a behavioural trait of LLMs. And another pre-print paper the following year that found the way LLMs have been trained appeared to be increasing those sycophantic tendencies. How longer context windows appear to have contributed to “AI psychosis”. The Oxford pre-print study that found mass-market LLMs across the board had become more “relationship seeking”. Two-thirds of young people (aged 25-34) in the UK have turned to AI chatbots instead of loved ones to discuss emotional problems. ChatGPT may be the largest provider of mental health support in the US. Continue reading...
+Interesting research: “ Stealing Reasoning Traces from Proprietary LLM APIs “: Abstract: Leading large language model providers now conceal their models’ step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different sessions, users, and models within a provider’s ecosystem. We exploit this compatibility to develop a scalable decryption jailbreak. By injecting an encrypted reasoning trace from a given model into a weaker, and less safeguarded model from the same provider, we force it to decode and output the trace verbatim in plaintext, without ever jailbreaking the more capable model directly. This vulnerability enables four distinct attack vectors. First, it circumvents anti-distillation mechanisms, allowing adversaries to extract a proprietary model’s reasoning, as we demonstrate across Anthropic, OpenAI, and Google. Second, it allows for large-scale private data extraction. Developers frequently share session logs publicly, unaware of contents of the encrypted blocks. By decoding 315,320 reasoning blocks scraped from public repositories, we recovered 367 Personally Identifiable Information (PII) artifacts and 182 credentials. Third, it inadvertently reveals hazardous information hidden within the reasoning process, even in cases where the model’s final, visible output safely rejects a malicious request. Fourth, attackers can leverage this flaw to execute invisible prompt injections, embedding malicious payloads entirely within encrypted blocks to poison public agentic rollouts. Following responsible disclosure, we propose concrete cryptographic and system-level mitigations to secure client-side reasoning...
 
 ---
 
@@ -99,13 +99,13 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 
 ---
 
-## 10. Security Vulnerability in a Voting System
-**Source:** Schneier on Security
-**Category:** Security
+## 10. ‘Mistrust’ of Palantir may affect NHS research, says health minister
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
 **Language:** EN
 **Score:** 15
-**Link:** https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html
+**Link:** https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research
 
-It’s a vulnerability that allows someone to recover the order of ballots cast, newly exploited with AI tools. Nearly four years since the original vulnerability was disclosed, I was still able to use it to analyze voter behavior in Georgia (one of the 21 states that uses affected scanners) in the recent May 2026 primary. Notably, I never touched a voting machine, exploited a network, examined source code, or accessed anything non-public. After pointing a coding agent to the original vulnerability paper, I supplied it with two data sources highlighted in the paper: the early-voting list for each county, and the “CVR” (cast-vote record) file, containing every ballot and its selections (but not the voters’ names or other identifying information). The CVR file is available upon request, precisely because a public, ballot-level record is what makes election results independently verifiable...
+James Frith says patients may be less willing to share data as new figures show a rise in opt-outs Concern is being raised about Palantir’s work with the NHS as new figures showed tens of thousands of patients have withdrawn their data from use in research projects. James Frith, the health innovation minister, said he was worried about “mistrust” of the US defence and health tech company and “the impact it could have on people’s willingness to share data with the NHS”. Continue reading...
 
 ---
