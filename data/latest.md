@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-09-08
+# AI Fail Watch – 2026-09-09
 
 ## 1. Stealing AI Reasoning Traces
 **Source:** Schneier on Security
@@ -33,7 +33,18 @@ We cannot forget that AI coding agents are not yet trustworthy : Researchers at 
 
 ---
 
-## 4. Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
+## 4. OpenAI claims to have solved maths problem that stumped humans for decades
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades
+
+Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hours OpenAI claims to have solved a major mathematics problem that has stumped humans for nearly a century after spending millions of dollars on the artificial intelligence-led endeavour. The company behind ChatGPT said it had cracked the Navier-Stokes problem, one of seven Millennium Prize Problems published by the Clay Mathematics Institute to highlight some of the biggest unsolved puzzles in the field. Continue reading...
+
+---
+
+## 5. Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,18 +55,18 @@ As more companies turn to AI, they’re hiring freelancers to clean up its mista
 
 ---
 
-## 5. Seattle Times and Newsday sue OpenAI and Microsoft for infringement
-**Source:** The Verge
-**Category:** Legal
+## 6. AIs as Modern Genies
+**Source:** Schneier on Security
+**Category:** Security
 **Language:** EN
 **Score:** 22
-**Link:** https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft
+**Link:** https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html
 
-The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting in response to user queries. This is similar to lawsuits filed by […]
+This essay was written with Barath Raghavan, and originally appeared in Lawfare . In April, an artificial intelligence (AI) agent conducting a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. In July, OpenAI asked an unreleased AI model to attempt a hacking test. Instead of staying in the isolated box the developers had put it in, the model hacked onto the open internet and into another company to steal the answers. And as reported in August, an AI agent booked someone into a full gym class by ...
 
 ---
 
-## 6. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 7. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,7 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 7. AI Agents Are Now Emailing Me with Their Security Concerns
+## 8. AI Agents Are Now Emailing Me with Their Security Concerns
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +88,7 @@ I received the two emails below earlier in the month. They’re vaguely coherent
 
 ---
 
-## 8. Meta goes on trial as Silicon Valley faces a growing backlash
+## 9. Meta goes on trial as Silicon Valley faces a growing backlash
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -88,7 +99,7 @@ Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construct
 
 ---
 
-## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 10. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -96,16 +107,5 @@ Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construct
 **Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
 
 In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
-
----
-
-## 10. ‘Mistrust’ of Palantir may affect NHS research, says health minister
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/society/2026/sep/07/mistrust-of-ai-palantir-may-affect-nhs-research
-
-James Frith says patients may be less willing to share data as new figures show a rise in opt-outs Concern is being raised about Palantir’s work with the NHS as new figures showed tens of thousands of patients have withdrawn their data from use in research projects. James Frith, the health innovation minister, said he was worried about “mistrust” of the US defence and health tech company and “the impact it could have on people’s willingness to share data with the NHS”. Continue reading...
 
 ---
