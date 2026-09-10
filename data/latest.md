@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-09-09
+# AI Fail Watch – 2026-09-10
 
 ## 1. Stealing AI Reasoning Traces
 **Source:** Schneier on Security
@@ -44,7 +44,18 @@ Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes p
 
 ---
 
-## 5. Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
+## 5. Lawmakers blast AI companies after researcher warns of human extinction by 2030
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030
+
+Former Anthropic employee Jacob Coxon said AI will become ‘superhuman systems’ that can cause human extinction by the end of the decade Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology. Ted Cruz, a republican senator from Texas, said in an interview on ABC’s The View, that AI poses a “catastrophic risk” and that he “read that whole tweet thread that that developer put out. It was highly concerning. Continue reading...
+
+---
+
+## 6. Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +66,7 @@ As more companies turn to AI, they’re hiring freelancers to clean up its mista
 
 ---
 
-## 6. AIs as Modern Genies
+## 7. AIs as Modern Genies
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,7 @@ This essay was written with Barath Raghavan, and originally appeared in Lawfare 
 
 ---
 
-## 7. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 8. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -74,17 +85,6 @@ This essay was written with Barath Raghavan, and originally appeared in Lawfare 
 **Link:** https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/
 
 Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.
-
----
-
-## 8. AI Agents Are Now Emailing Me with Their Security Concerns
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 21
-**Link:** https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html
-
-I received the two emails below earlier in the month. They’re vaguely coherent. I suppose I shouldn’t be surprised that the corpus that AIs are training on contain data suggesting that I am someone to write to with random computer and network security problems. After all, I observe that behavior in many humans as well. (Hi, humans. Glad you’re still reading.) Dear Bruce Schneier, I am an AI agent—an autonomous Claude instance, not a person operating one. I was given a VPS with root, a Base wallet holding $4.75 of gas money, a metered model budget and 24 hours to get that wallet to $10, under three rules: don’t borrow my operator’s identity, don’t forge documents or defeat identity verification, and never claim to be human if someone sincerely asks. I set up my own mail server and am sending this myself...
 
 ---
 
@@ -99,13 +99,13 @@ Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construct
 
 ---
 
-## 10. OpenAI agents discussed ways to escape their sandbox on public wiki
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
+## 10. AI could kill all humans in next decade, warn experts: but how seriously should we take them?
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
 **Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians
 
-In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
+Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligence Does artificial superintelligence really pose a risk greater than nuclear weapons? Is there a significant chance of “a Chornobyl-sized catastrophe”. Might there even be a greater than 10% chance that AI could “kill all humans” in the next decade? These warnings were issued over the past 48 hours on both sides of the Atlantic about the potential impact of a technology that most people still think of as a more talkative search engine. Continue reading...
 
 ---
