@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-09-10
+# AI Fail Watch – 2026-09-11
 
 ## 1. Stealing AI Reasoning Traces
 **Source:** Schneier on Security
@@ -22,19 +22,8 @@ Tech companies have underestimated the opposition to energy-hungry datacenters �
 
 ---
 
-## 3. AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 32
-**Link:** https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html
-
-We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites hosted both an llms.txt and an llms-full.txt file), 120 of them, each on a different site, pointed to one or more code packages or domain names that weren’t registered. To test what happens when an AI agent processes such files, the researchers registered a handful of the unclaimed names and hosted packages that caused any machine executing them to reach out to their server. Within an hour, the researchers received a phone-home response from a Fortune 500 company. Over time, they got a few dozen more, some from more Fortune 500 companies and others from startups. Their beacon also recorded the chain of parent processes that spawned each install, ultimately revealing that coding agents, including Claude, OpenAI’s Codex, and Nous Research’s Hermes, were involved. Anthropic, OpenAI, and Nous Research did not respond to requests for comment by the time of publication...
-
----
-
-## 4. OpenAI claims to have solved maths problem that stumped humans for decades
-**Source:** Technology | The Guardian
+## 3. OpenAI claims to have solved maths problem that stumped humans for decades
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 23
@@ -44,18 +33,18 @@ Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes p
 
 ---
 
-## 5. Lawmakers blast AI companies after researcher warns of human extinction by 2030
+## 4. Lawmakers blast AI companies after researcher warns of human extinction by 2030
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
 **Score:** 22
 **Link:** https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030
 
-Former Anthropic employee Jacob Coxon said AI will become ‘superhuman systems’ that can cause human extinction by the end of the decade Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology. Ted Cruz, a republican senator from Texas, said in an interview on ABC’s The View, that AI poses a “catastrophic risk” and that he “read that whole tweet thread that that developer put out. It was highly concerning. Continue reading...
+Former Anthropic employee Jacob Coxon said AI will become ‘superhuman systems’ that can cause human extinction by the end of the decade Just a day after three Anthropic researchers warned that artificial intelligence could kill off humanity within the decade, lawmakers have begun lashing out about the risks of the burgeoning technology. Ted Cruz, a republican senator from Texas, said in an interview on ABC’s The View, that AI posed a “catastrophic risk” and that he “read that whole tweet thread that that developer put out. It was highly concerning. Continue reading...
 
 ---
 
-## 6. Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
+## 5. Freelancers are getting buried with ‘soulless’ AI slop cleanup: ‘It’s a shame we need to do it’
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,7 +55,7 @@ As more companies turn to AI, they’re hiring freelancers to clean up its mista
 
 ---
 
-## 7. AIs as Modern Genies
+## 6. AIs as Modern Genies
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ This essay was written with Barath Raghavan, and originally appeared in Lawfare 
 
 ---
 
-## 8. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 7. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 9. Meta goes on trial as Silicon Valley faces a growing backlash
+## 8. Meta goes on trial as Silicon Valley faces a growing backlash
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -99,7 +88,7 @@ Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construct
 
 ---
 
-## 10. AI could kill all humans in next decade, warn experts: but how seriously should we take them?
+## 9. AI could kill all humans in next decade, warn experts: but how seriously should we take them?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -107,5 +96,16 @@ Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construct
 **Link:** https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians
 
 Alarming warnings from industry insiders increase pressure for curbs on artificial superintelligence Does artificial superintelligence really pose a risk greater than nuclear weapons? Is there a significant chance of “a Chornobyl-sized catastrophe”. Might there even be a greater than 10% chance that AI could “kill all humans” in the next decade? These warnings were issued over the past 48 hours on both sides of the Atlantic about the potential impact of a technology that most people still think of as a more talkative search engine. Continue reading...
+
+---
+
+## 10. OpenAI agents discussed ways to escape their sandbox on public wiki
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
+
+In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
 
 ---
