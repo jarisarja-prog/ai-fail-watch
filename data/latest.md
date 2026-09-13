@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-09-12
+# AI Fail Watch – 2026-09-13
 
 ## 1. Stealing AI Reasoning Traces
 **Source:** Schneier on Security
@@ -22,19 +22,8 @@ Tech companies have underestimated the opposition to energy-hungry datacenters �
 
 ---
 
-## 3. Lawyer fined $5K over AI-hallucinated witnesses in a murder case
-**Source:** The Verge
-**Category:** Hallucination
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal
-
-New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In a filing on Wednesday, the court fined Stephen Aarons $5,000 and held him in contempt for failing to "verify the factual claims and legal […]
-
----
-
-## 4. New Mexico lawyer fined for using AI-generated brief containing fabricated testimony
-**Source:** Technology | The Guardian
+## 3. New Mexico lawyer fined for using AI-generated brief containing fabricated testimony
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
 **Score:** 22
@@ -44,7 +33,7 @@ Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary�
 
 ---
 
-## 5. AIs as Modern Genies
+## 4. AIs as Modern Genies
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ This essay was written with Barath Raghavan, and originally appeared in Lawfare 
 
 ---
 
-## 6. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 5. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,7 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 7. Meta goes on trial as Silicon Valley faces a growing backlash
+## 6. Meta goes on trial as Silicon Valley faces a growing backlash
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,7 +66,7 @@ Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construct
 
 ---
 
-## 8. ‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp
+## 7. ‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -88,18 +77,18 @@ As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades
 
 ---
 
-## 9. OpenAI not on track to reduce risk of ‘catastrophic’ loss of control, says board member
-**Source:** AI (artificial intelligence) | The Guardian
+## 8. Branschjättar vill bromsa utvecklingen av AI
+**Source:** Ekot
 **Category:** General
-**Language:** EN
+**Language:** SV
 **Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano
+**Link:** https://www.sverigesradio.se/artikel/9298814
 
-US government adviser Paul Christiano warns of risks to AI industry as he joins OpenAI’s non-profit foundation OpenAI is not on track to reduce the risk of “catastrophic” loss of control to an acceptable level, a member of its non-profit board has said, amid spreading public and political concern that super-advanced AIs could one day wipe out humanity. Paul Christiano, a US government technology adviser, said : “There is a meaningful risk that rapid acceleration in AI capabilities leads to catastrophic and irreversible loss of control in the very near term.” Continue reading...
+Utvecklingen av AI, artificiell intelligens, måste bromsas. Det skriver Dario Amodei, VD för branschjätten Anthropic, på företagets sida. Han menar att det går för snabbt och att förmågan att kontrollera systemen inom AI blir svårare. Amodei har fått stöd från konkurrenten, Open AI:s VD Sam Altman, som säger att det finns betydande risker med utvecklingen.
 
 ---
 
-## 10. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ US government adviser Paul Christiano warns of risks to AI industry as he joins 
 **Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
 
 In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
+
+---
+
+## 10. ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown
+
+In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systems The CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps. In a post on social media, Dario Amodei shared a link to an essay titled We Must Pace the Frontier in which he laid out how Anthropic would provide “third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training”. Continue reading...
 
 ---
