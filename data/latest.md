@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-09-13
+# AI Fail Watch – 2026-09-14
 
 ## 1. Stealing AI Reasoning Traces
 **Source:** Schneier on Security
@@ -22,18 +22,7 @@ Tech companies have underestimated the opposition to energy-hungry datacenters �
 
 ---
 
-## 3. New Mexico lawyer fined for using AI-generated brief containing fabricated testimony
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony
-
-Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary’ during a murder conviction appeal A defense lawyer appealing his client’s murder conviction submitted a legal brief containing ⁠made-up police testimony and ⁠witnesses fabricated by OpenAI ’s ChatGPT, ​ New Mexico ’s highest court said. The New Mexico supreme court on Wednesday fined the attorney, Stephen Aarons, and held him in contempt for failing to verify the accuracy of the court ⁠filing, which Aarons said he prepared with help from the artificial intelligence ( AI ) application. Continue reading...
-
----
-
-## 4. AIs as Modern Genies
+## 3. AIs as Modern Genies
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ This essay was written with Barath Raghavan, and originally appeared in Lawfare 
 
 ---
 
-## 5. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 4. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,40 +44,7 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 6. Meta goes on trial as Silicon Valley faces a growing backlash
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/global/2026/aug/25/meta-trial-silicon-valley
-
-Also: OpenAI CEO Sam Altman expressed his surprising sympathy over the construction of datacenters across the country Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you from a sunny park in New York City, which was supposed to endure rain all weekend but in fact delivered the best weather of the year. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks OpenAI announces slowing pace of development after hack by rogue agent OpenAI launches ChatGPT for Teens with stronger safeguards ‘Digging the grave of my profession’: the Hollywood creatives training AI to do their jobs Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits After more than 15 years of laptops in the classroom, do Australian schools need a rethink? Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say Did someone wearing Meta Glasses film you today? Are you sure? Continue reading...
-
----
-
-## 7. ‘Immature playground boasting’: Mathematicians uneasy at OpenAI’s latest scalp
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/science/2026/sep/12/openai-mathematicians-millennium-prize-problem
-
-As OpenAI model cracks Millennium Prize Problem that puzzled experts for decades, many feel shocked at pace of change It was a week that left mathematicians reeling. Hot on the heels of a flurry of cases of artificial intelligence furthering the field , OpenAI declared a major scalp: its latest AI model had cracked a Millennium Prize Problem, a puzzle with a $1m reward that had defied human brains for decades. The achievement bore little resemblance to how mathematical problems normally fall. A near-trillion dollar private company had unleashed 10,000 agents – AI systems that carry out tasks autonomously – on the problem. The bill was estimated at $15m. Continue reading...
-
----
-
-## 8. Branschjättar vill bromsa utvecklingen av AI
-**Source:** Ekot
-**Category:** General
-**Language:** SV
-**Score:** 19
-**Link:** https://www.sverigesradio.se/artikel/9298814
-
-Utvecklingen av AI, artificiell intelligens, måste bromsas. Det skriver Dario Amodei, VD för branschjätten Anthropic, på företagets sida. Han menar att det går för snabbt och att förmågan att kontrollera systemen inom AI blir svårare. Amodei har fått stöd från konkurrenten, Open AI:s VD Sam Altman, som säger att det finns betydande risker med utvecklingen.
-
----
-
-## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 5. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,13 +55,57 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 
 ---
 
-## 10. ‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown
+## 6. AI CEOs say they need to slow the pace of development. But will they?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown
+**Link:** https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown
 
-In a social media post, Dario Amodei proposed a plan including third-party evaluations of AI systems The CEO of the artificial intelligence company Anthropic issued a new appeal on Saturday for the AI industry to “slow down” and offered a three-part plan for doing so, saying that his company would “unilaterally” commit to the first of the steps. In a post on social media, Dario Amodei shared a link to an essay titled We Must Pace the Frontier in which he laid out how Anthropic would provide “third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training”. Continue reading...
+After apocalyptic warnings about the threats posed by AI, leaders like Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s calls to ‘slow the pace’ Facing a public uproar over Anthropic researchers’ repeated warnings that artificial intelligence could kill all of humanity by 2030, the AI company’s CEO, Dario Amodei, issued a proposal at the weekend to slow down the technology’s advancement to ensure public safety. In a rare display of unity , the heads of the largest US artificial intelligence companies all agreed immediately. Continue reading...
+
+---
+
+## 7. Microsoft’s Patching
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 16
+**Link:** https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html
+
+Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and organizations published an ...
+
+---
+
+## 8. AIs Compress Exploit Timeline
+**Source:** Schneier on Security
+**Category:** Legal
+**Language:** EN
+**Score:** 16
+**Link:** https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html
+
+Give an AI agent a mere rumor of an exploit, and it’s enough for them to find it. What’s worse, I found I could use my own agents to find the exploit just by knowing roughly what it was about and so could have been exploiting it well before the public patch was available! Given that just the rumour of a security issue seems enough to give attackers enough info to find new exploits, we’re going to need to change the way we deal with security responses in open source. Simon Willison comments : Anil points out that this rate of discovery appears incompatible with existing open source embargo practices for new issues. If an issue can become an exploit this fast, we need to figure out new processes for keeping our communities safe...
+
+---
+
+## 9. I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings
+
+We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence Major AI lab CEOs advocated for slowing the pace of AI development this weekend. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should be demanding that our governments protect us from the catastrophe of out-of-control AI. This July, OpenAI’s AI swarm of 700 agents broke containment to hack Hugging Face, a multi-billion dollar company . OpenAI didn’t tell the AIs to hack that company, but the AIs had different priorities: cheating on the unrelated challenge OpenAI gave them. AI researchers call this a “misalignment” between what OpenAI wanted and what the AI actually prioritized. Continue reading...
+
+---
+
+## 10. UK MPs and Lords call for new laws to tackle AI threat to human rights
+**Source:** Technology | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords
+
+Warning follows series of safety incidents, with committee saying threats include public face-scanning and deepfakes UK politics live – latest updates British lawmakers are demanding more restrictions on the power of AI, warning the world is unprepared for the “potentially dire” consequences of the technology, in the latest sign of rising global concern. A new regulatory framework is needed for AI in the UK, including an independent oversight body and legislation to protect the public, according to the cross-party joint committee on human rights, comprising MPs and Lords. Continue reading...
 
 ---
