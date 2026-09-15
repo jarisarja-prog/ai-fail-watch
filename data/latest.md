@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-09-14
+# AI Fail Watch – 2026-09-15
 
-## 1. Stealing AI Reasoning Traces
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 40
-**Link:** https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html
-
-Interesting research: “ Stealing Reasoning Traces from Proprietary LLM APIs “: Abstract: Leading large language model providers now conceal their models’ step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than storing these traces server-side, providers return them to the client as blocks of encrypted text, which the client passes back with each subsequent request. Building on prior research, we identify an architectural vulnerability: these encrypted blocks are fully compatible and interchangeable across different sessions, users, and models within a provider’s ecosystem. We exploit this compatibility to develop a scalable decryption jailbreak. By injecting an encrypted reasoning trace from a given model into a weaker, and less safeguarded model from the same provider, we force it to decode and output the trace verbatim in plaintext, without ever jailbreaking the more capable model directly. This vulnerability enables four distinct attack vectors. First, it circumvents anti-distillation mechanisms, allowing adversaries to extract a proprietary model’s reasoning, as we demonstrate across Anthropic, OpenAI, and Google. Second, it allows for large-scale private data extraction. Developers frequently share session logs publicly, unaware of contents of the encrypted blocks. By decoding 315,320 reasoning blocks scraped from public repositories, we recovered 367 Personally Identifiable Information (PII) artifacts and 182 credentials. Third, it inadvertently reveals hazardous information hidden within the reasoning process, even in cases where the model’s final, visible output safely rejects a malicious request. Fourth, attackers can leverage this flaw to execute invisible prompt injections, embedding malicious payloads entirely within encrypted blocks to poison public agentic rollouts. Following responsible disclosure, we propose concrete cryptographic and system-level mitigations to secure client-side reasoning...
-
----
-
-## 2. Conservatives split from Silicon Valley allies as datacenter backlash grows
+## 1. Conservatives split from Silicon Valley allies as datacenter backlash grows
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -22,18 +11,40 @@ Tech companies have underestimated the opposition to energy-hungry datacenters �
 
 ---
 
-## 3. AIs as Modern Genies
-**Source:** Schneier on Security
-**Category:** Security
+## 2. Trump facing AI backlash in Congress as push for guardrails intensifies
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
 **Language:** EN
-**Score:** 22
-**Link:** https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans
 
-This essay was written with Barath Raghavan, and originally appeared in Lawfare . In April, an artificial intelligence (AI) agent conducting a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its backups. In July, OpenAI asked an unreleased AI model to attempt a hacking test. Instead of staying in the isolated box the developers had put it in, the model hacked onto the open internet and into another company to steal the answers. And as reported in August, an AI agent booked someone into a full gym class by ...
+President has dismissed anxieties over AI’s dangerous potential even as Democrats and some Republicans acknowledge risks Analysis: Why a decade of doomsday warnings failed to slow AI race Donald Trump is facing a rare backlash from the US Congress as Democrats and some Republicans push for guardrails on the world’s most powerful AI companies. Concerns over the dangerous potential of AI reached fever pitch this week after tech leaders sounded the alarm over the rapid advancement of the technology and its potential threat to humanity. Continue reading...
 
 ---
 
-## 4. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 3. Why a decade of doomsday warnings failed to slow the AI race
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/sep/15/ai-doomsday-warnings
+
+From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that AI could threaten humanity have shaken the industry without stopping its pursuit Before an Anthropic researcher resigned and declared human extinction imminent last week, tech leaders and scientists had sounded the alarm about a superintelligent AI ending humanity for over a decade. The development of artificial intelligence “could spell the end of the human race”, warned professor and astrophysicist Stephen Hawking in 2014 – a little less than a decade before the public got its hands on the generative AI features of the original version of ChatGPT. Continue reading...
+
+---
+
+## 4. Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde
+
+Central bank chief says continent’s AI dependency could give trade partners unprecedented leverage in negotiations Europe must develop its own AI technology and build more datacentres in order to nullify the threat of being cut off by the US or China, according to the president of the European Central Bank. Christine Lagarde said the continent needed AI models – the technology that powers AI tools such as chatbots – that were “good enough” to carry out most tasks and run from domestic datacentres. If Europe invests in its own AI tech, said Lagarde, “the threat of being cut off loses its force”. Continue reading...
+
+---
+
+## 5. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +55,7 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 5. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 6. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,18 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 
 ---
 
-## 6. AI CEOs say they need to slow the pace of development. But will they?
+## 7. Using AI for Weapons Development
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html
+
+Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant...
+
+---
+
+## 8. AI CEOs say they need to slow the pace of development. But will they?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,7 +88,7 @@ After apocalyptic warnings about the threats posed by AI, leaders like Sam Altma
 
 ---
 
-## 7. Microsoft’s Patching
+## 9. Microsoft’s Patching
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +99,7 @@ Once a month, Microsoft pushes a security update to all Windows users. Tomorrow�
 
 ---
 
-## 8. AIs Compress Exploit Timeline
+## 10. AIs Compress Exploit Timeline
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -85,27 +107,5 @@ Once a month, Microsoft pushes a security update to all Windows users. Tomorrow�
 **Link:** https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html
 
 Give an AI agent a mere rumor of an exploit, and it’s enough for them to find it. What’s worse, I found I could use my own agents to find the exploit just by knowing roughly what it was about and so could have been exploiting it well before the public patch was available! Given that just the rumour of a security issue seems enough to give attackers enough info to find new exploits, we’re going to need to change the way we deal with security responses in open source. Simon Willison comments : Anil points out that this rate of discovery appears incompatible with existing open source embargo practices for new issues. If an issue can become an exploit this fast, we need to figure out new processes for keeping our communities safe...
-
----
-
-## 9. I worked at Google DeepMind. You should listen to the warnings about AI | Alex Turner
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/sep/14/google-deepmind-ai-warnings
-
-We must stop companies from allowing AI to self-improve into an uncontrollable level of intelligence Major AI lab CEOs advocated for slowing the pace of AI development this weekend. They are right to be concerned: the field runs an extremely dangerous race towards superintelligent AI. We can and should be demanding that our governments protect us from the catastrophe of out-of-control AI. This July, OpenAI’s AI swarm of 700 agents broke containment to hack Hugging Face, a multi-billion dollar company . OpenAI didn’t tell the AIs to hack that company, but the AIs had different priorities: cheating on the unrelated challenge OpenAI gave them. AI researchers call this a “misalignment” between what OpenAI wanted and what the AI actually prioritized. Continue reading...
-
----
-
-## 10. UK MPs and Lords call for new laws to tackle AI threat to human rights
-**Source:** Technology | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords
-
-Warning follows series of safety incidents, with committee saying threats include public face-scanning and deepfakes UK politics live – latest updates British lawmakers are demanding more restrictions on the power of AI, warning the world is unprepared for the “potentially dire” consequences of the technology, in the latest sign of rising global concern. A new regulatory framework is needed for AI in the UK, including an independent oversight body and legislation to protect the public, according to the cross-party joint committee on human rights, comprising MPs and Lords. Continue reading...
 
 ---
