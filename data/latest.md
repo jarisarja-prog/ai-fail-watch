@@ -1,13 +1,13 @@
-# AI Fail Watch – 2026-09-17
+# AI Fail Watch – 2026-09-18
 
-## 1. Wednesday briefing: Why tech companies might be only too happy for us to believe AI will ‘kill us all’
+## 1. OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot
 **Source:** Technology | The Guardian
-**Category:** Security
+**Category:** Legal
 **Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/world/2026/sep/16/wednesday-briefing-why-tech-companies-might-be-only-too-happy-for-us-to-believe-ai-will-kill-us-all
+**Score:** 38
+**Link:** https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot
 
-In today’s newsletter: It is hard to tell fact from fiction when it comes to AI. What is really going on – and what should the government do about it? Good morning. As a general rule, it pays to be suspicious of any gigantic company that claims it’s developing a tool capable of destroying humanity. But in recent days, a number of warnings from the AI industry have suggested that even tech insiders are starting to worry about what they have unleashed. In a lofty essay published on Saturday, Dario Amodei, the founder of Anthropic (the company behind Claude), argued that tech companies need to “slow” the pace at which they’re developing the newest and most sophisticated AI models. Lucy Letby | Three babies might have survived if hospital had acted upon concerns over Lucy Letby, an inquiry has found . Lady Justice Thirlwall condemned the ‘complete failure’ to protect babies on neonatal unit at Countess of Chester hospital. UK politics | The leader of Reform UK in Wales stood down after arrest on suspicion of assault . Dan Thomas, a former Tory councillor, was elected to Senedd as leader of the opposition in May. AI | The progressive senator Bernie Sanders and rightwing strategist Steve Bannon have called for restrictions on artificial intelligence (AI) but offered competing visions for what they termed a “cold war” with China. UK news | Young people in Rotherham face a local jobs market with the fewest suitable opportunities in Britain, according to a report that warns stark regional divisions are fuelling a crisis in youth work. Defence | John Healey is in talks with the Canadian government about joining a new global defence bank intended to help allies rearm to counter mounting security threats, just weeks after Rachel Reeves rejected the move. Continue reading...
+US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company. A team at a US-based startup compromised multiple OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their target’s software cache – and potentially more. Continue reading...
 
 ---
 
@@ -66,14 +66,14 @@ Trump and Republicans want companies to regulate themselves. It’s a derelictio
 
 ---
 
-## 7. Inside the suddenly explosive world of AI safety
-**Source:** The Verge
+## 7. LLMs respond differently to harmful prompts when AI watermarking is used
+**Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic
+**Score:** 18
+**Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
 
-On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a "war room" to dissect the high-profile cybersecurity incident that had rocked the AI industry hours earlier. An unreleased OpenAI model had gone rogue, executing a stunningly […]
+SynthID can cause models to follow harmful instructions they would otherwise refuse.
 
 ---
 
@@ -106,6 +106,6 @@ Last week, Anthropic released a long and detailed document describing current mi
 **Score:** 17
 **Link:** https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities
 
-Universities need protect their position in education so that students have an independent pathway to employment AI companies like OpenAI are insinuating themselves into the pathway from education to work. Soon they may claim it entirely, a disastrous result for students. We know that students are using AI at school and at university. In conversations with those I teach, I’m struck by the trust many place in it. They turn to ChatGPT and similar tools for personal problems as well as study help. Some even doubt their abilities without AI. Ella Hafermalz is an associate professor of work and technology at the Kin Center for Digital Innovation at Vrije Universiteit Amsterdam Continue reading...
+Universities need to protect their position in education so that students have an independent pathway to employment AI companies like OpenAI are insinuating themselves into the pathway from education to work. Soon they may claim it entirely, a disastrous result for students. We know that students are using AI at school and at university. In conversations with those I teach, I’m struck by the trust many place in it. They turn to ChatGPT and similar tools for personal problems as well as study help. Some even doubt their abilities without AI. Ella Hafermalz is an associate professor of work and technology at the Kin Center for Digital Innovation at Vrije Universiteit Amsterdam Continue reading...
 
 ---
