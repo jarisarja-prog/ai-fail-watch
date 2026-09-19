@@ -1,17 +1,39 @@
-# AI Fail Watch – 2026-09-18
+# AI Fail Watch – 2026-09-19
 
-## 1. OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot
+## 1. Google says its Gemini AI model hacked three other companies
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 46
+**Link:** https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack
+
+Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of advanced AI systems, was also at the center of some of the recent OpenAI and Anthropic hacks of third-party entities, including OpenAI’s breach of AI software company, Hugging Face. Continue reading...
+
+---
+
+## 2. OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 38
 **Link:** https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot
 
-US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company. A team at a US-based startup compromised multiple OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their target’s software cache – and potentially more. Continue reading...
+US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company. A team at a US-based startup compromised a number of OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their target’s software cache – and potentially more. Continue reading...
 
 ---
 
-## 2. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
+## 3. Security researchers used Claude to help them hack into OpenAI
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist
+
+A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called "Monorepo," which reportedly contains "OpenAI's algorithmic secrets," according to The […]
+
+---
+
+## 4. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -22,7 +44,7 @@ Tech CEOs banding together is an old ruse recycled from corporate America to get
 
 ---
 
-## 3. Why a decade of doomsday warnings failed to slow the AI race
+## 5. Why a decade of doomsday warnings failed to slow the AI race
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -33,7 +55,7 @@ From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that 
 
 ---
 
-## 4. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 6. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +66,7 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 7. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,7 +77,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 6. The US government is failing Americans on AI | Shakeel Hashim
+## 8. The US government is failing Americans on AI | Shakeel Hashim
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -66,7 +88,18 @@ Trump and Republicans want companies to regulate themselves. It’s a derelictio
 
 ---
 
-## 7. LLMs respond differently to harmful prompts when AI watermarking is used
+## 9. China bogeyman looms large over American firms’ AI doomsday scenario
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei
+
+Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity When reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China. “We’re leading China in AI,” Trump said. “We’re the most sophisticated country in the world, and frankly, I want to ⁠keep it that way, because whoever wins AI, wins.” Continue reading...
+
+---
+
+## 10. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -74,38 +107,5 @@ Trump and Republicans want companies to regulate themselves. It’s a derelictio
 **Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
 
 SynthID can cause models to follow harmful instructions they would otherwise refuse.
-
----
-
-## 8. OpenAI agents discussed ways to escape their sandbox on public wiki
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
-
-In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
-
----
-
-## 9. Using AI for Weapons Development
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html
-
-Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided rocket that used a commodity phone-class flight computer with final-phase homing guidance; a multi-stage ballistic missile with a stated range goal above 2,000 km; and a multi-variant missile (referred to as the “R2000” set) that included a hypersonic glide vehicle variant...
-
----
-
-## 10. Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz
-**Source:** Technology | The Guardian
-**Category:** Education
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities
-
-Universities need to protect their position in education so that students have an independent pathway to employment AI companies like OpenAI are insinuating themselves into the pathway from education to work. Soon they may claim it entirely, a disastrous result for students. We know that students are using AI at school and at university. In conversations with those I teach, I’m struck by the trust many place in it. They turn to ChatGPT and similar tools for personal problems as well as study help. Some even doubt their abilities without AI. Ella Hafermalz is an associate professor of work and technology at the Kin Center for Digital Innovation at Vrije Universiteit Amsterdam Continue reading...
 
 ---
