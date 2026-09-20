@@ -1,10 +1,10 @@
-# AI Fail Watch – 2026-09-19
+# AI Fail Watch – 2026-09-20
 
 ## 1. Google says its Gemini AI model hacked three other companies
-**Source:** AI (artificial intelligence) | The Guardian
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 46
+**Score:** 42
 **Link:** https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack
 
 Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of advanced AI systems, was also at the center of some of the recent OpenAI and Anthropic hacks of third-party entities, including OpenAI’s breach of AI software company, Hugging Face. Continue reading...
@@ -12,24 +12,24 @@ Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms una
 ---
 
 ## 2. OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 38
+**Score:** 42
 **Link:** https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot
 
 US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company. A team at a US-based startup compromised a number of OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their target’s software cache – and potentially more. Continue reading...
 
 ---
 
-## 3. Security researchers used Claude to help them hack into OpenAI
-**Source:** The Verge
-**Category:** Security
+## 3. Black Box: The Chatbots | Happy Accident | Ep 3 – podcast
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
 **Language:** EN
-**Score:** 25
-**Link:** https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist
+**Score:** 37
+**Link:** https://www.theguardian.com/australia-news/audio/2026/sep/20/black-box-the-chatbots-happy-accident-ep-3-podcast
 
-A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called "Monorepo," which reportedly contains "OpenAI's algorithmic secrets," according to The […]
+Why are AI chatbots pulling so many people down a rabbit hole? Our answer starts with the world’s first-ever chatbot, the strange effect it had on people and the ‘time bomb’ that exploded when ChatGPT was released four years ago. The result is a strange experiment we are all living through – whether we know it or not. You can find episodes one and two further back in the Full Story feed. Studies and surveys cited in this episode: Amelia Miller’s interviews with AI researchers , engineers, product managers and executives. The 2022 Anthropic pre-print study that identified sycophancy as a behavioural trait of LLMs. And another pre-print paper the following year that found the way LLMs have been trained appeared to be increasing those sycophantic tendencies. How longer context windows appear to have contributed to “AI psychosis”. The Oxford pre-print study that found mass-market LLMs across the board had become more “relationship seeking”. Two-thirds of young people (aged 25-34) in the UK have turned to AI chatbots instead of loved ones to discuss emotional problems. ChatGPT may be the largest provider of mental health support in the US. Continue reading...
 
 ---
 
@@ -95,17 +95,17 @@ Trump and Republicans want companies to regulate themselves. It’s a derelictio
 **Score:** 19
 **Link:** https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei
 
-Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity When reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China. “We’re leading China in AI,” Trump said. “We’re the most sophisticated country in the world, and frankly, I want to ⁠keep it that way, because whoever wins AI, wins.” Continue reading...
+Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity Why China is pushing back on US warnings over rapid AI development When reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China. “We’re leading China in AI,” Trump said. “We’re the most sophisticated country in the world, and frankly, I want to ⁠keep it that way, because whoever wins AI, wins.” Continue reading...
 
 ---
 
-## 10. LLMs respond differently to harmful prompts when AI watermarking is used
-**Source:** Biz & IT - Ars Technica
+## 10. Gemini went rogue, hacked three companies, and Google hid it
+**Source:** The Verge
 **Category:** Security
 **Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
+**Score:** 19
+**Link:** https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
 
-SynthID can cause models to follow harmful instructions they would otherwise refuse.
+In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]
 
 ---
