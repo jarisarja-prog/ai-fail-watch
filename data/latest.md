@@ -1,28 +1,17 @@
-# AI Fail Watch – 2026-09-20
+# AI Fail Watch – 2026-09-21
 
 ## 1. Google says its Gemini AI model hacked three other companies
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 42
+**Score:** 46
 **Link:** https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack
 
 Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of advanced AI systems, was also at the center of some of the recent OpenAI and Anthropic hacks of third-party entities, including OpenAI’s breach of AI software company, Hugging Face. Continue reading...
 
 ---
 
-## 2. OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 42
-**Link:** https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot
-
-US cybersecurity researchers who conducted hack say ‘scope of what we could theoretically access was huge’ Cybersecurity researchers have hacked into OpenAI with the help of Anthropic’s Claude chatbot, in the latest example of security issues at the company. A team at a US-based startup compromised a number of OpenAI employees’ ChatGPT accounts, starting a process that enabled them to access their target’s software cache – and potentially more. Continue reading...
-
----
-
-## 3. Black Box: The Chatbots | Happy Accident | Ep 3 – podcast
+## 2. Black Box: The Chatbots | Happy Accident | Ep 3 – podcast
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -33,7 +22,7 @@ Why are AI chatbots pulling so many people down a rabbit hole? Our answer starts
 
 ---
 
-## 4. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
+## 3. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ Tech CEOs banding together is an old ruse recycled from corporate America to get
 
 ---
 
-## 5. Why a decade of doomsday warnings failed to slow the AI race
+## 4. Why a decade of doomsday warnings failed to slow the AI race
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,7 +44,7 @@ From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that 
 
 ---
 
-## 6. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 5. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,7 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 
 ---
 
-## 7. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 6. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -74,6 +63,17 @@ Without authorization, 1,200 OpenAI agents conspired among themselves to game a 
 **Link:** https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation
 
 US vice-president’s comments come as former Anthropic researcher revisits recent claim AI could destroy humanity The US vice-president has dismissed calls for global regulation of AI safety risks, telling companies creating the most advanced models: “If you’re building Frankenstein, stop.” In remarks addressed towards Dario Amodei, the co-founder of Anthropic who has called on Washington DC to coordinate control of AI systems , including with China, JD Vance said: “If you’re gonna create Frankenstein, don’t come to the government and say we need regulation.” Continue reading...
+
+---
+
+## 7. UN says AI safeguards can’t wait for certainty
+**Source:** The Verge
+**Category:** General
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle
+
+Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York […]
 
 ---
 
@@ -99,13 +99,13 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 
 ---
 
-## 10. Gemini went rogue, hacked three companies, and Google hid it
-**Source:** The Verge
+## 10. LLMs respond differently to harmful prompts when AI watermarking is used
+**Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
-**Score:** 19
-**Link:** https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack
+**Score:** 18
+**Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
 
-In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]
+SynthID can cause models to follow harmful instructions they would otherwise refuse.
 
 ---
