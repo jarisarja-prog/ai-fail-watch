@@ -1,28 +1,6 @@
-# AI Fail Watch – 2026-09-21
+# AI Fail Watch – 2026-09-22
 
-## 1. Google says its Gemini AI model hacked three other companies
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 46
-**Link:** https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack
-
-Disclosure comes after OpenAI and Anthropic hacks amid fears that tech firms unable to control powerful AI models In a first for Google, the company confirmed that its AI model, Gemini, breached the security of three other companies in May. The hacks occurred during a cybersecurity evaluation by AI-security firm Irregular. Irregular, an Israel-based startup that scrutinizes the security of advanced AI systems, was also at the center of some of the recent OpenAI and Anthropic hacks of third-party entities, including OpenAI’s breach of AI software company, Hugging Face. Continue reading...
-
----
-
-## 2. Black Box: The Chatbots | Happy Accident | Ep 3 – podcast
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 37
-**Link:** https://www.theguardian.com/australia-news/audio/2026/sep/20/black-box-the-chatbots-happy-accident-ep-3-podcast
-
-Why are AI chatbots pulling so many people down a rabbit hole? Our answer starts with the world’s first-ever chatbot, the strange effect it had on people and the ‘time bomb’ that exploded when ChatGPT was released four years ago. The result is a strange experiment we are all living through – whether we know it or not. You can find episodes one and two further back in the Full Story feed. Studies and surveys cited in this episode: Amelia Miller’s interviews with AI researchers , engineers, product managers and executives. The 2022 Anthropic pre-print study that identified sycophancy as a behavioural trait of LLMs. And another pre-print paper the following year that found the way LLMs have been trained appeared to be increasing those sycophantic tendencies. How longer context windows appear to have contributed to “AI psychosis”. The Oxford pre-print study that found mass-market LLMs across the board had become more “relationship seeking”. Two-thirds of young people (aged 25-34) in the UK have turned to AI chatbots instead of loved ones to discuss emotional problems. ChatGPT may be the largest provider of mental health support in the US. Continue reading...
-
----
-
-## 3. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
+## 1. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,7 +11,7 @@ Tech CEOs banding together is an old ruse recycled from corporate America to get
 
 ---
 
-## 4. Why a decade of doomsday warnings failed to slow the AI race
+## 2. Why a decade of doomsday warnings failed to slow the AI race
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -44,7 +22,18 @@ From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that 
 
 ---
 
-## 5. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
+## 3. Meta patches Muse exploit that let attackers control the AI agent
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent
+
+Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers […]
+
+---
+
+## 4. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -52,6 +41,17 @@ From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that 
 **Link:** https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/
 
 Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.
+
+---
+
+## 5. British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting
+
+Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the massacre. The lawsuit filed in San Francisco federal court on Monday names OpenAI and its CEO, Sam Altman, as defendants. It is seeking damages to fund recovery efforts in the province after the February attack, as well as an order directing changes to the way the company handles ChatGPT conversations that could lead to violence. Continue reading...
 
 ---
 
@@ -66,18 +66,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 7. UN says AI safeguards can’t wait for certainty
-**Source:** The Verge
-**Category:** General
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle
-
-Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York […]
-
----
-
-## 8. The US government is failing Americans on AI | Shakeel Hashim
+## 7. The US government is failing Americans on AI | Shakeel Hashim
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -88,7 +77,7 @@ Trump and Republicans want companies to regulate themselves. It’s a derelictio
 
 ---
 
-## 9. China bogeyman looms large over American firms’ AI doomsday scenario
+## 8. China bogeyman looms large over American firms’ AI doomsday scenario
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 
 ---
 
-## 10. LLMs respond differently to harmful prompts when AI watermarking is used
+## 9. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 **Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
 
 SynthID can cause models to follow harmful instructions they would otherwise refuse.
+
+---
+
+## 10. OpenAI agents discussed ways to escape their sandbox on public wiki
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
+
+In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
 
 ---
