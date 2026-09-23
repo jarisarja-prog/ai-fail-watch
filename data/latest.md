@@ -1,6 +1,28 @@
-# AI Fail Watch – 2026-09-22
+# AI Fail Watch – 2026-09-23
 
-## 1. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
+## 1. Trump to meet China’s Xi as Congress mulls bill banning artificial superintelligence – US politics live
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/us-news/live/2026/sep/23/donald-trump-xi-jinping-ai-china-us-politics-latest-news-updates
+
+Congress has so far done little to rein in the AI industry even as some of its most prominent leaders warn about potentially catastrophic risks Sign up for US Breaking News emails The Trump administration is refusing to work with the newly appointed deputy head of the United Nations ⁠refugee agency, Reuters reported. Tressa Rae Finerty, an American who took up the role of deputy high commissioner at UNHCR earlier ⁠this month, has taken leave as she seeks a waiver from the US government that would allow her to carry out aspects of her duties, ​according to seven diplomatic sources. Speaking at the UN general assembly, Donald Trump re-issued his threat to “annihilate” Iran and “drive them into Hell” if the regime didn’t capitulate and make a deal.” He also said he was “working closely with the leaders of Russia and Ukraine ” to end the disastrous war, defended his administration’s actions in Latin America – including the midnight raid to arrest former Venezuelan president Nicólas Maduro , defended his drone strikes on boats in the Caribbean and the Pacific, accused Mexico of being effectively controlled by the cartels, and said it was “unacceptable” for the US to share a border with a nation under such conditions, pointed to regime change in Cuba and said he would reject any calls for a “globalist scheme” to control artificial intelligence. Shortly after his UN address, Trump signed a Greenland deal, which Greenland’s prime minister Jens-Frederick Nielsen said “underlines the importance of the Nato alliance.” In tricky, carefully worded paragraphs, she said the agreement “recognises the US defining historical and ongoing contributions to the security and defence of Greenland,” but it also “respects the sovereignty and the territorial integrity of the Kingdom of Denmark, as well as Greenland’s right to self-determination.” Trump told a CNN reporter at the UN general assembly on Tuesday that he was “surprised” the outlet was covering him, saying it ‘shouldn’t be here’ after he banned the network alongside Politico and MS Now from the White House on Friday. At a joint press conference on Tuesday, vice-president JD Vance and Mehmet Oz , administrator of the Centers for Medicare and Medicaid Services, announced that the federal government was removing 760,000 enrollees from Affordable Care Act insurance marketplaces. Continue reading...
+
+---
+
+## 2. British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting
+
+Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI , saying a mass shooting at a school in the Canadian province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the attack. The lawsuit, filed in San Francisco federal court on Monday, names OpenAI and its CEO, Sam Altman , as defendants. It is seeking damages to fund recovery efforts in the province after the February attack, as well as an order directing changes to the way the company handles ChatGPT conversations that could lead to violence. Continue reading...
+
+---
+
+## 3. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -11,7 +33,7 @@ Tech CEOs banding together is an old ruse recycled from corporate America to get
 
 ---
 
-## 2. Why a decade of doomsday warnings failed to slow the AI race
+## 4. Why a decade of doomsday warnings failed to slow the AI race
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -22,36 +44,14 @@ From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that 
 
 ---
 
-## 3. Meta patches Muse exploit that let attackers control the AI agent
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent
-
-Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential attackers running local code to redirect transcription processing from Meta's servers […]
-
----
-
-## 4. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face
-**Source:** Biz & IT - Ars Technica
+## 5. New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 21
-**Link:** https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/
+**Link:** https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes
 
-Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.
-
----
-
-## 5. British Columbia sues OpenAI and Sam Altman over Tumbler Ridge mass school shooting
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting
-
-Canadian province alleges deadly attack could have been prevented if company had warned police of shooter’s ChatGPT use British Columbia has sued OpenAI in California, saying a mass shooting at a school in the province could have been prevented if the company had warned local ⁠law enforcement that the shooter ⁠had used ChatGPT to ​plan the massacre. The lawsuit filed in San Francisco federal court on Monday names OpenAI and its CEO, Sam Altman, as defendants. It is seeking damages to fund recovery efforts in the province after the February attack, as well as an order directing changes to the way the company handles ChatGPT conversations that could lead to violence. Continue reading...
+PM aims to ‘stem poisonous tide’ of disinformation and deepfakes with National Centre for Information Defence Security chiefs will set up a new national centre to tackle disinformation and deepfakes from hostile states such as Russia, Andy Burnham has announced, saying the government had a duty to “stem the poisonous tide” from damaging British interests. The National Centre for Information Defence will “detect, attribute and disrupt” information attacks by foreign powers, many of which are enabled by AI , bringing together the intelligence agencies, law enforcement and social media companies. Continue reading...
 
 ---
 
@@ -77,18 +77,7 @@ Trump and Republicans want companies to regulate themselves. It’s a derelictio
 
 ---
 
-## 8. China bogeyman looms large over American firms’ AI doomsday scenario
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei
-
-Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity Why China is pushing back on US warnings over rapid AI development When reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China. “We’re leading China in AI,” Trump said. “We’re the most sophisticated country in the world, and frankly, I want to ⁠keep it that way, because whoever wins AI, wins.” Continue reading...
-
----
-
-## 9. LLMs respond differently to harmful prompts when AI watermarking is used
+## 8. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 10. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 **Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
 
 In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
+
+---
+
+## 10. Stop relying on AI chatbots for customer care, UK banks and energy firms told
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged
+
+Citizens Advice says providers of essential services such as energy, banking, phone and internet should guarantee the ‘right to talk to a human’ Stop relying on AI chatbots for customer care and guarantee the “right to talk to a human”, Citizens Advice has urged essential service providers, as research found they wasted time, caused stress and delayed problem solving for more than half of users. The spread of the AI-powered systems to provide help about the provision of vital services such as energy, banking, phones and internet, is making it harder for millions of already digitally excluded people to handle snags, according to the frontline charity that last year provided more than 2.7 million people with one-on-one help in England and Wales. Continue reading...
 
 ---
