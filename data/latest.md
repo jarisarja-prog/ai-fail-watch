@@ -1,17 +1,50 @@
-# AI Fail Watch – 2026-09-24
+# AI Fail Watch – 2026-09-25
 
-## 1. OpenAI agents hacked an Australian government website in search for data
-**Source:** The Verge
+## 1. Pocock calls for AI safety act after Medicare breach – as it happened
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 26
-**Link:** https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data
+**Score:** 39
+**Link:** https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb
 
-OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed instance of a rogue AI agent breaching a government website, adding fuel to rapidly intensifying concerns about the safety of advanced AI systems and the responsibility of the […]
+This blog is now closed Get our breaking news email , free app or daily news podcast AI hack of Medicare exposes Australia’s vulnerabilities Technology experts have warned revelations an artificial intelligence agent hacked Medicare’s internal systems will not be the only dangerous breach of government data and have called for Australia to boost its protections against the growing risk. Frontier AI now has capability to expose those vulnerabilities at a rate quicker than we can keep up, quicker than we can patch them. What if it was a less benign breach? What if it was a less benign actor? Let’s face it, clearly, Services Australia’s cybersecurity is woefully inadequate. I mean the irony here is that you actually need AI to fight AI. This should hasten, if anything, our move over in the US to less finger wagging and Trump one-upmanship, and more about embracing these AI companies and bringing them here so that we can have frontier models providing sovereign capability to Australia. Because AI is going to happen. Continue reading...
 
 ---
 
-## 2. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
+## 2. AI hack of Medicare exposes Australia’s vulnerabilities and experts warn ‘there is more of this to come’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 36
+**Link:** https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities
+
+Council on AI Strategy chief says incident unlikely to be isolated and country should enhance capability to detect and report incidents Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Technology experts have warned revelations an artificial intelligence agent hacked Medicare’s statistics website will not be the only dangerous breach of government data and have called for Australia to boost its protections against the growing risk. The prime minister, Anthony Albanese, challenged the OpenAI boss, Sam Altman, on Thursday after the company’s agent infiltrated systems run by the Australian Institute of Health and Welfare, Victoria’s Department of Health, the New South Wales Bureau of Crime Statistics and Research, and the Medicare statistics reporting service portal of Services Australia. Continue reading...
+
+---
+
+## 3. Parents and carers: how has your view on your children’s use of social media or AI changed?
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/technology/2026/sep/24/parents-children-ai-social-media
+
+Is the scrutiny tech firms are facing making you rethink your children’s relationship with technology? Let us know AI and social media companies have drawn intense scrutiny in recent months for some of the ways the technology they’re building operates, especially when it comes to their younger users. Parents and regulators have accused companies like Meta of designing products that are addictive to younger users. AI developer OpenAI is facing dozens of lawsuits that allege its ChatGPT bot lacks safety guardrails. Now, in the last few weeks, employees of the biggest AI firms say the companies are more focused on competing with each other than building their AI models safely. Continue reading...
+
+---
+
+## 4. Rogue AI hacks government system in world first – podcast
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theguardian.com/technology/audio/2026/sep/25/rogue-ai-hacks-government-system-in-world-first-full-story-podcast
+
+A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme in June. OpenAI became aware of the hack in August, but only informed the government in September. Australia’s prime minister, Anthony Albanese, has expressed his ‘extreme concern’ about the hack, which raises serious AI security concerns for governments around the world. Lucy Hough speaks to the Guardian’s UK technology editor Robert Booth Read more: AI hack of Medicare exposes Australia’s vulnerabilities and experts warn ‘there is more of this to come’ Australia launches investigation after OpenAI agent hacked healthcare database Continue reading...
+
+---
+
+## 5. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -22,58 +55,25 @@ Tech CEOs banding together is an old ruse recycled from corporate America to get
 
 ---
 
-## 3. Why a decade of doomsday warnings failed to slow the AI race
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/technology/2026/sep/15/ai-doomsday-warnings
-
-From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that AI could threaten humanity have shaken the industry without stopping its pursuit Before an Anthropic researcher resigned and declared human extinction imminent last week, tech leaders and scientists had sounded the alarm about a superintelligent AI ending humanity for over a decade. The development of artificial intelligence “could spell the end of the human race”, warned professor and astrophysicist Stephen Hawking in 2014 – a little less than a decade before the public got its hands on the generative AI features of the original version of ChatGPT. Continue reading...
-
----
-
-## 4. An OpenAI agent infiltrated Medicare – and Australia only found out months later. Here’s what we know so far
+## 6. Rogue AI hacks government system for first time – The Latest
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/sep/24/openai-agent-hacked-medicare-australia-what-we-know-so-far-ntwnfb
+**Link:** https://www.theguardian.com/news/audio/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest
 
-Experts say ‘fairly minor’ breach is a portent of things to come and proprietary closed systems like OpenAI are ‘the least of the worries’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare and three other systems in June – and the company only notified Australia earlier this month. The prime minister has expressed his “extreme concern” over the incident, although he noted no personal information is believed to have been accessed in the breach. Continue reading...
+A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme in June. OpenAI became aware of the hack in August, but only informed the government in September. Australia’s prime minister, Anthony Albanese, has expressed his ‘extreme concern’ about the hack, which raises serious AI security concerns for governments around the world. Lucy Hough speaks to the Guardian’s UK technology editor Robert Booth – watch on YouTube Continue reading...
 
 ---
 
-## 5. Australia launches investigation after OpenAI agent hacked healthcare database
-**Source:** Technology | The Guardian
+## 7. Rogue AI hacks government system for first time - The Latest
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 22
-**Link:** https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-sam-altman
+**Link:** https://www.theguardian.com/news/video/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest
 
-Prime minister says he told Sam Altman he was disappointed it had taken OpenAI ‘way too long’ to disclose breach Anthony Albanese says an artificial intelligence agent developed by OpenAI hacked Medicare in June and the tech giant notified the government earlier this month using an email sent to a “public mailbox”. Australia’s prime minister made the comments at the UN summit in New York, saying it appeared no personal information had been accessed in the AI breach. Continue reading...
-
----
-
-## 6. OpenAI’s Altman and Anthropic’s Amodei address UN security council
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/world/2026/sep/23/unga-sam-altman-dario-amodei
-
-Heads of two of the world’s largest artificial intelligence companies give separate briefings on AI safety Sam Altman of OpenAI and Dario Amodei of Anthropic, heads of two of the world’s largest artificial intelligence companies, addressed the United Nations security council on Wednesday in separate briefings on AI safety. “We have a choice in front of us,” Altman told the council. “AI can either be more like a new renaissance of creativity and discovery, or more like a new industrial revolution of upheaval and disarray.” Continue reading...
-
----
-
-## 7. New UK agency to fight ‘information warfare’ from likes of Russia, Burnham tells UN
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes
-
-PM aims to ‘stem poisonous tide’ of disinformation and deepfakes with National Centre for Information Defence Security chiefs will set up a new national centre to tackle disinformation and deepfakes from hostile states such as Russia, Andy Burnham has announced, saying the government had a duty to “stem the poisonous tide” from damaging British interests. The National Centre for Information Defence will “detect, attribute and disrupt” information attacks by foreign powers, many of which are enabled by AI , bringing together the intelligence agencies, law enforcement and social media companies. Continue reading...
+A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme in June. OpenAI became aware of the hack in August, but only informed the government in September. Australia’s prime minister, Anthony Albanese, has expressed his ‘extreme concern’ about the hack, which raises serious AI security concerns for governments around the world. Lucy Hough speaks to the Guardian’s UK technology editor Robert Booth – watch on YouTube Continue reading...
 
 ---
 
@@ -99,13 +99,13 @@ Trump and Republicans want companies to regulate themselves. It’s a derelictio
 
 ---
 
-## 10. LLMs respond differently to harmful prompts when AI watermarking is used
-**Source:** Biz & IT - Ars Technica
+## 10. China bogeyman looms large over American firms’ AI doomsday scenario
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei
 
-SynthID can cause models to follow harmful instructions they would otherwise refuse.
+Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity Why China is pushing back on US warnings over rapid AI development When reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China. “We’re leading China in AI,” Trump said. “We’re the most sophisticated country in the world, and frankly, I want to ⁠keep it that way, because whoever wins AI, wins.” Continue reading...
 
 ---
