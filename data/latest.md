@@ -1,17 +1,28 @@
-# AI Fail Watch – 2026-09-26
+# AI Fail Watch – 2026-09-27
 
 ## 1. OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 40
+**Score:** 44
 **Link:** https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt
 
 Disclosure reveals ⁠new area of privacy risk for the company and illustrates ​how difficult it is to inventory unauthorized activity tied to its agents Two ⁠months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters. The latest example came on Friday when OpenAI said its agents had leaked 53 images from ChatGPT users. OpenAI declined to say if the images were AI-generated or identified real people. It also declined to ⁠say when the images were posted. Continue reading...
 
 ---
 
-## 2. She was convicted of a murder she says she didn’t commit. Then AI hallucinations stopped her speaking out
+## 2. Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/australia-news/2026/sep/27/sam-altman-openai-dario-amodei-anthropic-senate-inquiry-medicare-hack-rogue-ai-agent-leak
+
+Sam Altman and Dario Amodei have been invited to appear before the Greens-led inquiry into AI and datacentres Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The chief executives of OpenAI and Anthropic have been called to face a Senate inquiry after rogue OpenAI agents hacked Australian and US government websites. Sam Altman and Dario Amodei were requested to appear at the Greens-led inquiry into AI and datacentres as their companies negotiate with the Labor government for greater access to Australian content in exchange for a greater local presence. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
+
+---
+
+## 3. She was convicted of a murder she says she didn’t commit. Then AI hallucinations stopped her speaking out
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -22,29 +33,7 @@ Tasmania’s Parole Board used a document citing legal authorities that do not e
 
 ---
 
-## 3. Allowing AI firms to collude to ‘pace the frontier’ is a dangerous proposition
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws
-
-Tech CEOs banding together is an old ruse recycled from corporate America to get a pass from antitrust laws Anthropic’s Dario Amodei is not the first corporate CEO to suggest that excessive competition is driving the world to some socially undesirable outcome. The safety breach disclosed by OpenAI after a swarm of its agents coordinated to breach their supposedly secure sandbox, get on the Internet and hack AI platform Hugging Face, warrants urgent action. It demonstrated the ease with which the technology can evade human control and gave concrete form to the existential fears about what it could do to humanity if not securely leashed. Continue reading...
-
----
-
-## 4. Rogue AI hacks government system for first time – The Latest
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/news/audio/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest
-
-A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme in June. OpenAI became aware of the hack in August, but only informed the government in September. Australia’s prime minister, Anthony Albanese, has expressed his ‘extreme concern’ about the hack, which raises serious AI security concerns for governments around the world. Lucy Hough speaks to the Guardian’s UK technology editor Robert Booth – watch on YouTube Continue reading...
-
----
-
-## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,7 +44,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 6. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+## 5. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +55,7 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 7. China bogeyman looms large over American firms’ AI doomsday scenario
+## 6. China bogeyman looms large over American firms’ AI doomsday scenario
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 
 ---
 
-## 8. LLMs respond differently to harmful prompts when AI watermarking is used
+## 7. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 8. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 
 ---
 
-## 10. Oxford lets OpenAI train its AI models on Bodleian Library
+## 9. Oxford lets OpenAI train its AI models on Bodleian Library
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -107,5 +96,16 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 **Link:** https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt
 
 University staff voice concerns over reputational risk of partnering with company behind ChatGPT The University of Oxford has allowed the company behind ChatGPT to train its AI models on historical texts from its Bodleian Library, as tech companies scour academic institutions for fresh data. The Bodleian material digitised by OpenAI has been used to “populate the OpenAI training set”, according to internal documents. Continue reading...
+
+---
+
+## 10. Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz
+**Source:** Technology | The Guardian
+**Category:** Education
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities
+
+Universities need to protect their position in education so that students have an independent pathway to employment AI companies like OpenAI are insinuating themselves into the pathway from education to work. Soon they may claim it entirely, a disastrous result for students. We know that students are using AI at school and at university. In conversations with those I teach, I’m struck by the trust many place in it. They turn to ChatGPT and similar tools for personal problems as well as study help. Some even doubt their abilities without AI. Ella Hafermalz is an associate professor of work and technology at the Kin Center for Digital Innovation at Vrije Universiteit Amsterdam Continue reading...
 
 ---
