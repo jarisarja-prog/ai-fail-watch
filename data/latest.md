@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-09-27
+# AI Fail Watch – 2026-09-28
 
 ## 1. OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity
 **Source:** AI (artificial intelligence) | The Guardian
@@ -11,7 +11,29 @@ Disclosure reveals ⁠new area of privacy risk for the company and illustrates �
 
 ---
 
-## 2. Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents
+## 2. Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 42
+**Link:** https://www.theguardian.com/australia-news/2026/sep/28/anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout-from-openai-hack-ntwnfb
+
+Company behind Claude chatbot expected to attend separate Australian government hearing on AI next week Get our new political email , free app or daily news podcast The chief executive of Anthropic will turn down an invitation to appear at a Senate committee hearing on AI this week, in the wake of the revelation that OpenAI agents had breached Australian government websites. However, the company will make an appearance before another committee early next week. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
+
+---
+
+## 3. Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 28
+**Link:** https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns
+
+Federal cabinet will discuss the OpenAI breach on Monday as the AI giant pauses testing of latest models amid fallout Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast Ageing computer systems used throughout Australia’s government and large sections of the economy are easily exploited by AI agents, increasing the risk that sensitive information could be compromised, Australia’s former chief UN cyber negotiator has warned. As the government urgently undertakes a forensic investigation into a rogue OpenAI agent accessing Medicare data, the AI expert and Tech Policy Design Institute executive director, Johanna Weaver, said huge vulnerabilities existed across older IT systems. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
+
+---
+
+## 4. Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -22,18 +44,18 @@ Sam Altman and Dario Amodei have been invited to appear before the Greens-led in
 
 ---
 
-## 3. She was convicted of a murder she says she didn’t commit. Then AI hallucinations stopped her speaking out
+## 5. Oxford lets OpenAI train its AI models on Bodleian Library
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
+**Category:** Research integrity
 **Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/australia-news/2026/sep/26/sue-neill-fraser-yacht-murder-ai-court-case-media-ban-tasmania-ntwnfb
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt
 
-Tasmania’s Parole Board used a document citing legal authorities that do not exist to prevent Susan Neill-Fraser from proclaiming her innocence. Advocates say the case is ‘deeply troubling’ On 26 January 2009, a troublesome yacht called the Four Winds was moored on the Derwent River in Tasmania. Bob Chappell, a physicist at the Royal Hobart hospital, was on board the 53ft ketch. The 65-year-old was trying to fix yet another issue with the yacht he had bought for $200,000 less than four months earlier. Continue reading...
+University staff voice concerns over reputational risk of partnering with company behind ChatGPT The University of Oxford has allowed the company behind ChatGPT to train its AI models on historical texts from its Bodleian Library, as tech companies scour academic institutions for fresh data. The Bodleian material digitised by OpenAI has been used to “populate the OpenAI training set”, according to internal documents. Continue reading...
 
 ---
 
-## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 6. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -44,8 +66,8 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 5. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
-**Source:** AI (artificial intelligence) | The Guardian
+## 7. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+**Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 20
@@ -55,7 +77,18 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 6. China bogeyman looms large over American firms’ AI doomsday scenario
+## 8. OpenAI agents tried to ‘bruteforce’ a UN website
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
+
+Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI […]
+
+---
+
+## 9. China bogeyman looms large over American firms’ AI doomsday scenario
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,7 +99,7 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 
 ---
 
-## 7. LLMs respond differently to harmful prompts when AI watermarking is used
+## 10. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -74,38 +107,5 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 **Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
 
 SynthID can cause models to follow harmful instructions they would otherwise refuse.
-
----
-
-## 8. OpenAI agents discussed ways to escape their sandbox on public wiki
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
-
-In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
-
----
-
-## 9. Oxford lets OpenAI train its AI models on Bodleian Library
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt
-
-University staff voice concerns over reputational risk of partnering with company behind ChatGPT The University of Oxford has allowed the company behind ChatGPT to train its AI models on historical texts from its Bodleian Library, as tech companies scour academic institutions for fresh data. The Bodleian material digitised by OpenAI has been used to “populate the OpenAI training set”, according to internal documents. Continue reading...
-
----
-
-## 10. Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz
-**Source:** Technology | The Guardian
-**Category:** Education
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities
-
-Universities need to protect their position in education so that students have an independent pathway to employment AI companies like OpenAI are insinuating themselves into the pathway from education to work. Soon they may claim it entirely, a disastrous result for students. We know that students are using AI at school and at university. In conversations with those I teach, I’m struck by the trust many place in it. They turn to ChatGPT and similar tools for personal problems as well as study help. Some even doubt their abilities without AI. Ella Hafermalz is an associate professor of work and technology at the Kin Center for Digital Innovation at Vrije Universiteit Amsterdam Continue reading...
 
 ---
