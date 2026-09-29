@@ -1,28 +1,17 @@
-# AI Fail Watch – 2026-09-28
+# AI Fail Watch – 2026-09-29
 
-## 1. OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity
+## 1. Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 44
-**Link:** https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt
-
-Disclosure reveals ⁠new area of privacy risk for the company and illustrates ​how difficult it is to inventory unauthorized activity tied to its agents Two ⁠months after OpenAI disclosed the accidental hacking of Hugging Face, the ChatGPT maker is still working to understand the full scope of its rogue agent activity, two people briefed on the matter told Reuters. The latest example came on Friday when OpenAI said its agents had leaked 53 images from ChatGPT users. OpenAI declined to say if the images were AI-generated or identified real people. It also declined to ⁠say when the images were posted. Continue reading...
-
----
-
-## 2. Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 42
+**Score:** 46
 **Link:** https://www.theguardian.com/australia-news/2026/sep/28/anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout-from-openai-hack-ntwnfb
 
 Company behind Claude chatbot expected to attend separate Australian government hearing on AI next week Get our new political email , free app or daily news podcast The chief executive of Anthropic will turn down an invitation to appear at a Senate committee hearing on AI this week, in the wake of the revelation that OpenAI agents had breached Australian government websites. However, the company will make an appearance before another committee early next week. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
 
 ---
 
-## 3. Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns
+## 2. Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,29 +22,18 @@ Federal cabinet will discuss the OpenAI breach on Monday as the AI giant pauses 
 
 ---
 
-## 4. Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/australia-news/2026/sep/27/sam-altman-openai-dario-amodei-anthropic-senate-inquiry-medicare-hack-rogue-ai-agent-leak
-
-Sam Altman and Dario Amodei have been invited to appear before the Greens-led inquiry into AI and datacentres Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The chief executives of OpenAI and Anthropic have been called to face a Senate inquiry after rogue OpenAI agents hacked Australian and US government websites. Sam Altman and Dario Amodei were requested to appear at the Greens-led inquiry into AI and datacentres as their companies negotiate with the Labor government for greater access to Australian content in exchange for a greater local presence. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
-
----
-
-## 5. Oxford lets OpenAI train its AI models on Bodleian Library
-**Source:** AI (artificial intelligence) | The Guardian
+## 3. OpenAI scraps release of new model over safety concerns in internal testing
+**Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped
 
-University staff voice concerns over reputational risk of partnering with company behind ChatGPT The University of Oxford has allowed the company behind ChatGPT to train its AI models on historical texts from its Bodleian Library, as tech companies scour academic institutions for fresh data. The Bodleian material digitised by OpenAI has been used to “populate the OpenAI training set”, according to internal documents. Continue reading...
+GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you Business live – latest updates OpenAI is scrapping the release of a next-generation ⁠AI model after researchers raised safety concerns ⁠during internal testing. The model, GPT-6.1 Astra, was expected to appear in ChatGPT and ⁠Codex in October, designed to handle more complex tasks without human assistance. Continue reading...
 
 ---
 
-## 6. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -66,29 +44,29 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 7. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+## 5. UK government pays highest interest rate on 10-year debt since 1999 at bond auction – business live
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates
+
+Rolling coverage of the latest economic and financial news Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023. Just 54,918 new home loans were approved in August on a seasonally-adjusted basis, new Bank of England data shows, as rising borrowing costs deterred potential home buyers. The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day. The average 5-year fixed residential mortgage rate today is 5.94%. This is up from 5.93% the previous working day. Continue reading...
+
+---
+
+## 6. Anthropic ‘warns of existential AI risks to humanity’ in IPO document
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude
 
-As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first government known to have been attacked by a rogue AI agent. He didn’t reveal the attack then, but he sounded a warning about the march of AI: “the risk is that AI develops in a way in which humans are no longer in control of what AI is producing.” Continue reading...
-
----
-
-## 8. OpenAI agents tried to ‘bruteforce’ a UN website
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
-
-Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent attacks on US government sites, it's yet another concerning example of AI […]
+Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotation Anthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn (£1.5tn) flotation. The warning inside the startup’s IPO prospectus, which has yet to be made public, was reported by Reuters and the Financial Times. It follows the company’s call for a slowdown in breakneck development of the technology – a warning echoed by rivals . Continue reading...
 
 ---
 
-## 9. China bogeyman looms large over American firms’ AI doomsday scenario
+## 7. China bogeyman looms large over American firms’ AI doomsday scenario
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,7 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 
 ---
 
-## 10. LLMs respond differently to harmful prompts when AI watermarking is used
+## 8. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,27 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 **Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
 
 SynthID can cause models to follow harmful instructions they would otherwise refuse.
+
+---
+
+## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
+
+In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
+
+---
+
+## 10. Nvidia unveils security platform to rein in AI agents and $150bn stock buyback
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback
+
+Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue. The company announced a $150bn stock buyback the same day, the largest in US corporate history. Continue reading...
 
 ---
