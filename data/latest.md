@@ -1,39 +1,28 @@
-# AI Fail Watch – 2026-09-29
+# AI Fail Watch – 2026-09-30
 
-## 1. Anthropic will not appear at Senate inquiry into AI and datacentres amid fallout from OpenAI hack
+## 1. OpenAI scraps release of new model over safety concerns in internal testing
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 46
-**Link:** https://www.theguardian.com/australia-news/2026/sep/28/anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout-from-openai-hack-ntwnfb
-
-Company behind Claude chatbot expected to attend separate Australian government hearing on AI next week Get our new political email , free app or daily news podcast The chief executive of Anthropic will turn down an invitation to appear at a Senate committee hearing on AI this week, in the wake of the revelation that OpenAI agents had breached Australian government websites. However, the company will make an appearance before another committee early next week. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
-
----
-
-## 2. Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 28
-**Link:** https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns
-
-Federal cabinet will discuss the OpenAI breach on Monday as the AI giant pauses testing of latest models amid fallout Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast Ageing computer systems used throughout Australia’s government and large sections of the economy are easily exploited by AI agents, increasing the risk that sensitive information could be compromised, Australia’s former chief UN cyber negotiator has warned. As the government urgently undertakes a forensic investigation into a rogue OpenAI agent accessing Medicare data, the AI expert and Tech Policy Design Institute executive director, Johanna Weaver, said huge vulnerabilities existed across older IT systems. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
-
----
-
-## 3. OpenAI scraps release of new model over safety concerns in internal testing
-**Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
-**Score:** 24
+**Score:** 28
 **Link:** https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped
 
 GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you Business live – latest updates OpenAI is scrapping the release of a next-generation ⁠AI model after researchers raised safety concerns ⁠during internal testing. The model, GPT-6.1 Astra, was expected to appear in ChatGPT and ⁠Codex in October, designed to handle more complex tasks without human assistance. Continue reading...
 
 ---
 
-## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 2. I Want Better Reporting on AI Genie Behavior
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 25
+**Link:** https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html
+
+AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I’ve been calling “ genie behavior ,” because I think that really gets at the core of what’s happening. I wish the popular press would report on this better. I don’t like the “going rogue” framing because it deflects the responsibility from the prompters—often the AI companies themselves. And now, pretty much anything off-script is being called “hacking.” Take, for example, the recent stories of one of OpenAI’s models hacking into government systems. First, ...
+
+---
+
+## 3. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -44,7 +33,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 5. UK government pays highest interest rate on 10-year debt since 1999 at bond auction – business live
+## 4. UK government pays highest interest rate on 10-year debt since 1999 at bond auction – as it happened
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -55,7 +44,7 @@ Rolling coverage of the latest economic and financial news Newsflash: the number
 
 ---
 
-## 6. Anthropic ‘warns of existential AI risks to humanity’ in IPO document
+## 5. Anthropic ‘warns of existential AI risks to humanity’ in IPO document
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +55,7 @@ Reported admission to investors of AI’s ‘self-preserving behaviours’ comes
 
 ---
 
-## 7. China bogeyman looms large over American firms’ AI doomsday scenario
+## 6. China bogeyman looms large over American firms’ AI doomsday scenario
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the coun
 
 ---
 
-## 8. LLMs respond differently to harmful prompts when AI watermarking is used
+## 7. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +77,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 8. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,13 +88,24 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 
 ---
 
-## 10. Nvidia unveils security platform to rein in AI agents and $150bn stock buyback
+## 9. AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules
 **Source:** Technology | The Guardian
-**Category:** Security
+**Category:** Legal
 **Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback
+**Score:** 16
+**Link:** https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court
 
-Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue. The company announced a $150bn stock buyback the same day, the largest in US corporate history. Continue reading...
+Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rights A court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos. Tokyo district court said on Wednesday that voices should enjoy the same protection as publicity rights, at the end of a closely watched legal action brought against TikTok by Kenjiro Tsuda – best known for voicing the character Kento Nanami in the anime Jujutsu Kaisen. Continue reading...
+
+---
+
+## 10. We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss
+
+Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostage Business live – latest updates The governor of the Bank of England has said authorities must retain the “right to intervene” in the AI industry amid growing fears that rogue models could take the financial system hostage. Andrew Bailey said the risks posed by the rapid advancement of frontier AI models – a number of which have gone rogue in recent months – were “real and increasingly significant” and reduced the ability of society to supervise and intervene when things went wrong. Continue reading...
 
 ---
