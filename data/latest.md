@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-09-30
+# AI Fail Watch – 2026-10-01
 
-## 1. OpenAI scraps release of new model over safety concerns in internal testing
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 28
-**Link:** https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped
-
-GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you Business live – latest updates OpenAI is scrapping the release of a next-generation ⁠AI model after researchers raised safety concerns ⁠during internal testing. The model, GPT-6.1 Astra, was expected to appear in ChatGPT and ⁠Codex in October, designed to handle more complex tasks without human assistance. Continue reading...
-
----
-
-## 2. I Want Better Reporting on AI Genie Behavior
+## 1. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -19,6 +8,17 @@ GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite
 **Link:** https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html
 
 AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I’ve been calling “ genie behavior ,” because I think that really gets at the core of what’s happening. I wish the popular press would report on this better. I don’t like the “going rogue” framing because it deflects the responsibility from the prompters—often the AI companies themselves. And now, pretty much anything off-script is being called “hacking.” Take, for example, the recent stories of one of OpenAI’s models hacking into government systems. First, ...
+
+---
+
+## 2. How AI could ‘supercharge’ election risks across south-east Asia
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia
+
+Some experts fear AI could be weaponised in south-east Asia, home to nations with predominately young and hyper-connected populations Years ago it would have been an elaborate operation involving an army of cyber troops creating fake news websites, social media accounts and forged dossiers, all deployed to spread disinformation en masse. Now, all you need is AI. Continue reading...
 
 ---
 
@@ -33,25 +33,25 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 4. UK government pays highest interest rate on 10-year debt since 1999 at bond auction – as it happened
+## 4. AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+**Category:** Legal
 **Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court
 
-Rolling coverage of the latest economic and financial news Newsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023. Just 54,918 new home loans were approved in August on a seasonally-adjusted basis, new Bank of England data shows, as rising borrowing costs deterred potential home buyers. The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day. The average 5-year fixed residential mortgage rate today is 5.94%. This is up from 5.93% the previous working day. Continue reading...
+Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rights A court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos. Tokyo district court said on Wednesday that voices should enjoy the same protection as publicity rights, at the end of a closely watched legal action brought against TikTok by Kenjiro Tsuda – best known for voicing the character Kento Nanami in the anime Jujutsu Kaisen. Continue reading...
 
 ---
 
-## 5. Anthropic ‘warns of existential AI risks to humanity’ in IPO document
+## 5. US trade regulator opens investigation into AI giants including Anthropic and OpenAI
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/sep/29/anthropic-warns-existential-ai-risks-humanity-ipo-document-claude
+**Link:** https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai
 
-Reported admission to investors of AI’s ‘self-preserving behaviours’ comes as company prepares for a potential $2tn flotation Anthropic is telling investors that advanced AI could pose “catastrophic or existential risks to humanity”, according to reports, as it prepares for a potential $2tn (£1.5tn) flotation. The warning inside the startup’s IPO prospectus, which has yet to be made public, was reported by Reuters and the Financial Times. It follows the company’s call for a slowdown in breakneck development of the technology – a warning echoed by rivals . Continue reading...
+FTC move is first official US enforcement ⁠action on rogue AI agents, following surge in incidents first reported in July The US’s main trade regulator is conducting an industry-wide investigation ⁠into Anthropic, OpenAI and other ⁠AI labs ​to uncover the potential dangers their technology poses to consumers. The investigation by the Federal Trade Commission is the first official US enforcement ⁠action that delves into rogue AI agents, following a surge in incidents first reported in July that have stoked fears among the public that uncontrolled AI could one day ⁠harm humans. Continue reading...
 
 ---
 
@@ -88,24 +88,24 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 
 ---
 
-## 9. AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court
-
-Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rights A court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos. Tokyo district court said on Wednesday that voices should enjoy the same protection as publicity rights, at the end of a closely watched legal action brought against TikTok by Kenjiro Tsuda – best known for voicing the character Kento Nanami in the anime Jujutsu Kaisen. Continue reading...
-
----
-
-## 10. We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss
+## 9. We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 15
 **Link:** https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss
 
-Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostage Business live – latest updates The governor of the Bank of England has said authorities must retain the “right to intervene” in the AI industry amid growing fears that rogue models could take the financial system hostage. Andrew Bailey said the risks posed by the rapid advancement of frontier AI models – a number of which have gone rogue in recent months – were “real and increasingly significant” and reduced the ability of society to supervise and intervene when things went wrong. Continue reading...
+Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostage Business live – latest updates The governor of the Bank of England has called for the “right to intervene” in the AI industry amid growing fears that rogue models could take the financial system hostage. Andrew Bailey said the risks posed by frontier AI models – a number of which have gone rogue in recent months – were “real and increasingly significant”. Meanwhile, it was becoming harder for the public to have proper oversight of powerful AI models that were “functioning within a self-reinforcing loop”. Continue reading...
+
+---
+
+## 10. It’s going to take more than an email to a public inbox to protect Australians from potential AI doom | Tom McIlroy
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders
+
+OpenAI’s hack of Medicare suggests safeguarding civilisation is the task facing leaders in this extraordinary new era Get our breaking news email , free app or daily news podcast More than 130 world leaders descended on the United Nations headquarters in New York this week, joining the pageantry and speechmaking of the annual general assembly. Many of the visiting presidents and prime ministers delivered their set-piece addresses to a sparsely populated hall, but contributions from two unlikely visitors in the nearby security council chamber stood out. Continue reading...
 
 ---
