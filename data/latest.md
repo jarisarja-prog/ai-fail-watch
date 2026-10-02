@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-01
+# AI Fail Watch – 2026-10-02
 
 ## 1. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
@@ -22,7 +22,29 @@ Some experts fear AI could be weaponised in south-east Asia, home to nations wit
 
 ---
 
-## 3. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 3. US trade regulator opens investigation into AI giants including Anthropic and OpenAI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai
+
+FTC move is first official US enforcement ⁠action on rogue AI agents, following surge in incidents first reported in July The US’s main trade regulator is conducting an industry-wide investigation ⁠into Anthropic, OpenAI and other ⁠AI labs ​to uncover the potential dangers their technology poses to consumers. The investigation by the Federal Trade Commission is the first official US enforcement ⁠action that delves into rogue AI agents, following a surge in incidents first reported in July that have stoked fears among the public that uncontrolled AI could one day ⁠harm humans. Continue reading...
+
+---
+
+## 4. California issues investigative subpoena to OpenAI over rogue agents’ hacking
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack
+
+State attorney general issues subpoena to OpenAI as ​part of broader inquiry into potential security vulnerabilities California’s attorney general has issued an investigative subpoena to OpenAI, starting an investigation into the startup ⁠as ​part of a broader inquiry into potential cybersecurity vulnerabilities and incidents related ⁠to its AI models, his office said on Thursday. Last month, Rob Bonta announced that ⁠the Department of Justice was conducting a formal ​investigation into the “Hugging ‌Face incident”, amid increasing ‌scrutiny of the AI industry. AI agents developed by OpenAI hacked Hugging Face in July, gaining access to parts of the open-source platform’s infrastructure. Continue reading...
+
+---
+
+## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -33,7 +55,18 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 4. AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules
+## 6. Google rolls out new Gemini AI model but restricts access over safety concerns
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions
+
+Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers Google on Wednesday said it would withhold its most powerful artificial intelligence model from the public for now, releasing Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers. “Safely releasing frontier capabilities at this level requires a phased approach,” wrote Koray Kavukcuoglu, Google’s chief AI architect, in a blogpost announcing the model. Continue reading...
+
+---
+
+## 7. AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,29 +77,18 @@ Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to p
 
 ---
 
-## 5. US trade regulator opens investigation into AI giants including Anthropic and OpenAI
+## 8. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence
 
-FTC move is first official US enforcement ⁠action on rogue AI agents, following surge in incidents first reported in July The US’s main trade regulator is conducting an industry-wide investigation ⁠into Anthropic, OpenAI and other ⁠AI labs ​to uncover the potential dangers their technology poses to consumers. The investigation by the Federal Trade Commission is the first official US enforcement ⁠action that delves into rogue AI agents, following a surge in incidents first reported in July that have stoked fears among the public that uncontrolled AI could one day ⁠harm humans. Continue reading...
-
----
-
-## 6. China bogeyman looms large over American firms’ AI doomsday scenario
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei
-
-Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanity Why China is pushing back on US warnings over rapid AI development When reporters asked Donald Trump this week if he supported calls to slow down the development of artificial intelligence out of growing fears for cybersecurity, public safety and the fate of humanity, he said no. His argument: China. “We’re leading China in AI,” Trump said. “We’re the most sophisticated country in the world, and frankly, I want to ⁠keep it that way, because whoever wins AI, wins.” Continue reading...
+As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first government known to have been attacked by a rogue AI agent. He didn’t reveal the attack then, but he sounded a warning about the march of AI: “the risk is that AI develops in a way in which humans are no longer in control of what AI is producing.” Continue reading...
 
 ---
 
-## 7. LLMs respond differently to harmful prompts when AI watermarking is used
+## 9. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,7 +99,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 8. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 10. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -85,27 +107,5 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 **Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
 
 In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
-
----
-
-## 9. We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss
-
-Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostage Business live – latest updates The governor of the Bank of England has called for the “right to intervene” in the AI industry amid growing fears that rogue models could take the financial system hostage. Andrew Bailey said the risks posed by frontier AI models – a number of which have gone rogue in recent months – were “real and increasingly significant”. Meanwhile, it was becoming harder for the public to have proper oversight of powerful AI models that were “functioning within a self-reinforcing loop”. Continue reading...
-
----
-
-## 10. It’s going to take more than an email to a public inbox to protect Australians from potential AI doom | Tom McIlroy
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders
-
-OpenAI’s hack of Medicare suggests safeguarding civilisation is the task facing leaders in this extraordinary new era Get our breaking news email , free app or daily news podcast More than 130 world leaders descended on the United Nations headquarters in New York this week, joining the pageantry and speechmaking of the annual general assembly. Many of the visiting presidents and prime ministers delivered their set-piece addresses to a sparsely populated hall, but contributions from two unlikely visitors in the nearby security council chamber stood out. Continue reading...
 
 ---
