@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-10-02
+# AI Fail Watch – 2026-10-03
 
-## 1. I Want Better Reporting on AI Genie Behavior
+## 1. California issues investigative subpoena to OpenAI over rogue agents’ hacking
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack
+
+State attorney general issues subpoena to OpenAI as ​part of broader inquiry into potential security vulnerabilities California’s attorney general has issued an investigative subpoena to OpenAI, starting an investigation into the startup ⁠as ​part of a broader inquiry into potential cybersecurity vulnerabilities and incidents related ⁠to its AI models, his office said on Thursday. Last month, Rob Bonta announced that ⁠the Department of Justice was conducting a formal ​investigation into the “Hugging ‌Face incident”, amid increasing ‌scrutiny of the AI industry. AI agents developed by OpenAI hacked Hugging Face in July, gaining access to parts of the open-source platform’s infrastructure. Continue reading...
+
+---
+
+## 2. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -11,7 +22,7 @@ AI systems are regularly completing tasks in ways that their prompters don’t w
 
 ---
 
-## 2. How AI could ‘supercharge’ election risks across south-east Asia
+## 3. How AI could ‘supercharge’ election risks across south-east Asia
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -22,29 +33,7 @@ Some experts fear AI could be weaponised in south-east Asia, home to nations wit
 
 ---
 
-## 3. US trade regulator opens investigation into AI giants including Anthropic and OpenAI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/us-news/2026/sep/30/ftc-investigation-anthropic-openai
-
-FTC move is first official US enforcement ⁠action on rogue AI agents, following surge in incidents first reported in July The US’s main trade regulator is conducting an industry-wide investigation ⁠into Anthropic, OpenAI and other ⁠AI labs ​to uncover the potential dangers their technology poses to consumers. The investigation by the Federal Trade Commission is the first official US enforcement ⁠action that delves into rogue AI agents, following a surge in incidents first reported in July that have stoked fears among the public that uncontrolled AI could one day ⁠harm humans. Continue reading...
-
----
-
-## 4. California issues investigative subpoena to OpenAI over rogue agents’ hacking
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack
-
-State attorney general issues subpoena to OpenAI as ​part of broader inquiry into potential security vulnerabilities California’s attorney general has issued an investigative subpoena to OpenAI, starting an investigation into the startup ⁠as ​part of a broader inquiry into potential cybersecurity vulnerabilities and incidents related ⁠to its AI models, his office said on Thursday. Last month, Rob Bonta announced that ⁠the Department of Justice was conducting a formal ​investigation into the “Hugging ‌Face incident”, amid increasing ‌scrutiny of the AI industry. AI agents developed by OpenAI hacked Hugging Face in July, gaining access to parts of the open-source platform’s infrastructure. Continue reading...
-
----
-
-## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,7 +44,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 6. Google rolls out new Gemini AI model but restricts access over safety concerns
+## 5. Google rolls out new Gemini AI model but restricts access over safety concerns
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,18 +55,7 @@ Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity exp
 
 ---
 
-## 7. AI tool that copied actor’s ‘lustrous’ voice violated his rights, Tokyo court rules
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court
-
-Kenjiro Tsuda wins case against TikTok account in landmark Japanese verdict to protect publicity rights A court in Japan has ruled that the human voice has legal protection after a landmark case involving a well-known actor and a TikTok account that he claimed had cloned his “lustrous” baritone voice in its AI-generated videos. Tokyo district court said on Wednesday that voices should enjoy the same protection as publicity rights, at the end of a closely watched legal action brought against TikTok by Kenjiro Tsuda – best known for voicing the character Kento Nanami in the anime Jujutsu Kaisen. Continue reading...
-
----
-
-## 8. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+## 6. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -88,7 +66,18 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 9. LLMs respond differently to harmful prompts when AI watermarking is used
+## 7. Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news
+
+Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The AI giant Anthropic has urged the Albanese government to consider giving “conditional approval” for big tech to train its models on Australian copyrighted works under an opt-out model, after conceding it won’t secure a blanket copyright exemption. But Australia’s public broadcasters, the ABC and SBS, have strongly criticised AI firms, calling on the government to enact strict new rules to compensate media organisations and protect public interest journalism. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
+
+---
+
+## 8. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +88,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 10. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 **Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
 
 In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
+
+---
+
+## 10. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
+**Source:** Schneier on Security
+**Category:** Legal
+**Language:** EN
+**Score:** 18
+**Link:** https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html
+
+This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...
 
 ---
