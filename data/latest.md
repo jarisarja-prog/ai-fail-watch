@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-10-03
+# AI Fail Watch – 2026-10-04
 
-## 1. California issues investigative subpoena to OpenAI over rogue agents’ hacking
+## 1. Ännu en AI-topp hoppar av: Larm om brister i säkerheten
+**Source:** Ekot
+**Category:** General
+**Language:** EN
+**Score:** 27
+**Link:** https://www.sverigesradio.se/artikel/9312718
+
+OpenAI:s tidigare säkerhetsansvarige David Robinson varnar för brister i säkerhetsarbetet och säger upp sig, samtidigt som fler tunga namn larmar om AI-risker. Att David Robinson nu sällar sig till den grupp av högt uppsatta personer som kritiserar AI, pekar på en tydlig trend, enligt AI-riskexperten Johan Falk. I sin kritik pekar David Robinson bland annat på risker för cyberattacker och störningar i samhällsviktiga system.
+
+---
+
+## 2. California issues investigative subpoena to OpenAI over rogue agents’ hacking
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -11,7 +22,7 @@ State attorney general issues subpoena to OpenAI as ​part of broader inquiry i
 
 ---
 
-## 2. I Want Better Reporting on AI Genie Behavior
+## 3. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -19,17 +30,6 @@ State attorney general issues subpoena to OpenAI as ​part of broader inquiry i
 **Link:** https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html
 
 AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I’ve been calling “ genie behavior ,” because I think that really gets at the core of what’s happening. I wish the popular press would report on this better. I don’t like the “going rogue” framing because it deflects the responsibility from the prompters—often the AI companies themselves. And now, pretty much anything off-script is being called “hacking.” Take, for example, the recent stories of one of OpenAI’s models hacking into government systems. First, ...
-
----
-
-## 3. How AI could ‘supercharge’ election risks across south-east Asia
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia
-
-Some experts fear AI could be weaponised in south-east Asia, home to nations with predominately young and hyper-connected populations Years ago it would have been an elaborate operation involving an army of cyber troops creating fake news websites, social media accounts and forged dossiers, all deployed to spread disinformation en masse. Now, all you need is AI. Continue reading...
 
 ---
 
