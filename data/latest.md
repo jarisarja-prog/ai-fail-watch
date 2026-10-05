@@ -1,28 +1,6 @@
-# AI Fail Watch – 2026-10-04
+# AI Fail Watch – 2026-10-05
 
-## 1. Ännu en AI-topp hoppar av: Larm om brister i säkerheten
-**Source:** Ekot
-**Category:** General
-**Language:** EN
-**Score:** 27
-**Link:** https://www.sverigesradio.se/artikel/9312718
-
-OpenAI:s tidigare säkerhetsansvarige David Robinson varnar för brister i säkerhetsarbetet och säger upp sig, samtidigt som fler tunga namn larmar om AI-risker. Att David Robinson nu sällar sig till den grupp av högt uppsatta personer som kritiserar AI, pekar på en tydlig trend, enligt AI-riskexperten Johan Falk. I sin kritik pekar David Robinson bland annat på risker för cyberattacker och störningar i samhällsviktiga system.
-
----
-
-## 2. California issues investigative subpoena to OpenAI over rogue agents’ hacking
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack
-
-State attorney general issues subpoena to OpenAI as ​part of broader inquiry into potential security vulnerabilities California’s attorney general has issued an investigative subpoena to OpenAI, starting an investigation into the startup ⁠as ​part of a broader inquiry into potential cybersecurity vulnerabilities and incidents related ⁠to its AI models, his office said on Thursday. Last month, Rob Bonta announced that ⁠the Department of Justice was conducting a formal ​investigation into the “Hugging ‌Face incident”, amid increasing ‌scrutiny of the AI industry. AI agents developed by OpenAI hacked Hugging Face in July, gaining access to parts of the open-source platform’s infrastructure. Continue reading...
-
----
-
-## 3. I Want Better Reporting on AI Genie Behavior
+## 1. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,7 +11,18 @@ AI systems are regularly completing tasks in ways that their prompters don’t w
 
 ---
 
-## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 2. Accept ‘bad things’ in return for benefits of AI, says Sam Altman
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks
+
+Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology. The chief executive of OpenAI cited hacks, scams and “other bad things that will happen” in an interview that sparked an instant backlash from critics of the big AI companies. His comments came after one of his company’s safety experts resigned , saying at the weekend that its “culture is broken”. Continue reading...
+
+---
+
+## 3. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -44,18 +33,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 5. Google rolls out new Gemini AI model but restricts access over safety concerns
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/oct/01/google-releases-gemini-model-restrictions
-
-Tech company releases Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers Google on Wednesday said it would withhold its most powerful artificial intelligence model from the public for now, releasing Gemini 4 Argon only to a vetted group of cybersecurity experts to avoid misuse by hackers. “Safely releasing frontier capabilities at this level requires a phased approach,” wrote Koray Kavukcuoglu, Google’s chief AI architect, in a blogpost announcing the model. Continue reading...
-
----
-
-## 6. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+## 4. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,18 +44,7 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 7. Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news
-
-Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The AI giant Anthropic has urged the Albanese government to consider giving “conditional approval” for big tech to train its models on Australian copyrighted works under an opt-out model, after conceding it won’t secure a blanket copyright exemption. But Australia’s public broadcasters, the ABC and SBS, have strongly criticised AI firms, calling on the government to enact strict new rules to compensate media organisations and protect public interest journalism. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
-
----
-
-## 8. LLMs respond differently to harmful prompts when AI watermarking is used
+## 5. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +55,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 6. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -99,7 +66,7 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 
 ---
 
-## 10. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
+## 7. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -107,5 +74,38 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 **Link:** https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html
 
 This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...
+
+---
+
+## 8. California’s new laws target workers’ biggest fear of AI taking their jobs
+**Source:** Technology | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection
+
+The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artificial intelligence could pave the way for broader workplace safeguards across the US as calls for regulating the technology mount. As the federal government goes hands-off on AI, California is taking the reins to address workers’ biggest fears. On Thursday, California governor Gavin Newsom signed a suite of new laws that ban bosses from relying entirely on AI to decide whether to fire workers, using it to predict employees’ emotional states or collecting neural data, meaning the information from electrical signals of someone’s brain or nerves. They also require companies to notify workers if layoffs were caused by AI and prohibit AI surveillance in workplace bathrooms. Continue reading...
+
+---
+
+## 9. Georgia holds emergency meeting on AI exposing voters’ secret ballots
+**Source:** Technology | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy
+
+A Princeton researcher found that publicly available election records could be combined with AI to link voters to their ballots When voters cast their ballots, their votes are supposed to remain secret: from their family, their neighbors, and the government. But what if artificial intelligence could make secret votes visible? Continue reading...
+
+---
+
+## 10. It’s going to take more than an email to a public inbox to protect Australians from potential AI doom | Tom McIlroy
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders
+
+OpenAI’s hack of Medicare suggests safeguarding civilisation is the task facing leaders in this extraordinary new era Get our breaking news email , free app or daily news podcast More than 130 world leaders descended on the United Nations headquarters in New York this week, joining the pageantry and speechmaking of the annual general assembly. Many of the visiting presidents and prime ministers delivered their set-piece addresses to a sparsely populated hall, but contributions from two unlikely visitors in the nearby security council chamber stood out. Continue reading...
 
 ---
