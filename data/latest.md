@@ -1,6 +1,39 @@
-# AI Fail Watch – 2026-10-05
+# AI Fail Watch – 2026-10-06
 
-## 1. I Want Better Reporting on AI Genie Behavior
+## 1. Misuse of AI is brands’ top reputational threat, new survey says
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation
+
+The findings come after warnings from tech leaders that AI placed in the wrong hands could trigger larger threats such as nuclear war or bioweaponry destruction Misusing artificial intelligence (AI) is the top threat to companies’ reputations – more so than being accused of putting children in the way of mental, emotional or physical harm and issues exposed by the US-Israel war on Iran, among other brand risks, according to a new survey of more than 150 public affairs leaders. Those findings in the new edition of the quarterly Reputation Risk Index, released on Tuesday, came on the heels of other perhaps more dire warnings from leading tech figures that AI in the wrong hands could precipitate existential threats on a mass scale such as nuclear war or destruction by bioweaponry. Continue reading...
+
+---
+
+## 2. Trump makes it clear his power is becoming entwined with AI
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape
+
+New alliances between the White House, the Pentagon, US intelligence and AI companies are looming ominously Hello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we’re discussing technocracy. OpenAI safety leader quits, warning AI company’s culture is ‘broken’ Forget ‘superintelligence’: error-prone AI nearly sparked world war three this month AI chatbots remove hijabs from images of Muslim women when prompted Google rolls out new Gemini AI model but restricts access over safety concerns California issues investigative subpoena to OpenAI over rogue agents’ hacking The AI industry is booming. Women are getting left behind ‘Elon is my prophet’: how Musk’s Doge team took a wrecking ball to Washington Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’ Georgia holds emergency meeting on AI exposing voters’ secret ballots Peter Thiel revealed as secret buyer of Bel Air mansion that sold for $130m New Google Maps images reveal massive scale of devastation in Gaza Continue reading...
+
+---
+
+## 3. Anthropic says AI agents didn’t breach Australian government websites – video
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video
+
+During a joint parliamentary hearing on artificial intelligence, Anthropic’s head of safeguards, Dave Orr, says that investigations of hundreds of millions of transcripts reveal no unauthorised interactions with Australian government systems. However, Orr acknowledges Anthropic has limited visibility into customer usage due to standard ‘zero data retention’ policies Anthropic tells AI inquiry it ‘never tried to dictate’ Australian copyright rules Continue reading...
+
+---
+
+## 4. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -11,7 +44,7 @@ AI systems are regularly completing tasks in ways that their prompters don’t w
 
 ---
 
-## 2. Accept ‘bad things’ in return for benefits of AI, says Sam Altman
+## 5. Accept ‘bad things’ in return for benefits of AI, says Sam Altman
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +55,7 @@ Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff�
 
 ---
 
-## 3. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 6. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -33,7 +66,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 4. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+## 7. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +77,7 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 5. LLMs respond differently to harmful prompts when AI watermarking is used
+## 8. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +88,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 6. OpenAI agents discussed ways to escape their sandbox on public wiki
+## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,46 +99,13 @@ In all, 3,700 internal agents posted 18,000 messages discussing cheating on a te
 
 ---
 
-## 7. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
-**Source:** Schneier on Security
+## 10. OpenAI has ‘work to do to rebuild trust’ in Australia, executive tells AI inquiry
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 18
-**Link:** https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html
+**Link:** https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon
 
-This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...
-
----
-
-## 8. California’s new laws target workers’ biggest fear of AI taking their jobs
-**Source:** Technology | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection
-
-The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artificial intelligence could pave the way for broader workplace safeguards across the US as calls for regulating the technology mount. As the federal government goes hands-off on AI, California is taking the reins to address workers’ biggest fears. On Thursday, California governor Gavin Newsom signed a suite of new laws that ban bosses from relying entirely on AI to decide whether to fire workers, using it to predict employees’ emotional states or collecting neural data, meaning the information from electrical signals of someone’s brain or nerves. They also require companies to notify workers if layoffs were caused by AI and prohibit AI surveillance in workplace bathrooms. Continue reading...
-
----
-
-## 9. Georgia holds emergency meeting on AI exposing voters’ secret ballots
-**Source:** Technology | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy
-
-A Princeton researcher found that publicly available election records could be combined with AI to link voters to their ballots When voters cast their ballots, their votes are supposed to remain secret: from their family, their neighbors, and the government. But what if artificial intelligence could make secret votes visible? Continue reading...
-
----
-
-## 10. It’s going to take more than an email to a public inbox to protect Australians from potential AI doom | Tom McIlroy
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders
-
-OpenAI’s hack of Medicare suggests safeguarding civilisation is the task facing leaders in this extraordinary new era Get our breaking news email , free app or daily news podcast More than 130 world leaders descended on the United Nations headquarters in New York this week, joining the pageantry and speechmaking of the annual general assembly. Many of the visiting presidents and prime ministers delivered their set-piece addresses to a sparsely populated hall, but contributions from two unlikely visitors in the nearby security council chamber stood out. Continue reading...
+Anthropic tells inquiry it ‘never tried to dictate’ Australian copyright rules as the ABC says copyright laws do not need changing Get our breaking news email , free app or daily news podcast OpenAI has used an appearance before a parliamentary inquiry on AI to apologise again to Australia about the hack on Medicare last month, as media and entertainment organisations argued weakening copyright law for AI model training would leave artists as “roadkill”. Meanwhile Anthropic told the inquiry it was not seeking to dictate copyright law on model training, but the current rules made it “impossible” to train AI in Australia. Continue reading...
 
 ---
