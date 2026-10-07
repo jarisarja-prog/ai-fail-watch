@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-10-06
+# AI Fail Watch – 2026-10-07
 
-## 1. Misuse of AI is brands’ top reputational threat, new survey says
+## 1. Trump makes it clear his power is becoming entwined with AI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 29
+**Link:** https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape
+
+New alliances between the White House, the Pentagon, US intelligence and AI companies are looming ominously Hello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we’re discussing technocracy. OpenAI safety leader quits, warning AI company’s culture is ‘broken’ Forget ‘superintelligence’: error-prone AI nearly sparked world war three this month AI chatbots remove hijabs from images of Muslim women when prompted Google rolls out new Gemini AI model but restricts access over safety concerns California issues investigative subpoena to OpenAI over rogue agents’ hacking The AI industry is booming. Women are getting left behind ‘Elon is my prophet’: how Musk’s Doge team took a wrecking ball to Washington Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’ Georgia holds emergency meeting on AI exposing voters’ secret ballots Peter Thiel revealed as secret buyer of Bel Air mansion that sold for $130m New Google Maps images reveal massive scale of devastation in Gaza Continue reading...
+
+---
+
+## 2. Misuse of AI is brands’ top reputational threat, new survey says
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -11,29 +22,7 @@ The findings come after warnings from tech leaders that AI placed in the wrong h
 
 ---
 
-## 2. Trump makes it clear his power is becoming entwined with AI
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape
-
-New alliances between the White House, the Pentagon, US intelligence and AI companies are looming ominously Hello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we’re discussing technocracy. OpenAI safety leader quits, warning AI company’s culture is ‘broken’ Forget ‘superintelligence’: error-prone AI nearly sparked world war three this month AI chatbots remove hijabs from images of Muslim women when prompted Google rolls out new Gemini AI model but restricts access over safety concerns California issues investigative subpoena to OpenAI over rogue agents’ hacking The AI industry is booming. Women are getting left behind ‘Elon is my prophet’: how Musk’s Doge team took a wrecking ball to Washington Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’ Georgia holds emergency meeting on AI exposing voters’ secret ballots Peter Thiel revealed as secret buyer of Bel Air mansion that sold for $130m New Google Maps images reveal massive scale of devastation in Gaza Continue reading...
-
----
-
-## 3. Anthropic says AI agents didn’t breach Australian government websites – video
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video
-
-During a joint parliamentary hearing on artificial intelligence, Anthropic’s head of safeguards, Dave Orr, says that investigations of hundreds of millions of transcripts reveal no unauthorised interactions with Australian government systems. However, Orr acknowledges Anthropic has limited visibility into customer usage due to standard ‘zero data retention’ policies Anthropic tells AI inquiry it ‘never tried to dictate’ Australian copyright rules Continue reading...
-
----
-
-## 4. I Want Better Reporting on AI Genie Behavior
+## 3. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,18 +33,18 @@ AI systems are regularly completing tasks in ways that their prompters don’t w
 
 ---
 
-## 5. Accept ‘bad things’ in return for benefits of AI, says Sam Altman
-**Source:** Technology | The Guardian
-**Category:** General
+## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
 **Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks
+**Score:** 21
+**Link:** https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/
 
-Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology. The chief executive of OpenAI cited hacks, scams and “other bad things that will happen” in an interview that sparked an instant backlash from critics of the big AI companies. His comments came after one of his company’s safety experts resigned , saying at the weekend that its “culture is broken”. Continue reading...
+The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 6. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -63,6 +52,17 @@ Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff�
 **Link:** https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation
 
 US vice-president’s comments come as former Anthropic researcher revisits recent claim AI could destroy humanity The US vice-president has dismissed calls for global regulation of AI safety risks, telling companies creating the most advanced models: “If you’re building Frankenstein, stop.” In remarks addressed towards Dario Amodei, the co-founder of Anthropic who has called on Washington DC to coordinate control of AI systems , including with China, JD Vance said: “If you’re gonna create Frankenstein, don’t come to the government and say we need regulation.” Continue reading...
+
+---
+
+## 6. McDonald’s sued for allegedly using AI tool to determine pricing for franchises
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit
+
+Suit says AI tool allows independently owned franchises to exchange nonpublic price and sales information McDonald’s is facing a lawsuit in federal court over its alleged use of an AI tool to determine pricing across independent franchises, which prosecutors say violates antitrust laws and has unfairly inflated menu prices for Americans. The vast majority of McDonald’s US stores are independently owned and are said to individually decide on prices under company policy. Antitrust laws require businesses to set prices independently from their competitors, as coordinating prices can stifle market competition and push up costs for consumers. Continue reading...
 
 ---
 
@@ -88,24 +88,24 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 9. OpenAI agents discussed ways to escape their sandbox on public wiki
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/
-
-In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.
-
----
-
-## 10. OpenAI has ‘work to do to rebuild trust’ in Australia, executive tells AI inquiry
-**Source:** AI (artificial intelligence) | The Guardian
+## 9. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
+**Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
 **Score:** 18
-**Link:** https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon
+**Link:** https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html
 
-Anthropic tells inquiry it ‘never tried to dictate’ Australian copyright rules as the ABC says copyright laws do not need changing Get our breaking news email , free app or daily news podcast OpenAI has used an appearance before a parliamentary inquiry on AI to apologise again to Australia about the hack on Medicare last month, as media and entertainment organisations argued weakening copyright law for AI model training would leave artists as “roadkill”. Meanwhile Anthropic told the inquiry it was not seeking to dictate copyright law on model training, but the current rules made it “impossible” to train AI in Australia. Continue reading...
+This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...
+
+---
+
+## 10. Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia
+
+Commissioner says Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based software company behind the HeyCyan app in Kmart’s $89 smartglasses, following public outrage over the covert use of the devices. In August, Guardian Australia reported Kmart had sold out of the Anko-branded discount version of Meta’s smartglasses that can capture images and record high-definition video, which led to widespread concern and calls to ban or restrict their use. Continue reading...
 
 ---
