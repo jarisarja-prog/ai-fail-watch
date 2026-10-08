@@ -1,28 +1,6 @@
-# AI Fail Watch – 2026-10-07
+# AI Fail Watch – 2026-10-08
 
-## 1. Trump makes it clear his power is becoming entwined with AI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape
-
-New alliances between the White House, the Pentagon, US intelligence and AI companies are looming ominously Hello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you as I sit under yellowing leaves in New York. Today in tech, we’re discussing technocracy. OpenAI safety leader quits, warning AI company’s culture is ‘broken’ Forget ‘superintelligence’: error-prone AI nearly sparked world war three this month AI chatbots remove hijabs from images of Muslim women when prompted Google rolls out new Gemini AI model but restricts access over safety concerns California issues investigative subpoena to OpenAI over rogue agents’ hacking The AI industry is booming. Women are getting left behind ‘Elon is my prophet’: how Musk’s Doge team took a wrecking ball to Washington Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’ Georgia holds emergency meeting on AI exposing voters’ secret ballots Peter Thiel revealed as secret buyer of Bel Air mansion that sold for $130m New Google Maps images reveal massive scale of devastation in Gaza Continue reading...
-
----
-
-## 2. Misuse of AI is brands’ top reputational threat, new survey says
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/oct/06/ai-misuse-brand-reputation
-
-The findings come after warnings from tech leaders that AI placed in the wrong hands could trigger larger threats such as nuclear war or bioweaponry destruction Misusing artificial intelligence (AI) is the top threat to companies’ reputations – more so than being accused of putting children in the way of mental, emotional or physical harm and issues exposed by the US-Israel war on Iran, among other brand risks, according to a new survey of more than 150 public affairs leaders. Those findings in the new edition of the quarterly Reputation Risk Index, released on Tuesday, came on the heels of other perhaps more dire warnings from leading tech figures that AI in the wrong hands could precipitate existential threats on a mass scale such as nuclear war or destruction by bioweaponry. Continue reading...
-
----
-
-## 3. I Want Better Reporting on AI Genie Behavior
+## 1. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,7 +11,7 @@ AI systems are regularly completing tasks in ways that their prompters don’t w
 
 ---
 
-## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 2. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +22,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 3. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,7 +33,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 6. McDonald’s sued for allegedly using AI tool to determine pricing for franchises
+## 4. McDonald’s sued for allegedly using AI tool to determine pricing for franchises
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,7 +44,7 @@ Suit says AI tool allows independently owned franchises to exchange nonpublic pr
 
 ---
 
-## 7. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+## 5. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +55,7 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 8. LLMs respond differently to harmful prompts when AI watermarking is used
+## 6. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +66,18 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 9. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
+## 7. Can you trust Meta’s Muse or OpenAI’s Dots to run your life?
+**Source:** The Verge
+**Category:** Privacy
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free
+
+My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier […]
+
+---
+
+## 8. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -99,7 +88,7 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 
 ---
 
-## 10. Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app
+## 9. Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -107,5 +96,16 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 **Link:** https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia
 
 Commissioner says Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based software company behind the HeyCyan app in Kmart’s $89 smartglasses, following public outrage over the covert use of the devices. In August, Guardian Australia reported Kmart had sold out of the Anko-branded discount version of Meta’s smartglasses that can capture images and record high-definition video, which led to widespread concern and calls to ban or restrict their use. Continue reading...
+
+---
+
+## 10. California’s new laws target workers’ biggest fear of AI taking their jobs
+**Source:** Technology | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection
+
+The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artificial intelligence could pave the way for broader workplace safeguards across the US as calls for regulating the technology mount. As the federal government goes hands-off on AI, California is taking the reins to address workers’ biggest fears. On Thursday, California governor Gavin Newsom signed a suite of new laws that ban bosses from relying entirely on AI to decide whether to fire workers, using it to predict employees’ emotional states or collecting neural data, meaning the information from electrical signals of someone’s brain or nerves. They also require companies to notify workers if layoffs were caused by AI and prohibit AI surveillance in workplace bathrooms. Continue reading...
 
 ---
