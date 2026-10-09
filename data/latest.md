@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-08
+# AI Fail Watch – 2026-10-09
 
 ## 1. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
@@ -33,18 +33,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 4. McDonald’s sued for allegedly using AI tool to determine pricing for franchises
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit
-
-Suit says AI tool allows independently owned franchises to exchange nonpublic price and sales information McDonald’s is facing a lawsuit in federal court over its alleged use of an AI tool to determine pricing across independent franchises, which prosecutors say violates antitrust laws and has unfairly inflated menu prices for Americans. The vast majority of McDonald’s US stores are independently owned and are said to individually decide on prices under company policy. Antitrust laws require businesses to set prices independently from their competitors, as coordinating prices can stifle market competition and push up costs for consumers. Continue reading...
-
----
-
-## 5. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+## 4. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -55,7 +44,7 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 6. LLMs respond differently to harmful prompts when AI watermarking is used
+## 5. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,18 +55,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 7. Can you trust Meta’s Muse or OpenAI’s Dots to run your life?
-**Source:** The Verge
-**Category:** Privacy
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free
-
-My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI enthusiasts have been using agents for a minute now — homebrew OpenClaw setups led to a surge in Mac Mini sales earlier […]
-
----
-
-## 8. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
+## 6. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -88,18 +66,29 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 
 ---
 
-## 9. Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+## 7. OpenAI doubles down on decision to fire three AI safety researchers
+**Source:** The Verge
+**Category:** Security
 **Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia
+**Score:** 17
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers
 
-Commissioner says Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based software company behind the HeyCyan app in Kmart’s $89 smartglasses, following public outrage over the covert use of the devices. In August, Guardian Australia reported Kmart had sold out of the Anko-branded discount version of Meta’s smartglasses that can capture images and record high-definition video, which led to widespread concern and calls to ban or restrict their use. Continue reading...
+OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed "a significant breach of trust." In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating "clear policies on handling sensitive information." It insisted the decision was […]
 
 ---
 
-## 10. California’s new laws target workers’ biggest fear of AI taking their jobs
+## 8. Anthropic launches free AI security scans for open-source projects
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner
+
+Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get "thorough, periodic security scans by our strongest models at no cost." That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]
+
+---
+
+## 9. California’s new laws target workers’ biggest fear of AI taking their jobs
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -107,5 +96,16 @@ Commissioner says Shenzhen Qingcheng, the app maker behind the HeyCyan app in th
 **Link:** https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection
 
 The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artificial intelligence could pave the way for broader workplace safeguards across the US as calls for regulating the technology mount. As the federal government goes hands-off on AI, California is taking the reins to address workers’ biggest fears. On Thursday, California governor Gavin Newsom signed a suite of new laws that ban bosses from relying entirely on AI to decide whether to fire workers, using it to predict employees’ emotional states or collecting neural data, meaning the information from electrical signals of someone’s brain or nerves. They also require companies to notify workers if layoffs were caused by AI and prohibit AI surveillance in workplace bathrooms. Continue reading...
+
+---
+
+## 10. ‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance
+
+Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive The Co-op has become the latest employer to place workers under AI surveillance with an automated listening technology that rates every phone call some of them make to customers. In a system described as “oppressive and dystopian” by a whistleblower, Co-op Legal Services is using AI models to record, analyse and award a percentage score for interactions between agents and customers seeking advice about probate, wills and estates. Continue reading...
 
 ---
