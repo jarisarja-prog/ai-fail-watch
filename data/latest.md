@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-09
+# AI Fail Watch – 2026-10-10
 
 ## 1. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
@@ -11,7 +11,18 @@ AI systems are regularly completing tasks in ways that their prompters don’t w
 
 ---
 
-## 2. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 2. AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/world/2026/oct/09/flock-job-cuts
+
+Company, which grown rapidly in recent years, has been under scrutiny as privacy concerns grow Flock Safety plans to shed about 18% of its employees, people with direct ⁠knowledge of the plans said on Thursday, as the maker of AI -powered surveillance cameras and license-plate readers faces mounting opposition to its products from communities and ⁠lawmakers. The people said the job ⁠cuts came after ​a voluntary buyout program and were expected to affect roughly 270 employees at Flock, a surveillance technology startup that has seen rapid growth in recent ⁠years. Employees will leave the company at the end of the month. Continue reading...
+
+---
+
+## 3. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -22,7 +33,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 3. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -33,7 +44,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 4. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
+## 5. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +55,18 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 5. LLMs respond differently to harmful prompts when AI watermarking is used
+## 6. AI agent makers are promising privacy — will they deliver?
+**Source:** The Verge
+**Category:** Privacy
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots
+
+At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI." OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]
+
+---
+
+## 7. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +77,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 6. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
+## 8. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -63,28 +85,6 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 **Link:** https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html
 
 This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...
-
----
-
-## 7. OpenAI doubles down on decision to fire three AI safety researchers
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers
-
-OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed "a significant breach of trust." In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating "clear policies on handling sensitive information." It insisted the decision was […]
-
----
-
-## 8. Anthropic launches free AI security scans for open-source projects
-**Source:** The Verge
-**Category:** Legal
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner
-
-Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get "thorough, periodic security scans by our strongest models at no cost." That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]
 
 ---
 
