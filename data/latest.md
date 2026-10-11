@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-10
+# AI Fail Watch – 2026-10-11
 
 ## 1. I Want Better Reporting on AI Genie Behavior
 **Source:** Schneier on Security
@@ -55,18 +55,7 @@ As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says 
 
 ---
 
-## 6. AI agent makers are promising privacy — will they deliver?
-**Source:** The Verge
-**Category:** Privacy
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots
-
-At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI." OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. […]
-
----
-
-## 7. LLMs respond differently to harmful prompts when AI watermarking is used
+## 6. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 8. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
+## 7. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -88,7 +77,7 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 
 ---
 
-## 9. California’s new laws target workers’ biggest fear of AI taking their jobs
+## 8. California’s new laws target workers’ biggest fear of AI taking their jobs
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -99,13 +88,24 @@ The state, which is home to many AI companies, is one of the first to roll out w
 
 ---
 
-## 10. ‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+## 9. Microsoft Plugs Nearly 1,000 Security Holes
+**Source:** Krebs on Security
+**Category:** Legal
 **Language:** EN
 **Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance
+**Link:** https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
 
-Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive The Co-op has become the latest employer to place workers under AI surveillance with an automated listening technology that rates every phone call some of them make to customers. In a system described as “oppressive and dystopian” by a whistleblower, Co-op Legal Services is using AI models to record, analyse and award a percentage score for interactions between agents and customers seeking advice about probate, wills and estates. Continue reading...
+Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.
+
+---
+
+## 10. Apple changes full-disk access permissions to curb abuse from AI agents
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/
+
+Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.
 
 ---
