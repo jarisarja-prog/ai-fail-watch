@@ -1,17 +1,28 @@
-# AI Fail Watch – 2026-10-11
+# AI Fail Watch – 2026-10-12
 
-## 1. I Want Better Reporting on AI Genie Behavior
-**Source:** Schneier on Security
+## 1. AI less regulated than milk, Microsoft president says in warning over safety
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 25
-**Link:** https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html
+**Score:** 29
+**Link:** https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules
 
-AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I’ve been calling “ genie behavior ,” because I think that really gets at the core of what’s happening. I wish the popular press would report on this better. I don’t like the “going rogue” framing because it deflects the responsibility from the prompters—often the AI companies themselves. And now, pretty much anything off-script is being called “hacking.” Take, for example, the recent stories of one of OpenAI’s models hacking into government systems. First, ...
+Brad Smith adds to calls for tougher rules for AI, including ‘kill switches’ and legal obligation to victims of rogue agents Business live – latest updates Artificial intelligence is less regulated than milk and washing machines, the president of Microsoft has said, as the tech industry warns over the safety of AI. Brad Smith said there should be more safety rules to govern the technology including a legal obligation to a “victim” if their system was breached by rogue AI agents. Continue reading...
 
 ---
 
-## 2. AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say
+## 2. Cyber-attack similar to OpenAI Medicare breach seems likely in UK, says minister
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister
+
+Kanishka Narayan, concerned by Australian incident, says British cyber defences could be bypassed by artificial intelligence agent UK politics live – latest updates An AI-driven cyber-attack similar to the OpenAI breach of Australia’s healthcare system is likely, “if not inevitable”, in the UK, according to a senior minister. Kanishka Narayan, the UK AI minister, indicated that the British government’s own cyber defences would be bypassed by a technology that has developed highly sophisticated skills in cybersecurity. Continue reading...
+
+---
+
+## 3. AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -22,7 +33,7 @@ Company, which grown rapidly in recent years, has been under scrutiny as privacy
 
 ---
 
-## 3. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -41,17 +52,6 @@ The reports of OpenAI agents harming third-party sites keep coming.
 **Link:** https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation
 
 US vice-president’s comments come as former Anthropic researcher revisits recent claim AI could destroy humanity The US vice-president has dismissed calls for global regulation of AI safety risks, telling companies creating the most advanced models: “If you’re building Frankenstein, stop.” In remarks addressed towards Dario Amodei, the co-founder of Anthropic who has called on Washington DC to coordinate control of AI systems , including with China, JD Vance said: “If you’re gonna create Frankenstein, don’t come to the government and say we need regulation.” Continue reading...
-
----
-
-## 5. OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence
-
-As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first government known to have been attacked by a rogue AI agent. He didn’t reveal the attack then, but he sounded a warning about the march of AI: “the risk is that AI develops in a way in which humans are no longer in control of what AI is producing.” Continue reading...
 
 ---
 
