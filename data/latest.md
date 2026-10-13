@@ -1,7 +1,7 @@
-# AI Fail Watch – 2026-10-12
+# AI Fail Watch – 2026-10-13
 
 ## 1. AI less regulated than milk, Microsoft president says in warning over safety
-**Source:** Technology | The Guardian
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 29
@@ -22,18 +22,7 @@ Kanishka Narayan, concerned by Australian incident, says British cyber defences 
 
 ---
 
-## 3. AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/world/2026/oct/09/flock-job-cuts
-
-Company, which grown rapidly in recent years, has been under scrutiny as privacy concerns grow Flock Safety plans to shed about 18% of its employees, people with direct ⁠knowledge of the plans said on Thursday, as the maker of AI -powered surveillance cameras and license-plate readers faces mounting opposition to its products from communities and ⁠lawmakers. The people said the job ⁠cuts came after ​a voluntary buyout program and were expected to affect roughly 270 employees at Flock, a surveillance technology startup that has seen rapid growth in recent ⁠years. Employees will leave the company at the end of the month. Continue reading...
-
----
-
-## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 3. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,7 +44,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 6. LLMs respond differently to harmful prompts when AI watermarking is used
+## 5. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -63,6 +52,17 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 **Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
 
 SynthID can cause models to follow harmful instructions they would otherwise refuse.
+
+---
+
+## 6. Threat of AI share crash puts world financial stability at risk, says IMF
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
+
+High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”. Continue reading...
 
 ---
 
@@ -77,7 +77,18 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 
 ---
 
-## 8. California’s new laws target workers’ biggest fear of AI taking their jobs
+## 8. Employees all over the world find themselves monitored by AI at work
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace
+
+The latest example of workers under surveillance comes from Co-op, a British consumer co-operative that runs thousands of businesses This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you while moving laundry from the washer to the dryer, wishing a robot could do the task for me. Today in tech, we’re talking about workers and AI. Continue reading...
+
+---
+
+## 9. California’s new laws target workers’ biggest fear of AI taking their jobs
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -88,7 +99,7 @@ The state, which is home to many AI companies, is one of the first to roll out w
 
 ---
 
-## 9. Microsoft Plugs Nearly 1,000 Security Holes
+## 10. Microsoft Plugs Nearly 1,000 Security Holes
 **Source:** Krebs on Security
 **Category:** Legal
 **Language:** EN
@@ -96,16 +107,5 @@ The state, which is home to many AI companies, is one of the first to roll out w
 **Link:** https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
 
 Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.
-
----
-
-## 10. Apple changes full-disk access permissions to curb abuse from AI agents
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 14
-**Link:** https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/
-
-Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.
 
 ---
