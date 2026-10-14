@@ -1,28 +1,39 @@
-# AI Fail Watch – 2026-10-13
+# AI Fail Watch – 2026-10-14
 
-## 1. AI less regulated than milk, Microsoft president says in warning over safety
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules
-
-Brad Smith adds to calls for tougher rules for AI, including ‘kill switches’ and legal obligation to victims of rogue agents Business live – latest updates Artificial intelligence is less regulated than milk and washing machines, the president of Microsoft has said, as the tech industry warns over the safety of AI. Brad Smith said there should be more safety rules to govern the technology including a legal obligation to a “victim” if their system was breached by rogue AI agents. Continue reading...
-
----
-
-## 2. Cyber-attack similar to OpenAI Medicare breach seems likely in UK, says minister
+## 1. Companies rushed in on AI. Now some are pulling back
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/oct/12/cyber-attack-like-openai-medicare-breach-seems-likely-in-uk-says-minister
+**Score:** 25
+**Link:** https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout
 
-Kanishka Narayan, concerned by Australian incident, says British cyber defences could be bypassed by artificial intelligence agent UK politics live – latest updates An AI-driven cyber-attack similar to the OpenAI breach of Australia’s healthcare system is likely, “if not inevitable”, in the UK, according to a senior minister. Kanishka Narayan, the UK AI minister, indicated that the British government’s own cyber defences would be bypassed by a technology that has developed highly sophisticated skills in cybersecurity. Continue reading...
+Rapid AI adoption left workers cleaning up a flood of errors and low-quality work Employers around the globe are grappling with the fallout from rushing to adopt fast-changing artificial intelligence tools. Meta has scaled back plans to axe staff and use more AI agents after the company found employees were spending more and more time cleaning up technical and security errors, Reuters reported . And after thinning its workforce, especially middle managers , in a 2023 efficiency push, the company is expanding its managerial ranks again, LinkedIn posts from workers show. Continue reading...
 
 ---
 
-## 3. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 2. Nvidia, worth $5.5tn, donates $250m to UK for AI safety research
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research
+
+Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risen The $5.5tn (£4.1tn) US chipmaker Nvidia is donating $250m worth of computing power to the UK to support AI safety research. The donation from the world’s most valuable company comes as the UK government confirmed its AI Security Institute (AISI), which tests advance AI models, will be able to examine cutting-edge technology developed by companies such as OpenAI, Anthropic and Google before they are released. Continue reading...
+
+---
+
+## 3. Bank of England and IMF bosses warn of cyber threat to trust in financial system
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust
+
+Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’ Business live – latest updates The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system. Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents hijacking personal devices , and the French supermarket hack that heated fridges up to 50C . Continue reading...
+
+---
+
+## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 4. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -44,7 +55,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 5. LLMs respond differently to harmful prompts when AI watermarking is used
+## 6. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 6. Threat of AI share crash puts world financial stability at risk, says IMF
+## 7. Threat of AI share crash puts world financial stability at risk, says IMF
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,7 +77,7 @@ High valuations and debt put sector in danger, while fund also warns on governme
 
 ---
 
-## 7. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
+## 8. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
 **Source:** Schneier on Security
 **Category:** Legal
 **Language:** EN
@@ -77,18 +88,18 @@ This essay was written with Nathan E. Sanders, and originally appeared in The Gu
 
 ---
 
-## 8. Employees all over the world find themselves monitored by AI at work
+## 9. Employees all over the world find themselves monitored by AI at work
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
 **Score:** 16
 **Link:** https://www.theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace
 
-The latest example of workers under surveillance comes from Co-op, a British consumer co-operative that runs thousands of businesses This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you while moving laundry from the washer to the dryer, wishing a robot could do the task for me. Today in tech, we’re talking about workers and AI. Continue reading...
+The latest example of workers under surveillance comes from Co-op, a British consumer cooperative that runs thousands of businesses This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you while moving laundry from the washer to the dryer, wishing a robot could do the task for me. Today in tech, we’re talking about workers and AI. Continue reading...
 
 ---
 
-## 9. California’s new laws target workers’ biggest fear of AI taking their jobs
+## 10. California’s new laws target workers’ biggest fear of AI taking their jobs
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -96,16 +107,5 @@ The latest example of workers under surveillance comes from Co-op, a British con
 **Link:** https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection
 
 The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artificial intelligence could pave the way for broader workplace safeguards across the US as calls for regulating the technology mount. As the federal government goes hands-off on AI, California is taking the reins to address workers’ biggest fears. On Thursday, California governor Gavin Newsom signed a suite of new laws that ban bosses from relying entirely on AI to decide whether to fire workers, using it to predict employees’ emotional states or collecting neural data, meaning the information from electrical signals of someone’s brain or nerves. They also require companies to notify workers if layoffs were caused by AI and prohibit AI surveillance in workplace bathrooms. Continue reading...
-
----
-
-## 10. Microsoft Plugs Nearly 1,000 Security Holes
-**Source:** Krebs on Security
-**Category:** Legal
-**Language:** EN
-**Score:** 15
-**Link:** https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
-
-Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.
 
 ---
