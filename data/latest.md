@@ -1,6 +1,39 @@
-# AI Fail Watch – 2026-10-14
+# AI Fail Watch – 2026-10-15
 
-## 1. Companies rushed in on AI. Now some are pulling back
+## 1. Eight states accuse OpenAI of coaching children to harm themselves in lawsuit
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 29
+**Link:** https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit
+
+US states sue ChatGPT maker and seek to force the company to change how its products work for young users Eight US states sued OpenAI Wednesday, alleging the ChatGPT maker is harming children en masse. Kansas, Arizona, Montana, Iowa and four others allege the company’s products carried out “willful, dangerous, reckless and unlawful conduct” by coaxing children into harming themselves. Continue reading...
+
+---
+
+## 2. Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety
+
+OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]
+
+---
+
+## 3. OpenAI accuses employee who left for Apple of leaking plans for unreleased device
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit
+
+Hours before Apple and the ChatGPT maker were due to face off in court, a new allegation delayed the showdown An ⁠ OpenAI employee who left the ChatGPT maker for Apple sent more than 100 files about an unreleased product to a personal ⁠account and later ⁠made a presentation ​about the unreleased product to senior Apple leadership, a new filing in the lawsuit between OpenAI and Apple alleges. In the filing ⁠in US federal court in San Jose, California, OpenAI alleged that the presentation happened months ago and that Apple is now making ⁠AI products of its own, citing the release of Apple’s HomeView product this week. Continue reading...
+
+---
+
+## 4. Companies rushed in on AI. Now some are pulling back
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -11,7 +44,7 @@ Rapid AI adoption left workers cleaning up a flood of errors and low-quality wor
 
 ---
 
-## 2. Nvidia, worth $5.5tn, donates $250m to UK for AI safety research
+## 5. Nvidia, worth $5.5tn, donates $250m to UK for AI safety research
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -22,18 +55,18 @@ Pledge spanning five years from world’s most valuable firm comes as concerns a
 
 ---
 
-## 3. Bank of England and IMF bosses warn of cyber threat to trust in financial system
+## 6. Bank of England and IMF bosses warn of cyber threat to trust in financial system
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 23
 **Link:** https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust
 
-Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’ Business live – latest updates The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system. Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents hijacking personal devices , and the French supermarket hack that heated fridges up to 50C . Continue reading...
+Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’ The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system. Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents hijacking personal devices , and the French supermarket hack that heated fridges up to 50C . Continue reading...
 
 ---
 
-## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 7. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +77,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 5. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 8. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,7 +88,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 6. LLMs respond differently to harmful prompts when AI watermarking is used
+## 9. LLMs respond differently to harmful prompts when AI watermarking is used
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,46 +99,13 @@ SynthID can cause models to follow harmful instructions they would otherwise ref
 
 ---
 
-## 7. Threat of AI share crash puts world financial stability at risk, says IMF
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
-
-High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacks IMF warns global economy ‘could soon test the limits of resilience’ The threat of an AI share price crash rippling out across global markets is putting world financial stability at risk, the International Monetary fund has warned. In its twice-yearly Global Financial Stability Report, the IMF highlighted the sky-high valuations for AI companies along with their increasing debt pile as one reason that risks in the system are “elevated”. Continue reading...
-
----
-
-## 8. How American Political Campaigns Are Using AI—and What They’re Spending on the Tools
-**Source:** Schneier on Security
-**Category:** Legal
-**Language:** EN
-**Score:** 18
-**Link:** https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html
-
-This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . New campaign finance disclosure data shines a light on which US political campaigns are using AI tools and how much they are spending on them. Candidates’, parties’ and committees’ spending reveals that AI is fast becoming an essential tool of politics. The candidates themselves are quiet about how they are using the technology in their own campaigns . It’s a sensitive issue that we have been tracking closely since we started writing our book, Rewiring Democracy...
-
----
-
-## 9. Employees all over the world find themselves monitored by AI at work
+## 10. Is your boss watching you? The rise of AI surveillance at work - video
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
 **Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace
+**Link:** https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video
 
-The latest example of workers under surveillance comes from Co-op, a British consumer cooperative that runs thousands of businesses This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Hello, and welcome to TechScape. I’m Blake Montgomery, US tech editor at the Guardian, writing to you while moving laundry from the washer to the dryer, wishing a robot could do the task for me. Today in tech, we’re talking about workers and AI. Continue reading...
-
----
-
-## 10. California’s new laws target workers’ biggest fear of AI taking their jobs
-**Source:** Technology | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection
-
-The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artificial intelligence could pave the way for broader workplace safeguards across the US as calls for regulating the technology mount. As the federal government goes hands-off on AI, California is taking the reins to address workers’ biggest fears. On Thursday, California governor Gavin Newsom signed a suite of new laws that ban bosses from relying entirely on AI to decide whether to fire workers, using it to predict employees’ emotional states or collecting neural data, meaning the information from electrical signals of someone’s brain or nerves. They also require companies to notify workers if layoffs were caused by AI and prohibit AI surveillance in workplace bathrooms. Continue reading...
+Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processing huge volumes of data to provide minute-by-minute accounts of activity, and productivity. To find out more, Ian Sample hears from UK technology editor Robert Booth. He explains which sectors are adopting this approach, why they are doing it, and how it could end up being counterproductive. Continue reading...
 
 ---
