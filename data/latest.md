@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-15
+# AI Fail Watch – 2026-10-16
 
 ## 1. Eight states accuse OpenAI of coaching children to harm themselves in lawsuit
 **Source:** Technology | The Guardian
@@ -11,14 +11,14 @@ US states sue ChatGPT maker and seek to force the company to change how its prod
 
 ---
 
-## 2. Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids
-**Source:** The Verge
+## 2. Bank of England and IMF bosses warn of cyber threat to trust in financial system
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 27
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety
+**Link:** https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust
 
-OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]
+Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’ The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system. Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents hijacking personal devices , and the French supermarket hack that heated fridges up to 50C . Continue reading...
 
 ---
 
@@ -55,18 +55,7 @@ Pledge spanning five years from world’s most valuable firm comes as concerns a
 
 ---
 
-## 6. Bank of England and IMF bosses warn of cyber threat to trust in financial system
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust
-
-Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’ The heads of the Bank of England and the International Monetary Fund have issued a stark warning that rising cyber-attacks risk undermining trust in the financial system. Speaking on a panel about online fraud at the IMF and World Bank meetings in Bangkok, the governor of the Bank of England, Andrew Bailey, pointed to alarming headlines about self-replicating AI agents hijacking personal devices , and the French supermarket hack that heated fridges up to 50C . Continue reading...
-
----
-
-## 7. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 6. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 8. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 7. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -88,14 +77,25 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 9. LLMs respond differently to harmful prompts when AI watermarking is used
-**Source:** Biz & IT - Ars Technica
+## 8. Measuring Human Cryptanalysis Effort
+**Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
-**Score:** 18
-**Link:** https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/
+**Score:** 21
+**Link:** https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html
 
-SynthID can cause models to follow harmful instructions they would otherwise refuse.
+Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand candidate papers we classify cryptanalytic work on ECDLP, structured and plain lattices, syndrome decoding and their comparators, then convert papers into estimated research-allocation years through a person-level author map. These publication-based estimates may substantially overstate actual time spent. Lattices have overtaken elliptic curves in this cumulative measure only recently; we express that history as inference budgets under stated productivity assumptions. The study was conducted by AI models: Claude Fable 5.1 and Claude Opus 5.5 built the pipeline, ran the analysis and wrote this page, with contributions from GPT-6 Astra. Matthew Green set the questions, made the key methodological decisions and oversaw the work...
+
+---
+
+## 9. Backdooring Open-Weight AI Models
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 19
+**Link:** https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html
+
+This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people upload a model to Hugging Face, where you’ll find abliterated builds of most of the popular open weights: Qwen, Llama, even OpenAI’s gpt-oss...
 
 ---
 
