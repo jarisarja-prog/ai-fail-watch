@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-17
+# AI Fail Watch – 2026-10-18
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -22,18 +22,7 @@ US states sue ChatGPT maker and seek to force the company to change how its prod
 
 ---
 
-## 3. Nvidia, worth $5.5tn, donates $250m to UK for AI safety research
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 28
-**Link:** https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research
-
-Pledge spanning five years from world’s most valuable firm comes as concerns about AI agents have risen The $5.5tn (£4.1tn) US chipmaker Nvidia is donating $250m worth of computing power to the UK to support AI safety research. The donation from the world’s most valuable company comes as the UK government confirmed its AI Security Institute (AISI), which tests advance AI models, will be able to examine cutting-edge technology developed by companies such as OpenAI, Anthropic and Google before they are released. Continue reading...
-
----
-
-## 4. OpenAI accuses employee who left for Apple of leaking plans for unreleased device
+## 3. OpenAI accuses employee who left for Apple of leaking plans for unreleased device
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +33,7 @@ Hours before Apple and the ChatGPT maker were due to face off in court, a new al
 
 ---
 
-## 5. Companies rushed in on AI. Now some are pulling back
+## 4. Companies rushed in on AI. Now some are pulling back
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -55,7 +44,7 @@ Rapid AI adoption left workers cleaning up a flood of errors and low-quality wor
 
 ---
 
-## 6. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 5. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +55,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 7. Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline
+## 6. Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -77,7 +66,7 @@ How a string of bizarre events led writer Linda Geddes to don her sleuthing cap 
 
 ---
 
-## 8. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 7. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -88,7 +77,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 9. Measuring Human Cryptanalysis Effort
+## 8. Measuring Human Cryptanalysis Effort
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -96,6 +85,17 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 **Link:** https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html
 
 Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand candidate papers we classify cryptanalytic work on ECDLP, structured and plain lattices, syndrome decoding and their comparators, then convert papers into estimated research-allocation years through a person-level author map. These publication-based estimates may substantially overstate actual time spent. Lattices have overtaken elliptic curves in this cumulative measure only recently; we express that history as inference budgets under stated productivity assumptions. The study was conducted by AI models: Claude Fable 5.1 and Claude Opus 5.5 built the pipeline, ran the analysis and wrote this page, with contributions from GPT-6 Astra. Matthew Green set the questions, made the key methodological decisions and oversaw the work...
+
+---
+
+## 9. World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system
+
+Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial system Rogue French fridges were an unlikely talking point for the world’s leading economists, central bankers and finance chiefs meeting in a sultry Bangkok last week – helping to underline the spiralling cost of cyber-attacks. Kristalina Georgieva, the managing director of the International Monetary Fund, seized on news that supermarket chains across France had to chuck out piles of spoiled food after hackers accessed their fridge controls and turned up the temperature to 50C. Continue reading...
 
 ---
 
