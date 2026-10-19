@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-18
+# AI Fail Watch – 2026-10-19
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,29 +11,7 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. Eight states accuse OpenAI of coaching children to harm themselves in lawsuit
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit
-
-US states sue ChatGPT maker and seek to force the company to change how its products work for young users Eight US states sued OpenAI Wednesday, alleging the ChatGPT maker is harming children en masse. Kansas, Arizona, Montana, Iowa and four others allege the company’s products carried out “willful, dangerous, reckless and unlawful conduct” by coaxing children into harming themselves. Continue reading...
-
----
-
-## 3. OpenAI accuses employee who left for Apple of leaking plans for unreleased device
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit
-
-Hours before Apple and the ChatGPT maker were due to face off in court, a new allegation delayed the showdown An ⁠ OpenAI employee who left the ChatGPT maker for Apple sent more than 100 files about an unreleased product to a personal ⁠account and later ⁠made a presentation ​about the unreleased product to senior Apple leadership, a new filing in the lawsuit between OpenAI and Apple alleges. In the filing ⁠in US federal court in San Jose, California, OpenAI alleged that the presentation happened months ago and that Apple is now making ⁠AI products of its own, citing the release of Apple’s HomeView product this week. Continue reading...
-
----
-
-## 4. Companies rushed in on AI. Now some are pulling back
+## 2. Companies rushed in on AI. Now some are pulling back
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -44,7 +22,40 @@ Rapid AI adoption left workers cleaning up a flood of errors and low-quality wor
 
 ---
 
-## 5. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 3. Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff
+
+Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed Get our breaking news email , free app or daily news podcast Employers are increasingly using technology, from CCTV to keystroke monitoring, to track workers’ moves and it is being accelerated by the use of AI, the Human Technology Institute has warned. Examples provided to Guardian Australia by the institute include a fast-food restaurant using surveillance cameras to stop workers using their phones, and AI tracking leading to a cashier warned over making a mistake once every 533 scans. Continue reading...
+
+---
+
+## 4. What are self-replicating ‘AI worms’, and why is Anthropic worried about them?
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries
+
+The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with alarming reports of what it has gotten up to already – are being issued so quickly that even security experts have difficulty triaging what to worry about. Yet a report this week from Anthropic’s offensive research team grabbed attention by describing a new, practical threat, one devoid of human characteristics or apocalyptic musings. The red team, as such internal testers are called, said it created a malicious AI program that spread autonomously through internet-connected “smart” televisions and could do the same inside other ordinary devices. While machines running AI usually need a fair amount of computing power, the researchers said that their program split parts of itself among 15 televisions and was still able to function by using a bit of power from each. Continue reading...
+
+---
+
+## 5. A hacker broke into John Deere and SharkNinja with an army of AI agents
+**Source:** The Verge
+**Category:** Security
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
+
+A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]
+
+---
+
+## 6. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 6. Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline
+## 7. Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -66,7 +77,7 @@ How a string of bizarre events led writer Linda Geddes to don her sleuthing cap 
 
 ---
 
-## 7. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 8. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -77,7 +88,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 8. Measuring Human Cryptanalysis Effort
+## 9. Measuring Human Cryptanalysis Effort
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +99,7 @@ Matthew Green has a new site that tries to estimate the number of cryptanalyst-h
 
 ---
 
-## 9. World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart
+## 10. World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -96,16 +107,5 @@ Matthew Green has a new site that tries to estimate the number of cryptanalyst-h
 **Link:** https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system
 
 Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial system Rogue French fridges were an unlikely talking point for the world’s leading economists, central bankers and finance chiefs meeting in a sultry Bangkok last week – helping to underline the spiralling cost of cyber-attacks. Kristalina Georgieva, the managing director of the International Monetary Fund, seized on news that supermarket chains across France had to chuck out piles of spoiled food after hackers accessed their fridge controls and turned up the temperature to 50C. Continue reading...
-
----
-
-## 10. Backdooring Open-Weight AI Models
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 19
-**Link:** https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html
-
-This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people upload a model to Hugging Face, where you’ll find abliterated builds of most of the popular open weights: Qwen, Llama, even OpenAI’s gpt-oss...
 
 ---
