@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-19
+# AI Fail Watch – 2026-10-20
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,7 +11,29 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. Companies rushed in on AI. Now some are pulling back
+## 2. ‘These risks are real’: the threat of AI bioweapons - video
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video
+
+In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Continue reading...
+
+---
+
+## 3. ‘These risks are real’: the threat of AI bioweapons – podcast
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast
+
+In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Could AI ‘change the stakes’ in the development of bioweapons? Support the Guardian: theguardian.com/sciencepod Continue reading...
+
+---
+
+## 4. Companies rushed in on AI. Now some are pulling back
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -22,7 +44,7 @@ Rapid AI adoption left workers cleaning up a flood of errors and low-quality wor
 
 ---
 
-## 3. Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff
+## 5. Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -33,8 +55,8 @@ Monitoring tools common in a range of workplaces, including factories, office jo
 
 ---
 
-## 4. What are self-replicating ‘AI worms’, and why is Anthropic worried about them?
-**Source:** Technology | The Guardian
+## 6. What are self-replicating ‘AI worms’, and why is Anthropic worried about them?
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 23
@@ -44,18 +66,7 @@ The tech company says successful AI worms need more capability on less powerful 
 
 ---
 
-## 5. A hacker broke into John Deere and SharkNinja with an army of AI agents
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins
-
-A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]
-
----
-
-## 6. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 7. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -63,17 +74,6 @@ A hacker broke into more than 100 websites using an army of AI agents that mostl
 **Link:** https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/
 
 The reports of OpenAI agents harming third-party sites keep coming.
-
----
-
-## 7. Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline
-
-How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonators It started with an entirely ordinary interaction on LinkedIn. Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”. As the author of a book about circadian rhythms, it was exactly the sort of subject I might write about. Except I’d never heard of this person, let alone interviewed them. I clicked on the link and my stomach dropped. There, above an article about people who organise their working lives around their biological clocks, was my name: Linda Geddes. Continue reading...
 
 ---
 
