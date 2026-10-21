@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-20
+# AI Fail Watch – 2026-10-21
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -55,18 +55,7 @@ Monitoring tools common in a range of workplaces, including factories, office jo
 
 ---
 
-## 6. What are self-replicating ‘AI worms’, and why is Anthropic worried about them?
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries
-
-The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the year Warnings about what artificial intelligence might do in the future – together with alarming reports of what it has gotten up to already – are being issued so quickly that even security experts have difficulty triaging what to worry about. Yet a report this week from Anthropic’s offensive research team grabbed attention by describing a new, practical threat, one devoid of human characteristics or apocalyptic musings. The red team, as such internal testers are called, said it created a malicious AI program that spread autonomously through internet-connected “smart” televisions and could do the same inside other ordinary devices. While machines running AI usually need a fair amount of computing power, the researchers said that their program split parts of itself among 15 televisions and was still able to function by using a bit of power from each. Continue reading...
-
----
-
-## 7. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 6. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,7 +66,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 8. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
+## 7. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -88,7 +77,7 @@ US vice-president’s comments come as former Anthropic researcher revisits rece
 
 ---
 
-## 9. Measuring Human Cryptanalysis Effort
+## 8. Measuring Human Cryptanalysis Effort
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,13 +88,24 @@ Matthew Green has a new site that tries to estimate the number of cryptanalyst-h
 
 ---
 
-## 10. World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart
+## 9. I’m a CTO. AI still needs your human expertise | Madhu Shashanka
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+**Category:** Security
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/oct/20/ai-human-judgment
 
-Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial system Rogue French fridges were an unlikely talking point for the world’s leading economists, central bankers and finance chiefs meeting in a sultry Bangkok last week – helping to underline the spiralling cost of cyber-attacks. Kristalina Georgieva, the managing director of the International Monetary Fund, seized on news that supermarket chains across France had to chuck out piles of spoiled food after hackers accessed their fridge controls and turned up the temperature to 50C. Continue reading...
+AI is increasingly getting good at doing some tasks, but it can never replace human workers’ judgment Autonomous cars, which may be the safest we have built, keep getting easily avoidable parking tickets. While Waymos crash far less often than human drivers over tens of millions of miles, they’re still terrible at performing basic tasks – keeping out of disabled parking spots and tow-away zones, or steering clear of a church garage during Sunday service, according to the Wall Street Journal . That is the state of AI today: impressively capable at something complex, yet embarrassingly clumsy at something easy. And it has implications for what work will remain human and what will be automated by AI. Madhu Shashanka is co-founder, chief scientist and chief technology officer at Concentric AI, a data security software company Continue reading...
+
+---
+
+## 10. Backdooring Open-Weight AI Models
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 19
+**Link:** https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html
+
+This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people upload a model to Hugging Face, where you’ll find abliterated builds of most of the popular open weights: Qwen, Llama, even OpenAI’s gpt-oss...
 
 ---
