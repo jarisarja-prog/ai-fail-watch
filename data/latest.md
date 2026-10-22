@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-21
+# AI Fail Watch – 2026-10-22
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -22,18 +22,7 @@ In his annual speech on threats to the nation, Sir Ken McCallum, the head of the
 
 ---
 
-## 3. ‘These risks are real’: the threat of AI bioweapons – podcast
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast
-
-In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Could AI ‘change the stakes’ in the development of bioweapons? Support the Guardian: theguardian.com/sciencepod Continue reading...
-
----
-
-## 4. Companies rushed in on AI. Now some are pulling back
+## 3. Companies rushed in on AI. Now some are pulling back
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -44,18 +33,7 @@ Rapid AI adoption left workers cleaning up a flood of errors and low-quality wor
 
 ---
 
-## 5. Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff
-
-Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informed Get our breaking news email , free app or daily news podcast Employers are increasingly using technology, from CCTV to keystroke monitoring, to track workers’ moves and it is being accelerated by the use of AI, the Human Technology Institute has warned. Examples provided to Guardian Australia by the institute include a fast-food restaurant using surveillance cameras to stop workers using their phones, and AI tracking leading to a cashier warned over making a mistake once every 533 scans. Continue reading...
-
----
-
-## 6. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,18 +44,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 7. ‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation
-
-US vice-president’s comments come as former Anthropic researcher revisits recent claim AI could destroy humanity The US vice-president has dismissed calls for global regulation of AI safety risks, telling companies creating the most advanced models: “If you’re building Frankenstein, stop.” In remarks addressed towards Dario Amodei, the co-founder of Anthropic who has called on Washington DC to coordinate control of AI systems , including with China, JD Vance said: “If you’re gonna create Frankenstein, don’t come to the government and say we need regulation.” Continue reading...
-
----
-
-## 8. Measuring Human Cryptanalysis Effort
+## 5. Measuring Human Cryptanalysis Effort
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +55,7 @@ Matthew Green has a new site that tries to estimate the number of cryptanalyst-h
 
 ---
 
-## 9. I’m a CTO. AI still needs your human expertise | Madhu Shashanka
+## 6. I’m a CTO. AI still needs your human expertise | Madhu Shashanka
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -99,7 +66,7 @@ AI is increasingly getting good at doing some tasks, but it can never replace hu
 
 ---
 
-## 10. Backdooring Open-Weight AI Models
+## 7. Backdooring Open-Weight AI Models
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -107,5 +74,38 @@ AI is increasingly getting good at doing some tasks, but it can never replace hu
 **Link:** https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html
 
 This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people upload a model to Hugging Face, where you’ll find abliterated builds of most of the popular open weights: Qwen, Llama, even OpenAI’s gpt-oss...
+
+---
+
+## 8. US bans use of China’s DeepSeek AI tools by government agencies
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies
+
+Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for dominance in the fast-moving sector. A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices. Continue reading...
+
+---
+
+## 9. Microsoft Plugs Nearly 1,000 Security Holes
+**Source:** Krebs on Security
+**Category:** Legal
+**Language:** EN
+**Score:** 15
+**Link:** https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
+
+Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.
+
+---
+
+## 10. Anthropic warns small AI models could self-replicate through IoT devices
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/
+
+"Small weight-based replicators" could usher in a new generation of computer worms.
 
 ---
