@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-22
+# AI Fail Watch – 2026-10-23
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,29 +11,7 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. ‘These risks are real’: the threat of AI bioweapons - video
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video
-
-In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5 , warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons. To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health. He explains what has governments so worried and what measures could be put in place to reduce the risks Continue reading...
-
----
-
-## 3. Companies rushed in on AI. Now some are pulling back
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout
-
-Rapid AI adoption left workers cleaning up a flood of errors and low-quality work Employers around the globe are grappling with the fallout from rushing to adopt fast-changing artificial intelligence tools. Meta has scaled back plans to axe staff and use more AI agents after the company found employees were spending more and more time cleaning up technical and security errors, Reuters reported . And after thinning its workforce, especially middle managers , in a 2023 efficiency push, the company is expanding its managerial ranks again, LinkedIn posts from workers show. Continue reading...
-
----
-
-## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 2. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +22,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 5. Measuring Human Cryptanalysis Effort
+## 3. Measuring Human Cryptanalysis Effort
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,18 +33,7 @@ Matthew Green has a new site that tries to estimate the number of cryptanalyst-h
 
 ---
 
-## 6. I’m a CTO. AI still needs your human expertise | Madhu Shashanka
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/oct/20/ai-human-judgment
-
-AI is increasingly getting good at doing some tasks, but it can never replace human workers’ judgment Autonomous cars, which may be the safest we have built, keep getting easily avoidable parking tickets. While Waymos crash far less often than human drivers over tens of millions of miles, they’re still terrible at performing basic tasks – keeping out of disabled parking spots and tow-away zones, or steering clear of a church garage during Sunday service, according to the Wall Street Journal . That is the state of AI today: impressively capable at something complex, yet embarrassingly clumsy at something easy. And it has implications for what work will remain human and what will be automated by AI. Madhu Shashanka is co-founder, chief scientist and chief technology officer at Concentric AI, a data security software company Continue reading...
-
----
-
-## 7. Backdooring Open-Weight AI Models
+## 4. Backdooring Open-Weight AI Models
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,8 +44,19 @@ This is a problem: Any open model whose weights have been edited can carry a bac
 
 ---
 
-## 8. US bans use of China’s DeepSeek AI tools by government agencies
+## 5. PHP: Pretty Huge Problem with the internet – The Latest
 **Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/news/audio/2026/oct/22/php-pretty-huge-problem-with-the-internet-the-latest
+
+Websites around the world have been taken offline as governments and businesses scramble to fix a flaw in the computer language PHP. There are fears that hackers could exploit the vulnerability to steal data, take control of web servers and disrupt services. Millions of attempts have already been made to attack websites since the issue with the programming language was revealed, cybersecurity companies have said. Michael Safi speaks to global technology reporter Aisha Down – watch on YouTube Continue reading...
+
+---
+
+## 6. US bans use of China’s DeepSeek AI tools by government agencies
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 18
@@ -88,7 +66,18 @@ Use of tools ‘may result in the transfer of sensitive data’ to China, defens
 
 ---
 
-## 9. Microsoft Plugs Nearly 1,000 Security Holes
+## 7. The race to fix huge PHP code flaw at the heart of the internet - The Latest
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest
+
+Websites around the world have been taken offline as governments and businesses scramble to fix a flaw in the computer language PHP. There are fears that hackers could exploit the vulnerability to steal data, take control of web servers and disrupt services. Millions of attempts have already been made to attack websites since the issue with the programming language was revealed, cybersecurity companies have said. Michael Safi speaks to global technology reporter Aisha Down Continue reading...
+
+---
+
+## 8. Microsoft Plugs Nearly 1,000 Security Holes
 **Source:** Krebs on Security
 **Category:** Legal
 **Language:** EN
@@ -99,7 +88,7 @@ Microsoft Corp. today issued updates to plug at least 974 security holes in its 
 
 ---
 
-## 10. Anthropic warns small AI models could self-replicate through IoT devices
+## 9. Anthropic warns small AI models could self-replicate through IoT devices
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ Microsoft Corp. today issued updates to plug at least 974 security holes in its 
 **Link:** https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/
 
 "Small weight-based replicators" could usher in a new generation of computer worms.
+
+---
+
+## 10. Apple changes full-disk access permissions to curb abuse from AI agents
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/
+
+Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.
 
 ---
