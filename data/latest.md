@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-24
+# AI Fail Watch – 2026-10-25
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
