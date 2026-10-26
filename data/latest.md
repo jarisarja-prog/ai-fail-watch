@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-25
+# AI Fail Watch – 2026-10-26
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,7 +11,18 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking
+## 2. ‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 29
+**Link:** https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai
+
+State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutions Get our breaking news email , free app or daily news podcast The Western Australian government has said it is “extremely disappointed” and is seeking an “expedited” cost recovery from Deloitte after errors were discovered in a report about a potential university merger, including AI-hallucinated references and hundreds of millions of dollars in cost discrepancies. The government paid Deloitte $166,000 for a feasibility study on merging the University of Western Australia, Curtin University and Murdoch University. Continue reading...
+
+---
+
+## 3. ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -22,8 +33,30 @@ After discovery of severe bug in the PHP programming language, executives warn o
 
 ---
 
-## 3. John Healey pledges to use budget to harness power of AI to bolster Britain’s security
+## 4. Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models
 **Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 25
+**Link:** https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music
+
+Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in Love The owners of Elvis Presley ’s music catalogue are suing the artificial intelligence ( AI ) company Anthropic for allegedly using Presley’s songs to train their models without permission. Authentic Brands Group, the licensing organization that has ownership of both Presley’s music and likeness, is accusing Anthropic of infringing on the rights of 274 songs by Presley. The lawsuit, first reported by Billboard , was filed on Friday. Continue reading...
+
+---
+
+## 5. Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 24
+**Link:** https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns
+
+Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Get our daily political email , free app or daily news podcast Australians should prepare for more basic and important online services to go offline unexpectedly, the nation’s signals intelligence agency has warned, urging that “system security must be prioritised over system availability”. The Australian Signals Directorate (ASD) also says businesses and critical infrastructure must use cutting-edge AI models to defend against digital threats, raising alarm that artificial intelligence is enabling more dangerous threats than ever. Continue reading...
+
+---
+
+## 6. John Healey pledges to use budget to harness power of AI to bolster Britain’s security
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 23
@@ -33,7 +66,7 @@ Chancellor says government to commit hundreds of millions to develop ‘distinct
 
 ---
 
-## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 7. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +77,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 5. Measuring Human Cryptanalysis Effort
+## 8. Measuring Human Cryptanalysis Effort
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +88,18 @@ Matthew Green has a new site that tries to estimate the number of cryptanalyst-h
 
 ---
 
-## 6. Backdooring Open-Weight AI Models
+## 9. Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – business live
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates
+
+Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms face ‘guppy-level death’ UK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday’s budget. The yield (or interest rate) on 10 and 30-year UK gilts have both dropped by around three basis points (0.03 of a percentage point) this morning. Issuing loans to public financial institutions creates a financial asset that offsets the increase in outstanding government debt. If the investments that the PuFins make generate sufficient returns for the PuFins to repay their government loans, then long term debt sustainability is little affected. Limited transparency and the risk that the PuFins may suffer impairments on their investments will probably make bond market investors skeptical of the extra gilt issuance. Chancellor Healey should avoid a big increase in gilt issuance to fund such intra-public sector lending. Nebius, CoreWeave and Iren were slammed in premarket trading on Monday after SpaceX and Tesla CEO Elon Musk said more than 200 neoclouds are “going to see guppy-level death and consolidation.” That’s the guppy fish – prone to suddenly dying in household fisk tanks – not the GBPJPY FX cross...In a post on X Musk said “debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers”. Continue reading...
+
+---
+
+## 10. Backdooring Open-Weight AI Models
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -63,49 +107,5 @@ Matthew Green has a new site that tries to estimate the number of cryptanalyst-h
 **Link:** https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html
 
 This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people upload a model to Hugging Face, where you’ll find abliterated builds of most of the popular open weights: Qwen, Llama, even OpenAI’s gpt-oss...
-
----
-
-## 7. PHP: Pretty Huge Problem with the internet – The Latest
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/news/audio/2026/oct/22/php-pretty-huge-problem-with-the-internet-the-latest
-
-Websites around the world have been taken offline as governments and businesses scramble to fix a flaw in the computer language PHP. There are fears that hackers could exploit the vulnerability to steal data, take control of web servers and disrupt services. Millions of attempts have already been made to attack websites since the issue with the programming language was revealed, cybersecurity companies have said. Michael Safi speaks to global technology reporter Aisha Down – watch on YouTube Continue reading...
-
----
-
-## 8. Opposition deepfake video of Spanish PM’s wife sparks outrage before election
-**Source:** Technology | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election
-
-Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised country gears up for general elections next month. Launched this week across the social media channels of the conservative People’s party (PP), the video used artificial intelligence to manipulate the likenesses of various people linked to Pedro Sánchez’s Socialist party and appeared to show them admitting to acts such as soliciting prostitutes and taking kickbacks. Continue reading...
-
----
-
-## 9. The race to fix huge PHP code flaw at the heart of the internet - The Latest
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest
-
-Websites around the world have been taken offline as governments and businesses scramble to fix a flaw in the computer language PHP. There are fears that hackers could exploit the vulnerability to steal data, take control of web servers and disrupt services. Millions of attempts have already been made to attack websites since the issue with the programming language was revealed, cybersecurity companies have said. Michael Safi speaks to global technology reporter Aisha Down Continue reading...
-
----
-
-## 10. Microsoft Plugs Nearly 1,000 Security Holes
-**Source:** Krebs on Security
-**Category:** Legal
-**Language:** EN
-**Score:** 15
-**Link:** https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
-
-Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.
 
 ---
