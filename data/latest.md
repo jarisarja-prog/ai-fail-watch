@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-26
+# AI Fail Watch – 2026-10-27
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -22,19 +22,8 @@ State paid consultancy firm $166,000 for feasibility study on merging the three 
 
 ---
 
-## 3. ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability
-
-After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose more fundamental weaknesses in global internet infrastructure in the months to come. “I no longer think we’re going to be able to patch all bugs,” said Sam Altman on Thursday evening, joining the chorus of executives. In the midst of what’s being called “Black October”, for which researchers used AI to help identify critical flaws in a coding language that is used across millions of websites and may have been unpatched for years, tech executives are warning about the ways AI will be used both to identify and exploit security vulnerabilities at an unprecedented scale and pace. Continue reading...
-
----
-
-## 4. Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models
-**Source:** Technology | The Guardian
+## 3. Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 25
@@ -44,29 +33,18 @@ Authentic Brands Group says AI company infringed on rights of songs by the King 
 
 ---
 
-## 5. Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns
+## 4. Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 24
 **Link:** https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns
 
-Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Get our daily political email , free app or daily news podcast Australians should prepare for more basic and important online services to go offline unexpectedly, the nation’s signals intelligence agency has warned, urging that “system security must be prioritised over system availability”. The Australian Signals Directorate (ASD) also says businesses and critical infrastructure must use cutting-edge AI models to defend against digital threats, raising alarm that artificial intelligence is enabling more dangerous threats than ever. Continue reading...
+Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Australians should prepare for more basic and important online services to go offline unexpectedly, the nation’s signals intelligence agency has warned, urging that “system security must be prioritised over system availability”. The Australian Signals Directorate (ASD) also says businesses and critical infrastructure must use cutting-edge AI models to defend against digital threats, raising alarm that artificial intelligence is enabling more dangerous threats than ever. Continue reading...
 
 ---
 
-## 6. John Healey pledges to use budget to harness power of AI to bolster Britain’s security
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security
-
-Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI John Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race. As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to AI that would capitalise on the benefits of the frontier technology. Continue reading...
-
----
-
-## 7. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 5. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -77,18 +55,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 8. Measuring Human Cryptanalysis Effort
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 21
-**Link:** https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html
-
-Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the instrument. From roughly sixteen thousand candidate papers we classify cryptanalytic work on ECDLP, structured and plain lattices, syndrome decoding and their comparators, then convert papers into estimated research-allocation years through a person-level author map. These publication-based estimates may substantially overstate actual time spent. Lattices have overtaken elliptic curves in this cumulative measure only recently; we express that history as inference budgets under stated productivity assumptions. The study was conducted by AI models: Claude Fable 5.1 and Claude Opus 5.5 built the pipeline, ran the analysis and wrote this page, with contributions from GPT-6 Astra. Matthew Green set the questions, made the key methodological decisions and oversaw the work...
-
----
-
-## 9. Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – business live
+## 6. Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -99,7 +66,7 @@ Meta says share sale will support its “continued investment in AI infrastructu
 
 ---
 
-## 10. Backdooring Open-Weight AI Models
+## 7. Backdooring Open-Weight AI Models
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -107,5 +74,38 @@ Meta says share sale will support its “continued investment in AI infrastructu
 **Link:** https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html
 
 This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people upload a model to Hugging Face, where you’ll find abliterated builds of most of the popular open weights: Qwen, Llama, even OpenAI’s gpt-oss...
+
+---
+
+## 8. ‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report
+
+Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research. Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new arrivals now involve use of the technology, according to a report by Open Rights Group (ORG). Continue reading...
+
+---
+
+## 9. Four takeaways from Anthropic’s potentially record-breaking stock market filing
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways
+
+The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively impact its business. The company’s investor prospectus, released Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...
+
+---
+
+## 10. Anthropic is burning gas to feed the AI boom
+**Source:** The Verge
+**Category:** General
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk
+
+As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate power availability is intense." In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on "natural gas" […]
 
 ---
