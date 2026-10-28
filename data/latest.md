@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-27
+# AI Fail Watch – 2026-10-28
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,40 +11,7 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. ‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 29
-**Link:** https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai
-
-State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutions Get our breaking news email , free app or daily news podcast The Western Australian government has said it is “extremely disappointed” and is seeking an “expedited” cost recovery from Deloitte after errors were discovered in a report about a potential university merger, including AI-hallucinated references and hundreds of millions of dollars in cost discrepancies. The government paid Deloitte $166,000 for a feasibility study on merging the University of Western Australia, Curtin University and Murdoch University. Continue reading...
-
----
-
-## 3. Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 25
-**Link:** https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music
-
-Authentic Brands Group says AI company infringed on rights of songs by the King such as Can’t Help Falling in Love The owners of Elvis Presley ’s music catalogue are suing the artificial intelligence ( AI ) company Anthropic for allegedly using Presley’s songs to train their models without permission. Authentic Brands Group, the licensing organization that has ownership of both Presley’s music and likeness, is accusing Anthropic of infringing on the rights of 274 songs by Presley. The lawsuit, first reported by Billboard , was filed on Friday. Continue reading...
-
----
-
-## 4. Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 24
-**Link:** https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns
-
-Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Australians should prepare for more basic and important online services to go offline unexpectedly, the nation’s signals intelligence agency has warned, urging that “system security must be prioritised over system availability”. The Australian Signals Directorate (ASD) also says businesses and critical infrastructure must use cutting-edge AI models to defend against digital threats, raising alarm that artificial intelligence is enabling more dangerous threats than ever. Continue reading...
-
----
-
-## 5. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 2. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -55,7 +22,18 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 6. Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened
+## 3. AI bots flooded 2023 UK government consultation on disposable vapes ban
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban
+
+Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes. Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thought to be the first coordinated attempt to use AI to derail health policymaking in the UK. Continue reading...
+
+---
+
+## 4. Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -66,18 +44,18 @@ Meta says share sale will support its “continued investment in AI infrastructu
 
 ---
 
-## 7. Backdooring Open-Weight AI Models
-**Source:** Schneier on Security
+## 5. Anthropic accelerates – for the rest of us, the speed of growth spells precarity
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
 **Score:** 19
-**Link:** https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html
+**Link:** https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai
 
-This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people upload a model to Hugging Face, where you’ll find abliterated builds of most of the popular open weights: Qwen, Llama, even OpenAI’s gpt-oss...
+The AI industry is still defined by a careening intensity that’s taking the world’s finances along for the ride This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Today in tech, we’re discussing Anthropic ’s astronomic growth, how a settlement over social media safety dented Meta’s revenue, and Lula’s accusations of interference against Meta . ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes Elizabeth Holmes is back in the spotlight: why can’t we look away? Anthropic’s Claude AI model accessed Georgia voter data in US The datacentre next door: on the frontline of tech’s latest David v Goliath battle Meta plans $95bn stock offering to help cover AI expansion iPhone Duo owners report cracks in Apple’s first foldable handset Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts Ukraine’s military says Starlink satellite connection stable after recent restrictions Experts cast doubt on Anthropic report detailing how AI has altered work at the company ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking Continue reading...
 
 ---
 
-## 8. ‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims
+## 6. ‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -88,24 +66,46 @@ Tasks from determining asylum seekers’ ages to border surveillance now involve
 
 ---
 
-## 9. Four takeaways from Anthropic’s potentially record-breaking stock market filing
+## 7. ‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics
+
+Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast The federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”. But Labor is coming under increasing pressure to empower the telecommunications ombudsman to become a watchdog for social media and AI to give Australians an external complaints mechanism and allow the “naming and shaming” of big tech. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
+
+---
+
+## 8. Four takeaways from Anthropic’s potentially record-breaking stock market filing
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
 **Score:** 17
 **Link:** https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways
 
-The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively impact its business. The company’s investor prospectus, released Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...
+The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively affect its business. The company’s investor prospectus, released on Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...
 
 ---
 
-## 10. Anthropic is burning gas to feed the AI boom
-**Source:** The Verge
-**Category:** General
+## 9. ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise
+**Source:** Technology | The Guardian
+**Category:** Legal
 **Language:** EN
 **Score:** 16
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk
+**Link:** https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi
 
-As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. "Competition for access to electrical supply and data center locations with adequate power availability is intense." In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on "natural gas" […]
+Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400 People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk ’s artificial intelligence ambitions, have received a stark offer – to sell their houses to his company and make way. Real estate agents have been going door to door in Southaven, Mississippi, on behalf of xAI, Musk’s AI company that was folded into the SpaceX entity in February, touting a deal to purchase houses as long as the owners agree to not join a lawsuit against the company over the power plant’s noise. Continue reading...
+
+---
+
+## 10. Microsoft Plugs Nearly 1,000 Security Holes
+**Source:** Krebs on Security
+**Category:** Legal
+**Language:** EN
+**Score:** 15
+**Link:** https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
+
+Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.
 
 ---
