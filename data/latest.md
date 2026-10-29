@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-28
+# AI Fail Watch – 2026-10-29
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -22,7 +22,29 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 3. AI bots flooded 2023 UK government consultation on disposable vapes ban
+## 3. Four takeaways from Anthropic’s potentially record-breaking stock market filing
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways
+
+The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively affect its business. The company’s investor prospectus, released on Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...
+
+---
+
+## 4. Social media is full of weird video game mashups. Where are they all coming from?
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from
+
+AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to your inbox? Sign up here If your social media algorithms have clocked that you’re into video games, something strange will have happened in the past few weeks. Your feed, like mine, will have been full of clips of streamers playing bizarre mashups of popular video games . Skyrim in Minecraft. Halo, except the main character is Mario. Skate 2 in Call of Duty maps. A flood of professional-looking fan-coded game mods that are mildly interesting to look at for 30 seconds, but ultimately inconsequential. Would I download a mod that lets me play Wii Bowling inside a zombie shooter? No, but I am very interested in where they came from. Of course, the answer – or at least, most of the answer – is AI. After a week of researching this (thanks especially to Replay Mode on YouTube for this informative video , which set me down this track) I now understand that these mashup mods are not just AI-generated videos, but AI-assisted coding. Basically, as of a few weeks ago, Anthropic’s Claude has become extremely good at decompiling video game code. Games are written by humans in readable code and then compiled into binary 1s and 0s that the PC or console running it can read; decompiling is the reversal of that process, revealing a game’s source code, which humans can then edit and mess around with for fun. This used to be an extremely laborious process. But now it is not, because humans aren’t doing much of it any more. Continue reading...
+
+---
+
+## 5. AI bots flooded 2023 UK government consultation on disposable vapes ban
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -33,18 +55,7 @@ Three-quarters of all responses were machine-generated in failed attempt to stop
 
 ---
 
-## 4. Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates
-
-Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms face ‘guppy-level death’ UK government borrowing costs are dropping this morning, a welcome sign ahead of Wednesday’s budget. The yield (or interest rate) on 10 and 30-year UK gilts have both dropped by around three basis points (0.03 of a percentage point) this morning. Issuing loans to public financial institutions creates a financial asset that offsets the increase in outstanding government debt. If the investments that the PuFins make generate sufficient returns for the PuFins to repay their government loans, then long term debt sustainability is little affected. Limited transparency and the risk that the PuFins may suffer impairments on their investments will probably make bond market investors skeptical of the extra gilt issuance. Chancellor Healey should avoid a big increase in gilt issuance to fund such intra-public sector lending. Nebius, CoreWeave and Iren were slammed in premarket trading on Monday after SpaceX and Tesla CEO Elon Musk said more than 200 neoclouds are “going to see guppy-level death and consolidation.” That’s the guppy fish – prone to suddenly dying in household fisk tanks – not the GBPJPY FX cross...In a post on X Musk said “debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers”. Continue reading...
-
----
-
-## 5. Anthropic accelerates – for the rest of us, the speed of growth spells precarity
+## 6. Anthropic accelerates – for the rest of us, the speed of growth spells precarity
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -55,7 +66,7 @@ The AI industry is still defined by a careening intensity that’s taking the wo
 
 ---
 
-## 6. ‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims
+## 7. ‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -66,7 +77,7 @@ Tasks from determining asylum seekers’ ages to border surveillance now involve
 
 ---
 
-## 7. ‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws
+## 8. ‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,17 +88,6 @@ Labor government under pressure to create social media watchdog as new online sa
 
 ---
 
-## 8. Four takeaways from Anthropic’s potentially record-breaking stock market filing
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways
-
-The AI company’s first public financial disclosures reveal explosive growth, huge costs and risks ranging from cyber-attacks to the limits of safeguards Anthropic has filed to go public on the US stock market, revealing for the first time the AI research lab’s financials and all the risks – more than 90 pages of them – that might negatively affect its business. The company’s investor prospectus, released on Monday, veers from hyperbolic predictions about AI’s “incredible potential” to existential risks of the technology to the reality of its current business: explosive but incredibly expensive growth. The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances. Continue reading...
-
----
-
 ## 9. ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise
 **Source:** Technology | The Guardian
 **Category:** Legal
@@ -95,7 +95,7 @@ The AI company’s first public financial disclosures reveal explosive growth, h
 **Score:** 16
 **Link:** https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi
 
-Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400 People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk ’s artificial intelligence ambitions, have received a stark offer – to sell their houses to his company and make way. Real estate agents have been going door to door in Southaven, Mississippi, on behalf of xAI, Musk’s AI company that was folded into the SpaceX entity in February, touting a deal to purchase houses as long as the owners agree to not join a lawsuit against the company over the power plant’s noise. Continue reading...
+Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400 People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk ’s artificial intelligence ambitions, have received a stark offer – to sell their houses to his company and make way. Real estate agents have been going door to door in Southaven, Mississippi, on behalf of xAI, touting a deal to purchase houses as long as the owners agree to not join a lawsuit against the company over the power plant’s noise. (Musk’s AI company officially became SpaceXAI in July and has lately been rebranded as SpaceXSI but to neighbors of the datacenter in Mississippi, it remains xAI.) Continue reading...
 
 ---
 
