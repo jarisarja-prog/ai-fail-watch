@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-29
+# AI Fail Watch – 2026-10-30
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,7 +11,29 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 2. Wikipedia’s operator says a bad AI copyright ruling could threaten the open web
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 29
+**Link:** https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright
+
+The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]
+
+---
+
+## 3. More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees
+
+Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren’t as high as expected Get our breaking news email , free app or daily news podcast More than half of Victoria’s lawyers have reported using AI in their work, according to a new study, but just over a quarter say they have reduced fees as a result of efficiency gains. They also say clients seeking advice from chatbots have added to their workload, forcing them to correct errors made by AI. Continue reading...
+
+---
+
+## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -22,7 +44,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 3. Four takeaways from Anthropic’s potentially record-breaking stock market filing
+## 5. Four takeaways from Anthropic’s potentially record-breaking stock market filing
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -33,7 +55,7 @@ The AI company’s first public financial disclosures reveal explosive growth, h
 
 ---
 
-## 4. Social media is full of weird video game mashups. Where are they all coming from?
+## 6. Social media is full of weird video game mashups. Where are they all coming from?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -44,7 +66,7 @@ AI tools are making it easier to modify and recreate games, raising questions ab
 
 ---
 
-## 5. AI bots flooded 2023 UK government consultation on disposable vapes ban
+## 7. AI bots flooded 2023 UK government consultation on disposable vapes ban
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
@@ -52,28 +74,6 @@ AI tools are making it easier to modify and recreate games, raising questions ab
 **Link:** https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban
 
 Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds AI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes. Three-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thought to be the first coordinated attempt to use AI to derail health policymaking in the UK. Continue reading...
-
----
-
-## 6. Anthropic accelerates – for the rest of us, the speed of growth spells precarity
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai
-
-The AI industry is still defined by a careening intensity that’s taking the world’s finances along for the ride This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here . Today in tech, we’re discussing Anthropic ’s astronomic growth, how a settlement over social media safety dented Meta’s revenue, and Lula’s accusations of interference against Meta . ‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes Elizabeth Holmes is back in the spotlight: why can’t we look away? Anthropic’s Claude AI model accessed Georgia voter data in US The datacentre next door: on the frontline of tech’s latest David v Goliath battle Meta plans $95bn stock offering to help cover AI expansion iPhone Duo owners report cracks in Apple’s first foldable handset Microsoft to reportedly offer buyouts to 60,000 employees in latest cuts Ukraine’s military says Starlink satellite connection stable after recent restrictions Experts cast doubt on Anthropic report detailing how AI has altered work at the company ‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking Continue reading...
-
----
-
-## 7. ‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report
-
-Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-called hostile environment for immigration, according to research. Tasks from the detection of potential sham marriages to determining the age of asylum seekers and checking through the contents of phones of new arrivals now involve use of the technology, according to a report by Open Rights Group (ORG). Continue reading...
 
 ---
 
@@ -99,13 +99,13 @@ Several Mississippi homes have been purchased near datacenters and one resident 
 
 ---
 
-## 10. Microsoft Plugs Nearly 1,000 Security Holes
-**Source:** Krebs on Security
-**Category:** Legal
+## 10. What is it like to work when your co-workers are AI agents?
+**Source:** Technology | The Guardian
+**Category:** General
 **Language:** EN
 **Score:** 15
-**Link:** https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
+**Link:** https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker
 
-Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.
+Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workers On an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything. He might ask Gwen, his executive assistant, to schedule a meeting, then troubleshoot a technical problem with Cody, his coding partner. Then he might check in with Betsy for search engine optimization, or Juno for onboarding customers. If the office runs out of snacks, he sends a Slack message to Justin, the office manager charged with stocking the kitchen. But none of these co-workers are people. They’re artificial intelligence agents, software that handles tasks without human intervention. Anything is one of several startups building them, and betting on a future where workplaces will increasingly turn over their sales, marketing, coding and other tasks to semi-autonomous AI. At Anything, there are 15 human employees and roughly 150 agents – a ratio that Amin believes will soon be the norm. Continue reading...
 
 ---
