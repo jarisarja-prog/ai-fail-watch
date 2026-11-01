@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-10-31
+# AI Fail Watch – 2026-11-01
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -66,19 +66,8 @@ Anthropic, the creator of Claude, filed to go public on the US stock market on 2
 
 ---
 
-## 7. ‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics
-
-Labor government under pressure to create social media watchdog as new online safety standards bill passes lower house Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast The federal government wants to ban AI chatbots which seek to create “emotional intimacy” after prime minister Anthony Albanese raised the alarm in a heartfelt speech about children treating these agents as their “best friend”. But Labor is coming under increasing pressure to empower the telecommunications ombudsman to become a watchdog for social media and AI to give Australians an external complaints mechanism and allow the “naming and shaming” of big tech. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
-
----
-
-## 8. ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise
-**Source:** Technology | The Guardian
+## 7. ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 16
@@ -88,7 +77,7 @@ Several Mississippi homes have been purchased near datacenters and one resident 
 
 ---
 
-## 9. What is it like to work when your co-workers are AI agents?
+## 8. What is it like to work when your co-workers are AI agents?
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -99,7 +88,7 @@ Using AI for roles from executive assistants to chiefs of staff, companies are b
 
 ---
 
-## 10. Microsoft Plugs Nearly 1,000 Security Holes
+## 9. Microsoft Plugs Nearly 1,000 Security Holes
 **Source:** Krebs on Security
 **Category:** Legal
 **Language:** EN
@@ -107,5 +96,16 @@ Using AI for roles from executive assistants to chiefs of staff, companies are b
 **Link:** https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/
 
 Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.
+
+---
+
+## 10. Anthropic warns small AI models could self-replicate through IoT devices
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/
+
+"Small weight-based replicators" could usher in a new generation of computer worms.
 
 ---
