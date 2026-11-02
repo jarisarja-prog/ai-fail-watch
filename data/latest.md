@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-01
+# AI Fail Watch – 2026-11-02
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,29 +11,7 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case
-
-Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to allow AI companies to scrape music, books and journalism could trigger a constitutional breach, Coalition senators and the recording industry have warned, as they raise new fears it could open Australia to massive legal action and compensation claims from rights holders worldwide. The attorney general’s department admitted it was “extremely alive” to the issue, and Australia’s leading constitutional expert, Anne Twomey, agreed there was “potentially” a concern – depending how legislation was drafted – that granting AI companies permission to scrape copyrighted material from the internet could amount to an acquisition of property by the government. Continue reading...
-
----
-
-## 3. More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees
-
-Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren’t as high as expected Get our breaking news email , free app or daily news podcast More than half of Victoria’s lawyers have reported using AI in their work, according to a new study, but just over a quarter say they have reduced fees as a result of efficiency gains. They also say clients seeking advice from chatbots have added to their workload, forcing them to correct errors made by AI. Continue reading...
-
----
-
-## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 2. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +22,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 5. Social media is full of weird video game mashups. Where are they all coming from?
+## 3. Social media is full of weird video game mashups. Where are they all coming from?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +33,7 @@ AI tools are making it easier to modify and recreate games, raising questions ab
 
 ---
 
-## 6. I read Anthropic's 92-page risk factor document, so you don't have to – video explainer
+## 4. I read Anthropic's 92-page risk factor document, so you don't have to – video explainer
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,19 +44,8 @@ Anthropic, the creator of Claude, filed to go public on the US stock market on 2
 
 ---
 
-## 7. ‘Elonville’: US residents say Musk’s xAI offered to buy homes if they don’t sue over datacenter noise
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi
-
-Several Mississippi homes have been purchased near datacenters and one resident said realtor outlined target to buy more than 400 People in a Mississippi neighborhood, many of whom dislike a nearby power plant central to Elon Musk ’s artificial intelligence ambitions, have received a stark offer – to sell their houses to his company and make way. Real estate agents have been going door to door in Southaven, Mississippi, on behalf of xAI, touting a deal to purchase houses as long as the owners agree to not join a lawsuit against the company over the power plant’s noise. (Musk’s AI company officially became SpaceXAI in July and has lately been rebranded as SpaceXSI but to neighbors of the datacenter in Mississippi, it remains xAI.) Continue reading...
-
----
-
-## 8. What is it like to work when your co-workers are AI agents?
-**Source:** AI (artificial intelligence) | The Guardian
+## 5. What is it like to work when your co-workers are AI agents?
+**Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 15
@@ -88,7 +55,7 @@ Using AI for roles from executive assistants to chiefs of staff, companies are b
 
 ---
 
-## 9. Microsoft Plugs Nearly 1,000 Security Holes
+## 6. Microsoft Plugs Nearly 1,000 Security Holes
 **Source:** Krebs on Security
 **Category:** Legal
 **Language:** EN
@@ -99,7 +66,7 @@ Microsoft Corp. today issued updates to plug at least 974 security holes in its 
 
 ---
 
-## 10. Anthropic warns small AI models could self-replicate through IoT devices
+## 7. Anthropic warns small AI models could self-replicate through IoT devices
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +74,38 @@ Microsoft Corp. today issued updates to plug at least 974 security holes in its 
 **Link:** https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/
 
 "Small weight-based replicators" could usher in a new generation of computer worms.
+
+---
+
+## 8. Police use facial recognition to scan one million faces in WA trial leading to 122 arrests
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 13
+**Link:** https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial
+
+Deployments of surveillance vans over five months resulted in nine false alerts and led officers to engage with 146 registered sex offenders Get our breaking news email , free app or daily news podcast More than a million people have had their faces scanned in a trial of real-time facial recognition technology in Western Australia, resulting in 122 arrests and nine incorrect alerts. WA police said under the five-month trial, which concluded on Saturday, the technology scanned 1,380,882 faces after 100 deployments across 43 regional and metropolitan locations. Continue reading...
+
+---
+
+## 9. Anthropic VS code extension on Cursor backdoored for nearly 12 hours
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
+
+It's still unknown how attackers got access to Anthropic's verified Cursor account.
+
+---
+
+## 10. Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west
+
+Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email , free app or daily news podcast The prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online. Anthony Albanese’s seat of Grayndler in Sydney’s inner west is home to more than 3,000 cultural and creative businesses, and 10% of its workers are employed in cultural and creative fields – compared with 4.2% nationally. Continue reading...
 
 ---
