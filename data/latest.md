@@ -1,13 +1,13 @@
-# AI Fail Watch – 2026-11-03
+# AI Fail Watch – 2026-11-04
 
-## 1. ‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search
+## 1. ‘A serious failure’: CPS prosecutor cites imaginary case to court after AI search
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Hallucination
 **Language:** EN
 **Score:** 33
 **Link:** https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search
 
-Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedings A senior crown prosecutor acting in a high court case cited an imaginary legal precedent in an error that has sparked fresh concerns about AI hallucinations infecting the justice system. Ravinder Dhillon, representing the Crown Prosecution Service (CPS), referenced an entirely made-up case during a dispute over whether a child should be prosecuted for the rape of his younger sister, court documents have revealed. Continue reading...
+Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedings A senior crown prosecutor acting cited an imaginary legal precedent in an error that has sparked fresh concerns about AI hallucinations infecting the justice system. Ravinder Dhillon, representing the Crown Prosecution Service (CPS), referenced an entirely made-up case during a dispute over whether a child should be prosecuted for the rape of his younger sister, high court documents have revealed. Continue reading...
 
 ---
 
@@ -22,18 +22,7 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 3. I read Anthropic's 92-page risk factor document, so you don't have to – video explainer
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer
-
-Anthropic, the creator of Claude, filed to go public on the US stock market on 26 October. The company's filing statement contains a 92-page risk factor document in which it acknowledges the dangers that AI poses to society and human beings, and factors that could negatively affect Anthropic's business. Johana Bhuiyan, senior tech reporter for the Guardian, breaks down the document and explains why Anthropic's IPO could be a real test for the AI boom Anthropic files for potentially record-breaking stock market valuation in key test for AI industry Continue reading...
-
----
-
-## 4. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+## 3. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -44,7 +33,7 @@ The reports of OpenAI agents harming third-party sites keep coming.
 
 ---
 
-## 5. Social media is full of weird video game mashups. Where are they all coming from?
+## 4. Social media is full of weird video game mashups. Where are they all coming from?
 **Source:** Technology | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -55,7 +44,7 @@ AI tools are making it easier to modify and recreate games, raising questions ab
 
 ---
 
-## 6. AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028
+## 5. AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -63,6 +52,17 @@ AI tools are making it easier to modify and recreate games, raising questions ab
 **Link:** https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure
 
 National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028, according to the state cybersecurity body. The National Cyber Security Centre (NCSC) said AI will probably enable a ransomware attack against critical national infrastructure [CNI] between now and 2028. The UK’s definition of CNI covers a range of facilities and services across sectors including energy, transport, defence, food, health and finance. Continue reading...
+
+---
+
+## 6. Cold war? Why are fridges being hacked and what could be next? - The Latest
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/news/audio/2026/nov/03/cold-war-why-are-fridges-being-hacked-and-what-could-be-next-the-latest
+
+Supermarket fridges and freezers in several European countries have malfunctioned after a reported cyber-attack, with their thermostats remotely cranked up. It is unclear who is behind the latest apparent attack but the EU has condemned what it said was ‘a deliberate attempt to disrupt our food supply’. It comes as the UK’s cybersecurity body warns AI-powered malicious software is ‘highly likely’ to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028. Lucy Hough speaks to global tech reporter Aisha Down – watch on YouTube Continue reading...
 
 ---
 
@@ -99,13 +99,13 @@ In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs find
 
 ---
 
-## 10. Police use facial recognition to scan one million faces in WA trial leading to 122 arrests
+## 10. Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+**Category:** General
 **Language:** EN
 **Score:** 13
-**Link:** https://www.theguardian.com/australia-news/2026/nov/02/wa-police-facial-recognition-technology-trial
+**Link:** https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai
 
-Deployments of surveillance vans over five months resulted in nine false alerts and led officers to engage with 146 registered sex offenders Get our breaking news email , free app or daily news podcast More than a million people have had their faces scanned in a trial of real-time facial recognition technology in Western Australia, resulting in 122 arrests and nine incorrect alerts. WA police said under the five-month trial, which concluded on Saturday, the technology scanned 1,380,882 faces after 100 deployments across 43 regional and metropolitan locations. Continue reading...
+Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its way into another robodebt” scandal amid a lack of transparency and legislation around use of algorithms and artificial intelligence in decisions, the chief executive of independent thinktank the Centre for Public Integrity said. Dr Catherine Williams launched the centre’s “Computer Says No” report on Thursday, which examines the use of automated decision-making (ADM) tools by the government and calls for urgent reform. Continue reading...
 
 ---
