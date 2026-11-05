@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-04
+# AI Fail Watch – 2026-11-05
 
 ## 1. ‘A serious failure’: CPS prosecutor cites imaginary case to court after AI search
 **Source:** AI (artificial intelligence) | The Guardian
@@ -22,40 +22,18 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 3. OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 21
-**Link:** https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/
-
-The reports of OpenAI agents harming third-party sites keep coming.
-
----
-
-## 4. Social media is full of weird video game mashups. Where are they all coming from?
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from
-
-AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry • Don’t get Pushing Buttons delivered to your inbox? Sign up here If your social media algorithms have clocked that you’re into video games, something strange will have happened in the past few weeks. Your feed, like mine, will have been full of clips of streamers playing bizarre mashups of popular video games . Skyrim in Minecraft. Halo, except the main character is Mario. Skate 2 in Call of Duty maps. A flood of professional-looking fan-coded game mods that are mildly interesting to look at for 30 seconds, but ultimately inconsequential. Would I download a mod that lets me play Wii Bowling inside a zombie shooter? No, but I am very interested in where they came from. Of course, the answer – or at least, most of the answer – is AI. After a week of researching this (thanks especially to Replay Mode on YouTube for this informative video , which set me down this track) I now understand that these mashup mods are not just AI-generated videos, but AI-assisted coding. Basically, as of a few weeks ago, Anthropic’s Claude has become extremely good at decompiling video game code. Games are written by humans in readable code and then compiled into binary 1s and 0s that the PC or console running it can read; decompiling is the reversal of that process, revealing a game’s source code, which humans can then edit and mess around with for fun. This used to be an extremely laborious process. But now it is not, because humans aren’t doing much of it any more. Continue reading...
-
----
-
-## 5. AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028
+## 3. UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
+**Category:** General
 **Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure
+**Score:** 18
+**Link:** https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy
 
-National Cyber Security Centre expects attacks on critical facilities such as power stations, airports and hospitals AI-powered malicious software is “highly likely” to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028, according to the state cybersecurity body. The National Cyber Security Centre (NCSC) said AI will probably enable a ransomware attack against critical national infrastructure [CNI] between now and 2028. The UK’s definition of CNI covers a range of facilities and services across sectors including energy, transport, defence, food, health and finance. Continue reading...
+Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found. MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy grants, equity and debt to accelerate a diversification programme. Continue reading...
 
 ---
 
-## 6. Cold war? Why are fridges being hacked and what could be next? - The Latest
+## 4. Cold war? Why are fridges being hacked and what could be next? - The Latest
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,7 +44,7 @@ Supermarket fridges and freezers in several European countries have malfunctione
 
 ---
 
-## 7. What is it like to work when your co-workers are AI agents?
+## 5. What is it like to work when your co-workers are AI agents?
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +55,7 @@ Using AI for roles from executive assistants to chiefs of staff, companies are b
 
 ---
 
-## 8. Anthropic warns small AI models could self-replicate through IoT devices
+## 6. Anthropic warns small AI models could self-replicate through IoT devices
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +66,18 @@ Using AI for roles from executive assistants to chiefs of staff, companies are b
 
 ---
 
-## 9. AIs Hacking the Law
+## 7. Albanese government warned it is ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai
+
+Centre for Public Integrity report calls for audit and public register of all automated decision-making Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its way into another robodebt” scandal amid a lack of transparency and legislation around the use of algorithms and AI in decisions, the chief executive of the independent thinktank the Centre for Public Integrity said. Dr Catherine Williams launched the centre’s “Computer Says No” report on Thursday, which examines the use of automated decision-making (ADM) tools by the government and calls for urgent reform. Continue reading...
+
+---
+
+## 8. AIs Hacking the Law
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,13 +88,24 @@ In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs find
 
 ---
 
-## 10. Albanese government warned it’s ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI
+## 9. Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+**Category:** Hallucination
 **Language:** EN
 **Score:** 13
-**Link:** https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai
+**Link:** https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb
 
-Centre for Public Integrity report says mandatory audit and public register of all automated decision-making needed Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its way into another robodebt” scandal amid a lack of transparency and legislation around use of algorithms and artificial intelligence in decisions, the chief executive of independent thinktank the Centre for Public Integrity said. Dr Catherine Williams launched the centre’s “Computer Says No” report on Thursday, which examines the use of automated decision-making (ADM) tools by the government and calls for urgent reform. Continue reading...
+Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’ Get our daily political email , free app or daily news podcast It’s the night of Halloween and Jess Wilson has appeared on social media feeds with a warning about a scary prospect: “Americanised healthcare” under a future Liberal government. “If you had a heart attack, you would have to pay $150,000 for care,” the Victorian Liberal leader says, mid-trick or treat. Continue reading...
+
+---
+
+## 10. Anthropic VS code extension on Cursor backdoored for nearly 12 hours
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
+
+It's still unknown how attackers got access to Anthropic's verified Cursor account.
 
 ---
