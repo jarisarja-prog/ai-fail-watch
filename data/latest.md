@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-11-05
+# AI Fail Watch – 2026-11-06
 
-## 1. ‘A serious failure’: CPS prosecutor cites imaginary case to court after AI search
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 33
-**Link:** https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search
-
-Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedings A senior crown prosecutor acting cited an imaginary legal precedent in an error that has sparked fresh concerns about AI hallucinations infecting the justice system. Ravinder Dhillon, representing the Crown Prosecution Service (CPS), referenced an entirely made-up case during a dispute over whether a child should be prosecuted for the rape of his younger sister, high court documents have revealed. Continue reading...
-
----
-
-## 2. OpenAI models hacked a crypto wallet and breached more websites
+## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -22,7 +11,7 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 3. UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI
+## 2. UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,14 +22,25 @@ Delivering net zero also at risk, say MPs as they call for centralised policy an
 
 ---
 
-## 4. Cold war? Why are fridges being hacked and what could be next? - The Latest
+## 3. Fearing AI disruption, white-collar workers are quitting their jobs
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting
+
+While there’s no evidence linking AI to mass layoffs, the tech has already ‘changed worker psychology’ When artificial intelligence researcher Mrinank Sharma quit his job at Anthropic earlier this year, the news rippled across the internet. In his resignation letter, posted on X and viewed 15.3m times, Sharma warned of a world “in peril” from the technology he had helped build. “It is clear to me the time has come to move on,” he wrote. His next move: a poetry degree. Continue reading...
+
+---
+
+## 4. US tech stocks open higher on Wall Street after worst day in 19 months – business live
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
+**Category:** General
 **Language:** EN
 **Score:** 15
-**Link:** https://www.theguardian.com/news/audio/2026/nov/03/cold-war-why-are-fridges-being-hacked-and-what-could-be-next-the-latest
+**Link:** https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates
 
-Supermarket fridges and freezers in several European countries have malfunctioned after a reported cyber-attack, with their thermostats remotely cranked up. It is unclear who is behind the latest apparent attack but the EU has condemned what it said was ‘a deliberate attempt to disrupt our food supply’. It comes as the UK’s cybersecurity body warns AI-powered malicious software is ‘highly likely’ to be used in hacking attacks against the UK’s power stations, airports and hospitals by 2028. Lucy Hough speaks to global tech reporter Aisha Down – watch on YouTube Continue reading...
+European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak. “The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe. Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment. Continue reading...
 
 ---
 
