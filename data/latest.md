@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-06
+# AI Fail Watch – 2026-11-07
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,14 +11,14 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI
+## 2. US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy
+**Score:** 16
+**Link:** https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates
 
-Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found. MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy grants, equity and debt to accelerate a diversification programme. Continue reading...
+European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak. “The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe. Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment. Continue reading...
 
 ---
 
@@ -33,14 +33,14 @@ While there’s no evidence linking AI to mass layoffs, the tech has already ‘
 
 ---
 
-## 4. US tech stocks open higher on Wall Street after worst day in 19 months – business live
+## 4. Three men charged in US with using AI to impersonate CEOs and steal millions
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
 **Score:** 15
-**Link:** https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates
+**Link:** https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft
 
-European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The Nasdaq Composite index, for example, is still up 4.6% since the start of January – even though it’s more than 10% below its peak. “The tech sell-off has intensified, with the pain of the brutal sell-off on Wall Street carried straight through to Asia and knocking sentiment in Europe. Big worries are colliding – the build-out of data centres looks set to slow, which risks shredding the spending spree underpinning the boom, right at the time that investors have become super nervous about returns on this massive investment. Continue reading...
+Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an indictment that was newly unsealed by the US Department of Justice. According to a press release from the United States attorney’s office for the southern district of New York, three men – Jacob Soall, Sharon Hazan, and Guy Sheetrit – were arrested for using AI to alter and impersonate the voices and images of executives and attorneys at various companies in order to convince employees to send over large payments. Soall and Hazan were arrested in Spain over the summer, while Sheetrit was arrested in the United Kingdom in September. The alleged fraud took place between 2024 and 2026. Continue reading...
 
 ---
 
@@ -66,18 +66,7 @@ Using AI for roles from executive assistants to chiefs of staff, companies are b
 
 ---
 
-## 7. Albanese government warned it is ‘sleepwalking into another robodebt scenario’ over use of algorithms and AI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/australia-news/2026/nov/05/albanese-government-warned-its-sleepwalking-into-another-robodebt-scenario-over-use-of-algorithms-and-ai
-
-Centre for Public Integrity report calls for audit and public register of all automated decision-making Get our breaking news email , free app or daily news podcast The federal government is “sleepwalking its way into another robodebt” scandal amid a lack of transparency and legislation around the use of algorithms and AI in decisions, the chief executive of the independent thinktank the Centre for Public Integrity said. Dr Catherine Williams launched the centre’s “Computer Says No” report on Thursday, which examines the use of automated decision-making (ADM) tools by the government and calls for urgent reform. Continue reading...
-
----
-
-## 8. AIs Hacking the Law
+## 7. AIs Hacking the Law
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,18 +77,18 @@ In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs find
 
 ---
 
-## 9. Scare campaigns: Victoria’s major parties trade blows over AI-generated videos of leaders in election ads
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
+## 8. Chainalysis says hackers stole credentials and tokens for all of its customers
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
 **Language:** EN
 **Score:** 13
-**Link:** https://www.theguardian.com/australia-news/2026/nov/05/victoria-election-2026-ai-generated-video-ads-ntwnfb
+**Link:** https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
 
-Transparency and advertising experts say trust in politics could be further eroded as a result of ‘lies, deepfakes and AI-generated politicians’ Get our daily political email , free app or daily news podcast It’s the night of Halloween and Jess Wilson has appeared on social media feeds with a warning about a scary prospect: “Americanised healthcare” under a future Liberal government. “If you had a heart attack, you would have to pay $150,000 for care,” the Victorian Liberal leader says, mid-trick or treat. Continue reading...
+Company said a "multifront cyberattack" included AI agents and an on-path data snatch.
 
 ---
 
-## 10. Anthropic VS code extension on Cursor backdoored for nearly 12 hours
+## 9. Anthropic VS code extension on Cursor backdoored for nearly 12 hours
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ Transparency and advertising experts say trust in politics could be further erod
 **Link:** https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
 
 It's still unknown how attackers got access to Anthropic's verified Cursor account.
+
+---
+
+## 10. Activists break into building site of Microsoft datacentre in Amsterdam
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam
+
+Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed with police while breaking into a construction site at Westpoort, Amsterdam, where some members climbed a crane, lit flares and tied helium balloons to equipment. Continue reading...
 
 ---
