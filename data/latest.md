@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-07
+# AI Fail Watch – 2026-11-08
 
 ## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
@@ -11,7 +11,29 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened
+## 2. ‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
+**Source:** Technology | The Guardian
+**Category:** Education
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence
+
+MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to “It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence. “Half the emails we receive are some form of AI,” she says, adding that this has made requests and complaints much more complex and time-consuming to read and deal with, despite her decade of experience in the role. “It is definitely more taxing.” Continue reading...
+
+---
+
+## 3. Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic
+
+As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrence Alex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd. The defrost light on refrigeration unit 2 was on, and the panel reading was 150C. Unit 4 was the same. Continue reading...
+
+---
+
+## 4. US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +44,7 @@ European and Asia-Pacific markets slide after Wall Street rout, while latest US 
 
 ---
 
-## 3. Fearing AI disruption, white-collar workers are quitting their jobs
+## 5. Fearing AI disruption, white-collar workers are quitting their jobs
 **Source:** Technology | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -33,7 +55,7 @@ While there’s no evidence linking AI to mass layoffs, the tech has already ‘
 
 ---
 
-## 4. Three men charged in US with using AI to impersonate CEOs and steal millions
+## 6. Three men charged in US with using AI to impersonate CEOs and steal millions
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,18 +66,7 @@ Men allegedly impersonated voices and images of executives to convince employees
 
 ---
 
-## 5. What is it like to work when your co-workers are AI agents?
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker
-
-Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workers On an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything. He might ask Gwen, his executive assistant, to schedule a meeting, then troubleshoot a technical problem with Cody, his coding partner. Then he might check in with Betsy for search engine optimization, or Juno for onboarding customers. If the office runs out of snacks, he sends a Slack message to Justin, the office manager charged with stocking the kitchen. But none of these co-workers are people. They’re artificial intelligence agents, software that handles tasks without human intervention. Anything is one of several startups building them, and betting on a future where workplaces will increasingly turn over their sales, marketing, coding and other tasks to semi-autonomous AI. At Anything, there are 15 human employees and roughly 150 agents – a ratio that Amin believes will soon be the norm. Continue reading...
-
----
-
-## 6. Anthropic warns small AI models could self-replicate through IoT devices
+## 7. Anthropic warns small AI models could self-replicate through IoT devices
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,7 @@ Using AI for roles from executive assistants to chiefs of staff, companies are b
 
 ---
 
-## 7. AIs Hacking the Law
+## 8. AIs Hacking the Law
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,7 +88,7 @@ In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs find
 
 ---
 
-## 8. Chainalysis says hackers stole credentials and tokens for all of its customers
+## 9. Chainalysis says hackers stole credentials and tokens for all of its customers
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,7 +99,7 @@ Company said a "multifront cyberattack" included AI agents and an on-path data s
 
 ---
 
-## 9. Anthropic VS code extension on Cursor backdoored for nearly 12 hours
+## 10. Anthropic VS code extension on Cursor backdoored for nearly 12 hours
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -96,16 +107,5 @@ Company said a "multifront cyberattack" included AI agents and an on-path data s
 **Link:** https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
 
 It's still unknown how attackers got access to Anthropic's verified Cursor account.
-
----
-
-## 10. Activists break into building site of Microsoft datacentre in Amsterdam
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam
-
-Separate actions also take place outside fence and across Europe in backlash against impact of AI boom Activists have stormed the site of a Microsoft datacentre being built in Amsterdam, as the backlash to the social and environmental harms of the AI boom spreads across Europe. Protesters from Geef Tegengas, a Dutch direct action group, clashed with police while breaking into a construction site at Westpoort, Amsterdam, where some members climbed a crane, lit flares and tied helium balloons to equipment. Continue reading...
 
 ---
