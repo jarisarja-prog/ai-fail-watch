@@ -1,6 +1,17 @@
-# AI Fail Watch – 2026-11-12
+# AI Fail Watch – 2026-11-13
 
-## 1. OpenAI models hacked a crypto wallet and breached more websites
+## 1. Nvidia scandal: Howard Lutnick under pressure over alleged lack of action
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 41
+**Link:** https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china
+
+US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? One of Donald Trump’s top lieutenants reportedly could soon be fired, as criticism mounts over commerce secretary Howard Lutnick’s apparent lack of action over the Nvidia spying scandal . Jensen Huang resigned from Nvidia on Thursday, and was replaced on an interim basis by chief financial officer, Colette Kress , after reports emerged of his multiple affairs, most importantly with Alice Huang (no relation), who is suspected of being a Chinese spy. Continue reading...
+
+---
+
+## 2. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -11,7 +22,29 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 2. Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns
+## 3. Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached
+
+CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...
+
+---
+
+## 4. AI Doesn’t Have to Go Rogue to Break the World
+**Source:** Schneier on Security
+**Category:** Security
+**Language:** EN
+**Score:** 21
+**Link:** https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html
+
+This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop . I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing. I started writing about this in 2021 and in my 2022 book, A Hacker’s Mind . Back then I said it was mostly still science fiction, but not stupid science fiction. We’re seeing it more and more, especially in the past year. The trends I’m describing don’t require a major breakthrough in AI. They’re starting to happen now, and they’ll happen more often as AIs get better at autonomous problem-solving. And it will involve far more than computer code...
+
+---
+
+## 5. Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +55,7 @@ Inspectors find some officers acted on potential matches from retrospective sear
 
 ---
 
-## 3. Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair
+## 6. Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,7 +66,7 @@ In today’s newsletter: US intelligence reportedly believes the former tech exe
 
 ---
 
-## 4. US workers are fighting to protect their jobs from AI – and winning
+## 7. US public workers are fighting to protect their jobs from AI – and some are winning
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -44,7 +77,7 @@ As governments adopt AI, workers are gaining ground in how it’s used and secur
 
 ---
 
-## 5. AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals
+## 8. AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -55,18 +88,18 @@ As governments adopt AI, workers are gaining ground in how it’s used and secur
 
 ---
 
-## 6. Fearing AI disruption, white-collar workers are quitting their jobs
+## 9. ‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
 **Source:** Technology | The Guardian
-**Category:** Research integrity
+**Category:** Education
 **Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence
 
-While there’s no evidence linking AI to mass layoffs, the tech has already ‘changed worker psychology’ When artificial intelligence researcher Mrinank Sharma quit his job at Anthropic earlier this year, the news rippled across the internet. In his resignation letter, posted on X and viewed 15.3m times, Sharma warned of a world “in peril” from the technology he had helped build. “It is clear to me the time has come to move on,” he wrote. His next move: a poetry degree. Continue reading...
+MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to ‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence. “Half the emails we receive are some form of AI,” she says, adding that this has made requests and complaints much more complex and time-consuming to read and deal with, despite her decade of experience in the role. “It is definitely more taxing.” Continue reading...
 
 ---
 
-## 7. NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools
+## 10. NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -74,38 +107,5 @@ While there’s no evidence linking AI to mass layoffs, the tech has already ‘
 **Link:** https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools
 
 Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech NHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most of the controversial technology. Health bosses had published a list of all the NHS bodies “live” with and “realising benefits” from the AI-powered federated data platform (FDP), a system set up to improve patient outcomes, boost operating theatre efficiency and speed up bed discharges. But after 29 trusts said it was either not live or they were not using any of its applications, the original list of hospitals appears to have been taken down. Continue reading...
-
----
-
-## 8. Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai
-
-Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cuts Get our daily political email , free app or daily news podcast Entry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and higher wages for ordinary workers – or make jobs tougher with more burnout and workplace surveillance – the government has warned employers. While major companies like Qantas and Canva slash their workforces in restructures spurred by AI changes, workplace relations minister Amanda Rishworth said employers must give workers “a clear plan” about how automation could affect their jobs, and the opportunity to move into new roles. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
-
----
-
-## 9. The (alleged) spy who loved me: the Nvidia scandal - podcast
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.theguardian.com/news/audio/2026/nov/12/the-alleged-spy-who-loved-me-the-nvidia-scandal-podcast
-
-Global technology editor Dan Milmo on the scandal rocking the world of AI: US intelligence believes the lover of Nvidia’s chief executive, Jensen Huang, is a Chinese spy Nvidia is one of the biggest companies in the world. Its chief executive, Jensen Huang, is worth around $150bn (£112bn). But the AI giant’s stock is sliding – and Huang’s position is under question – after it emerged on Sunday that he had been having an affair with a woman US intelligence services believe is a Chinese spy. Global technology editor Dan Milmo talks through the scandal that has rocked both Silicon Valley and the financial markets. Continue reading...
-
----
-
-## 10. AIs Hacking the Law
-**Source:** Schneier on Security
-**Category:** Security
-**Language:** EN
-**Score:** 14
-**Link:** https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html
-
-In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs finding vulnerabilities and exploits—hacking—the legal system. Here’s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer systems, the written law can contain vulnerabilities that invite exploitation.1 Courts absorb most exploits through interpretation, and such vulnerabilities rarely surface in the first place. With highly capable AI systems enabling the discovery of vulnerabilities at unprecedented scale, we believe the latter could change...
 
 ---
