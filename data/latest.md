@@ -1,17 +1,6 @@
-# AI Fail Watch – 2026-11-13
+# AI Fail Watch – 2026-11-14
 
-## 1. Nvidia scandal: Howard Lutnick under pressure over alleged lack of action
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 41
-**Link:** https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china
-
-US commerce secretary faces sack as warnings emerge about alleged Chinese spy’s ties to Jensen Huang and delays in adding Megaspeed to trade blacklist Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? One of Donald Trump’s top lieutenants reportedly could soon be fired, as criticism mounts over commerce secretary Howard Lutnick’s apparent lack of action over the Nvidia spying scandal . Jensen Huang resigned from Nvidia on Thursday, and was replaced on an interim basis by chief financial officer, Colette Kress , after reports emerged of his multiple affairs, most importantly with Alice Huang (no relation), who is suspected of being a Chinese spy. Continue reading...
-
----
-
-## 2. OpenAI models hacked a crypto wallet and breached more websites
+## 1. OpenAI models hacked a crypto wallet and breached more websites
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -22,7 +11,7 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 3. Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
+## 2. Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -33,7 +22,7 @@ CEO’s affair and resignation has brought company’s murky corporate contracts
 
 ---
 
-## 4. AI Doesn’t Have to Go Rogue to Break the World
+## 3. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,29 +33,18 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 5. Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns
-
-Inspectors find some officers acted on potential matches from retrospective searches without making enough checks Police officers risk arresting innocent people, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Although the technology can help fight crime, the report found it is beset by errors and biases , and operators do not always realise they must make further inquiries to verify the data. Continue reading...
-
----
-
-## 6. Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair
+## 4. Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china
 
-In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies. Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines. UK | Ministers are considering changing the law to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand. Climate | The UK government has appointed the world’s first special representative for climate security, in the strongest sign yet of fears that climate breakdown will bring chaos to the country. US midterms | Democrat Scott Colom has become the first Black senator in Mississippi to be elected since Reconstruction, in a stunning upset after more than a week of vote counting in one of the country’s most reliably red states. Europe | Millions of people across Spain have joined the country’s first general strike in 14 years , setting up picket lines to protest against soaring housing prices before an election in which the far right could be catapulted into power. Technology | Police officers risk arresting innocent people , especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Continue reading...
+US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions. Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed export restrictions on certain Nvidia chips to China. Continue reading...
 
 ---
 
-## 7. US public workers are fighting to protect their jobs from AI – and some are winning
+## 5. US public workers are fighting to protect their jobs from AI – and some are winning
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -77,18 +55,7 @@ As governments adopt AI, workers are gaining ground in how it’s used and secur
 
 ---
 
-## 8. AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations
-
-181GW of gas-fired capacity proposed for sites in US and Europe because of delays in connecting to national grids, says report Developers of AI datacentres plan to build on-site climate-destroying gas power stations on a huge scale to meet their energy demands, research reveals. Datacentres planned across the US, the UK and mainland Europe have proposals to build fossil fuel plants on-site to create 181GW of gas-fired capacity because of delays to connect to national grids, according to the findings. This is almost four times the total peak electricity demand of Great Britain. Continue reading...
-
----
-
-## 9. ‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
+## 6. ‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
@@ -96,6 +63,39 @@ As governments adopt AI, workers are gaining ground in how it’s used and secur
 **Link:** https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence
 
 MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to ‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence. “Half the emails we receive are some form of AI,” she says, adding that this has made requests and complaints much more complex and time-consuming to read and deal with, despite her decade of experience in the role. “It is definitely more taxing.” Continue reading...
+
+---
+
+## 7. ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you
+**Source:** The Verge
+**Category:** Legal
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet
+
+After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and "eligible US-issued American Express, Chase, Mastercard and Visa cards." After adding a card […]
+
+---
+
+## 8. Why the Nvidia scandal is far from over - The Latest
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest
+
+Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down Continue reading...
+
+---
+
+## 9. Why the Nvidia scandal is far from over – The Latest
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 16
+**Link:** https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest
+
+Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down – watch on YouTube Continue reading...
 
 ---
 
