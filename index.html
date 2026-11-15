@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI Fail Watch – 2026-11-14</title>
+    <title>AI Fail Watch – 2026-11-15</title>
     <style>
         :root {
             --bg: #0b1020;
@@ -261,7 +261,7 @@
                     <h1 class="brand">AI Fail Watch</h1>
                     <div class="sub">Daily tracking of leaks, lawsuits, hallucinations, privacy failures and other AI risks.</div>
                 </div>
-                <div class="status">Last updated: 2026-11-14 13:50</div>
+                <div class="status">Last updated: 2026-11-15 14:23</div>
             </div>
 
             <div class="filters">
@@ -281,25 +281,46 @@
         
     <section class="hero-card" data-lang="EN">
         <div class="hero-label">Top fail of the day</div>
-        <h2><a href="https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/" target="_blank" rel="noopener noreferrer">OpenAI models hacked a crypto wallet and breached more websites</a></h2>
+        <h2><a href="https://techncruncher.blogspot.com/2026/11/rea-open-source-ai-tool-that-can.html" target="_blank" rel="noopener noreferrer">REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)</a></h2>
         <div class="meta">
-            <span class="badge cat-security">Security</span>
+            <span class="badge cat-legal">Legal</span>
             <span class="badge lang">EN</span>
-            <span><strong>Source:</strong> Biz &amp; IT - Ars Technica</span>
-            <span class="score-big">🔥 29</span>
+            <span><strong>Source:</strong> Crunch Hype</span>
+            <span class="score-big">🔥 63</span>
         </div>
-        <p class="why">Security failure: data leak, breach or system exposure.</p>
-        <p>The actions could have resulted in criminal charges had humans been behind the keyboard.</p>
-        <a class="readmore" href="https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/" target="_blank" rel="noopener noreferrer">Read article ↗</a>
+        <p class="why">Legal risk: AI use triggered legal or copyright issues.</p>
+        <p>What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code? You use an app, tap a feature, and wonder how it was built. Maybe it is a fast search bar, a clever clipboard trick, or a mechanic in an old game. Until recently, finding out meant months of learning disassemblers and reading assembly code. A new open-source project called REA changes that. It has earned more than 430,000 stars on GitHub, and in this guide I will explain what it does, which problems it solves, and how you can start using it today. In this guide The problem with reverse engineering How REA solves it How REA works What REA can analyze Real examples How to get started REA at a glance Using REA responsibly Frequently asked questions The Problem: Reverse Engineering Is Hard Reverse engineering is the practice of studying finished software to understand how it works. It is powerful, but it has never been beginner-friendly. If you have tried it, or even thought about trying it, you have probably run into these obstacles. 1. A steep learning curve Reading assembly code and pseudocode takes a long time to learn. Many curious developers give up before they get their first useful result. 2. Too many tools and no single workflow An Electron app needs one approach. An Android APK needs another. A .NET assembly, a native binary, and a website each have their own tools, file formats, and tricks. 3. Slow, manual investigation Even experts can spend hours following one function through strings, calls, and references just to understand a single small feature. 4. AI answers you cannot verify If you ask a general chatbot how an app works, it may give a confident answer that is simply invented. Without evidence, you cannot tell what is real. 5. Painful setup Connecting analysis tools to an AI agent usually requires custom scripts and configuration, and it is easy to break. The Solution: REA (Reverse Engineer Anything) REA is a free, MIT-licensed project that connects your AI agent to professional reverse engineering tools through MCP (Model Context Protocol). MCP is a standard way for AI agents to use external tools. In simple terms, REA acts as a bridge between your agent and the software you want to understand. Here is how it answers each problem above. The Problem How REA Solves It Steep learning curve You ask in plain English. Your agent runs the tools and explains the results. Too many tools One MCP server covers native binaries, Electron apps, Android, .NET, websites, and dozens of other formats. Slow and manual The agent traces code, references, and calls for you. Answers you cannot verify Every result includes the evidence and limitations behind it. Painful setup One command registers REA with your agent and backs up your existing configuration. You do not need the app’s source code. You point your agent at the app, ask a question, and REA helps it trace the answer. How REA Works You ask a question. For example, how a feature in a particular app works. The agent calls REA. It uses MCP to inspect the target and trace the relevant code. REA returns findings. These include code, references, and clearly marked unknowns. The agent acts on them. It can explain the behavior, ask follow-up questions, or write and test its own version of the feature. The same workflows are available from the terminal, so you can also script them without an agent. Analysis runs locally on your machine. Your agent receives the tool results, and your AI provider’s own data policy applies to that part. What Can REA Analyze? The range of supported targets is one of REA’s biggest strengths. These are the main groups. Native programs and binaries REA returns pseudocode, assembly, strings, symbols, calls, and references. Deep native analysis uses an engine you already have, such as Hopper, Ghidra, IDA, or Kuna. It also supports GNU objdump and Rizin for offline inspection. JavaScript and Electron apps This is the easiest place to start, because static JavaScript analysis needs no native engine. REA recovers modules, imports, source maps, routes, IPC connections, and native add-on relationships. Android apps and devices REA can inspect APK manifests, classes, decompiled methods, signatures, and resources. Through adb, it can also look at packages, processes, and logs on an emulator or a real phone. Flutter apps and JEB projects are supported too. .NET and managed code For .NET assemblies, REA reads metadata, CIL instructions, and native dependencies without running the program. Websites and network captures REA can inspect page structure, scripts, and network activity using a Chrome-family browser. It can also read saved HAR and Fiddler SAZ files to examine requests, responses, and exposed payloads. Specialist formats The list continues with Go and Rust binaries, GPU code objects, GGUF and safetensors model files, Unity IL2CPP metadata, Godot PCK archives, PE imports and certificates, ELF notes, Linux kernel modules, WebAssembly, EVM bytecode, SQLite databases, firmware images, packet captures, and PyInstaller executables. Most of these use built-in static inspection, so no extra software is required. Real Examples: What Has REA Done? The project publishes several case studies on its website. DX-Ball sound panning. REA followed a sound call into a helper function and turned incomplete pseudocode into C. The reconstruction passed 3,205 test cases against the original x86 code and matched all 63 compiled function bytes. Notion’s clipboard bridge. REA traced how Notion’s Electron app moves clipboard data from the renderer through preload and IPC into the main process, including the rich clipboard format. TH04 bullet patterns. REA recovered the angle calculations of a classic DOS game and compared the rebuilt C++ with the original compiler output. Bonus: build RL environments from a web app REA can record a web app session and turn its API calls into tools an AI agent can use. It then exports a runnable environment for reinforcement learning or for testing how well an agent completes tasks. With a saved HAR file, the command looks like this: rea environment-build ./session.har ./my-env --name my-env --json You then run the result with AgentEnv and Docker, and add your own tasks and reward checks. How to Get Started With REA You need Node.js and npm. The project lists supported Node versions as 22.x (22.23.4 or newer), 24.x (24.22.1 or newer), or 26.12.1 and above. Step 1: Run the setup command npx rea-agents setup Step 2: Choose your agents and approve the changes Setup supports Claude Code, Codex, Cursor, Gemini CLI, Grok Build, and other agents. It shows you the proposed changes first and keeps backups of your existing configuration. Step 3: Restart your agent The new MCP server is loaded when the agent starts again. Step 4: Ask your first question Understand how search works in the Notes app, show me the evidence, and build a similar feature for my project. Prefer the terminal? You can inspect an extracted Electron app or ASAR file directly: npx -y rea-agents@latest analyze-javascript-application /absolute/path/to/app --json To keep REA installed, run npm install --global rea-agents . REA changes quickly, so use rea update to stay current. Updating is also the first fix to try if you run into a bug. REA at a Glance What makes it special REA combines the reach of dozens of analysis tools with the convenience of an AI agent. It helps you understand software you do not have source code for, and it backs each conclusion with evidence instead of guesses. The range of supported formats, from native binaries to Electron apps to Android devices, is unusually broad for a free tool. Key features Works through MCP with Claude Code, Codex, Cursor, Gemini CLI, Grok Build, and other agents Evidence and limitations attached to every result Local analysis on your own machine A full command-line interface for scripting Support for dozens of file and app types An RL environment builder Guides and case studies on the official website Pricing REA itself: free and open source (MIT license) Commercial engines such as IDA Pro, Hopper, and JEB: you must obtain these legally under their own licenses Ghidra: a free option for native analysis; see the setup guide for details Perfect for Developers, security researchers, students, software preservationists, and anyone who wants to understand how an app works. Using REA Responsibly Use REA only on software you own or are authorized to examine. The project is intended for lawful research, education, interoperability, software preservation, and analysis of software you have permission to study. It does not permit cracked tools, stolen license keys, or bypassing license restrictions. Read the project’s disclaimer before you start. Also be careful where you download it from. The project warns that a similar repository name or a copied README does not make a download official. Use only these sources: GitHub: github.com/morluto/rea Website: rea.tools npm package: rea-agents Frequently Asked Questions Do I need Hopper or Ghidra? Only for deep native binary analysis. JavaScript and .NET inspection work without a native engine, and setup can install Hopper with your approval. Does REA upload my app? No. Analysis runs locally. Your agent sees the results, and its provider has its own data policy. Which AI agents work with REA? Any agent that supports local MCP servers can use it. What should I do if I find a bug? Update first, because a recent release may already include the fix. If the problem continues, open an issue on GitHub with your REA version, the target type, the steps to reproduce, and the error output. Final Thoughts The old problem was simple: understanding software without source code took too much skill, too many tools, and too much time. REA’s answer is just as simple. It gives your AI agent the tools to investigate, and it requires the agent to show its evidence. Whether you want to learn how a favorite feature works, study a classic game, or inspect an Electron app, REA is a strong place to start. Just make sure you use it only on software you are allowed to examine.</p>
+        <a class="readmore" href="https://techncruncher.blogspot.com/2026/11/rea-open-source-ai-tool-that-can.html" target="_blank" rel="noopener noreferrer">Read article ↗</a>
     </section>
     
 
         <div class="section-title">More signals</div>
         <section class="grid">
             
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached')">
+        <article class="card" data-lang="EN" onclick="openLink('https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/')">
             <div class="card-top">
                 <span class="rank">#1</span>
+                <span class="badge cat-security">Security</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 29</span>
+            </div>
+
+            <h3><a href="https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">OpenAI models hacked a crypto wallet and breached more websites</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> Biz &amp; IT - Ars Technica</span>
+            </div>
+
+            <p class="why"><em>Security failure: data leak, breach or system exposure.</em></p>
+            <p>The actions could have resulted in criminal charges had humans been behind the keyboard.</p>
+
+            <a class="readmore" href="https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached')">
+            <div class="card-top">
+                <span class="rank">#2</span>
                 <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 27</span>
@@ -318,9 +339,30 @@
         </article>
         
 
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai')">
+            <div class="card-top">
+                <span class="rank">#3</span>
+                <span class="badge cat-privacy">Privacy</span>
+                <span class="badge lang">EN</span>
+                <span class="score-big">🔥 21</span>
+            </div>
+
+            <h3><a href="https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">US public workers are fighting to protect their jobs from AI – and some are winning</a></h3>
+
+            <div class="meta">
+                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
+            </div>
+
+            <p class="why"><em>Privacy risk: user data or identity may be exposed.</em></p>
+            <p>As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor. “We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading...</p>
+
+            <a class="readmore" href="https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+        </article>
+        
+
         <article class="card" data-lang="EN" onclick="openLink('https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html')">
             <div class="card-top">
-                <span class="rank">#2</span>
+                <span class="rank">#4</span>
                 <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 21</span>
@@ -341,7 +383,7 @@
 
         <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china')">
             <div class="card-top">
-                <span class="rank">#3</span>
+                <span class="rank">#5</span>
                 <span class="badge cat-security">Security</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 20</span>
@@ -360,30 +402,30 @@
         </article>
         
 
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai')">
+        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam')">
             <div class="card-top">
-                <span class="rank">#4</span>
-                <span class="badge cat-privacy">Privacy</span>
+                <span class="rank">#6</span>
+                <span class="badge cat-general">General</span>
                 <span class="badge lang">EN</span>
-                <span class="score-big">🔥 17</span>
+                <span class="score-big">🔥 18</span>
             </div>
 
-            <h3><a href="https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">US public workers are fighting to protect their jobs from AI – and some are winning</a></h3>
+            <h3><a href="https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating</a></h3>
 
             <div class="meta">
                 <span><strong>Source:</strong> Technology | The Guardian</span>
             </div>
 
-            <p class="why"><em>Privacy risk: user data or identity may be exposed.</em></p>
-            <p>As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor. “We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading...</p>
+            <p class="why"><em>General AI-related risk or failure signal.</em></p>
+            <p>Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...</p>
 
-            <a class="readmore" href="https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
+            <a class="readmore" href="https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
 
         <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence')">
             <div class="card-top">
-                <span class="rank">#5</span>
+                <span class="rank">#7</span>
                 <span class="badge cat-education">Education</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 17</span>
@@ -402,30 +444,9 @@
         </article>
         
 
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet')">
-            <div class="card-top">
-                <span class="rank">#6</span>
-                <span class="badge cat-legal">Legal</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 17</span>
-            </div>
-
-            <h3><a href="https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> The Verge</span>
-            </div>
-
-            <p class="why"><em>Legal risk: AI use triggered legal or copyright issues.</em></p>
-            <p>After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and &quot;eligible US-issued American Express, Chase, Mastercard and Visa cards.&quot; After adding a card […]</p>
-
-            <a class="readmore" href="https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
         <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest')">
             <div class="card-top">
-                <span class="rank">#7</span>
+                <span class="rank">#8</span>
                 <span class="badge cat-general">General</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 16</span>
@@ -446,7 +467,7 @@
 
         <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest')">
             <div class="card-top">
-                <span class="rank">#8</span>
+                <span class="rank">#9</span>
                 <span class="badge cat-general">General</span>
                 <span class="badge lang">EN</span>
                 <span class="score-big">🔥 16</span>
@@ -462,27 +483,6 @@
             <p>Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down – watch on YouTube Continue reading...</p>
 
             <a class="readmore" href="https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
-        </article>
-        
-
-        <article class="card" data-lang="EN" onclick="openLink('https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools')">
-            <div class="card-top">
-                <span class="rank">#9</span>
-                <span class="badge cat-general">General</span>
-                <span class="badge lang">EN</span>
-                <span class="score-big">🔥 14</span>
-            </div>
-
-            <h3><a href="https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools</a></h3>
-
-            <div class="meta">
-                <span><strong>Source:</strong> AI (artificial intelligence) | The Guardian</span>
-            </div>
-
-            <p class="why"><em>General AI-related risk or failure signal.</em></p>
-            <p>Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data tech NHS England has deleted a claim from its website stating 137 hospital trusts are benefiting from Palantir’s AI health data system after the Guardian revealed 29 of them were not using all or most of the controversial technology. Health bosses had published a list of all the NHS bodies “live” with and “realising benefits” from the AI-powered federated data platform (FDP), a system set up to improve patient outcomes, boost operating theatre efficiency and speed up bed discharges. But after 29 trusts said it was either not live or they were not using any of its applications, the original list of hospitals appears to have been taken down. Continue reading...</p>
-
-            <a class="readmore" href="https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools" target="_blank" rel="noopener noreferrer" onclick="event.stopPropagation()">Open article ↗</a>
         </article>
         
         </section>
