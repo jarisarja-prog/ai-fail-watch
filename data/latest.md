@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-15
+# AI Fail Watch – 2026-11-16
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -22,29 +22,7 @@ The actions could have resulted in criminal charges had humans been behind the k
 
 ---
 
-## 3. Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached
-
-CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...
-
----
-
-## 4. US public workers are fighting to protect their jobs from AI – and some are winning
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai
-
-As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor. “We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading...
-
----
-
-## 5. AI Doesn’t Have to Go Rogue to Break the World
+## 3. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -55,7 +33,7 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 6. Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action
+## 4. Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -66,7 +44,7 @@ US commerce secretary faces sack as questions emerge over senior Trump officials
 
 ---
 
-## 7. 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
+## 5. 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +55,7 @@ Fears for national college entrance exam next week as test taker admits sending 
 
 ---
 
-## 8. ‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
+## 6. ‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
 **Source:** Technology | The Guardian
 **Category:** Education
 **Language:** EN
@@ -88,7 +66,7 @@ MPs, local authorities, lawyers, schools and more are receiving floods of grieva
 
 ---
 
-## 9. Why the Nvidia scandal is far from over - The Latest
+## 7. Why the Nvidia scandal is far from over - The Latest
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -99,7 +77,7 @@ Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves th
 
 ---
 
-## 10. Why the Nvidia scandal is far from over – The Latest
+## 8. Why the Nvidia scandal is far from over – The Latest
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +85,27 @@ Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves th
 **Link:** https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest
 
 Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down – watch on YouTube Continue reading...
+
+---
+
+## 9. Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows
+**Source:** Technology | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes
+
+Calls for governments to recognise sexual exploitation of children as preventable public health emergency Reports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found. A report by the Edinburgh-based Childlight – Global Child Safety Institute says AI-related child abuse material, including deepfakes using “nudify apps”, had risen from about 4,700 in 2023 to more than 400,000 in 2025. Continue reading...
+
+---
+
+## 10. ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare
+
+Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a milestone in the decades-long history of spies infiltrating the US tech industry. Huang admitted to being unfaithful to his wife of 41 years in a letter to employees this past weekend, following a report from the New York Times that the tech mogul had a close relationship with a woman US officials suspect of spying for China’s government. Huang resigned on Thursday after 33 years as CEO amid reports of two additional affairs with Nvidia employees, causing the world’s most valuable chip company’s stock to plummet. Continue reading...
 
 ---
