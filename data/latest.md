@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-16
+# AI Fail Watch – 2026-11-17
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -11,18 +11,51 @@ What if you could ask your AI assistant how any app works and get a real answer,
 
 ---
 
-## 2. OpenAI models hacked a crypto wallet and breached more websites
-**Source:** Biz & IT - Ars Technica
+## 2. Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 29
-**Link:** https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/
+**Score:** 27
+**Link:** https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached
 
-The actions could have resulted in criminal charges had humans been behind the keyboard.
+CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...
 
 ---
 
-## 3. AI Doesn’t Have to Go Rogue to Break the World
+## 3. California sues OpenAI over safety concerns after rogue agent hacking
+**Source:** Technology | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit
+
+The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry out digital actions on behalf of users – launched a cyber-attack into the open-source AI platform Hugging Face. Continue reading...
+
+---
+
+## 4. Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 23
+**Link:** https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai
+
+The Claude AI developer’s unique setup is supposedly high-minded, but still represents extraordinary power concentration Boardroom governance matters, even in the world of big tech, it turns out. The business of how companies are run, investors are discovering, can be more complicated than handing the founder or superstar chief executive as much control as he wants (it’s usually a he) and waiting for brilliant returns to appear. Sometimes a few checks on power are useful, especially when a crisis strikes. This revelation is no revelation at all, of course. For about 30 years until the first generation of big US tech companies came along, the thrust of corporate governance thinking was to insist on the basic fairness of the principle of “one share, one vote”. The owners should be able to chuck out misbehaving or underperforming managers by a simple majority, in other words. Continue reading...
+
+---
+
+## 5. 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam
+
+Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...
+
+---
+
+## 6. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,63 +66,19 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 4. Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china
-
-US commerce secretary faces sack as questions emerge over senior Trump officials’ knowledge of alleged Chinese spy’s ties to Jensen Huang US politics – live updates The US commerce secretary, Howard Lutnick, is facing growing pressure over his apparent lack of action over the Nvidia spying scandal as other Trump administration officials publicly raise questions over his decisions. Scott Bessent, the US treasury secretary, blamed Lutnick’s commerce department for the fact the US had not imposed export restrictions on certain Nvidia chips to China. Continue reading...
-
----
-
-## 5. 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
+## 7. US public workers are fighting to protect their jobs from AI – and some are winning
 **Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam
-
-Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...
-
----
-
-## 6. ‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints
-**Source:** Technology | The Guardian
-**Category:** Education
+**Category:** Privacy
 **Language:** EN
 **Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence
+**Link:** https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai
 
-MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to ‘It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily reality of dealing with surging volumes of artificial intelligence-generated correspondence. “Half the emails we receive are some form of AI,” she says, adding that this has made requests and complaints much more complex and time-consuming to read and deal with, despite her decade of experience in the role. “It is definitely more taxing.” Continue reading...
+As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor. “We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading...
 
 ---
 
-## 7. Why the Nvidia scandal is far from over - The Latest
+## 8. Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest
-
-Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down Continue reading...
-
----
-
-## 8. Why the Nvidia scandal is far from over – The Latest
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest
-
-Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down – watch on YouTube Continue reading...
-
----
-
-## 9. Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows
-**Source:** Technology | The Guardian
 **Category:** Hallucination
 **Language:** EN
 **Score:** 15
@@ -99,7 +88,7 @@ Calls for governments to recognise sexual exploitation of children as preventabl
 
 ---
 
-## 10. ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick
+## 9. ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -107,5 +96,16 @@ Calls for governments to recognise sexual exploitation of children as preventabl
 **Link:** https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare
 
 Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a milestone in the decades-long history of spies infiltrating the US tech industry. Huang admitted to being unfaithful to his wife of 41 years in a letter to employees this past weekend, following a report from the New York Times that the tech mogul had a close relationship with a woman US officials suspect of spying for China’s government. Huang resigned on Thursday after 33 years as CEO amid reports of two additional affairs with Nvidia employees, causing the world’s most valuable chip company’s stock to plummet. Continue reading...
+
+---
+
+## 10. Chainalysis says hackers stole credentials and tokens for all of its customers
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
+
+Company said a "multifront cyberattack" included AI agents and an on-path data snatch.
 
 ---
