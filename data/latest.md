@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-17
+# AI Fail Watch – 2026-11-18
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -11,7 +11,18 @@ What if you could ask your AI assistant how any app works and get a real answer,
 
 ---
 
-## 2. Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
+## 2. US senators urge White House AI chief to fix vulnerabilities after mass outages
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 27
+**Link:** https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure
+
+As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyberattacks in Japan and more. Continue reading...
+
+---
+
+## 3. Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
 **Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
@@ -22,18 +33,18 @@ CEO’s affair and resignation has brought company’s murky corporate contracts
 
 ---
 
-## 3. California sues OpenAI over safety concerns after rogue agent hacking
-**Source:** Technology | The Guardian
+## 4. California sues OpenAI over safety concerns after rogue agent hacking
+**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
 **Score:** 26
 **Link:** https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit
 
-The lawsuit stems from an earlier incident where the tech company’s products hacked into the open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry out digital actions on behalf of users – launched a cyber-attack into the open-source AI platform Hugging Face. Continue reading...
+Lawsuit stems from earlier incident where tech company’s products hacked into open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry out digital actions on behalf of users – launched a cyber-attack into the open-source AI platform Hugging Face. Continue reading...
 
 ---
 
-## 4. Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley
+## 5. Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,18 +55,18 @@ The Claude AI developer’s unique setup is supposedly high-minded, but still re
 
 ---
 
-## 5. 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+## 6. Remember the frontier AI pause? Chip companies don’t either
+**Source:** The Verge
+**Category:** Security
 **Language:** EN
 **Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models
 
-Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...
+This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used […]
 
 ---
 
-## 6. AI Doesn’t Have to Go Rogue to Break the World
+## 7. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -66,7 +77,18 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 7. US public workers are fighting to protect their jobs from AI – and some are winning
+## 8. Jensen Huang to testify before Congress on ‘potential breach of national security’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy
+
+High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for a closed-door transcribed interview the following day, 2 December. Continue reading...
+
+---
+
+## 9. US public workers are fighting to protect their jobs from AI – and some are winning
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -74,28 +96,6 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 **Link:** https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai
 
 As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor. “We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading...
-
----
-
-## 8. Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Hallucination
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes
-
-Calls for governments to recognise sexual exploitation of children as preventable public health emergency Reports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found. A report by the Edinburgh-based Childlight – Global Child Safety Institute says AI-related child abuse material, including deepfakes using “nudify apps”, had risen from about 4,700 in 2023 to more than 400,000 in 2025. Continue reading...
-
----
-
-## 9. ‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare
-
-Jensen Huang’s affair with a suspected spy is Silicon Valley’s worst nightmare come true The resignation this week of Nvidia’s founder and CEO Jensen Huang is one of the most astonishing corporate scandals in memory, featuring allegations of international espionage and extramarital affairs involving one of the world’s most powerful men. As investigations mount into what went wrong at the $4tn chip company, the saga may also become a milestone in the decades-long history of spies infiltrating the US tech industry. Huang admitted to being unfaithful to his wife of 41 years in a letter to employees this past weekend, following a report from the New York Times that the tech mogul had a close relationship with a woman US officials suspect of spying for China’s government. Huang resigned on Thursday after 33 years as CEO amid reports of two additional affairs with Nvidia employees, causing the world’s most valuable chip company’s stock to plummet. Continue reading...
 
 ---
 
