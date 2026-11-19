@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-18
+# AI Fail Watch – 2026-11-19
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -18,7 +18,7 @@ What if you could ask your AI assistant how any app works and get a real answer,
 **Score:** 27
 **Link:** https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure
 
-As Democrats flag AI bank breaches and cyberattacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyberattacks in Japan and more. Continue reading...
+As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyber-attacks in Japan and more. Continue reading...
 
 ---
 
@@ -33,40 +33,18 @@ CEO’s affair and resignation has brought company’s murky corporate contracts
 
 ---
 
-## 4. California sues OpenAI over safety concerns after rogue agent hacking
+## 4. Four Maryland high school students sue after AI mistakes Doritos bag for gun
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 26
-**Link:** https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit
-
-Lawsuit stems from earlier incident where tech company’s products hacked into open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developing its technology without safety or the public’s interest in mind. The lawsuit concerns an incident earlier this year where OpenAI agents – semi-autonomous AI software that can carry out digital actions on behalf of users – launched a cyber-attack into the open-source AI platform Hugging Face. Continue reading...
-
----
-
-## 5. Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
 **Score:** 23
-**Link:** https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/16/anthropic-claude-risks-to-humanity-governance-ai
+**Link:** https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit
 
-The Claude AI developer’s unique setup is supposedly high-minded, but still represents extraordinary power concentration Boardroom governance matters, even in the world of big tech, it turns out. The business of how companies are run, investors are discovering, can be more complicated than handing the founder or superstar chief executive as much control as he wants (it’s usually a he) and waiting for brilliant returns to appear. Sometimes a few checks on power are useful, especially when a crisis strikes. This revelation is no revelation at all, of course. For about 30 years until the first generation of big US tech companies came along, the thrust of corporate governance thinking was to insist on the basic fairness of the principle of “one share, one vote”. The owners should be able to chuck out misbehaving or underperforming managers by a simple majority, in other words. Continue reading...
-
----
-
-## 6. Remember the frontier AI pause? Chip companies don’t either
-**Source:** The Verge
-**Category:** Security
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models
-
-This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used […]
+Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives”. The plaintiffs sued Omnilert, the company behind the AI gun-detection system, Baltimore county police, the board of education, individual officers and the school principal, alleging unlawful detention and search because of technological and human errors. Continue reading...
 
 ---
 
-## 7. AI Doesn’t Have to Go Rogue to Break the World
+## 5. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -77,18 +55,18 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 8. Jensen Huang to testify before Congress on ‘potential breach of national security’
+## 6. Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
+**Category:** General
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy
+**Score:** 17
+**Link:** https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside
 
-High-stakes hearing comes in wake of resignation from Nvidia after alleged affair with suspected Chinese spy Nvidia’s former CEO Jensen Huang will testify before several congressional committees on 1 December, setting the stage for a high-stakes hearing in the wake of his resignation following an affair with a suspected Chinese spy. Tim Teter, Nvidia’s general counsel, has also agreed to appear for a closed-door transcribed interview the following day, 2 December. Continue reading...
+It has been a wild few weeks in the world of tech. First, Jensen Huang’s extramarital affairs, including with an alleged Chinese spy, forced an unimaginable leadership change at Nvidia – arguably the most consequential company in AI development. Then, chaos erupted as a rolling set of IT outages disrupted flights, banking, tech companies and the federal government. And now, Anthropic is blowing minds with a trillion-dollar IPO – one of the largest in stock market history. The Atlantic’s tech writer Charlie Warzel tells Kai Wright that these events are linked: they’re all examples of the ways in which we shoulder unprecedented risk today, in order to bet on AI’s future reward. It’s a convoluted logic that keeps the AI race speeding forward, no matter how many warning signs it blows past. Charlie Warzel is also host of the Atlantic’s podcast Galaxy Brain . Continue reading...
 
 ---
 
-## 9. US public workers are fighting to protect their jobs from AI – and some are winning
+## 7. US public workers are fighting to protect their jobs from AI – and some are winning
 **Source:** Technology | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -99,7 +77,7 @@ As governments adopt AI, workers are gaining ground in how it’s used and secur
 
 ---
 
-## 10. Chainalysis says hackers stole credentials and tokens for all of its customers
+## 8. Chainalysis says hackers stole credentials and tokens for all of its customers
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,27 @@ As governments adopt AI, workers are gaining ground in how it’s used and secur
 **Link:** https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
 
 Company said a "multifront cyberattack" included AI agents and an on-path data snatch.
+
+---
+
+## 9. Why Palantir’s health tech is not the right fit for the NHS | Letter
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 13
+**Link:** https://www.theguardian.com/technology/2026/nov/18/why-palantirs-health-tech-is-not-the-right-fit-for-the-nhs
+
+The US firm’s health data system is based on an insurance model of healthcare, not the patient-centred universal service we have in Britain, says Prof Caroline Mitchell The news that NHS England may have overstated the benefits of Palantir for improving efficiency will surprise few frontline clinicians ( NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools, 12 November ) Too often, global digital policy assumes that software designed for the fragmented, insurance-based US healthcare system can simply be adapted to a universal public service elsewhere. A legitimate concern is that algorithms underpinning AI decision-making may be immature in the NHS context, having been developed primarily for a very different US healthcare system. Continue reading...
+
+---
+
+## 10. Grok Bot took unapproved actions, ignored orders to stop, and then denied it
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/
+
+AI agent takes unapproved actions even when laptop lid is closed and told not to.
 
 ---
