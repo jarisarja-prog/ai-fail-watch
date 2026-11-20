@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-19
+# AI Fail Watch – 2026-11-20
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -11,40 +11,18 @@ What if you could ask your AI assistant how any app works and get a real answer,
 
 ---
 
-## 2. US senators urge White House AI chief to fix vulnerabilities after mass outages
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure
-
-As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happen US politics live – latest updates A bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies. Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyber-attacks in Japan and more. Continue reading...
-
----
-
-## 3. Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
+## 2. Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video
 **Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 27
-**Link:** https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached
-
-CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...
-
----
-
-## 4. Four Maryland high school students sue after AI mistakes Doritos bag for gun
-**Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 23
-**Link:** https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video
 
-Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides Four current and former students at a Maryland high school have filed a lawsuit a year after armed police detained them , prompted by an AI alert that mistook a bag of Doritos for a gun, in an incident that left them “fearing for their lives”. The plaintiffs sued Omnilert, the company behind the AI gun-detection system, Baltimore county police, the board of education, individual officers and the school principal, alleging unlawful detention and search because of technological and human errors. Continue reading...
+Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...
 
 ---
 
-## 5. AI Doesn’t Have to Go Rogue to Break the World
+## 3. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -52,6 +30,28 @@ Football players say they are ‘traumatized’ after being handcuffed and detai
 **Link:** https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html
 
 This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop . I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing. I started writing about this in 2021 and in my 2022 book, A Hacker’s Mind . Back then I said it was mostly still science fiction, but not stupid science fiction. We’re seeing it more and more, especially in the past year. The trends I’m describing don’t require a major breakthrough in AI. They’re starting to happen now, and they’ll happen more often as AIs get better at autonomous problem-solving. And it will involve far more than computer code...
+
+---
+
+## 4. Signal is blocking Gemini and Siri AI from reading your screen
+**Source:** The Verge
+**Category:** Privacy
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app
+
+Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are "undermining Signal's ability to independently guarantee privacy," Signal president […]
+
+---
+
+## 5. Anthropic shares slump on second day of trading as stock markets reel from AI sell-off
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
+
+Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. Shares in the frontier AI company, which floated on Thursday, fell by more than 9% at the start of trading on Friday. They dropped to $88.17, towards the $83 level at which Anthropic priced its stock market debut. Continue reading...
 
 ---
 
@@ -66,14 +66,14 @@ It has been a wild few weeks in the world of tech. First, Jensen Huang’s extra
 
 ---
 
-## 7. US public workers are fighting to protect their jobs from AI – and some are winning
+## 7. Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley
 **Source:** Technology | The Guardian
-**Category:** Privacy
+**Category:** General
 **Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly
 
-As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harms In the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance. Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor. “We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading...
+Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a listed company . From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting $550m of underwriting fees . Continue reading...
 
 ---
 
@@ -88,14 +88,14 @@ Company said a "multifront cyberattack" included AI agents and an on-path data s
 
 ---
 
-## 9. Why Palantir’s health tech is not the right fit for the NHS | Letter
+## 9. Academic integrity matters, but students shouldn’t be penalised for using AI | Letter
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
+**Category:** Research integrity
 **Language:** EN
 **Score:** 13
-**Link:** https://www.theguardian.com/technology/2026/nov/18/why-palantirs-health-tech-is-not-the-right-fit-for-the-nhs
+**Link:** https://www.theguardian.com/education/2026/nov/19/academic-integrity-matters-but-students-shouldnt-be-penalised-for-using-ai
 
-The US firm’s health data system is based on an insurance model of healthcare, not the patient-centred universal service we have in Britain, says Prof Caroline Mitchell The news that NHS England may have overstated the benefits of Palantir for improving efficiency will surprise few frontline clinicians ( NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools, 12 November ) Too often, global digital policy assumes that software designed for the fragmented, insurance-based US healthcare system can simply be adapted to a universal public service elsewhere. A legitimate concern is that algorithms underpinning AI decision-making may be immature in the NHS context, having been developed primarily for a very different US healthcare system. Continue reading...
+Berthold Schoene responds after the head of Ofqual said students could be disqualified from GCSEs and A-levels if they tried to use AI in assessed coursework Is this really the best we can do: draconically penalise the young for making use of the latest cognitive resources and tools available to them ( Ofqual urges ‘life-altering’ penalties for students who use tech to cheat, 18 November )? Our generation has allowed the introduction of “life-altering” new technologies into every walk of life without much democratic debate, public scrutiny or governmental oversight. And now our education leaders are threatening to jeopardise young people’s career prospects for deploying these technologies within an education system that can’t cope and struggles to adapt? We all know that AI is here to stay. And importantly, it is so much more than just a cheap cheating device. Within an incredibly short space of time, it has transformed how we work, communicate, solve problems, research and learn. Surely the pedagogical response cannot simply be to devise ever more elaborate ways of preventing students from using it? Continue reading...
 
 ---
 
