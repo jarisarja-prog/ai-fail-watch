@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-20
+# AI Fail Watch – 2026-11-21
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -11,18 +11,7 @@ What if you could ask your AI assistant how any app works and get a real answer,
 
 ---
 
-## 2. Anthropic CEO acknowledges AI has 'very real risks' shortly before IPO – video
-**Source:** Technology | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/video/2026/nov/19/anthropic-dario-amodei-acknowledges-ai-risks-before-ipo-video
-
-Anthropic's CEO, Dario Amodei, issued a warning about the dangers of AI, saying it has 'very real' but 'avoidable' risks, shortly before the company rang the opening bell at Nasdaq Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live Continue reading...
-
----
-
-## 3. AI Doesn’t Have to Go Rogue to Break the World
+## 2. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,40 +22,18 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 4. Signal is blocking Gemini and Siri AI from reading your screen
-**Source:** The Verge
-**Category:** Privacy
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app
-
-Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are "undermining Signal's ability to independently guarantee privacy," Signal president […]
-
----
-
-## 5. Anthropic shares slump on second day of trading as stock markets reel from AI sell-off
+## 3. ‘Little room for error’: what a debt-laden cloud computing company says about the AI boom
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
+**Score:** 16
+**Link:** https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom
 
-Asian markets record their worst week since 2020 as investors question huge sums being poured into AI build-out Business live – latest updates Anthropic’s shares have slumped at the start of a second day of trading, as its record-breaking IPO failed to stem a sell-off in AI-linked companies. Shares in the frontier AI company, which floated on Thursday, fell by more than 9% at the start of trading on Friday. They dropped to $88.17, towards the $83 level at which Anthropic priced its stock market debut. Continue reading...
-
----
-
-## 6. Outages, spies, and trillion-dollar IPOs: is this our AI future? – Stateside with Kai and Carter
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/us-news/video/2026/nov/19/our-ai-future-stateside
-
-It has been a wild few weeks in the world of tech. First, Jensen Huang’s extramarital affairs, including with an alleged Chinese spy, forced an unimaginable leadership change at Nvidia – arguably the most consequential company in AI development. Then, chaos erupted as a rolling set of IT outages disrupted flights, banking, tech companies and the federal government. And now, Anthropic is blowing minds with a trillion-dollar IPO – one of the largest in stock market history. The Atlantic’s tech writer Charlie Warzel tells Kai Wright that these events are linked: they’re all examples of the ways in which we shoulder unprecedented risk today, in order to bet on AI’s future reward. It’s a convoluted logic that keeps the AI race speeding forward, no matter how many warning signs it blows past. Charlie Warzel is also host of the Atlantic’s podcast Galaxy Brain . Continue reading...
+‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make their backers rich. Continue reading...
 
 ---
 
-## 7. Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley
+## 4. Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -77,7 +44,18 @@ Can the newly listed AI company really be worth $2tn? Anyone who remembers the l
 
 ---
 
-## 8. Chainalysis says hackers stole credentials and tokens for all of its customers
+## 5. Ännu ett historiskt matteproblem kan ha lösts – med AI
+**Source:** DN.se - Dagens Nyheter
+**Category:** General
+**Language:** EN
+**Score:** 14
+**Link:** https://www.dn.se/varlden/annu-ett-historiskt-matteproblem-kan-ha-losts-med-ai/
+
+Det kan ha hänt igen. En anställd på Anthropic hävdar att han med hjälp av AI lyckats lösa ett matteproblem som gäckat forskare i över 150 år. Lösningen sträcker sig över 250 000 sidor, enligt matematikern.
+
+---
+
+## 6. Chainalysis says hackers stole credentials and tokens for all of its customers
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -88,18 +66,7 @@ Company said a "multifront cyberattack" included AI agents and an on-path data s
 
 ---
 
-## 9. Academic integrity matters, but students shouldn’t be penalised for using AI | Letter
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/education/2026/nov/19/academic-integrity-matters-but-students-shouldnt-be-penalised-for-using-ai
-
-Berthold Schoene responds after the head of Ofqual said students could be disqualified from GCSEs and A-levels if they tried to use AI in assessed coursework Is this really the best we can do: draconically penalise the young for making use of the latest cognitive resources and tools available to them ( Ofqual urges ‘life-altering’ penalties for students who use tech to cheat, 18 November )? Our generation has allowed the introduction of “life-altering” new technologies into every walk of life without much democratic debate, public scrutiny or governmental oversight. And now our education leaders are threatening to jeopardise young people’s career prospects for deploying these technologies within an education system that can’t cope and struggles to adapt? We all know that AI is here to stay. And importantly, it is so much more than just a cheap cheating device. Within an incredibly short space of time, it has transformed how we work, communicate, solve problems, research and learn. Surely the pedagogical response cannot simply be to devise ever more elaborate ways of preventing students from using it? Continue reading...
-
----
-
-## 10. Grok Bot took unapproved actions, ignored orders to stop, and then denied it
+## 7. Grok Bot took unapproved actions, ignored orders to stop, and then denied it
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +74,38 @@ Berthold Schoene responds after the head of Ofqual said students could be disqua
 **Link:** https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/
 
 AI agent takes unapproved actions even when laptop lid is closed and told not to.
+
+---
+
+## 8. Anthropic VS code extension on Cursor backdoored for nearly 12 hours
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
+
+It's still unknown how attackers got access to Anthropic's verified Cursor account.
+
+---
+
+## 9. Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading
+**Source:** Technology | The Guardian
+**Category:** Research integrity
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
+
+The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal. Continue reading...
+
+---
+
+## 10. NextDC vows to keep future datacentres away from homes after community backlash in Melbourne
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 12
+**Link:** https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne
+
+Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie says Get our breaking news email , free app or daily news podcast Community backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping 40% will change the way the company engages with communities – and it says it will no longer pursue new developments near homes. The company held its first annual general meeting since it was forced to delay the controversial expansion of its M3 site in West Footscray after power provider Jemena paused construction of new 22-metre power poles amid community protest . Continue reading...
 
 ---
