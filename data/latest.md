@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-21
+# AI Fail Watch – 2026-11-22
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -11,7 +11,18 @@ What if you could ask your AI assistant how any app works and get a real answer,
 
 ---
 
-## 2. AI Doesn’t Have to Go Rogue to Break the World
+## 2. Two groups verify mathematician’s claim that Claude helped prove mathematics problem
+**Source:** Technology | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 21
+**Link:** https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai
+
+Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. Continue reading...
+
+---
+
+## 3. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -22,7 +33,29 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 3. ‘Little room for error’: what a debt-laden cloud computing company says about the AI boom
+## 4. South Korean minister quits after AI cheating scandal engulfs university exams
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Education
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams
+
+Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountancy exam confessed to using a miniature camera and smartphone to achieve a near-perfect score, just four days before the crucial university entrance exam, known as the suneung . Continue reading...
+
+---
+
+## 5. ‘Serious error of judgment’: outrage over military AI event at Berlin arts complex
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex
+
+Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, drones hanging from the ceiling, and guards in flak jackets patrolling the premises with sniffer dogs. Continue reading...
+
+---
+
+## 6. ‘Little room for error’: what a debt-laden cloud computing company says about the AI boom
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +66,7 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 4. Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley
+## 7. Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -44,7 +77,7 @@ Can the newly listed AI company really be worth $2tn? Anyone who remembers the l
 
 ---
 
-## 5. Ännu ett historiskt matteproblem kan ha lösts – med AI
+## 8. Ännu ett historiskt matteproblem kan ha lösts – med AI
 **Source:** DN.se - Dagens Nyheter
 **Category:** General
 **Language:** EN
@@ -55,7 +88,7 @@ Det kan ha hänt igen. En anställd på Anthropic hävdar att han med hjälp av 
 
 ---
 
-## 6. Chainalysis says hackers stole credentials and tokens for all of its customers
+## 9. Chainalysis says hackers stole credentials and tokens for all of its customers
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -66,46 +99,13 @@ Company said a "multifront cyberattack" included AI agents and an on-path data s
 
 ---
 
-## 7. Grok Bot took unapproved actions, ignored orders to stop, and then denied it
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 12
-**Link:** https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/
-
-AI agent takes unapproved actions even when laptop lid is closed and told not to.
-
----
-
-## 8. Anthropic VS code extension on Cursor backdoored for nearly 12 hours
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
-**Language:** EN
-**Score:** 12
-**Link:** https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/
-
-It's still unknown how attackers got access to Anthropic's verified Cursor account.
-
----
-
-## 9. Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading
-**Source:** Technology | The Guardian
-**Category:** Research integrity
-**Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off
-
-The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal. Continue reading...
-
----
-
-## 10. NextDC vows to keep future datacentres away from homes after community backlash in Melbourne
+## 10. Will fragile bipartisanship on AI survive the silly season, or is parliament heading for a holiday meltdown? | Josh Butler
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
-**Score:** 12
-**Link:** https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne
+**Score:** 13
+**Link:** https://www.theguardian.com/australia-news/2026/nov/23/will-fragile-bipartisanship-on-ai-survive-silly-season-or-is-parliament-heading-for-a-holiday-meltdown-the-agenda
 
-Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie says Get our breaking news email , free app or daily news podcast Community backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping 40% will change the way the company engages with communities – and it says it will no longer pursue new developments near homes. The company held its first annual general meeting since it was forced to delay the controversial expansion of its M3 site in West Footscray after power provider Jemena paused construction of new 22-metre power poles amid community protest . Continue reading...
+A joint select committee report on Monday should signal where Labor is headed on issues including datacentres and copyright – and whether they’ll go it alone Get our daily political email , free app or daily news podcast The final four days of parliament for 2026 begin on Monday, and the government has a clutch of key reforms, budget hangovers and savings measures it wants to pass. But how many, if any, will get over the line by Friday is anyone’s guess. But over the top of the usual last-week-of-school feeling of parliament at this time of year, between the Christmas parties, frenzied negotiations and the prospect of Senate all-nighters, hangs the protean multi-headed beast of AI. An eagerly anticipated parliamentary report will drop this week bringing us one step closer to Labor’s long-awaited legislation on datacentres, energy use, and copyright – just as the green shoots of a bipartisan consensus on AI threatens to split. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
 
 ---
