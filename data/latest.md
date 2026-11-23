@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-22
+# AI Fail Watch – 2026-11-23
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -11,7 +11,18 @@ What if you could ask your AI assistant how any app works and get a real answer,
 
 ---
 
-## 2. Two groups verify mathematician’s claim that Claude helped prove mathematics problem
+## 2. How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 22
+**Link:** https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts
+
+As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grinding business operations to a halt. Zoom, Ikea, and PokerStars websites hacked. In the past weeks, there’s been a distinct sense that the complex systems that undergird our daily life might be on the verge of total collapse. Or, at the very least, they seem pretty wobbly. Even those who aren’t prone to conspiracy theories have been wondering out loud if these recent disruptions are somehow connected. Speculation runs wild about targeted cyber-attacks by Iranian hackers, or AI agents autonomously hacking critical (air traffic, banking) and not-so-critical (the Ikea website) infrastructure. Continue reading...
+
+---
+
+## 3. Two groups verify mathematician’s claim that Claude helped prove mathematics problem
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -22,7 +33,7 @@ Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to
 
 ---
 
-## 3. AI Doesn’t Have to Go Rogue to Break the World
+## 4. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -33,7 +44,40 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 4. South Korean minister quits after AI cheating scandal engulfs university exams
+## 5. Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 20
+**Link:** https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy
+
+John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom. Continue reading...
+
+---
+
+## 6. ‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 19
+**Link:** https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr
+
+Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert glasses” has been swift and severe. Smartglasses such as Meta’s Ray-Bans, which have built-in cameras, microphones, and AI assistants have been banned at some Australian swimming pools and playgrounds, and condemned as a possible invasion of privacy. Continue reading...
+
+---
+
+## 7. Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Legal
+**Language:** EN
+**Score:** 17
+**Link:** https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe
+
+Advocates from across the world voice concern over privacy issues and inappropriate communication to children More than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe. In a letter sent to Amazon’s president, Andy Jassy, and eBay’s president, Jamie Iannone, the coalition called for the online retailers to stop the sale of AI toys and offer refunds to customers who have already bought one. Continue reading...
+
+---
+
+## 8. South Korean minister quits after AI cheating scandal engulfs university exams
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Education
 **Language:** EN
@@ -44,7 +88,7 @@ Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams follo
 
 ---
 
-## 5. ‘Serious error of judgment’: outrage over military AI event at Berlin arts complex
+## 9. ‘Serious error of judgment’: outrage over military AI event at Berlin arts complex
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Security
 **Language:** EN
@@ -55,57 +99,13 @@ Kraftwerk Berlin, part of same development as techno club Tresor, transformed in
 
 ---
 
-## 6. ‘Little room for error’: what a debt-laden cloud computing company says about the AI boom
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 16
-**Link:** https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom
-
-‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make their backers rich. Continue reading...
-
----
-
-## 7. Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley
-**Source:** Technology | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 15
-**Link:** https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly
-
-Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it turned out. Anthropic flew out of the blocks on its first day as a listed company . From the point of view of the promoters, the result was as good as it gets. The final pricing for the shares at $83 apiece was meaningfully higher than the indicated range of $70 to $78, but still left room for a big initial “pop”. There were positive vibes all round – especially for the battalion of investment banks collecting $550m of underwriting fees . Continue reading...
-
----
-
-## 8. Ännu ett historiskt matteproblem kan ha lösts – med AI
-**Source:** DN.se - Dagens Nyheter
-**Category:** General
-**Language:** EN
-**Score:** 14
-**Link:** https://www.dn.se/varlden/annu-ett-historiskt-matteproblem-kan-ha-losts-med-ai/
-
-Det kan ha hänt igen. En anställd på Anthropic hävdar att han med hjälp av AI lyckats lösa ett matteproblem som gäckat forskare i över 150 år. Lösningen sträcker sig över 250 000 sidor, enligt matematikern.
-
----
-
-## 9. Chainalysis says hackers stole credentials and tokens for all of its customers
-**Source:** Biz & IT - Ars Technica
+## 10. Humans Have Rights. Machines Do Not.
+**Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
-**Score:** 13
-**Link:** https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
+**Score:** 17
+**Link:** https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html
 
-Company said a "multifront cyberattack" included AI agents and an on-path data snatch.
-
----
-
-## 10. Will fragile bipartisanship on AI survive the silly season, or is parliament heading for a holiday meltdown? | Josh Butler
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
-**Language:** EN
-**Score:** 13
-**Link:** https://www.theguardian.com/australia-news/2026/nov/23/will-fragile-bipartisanship-on-ai-survive-silly-season-or-is-parliament-heading-for-a-holiday-meltdown-the-agenda
-
-A joint select committee report on Monday should signal where Labor is headed on issues including datacentres and copyright – and whether they’ll go it alone Get our daily political email , free app or daily news podcast The final four days of parliament for 2026 begin on Monday, and the government has a clutch of key reforms, budget hangovers and savings measures it wants to pass. But how many, if any, will get over the line by Friday is anyone’s guess. But over the top of the usual last-week-of-school feeling of parliament at this time of year, between the Christmas parties, frenzied negotiations and the prospect of Senate all-nighters, hangs the protean multi-headed beast of AI. An eagerly anticipated parliamentary report will drop this week bringing us one step closer to Labor’s long-awaited legislation on datacentres, energy use, and copyright – just as the green shoots of a bipartisan consensus on AI threatens to split. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...
+This essay originally appeared in Tech Policy Press . Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot. The company made two arguments. One, that the chatbot’s words were speech that its users had a First Amendment right to receive. And two, that Character.AI was a service rather than a product—so product-liability law could not touch it. In May 2025, Judge Anne Conway accepted neither...
 
 ---
