@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-23
+# AI Fail Watch – 2026-11-24
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -11,18 +11,7 @@ What if you could ask your AI assistant how any app works and get a real answer,
 
 ---
 
-## 2. How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 22
-**Link:** https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts
-
-As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grinding business operations to a halt. Zoom, Ikea, and PokerStars websites hacked. In the past weeks, there’s been a distinct sense that the complex systems that undergird our daily life might be on the verge of total collapse. Or, at the very least, they seem pretty wobbly. Even those who aren’t prone to conspiracy theories have been wondering out loud if these recent disruptions are somehow connected. Speculation runs wild about targeted cyber-attacks by Iranian hackers, or AI agents autonomously hacking critical (air traffic, banking) and not-so-critical (the Ikea website) infrastructure. Continue reading...
-
----
-
-## 3. Two groups verify mathematician’s claim that Claude helped prove mathematics problem
+## 2. Two groups verify mathematician’s claim that Claude helped prove mathematics problem
 **Source:** Technology | The Guardian
 **Category:** General
 **Language:** EN
@@ -33,7 +22,7 @@ Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to
 
 ---
 
-## 4. AI Doesn’t Have to Go Rogue to Break the World
+## 3. AI Doesn’t Have to Go Rogue to Break the World
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -44,29 +33,51 @@ This essay is adapted from a keynote speech delivered at the DEF CON 34 conferen
 
 ---
 
-## 5. Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says
-**Source:** Technology | The Guardian
-**Category:** Security
+## 4. Why is scandal-plagued Jensen Huang back at Nvidia? – Stateside with Kai and Carter
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
 **Language:** EN
-**Score:** 20
-**Link:** https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy
+**Score:** 19
+**Link:** https://www.theguardian.com/us-news/video/2026/nov/24/jensen-huang-back-nvidia-stateside
 
-John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom. Continue reading...
+Jensen Huang is apparently too big to fail – but what’s that mean for the rest of us? Just last week, Nvidia’s board chair told investors that the company had no intention of reinstating Huang as CEO. On Monday, they turned a full about-face. The board voted unanimously to reinstall Huang, triggering a nearly $1tn surge in the company’s stock market valuation. Donald Trump took credit, telling CNBC that he 'convinced them' to bring Huang back. But questions remain about Huang’s extramarital affair with an alleged Chinese spy, and about whether Nvidia exploited loopholes to export chips to Chinese AI companies. Kai Wright talks with the Guardian US’s tech editor Blake Montgomery about the many twists and turns in the Huang scandal – and why Huang embodies the 'key man risk' that threatens our whole economy Continue reading...
 
 ---
 
-## 6. ‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’
+## 5. ‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
 **Score:** 19
 **Link:** https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr
 
-Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert glasses” has been swift and severe. Smartglasses such as Meta’s Ray-Bans, which have built-in cameras, microphones, and AI assistants have been banned at some Australian swimming pools and playgrounds, and condemned as a possible invasion of privacy. Continue reading...
+Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert glasses” has been swift and severe. Smartglasses such as Meta’s Ray-Bans, which have built-in cameras, microphones, and AI assistants, have been banned at some Australian swimming pools and playgrounds, and condemned as a possible invasion of privacy. Continue reading...
 
 ---
 
-## 7. Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe
+## 6. Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/global/2026/nov/24/jensen-huang-nvidia-return-silicon-valley-trump
+
+The Nvidia CEO’s faces mounting scrutiny, while Silicon Valley’s biggest names attempt to repair relationships with Democrats after years of backing the president This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here Hello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you while dreaming of the pear tarte tatin and a potato gratin I’ll be baking for Thanksgiving. Today in tech, we’re discussing Jensen Huang’s reinstatement as Nvidia CEO and Silicon Valley’s pivot away from Maga after the US midterm elections. Nvidia’s humiliated board should resign out of embarrassment A timeline of Jensen Huang’s affair scandal, from quitting Nvidia to his return Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut Who are Anthropic’s seven co-founders, now worth $180bn? Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading Anthropic’s IPO was great for the tech elite – and not so great for the rest of us Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Continue reading...
+
+---
+
+## 7. How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’
+**Source:** Technology | The Guardian
+**Category:** Security
+**Language:** EN
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts
+
+As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grinding business operations to a halt. Zoom, Ikea, and PokerStars websites hacked. In the past weeks, there’s been a distinct sense that the complex systems that undergird our daily life might be on the verge of total collapse. Or, at the very least, they seem pretty wobbly. Even those who aren’t prone to conspiracy theories have been wondering out loud if these recent disruptions are somehow connected. Speculation runs wild about targeted cyber-attacks by Iranian hackers, or AI agents autonomously hacking critical (air traffic, banking) and not-so-critical (the Ikea website) infrastructure. Continue reading...
+
+---
+
+## 8. Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Legal
 **Language:** EN
@@ -77,29 +88,7 @@ Advocates from across the world voice concern over privacy issues and inappropri
 
 ---
 
-## 8. South Korean minister quits after AI cheating scandal engulfs university exams
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Education
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams
-
-Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountancy exam confessed to using a miniature camera and smartphone to achieve a near-perfect score, just four days before the crucial university entrance exam, known as the suneung . Continue reading...
-
----
-
-## 9. ‘Serious error of judgment’: outrage over military AI event at Berlin arts complex
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 17
-**Link:** https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex
-
-Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for seasoned techno-heads. On 11 November, the Kraftwerk Berlin arts complex had its central hall transformed into what visitors described as something resembling a war room, with maps and aerial footage projected on to concrete walls, drones hanging from the ceiling, and guards in flak jackets patrolling the premises with sniffer dogs. Continue reading...
-
----
-
-## 10. Humans Have Rights. Machines Do Not.
+## 9. Humans Have Rights. Machines Do Not.
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -107,5 +96,16 @@ Kraftwerk Berlin, part of same development as techno club Tresor, transformed in
 **Link:** https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html
 
 This essay originally appeared in Tech Policy Press . Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot. The company made two arguments. One, that the chatbot’s words were speech that its users had a First Amendment right to receive. And two, that Character.AI was a service rather than a product—so product-liability law could not touch it. In May 2025, Judge Anne Conway accepted neither...
+
+---
+
+## 10. Meta launches Muse in UK – the AI agent that can do your Christmas shopping
+**Source:** Technology | The Guardian
+**Category:** Privacy
+**Language:** EN
+**Score:** 15
+**Link:** https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping
+
+Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on your apps – and the high street. Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app stores, having been downloaded millions of times. However, UK regulators have said they are keeping a close eye on the launch over privacy and consumer protection requirements. Continue reading...
 
 ---
