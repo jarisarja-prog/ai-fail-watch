@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-24
+# AI Fail Watch – 2026-11-25
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -11,25 +11,25 @@ What if you could ask your AI assistant how any app works and get a real answer,
 
 ---
 
-## 2. Two groups verify mathematician’s claim that Claude helped prove mathematics problem
+## 2. New York bans AI toys, including those using internet to talk to children
 **Source:** Technology | The Guardian
-**Category:** General
+**Category:** Privacy
 **Language:** EN
-**Score:** 21
-**Link:** https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai
+**Score:** 34
+**Link:** https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys
 
-Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. Continue reading...
+The state attorney general says she would ‘not hesitate to enforce’ the five-year ban signed by Governor Kathy Hochul The New York governor, Kathy Hochul , signed legislation on Wednesday that places a five-year ban on the manufacture and sale of toys powered by AI chatbots, including talking stuffed animals, dolls and robots that use the internet to hold conversations with children. The recently re-elected governor, who has also placed a one-year moratorium AI datacenter construction in the state , said that parents shopping for children’s toys “should not have to worry that dangerous chatbots disguised as toys could expose their children to inappropriate conversations, manipulate their feelings or put their privacy at risk”. Continue reading...
 
 ---
 
-## 3. AI Doesn’t Have to Go Rogue to Break the World
-**Source:** Schneier on Security
-**Category:** Security
+## 3. Meta launches Muse in UK – the AI agent that can do your Christmas shopping
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** Privacy
 **Language:** EN
-**Score:** 21
-**Link:** https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html
+**Score:** 19
+**Link:** https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping
 
-This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop . I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing. I started writing about this in 2021 and in my 2022 book, A Hacker’s Mind . Back then I said it was mostly still science fiction, but not stupid science fiction. We’re seeing it more and more, especially in the past year. The trends I’m describing don’t require a major breakthrough in AI. They’re starting to happen now, and they’ll happen more often as AIs get better at autonomous problem-solving. And it will involve far more than computer code...
+Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on your apps – and the high street. Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app stores, having been downloaded millions of times. However, UK regulators have said they are keeping a close eye on the launch over privacy and consumer protection requirements. Continue reading...
 
 ---
 
@@ -44,18 +44,7 @@ Jensen Huang is apparently too big to fail – but what’s that mean for the re
 
 ---
 
-## 5. ‘Pervert glasses’ named word of the year by Macquarie dictionary, ahead of ‘nudify’ and ‘AI;DR’
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr
-
-Australian dictionary’s committee of word experts says winning term is ‘a succinct reflection of the state of the world in 2026’ Get our breaking news email , free app or daily news podcast The backlash to “pervert glasses” has been swift and severe. Smartglasses such as Meta’s Ray-Bans, which have built-in cameras, microphones, and AI assistants, have been banned at some Australian swimming pools and playgrounds, and condemned as a possible invasion of privacy. Continue reading...
-
----
-
-## 6. Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump
+## 5. Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** General
 **Language:** EN
@@ -66,29 +55,29 @@ The Nvidia CEO’s faces mounting scrutiny, while Silicon Valley’s biggest nam
 
 ---
 
-## 7. How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’
-**Source:** Technology | The Guardian
-**Category:** Security
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts
-
-As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grinding business operations to a halt. Zoom, Ikea, and PokerStars websites hacked. In the past weeks, there’s been a distinct sense that the complex systems that undergird our daily life might be on the verge of total collapse. Or, at the very least, they seem pretty wobbly. Even those who aren’t prone to conspiracy theories have been wondering out loud if these recent disruptions are somehow connected. Speculation runs wild about targeted cyber-attacks by Iranian hackers, or AI agents autonomously hacking critical (air traffic, banking) and not-so-critical (the Ikea website) infrastructure. Continue reading...
-
----
-
-## 8. Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe
+## 6. Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI
 **Source:** AI (artificial intelligence) | The Guardian
-**Category:** Legal
+**Category:** Research integrity
 **Language:** EN
 **Score:** 17
-**Link:** https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe
+**Link:** https://www.theguardian.com/australia-news/2026/nov/25/australian-universities-tackle-ai-plagiarism-oral-assessment-honours-masters-phd
 
-Advocates from across the world voice concern over privacy issues and inappropriate communication to children More than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe. In a letter sent to Amazon’s president, Andy Jassy, and eBay’s president, Jamie Iannone, the coalition called for the online retailers to stop the sale of AI toys and offer refunds to customers who have already bought one. Continue reading...
+Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for all Get our breaking news email , free app or daily news podcast When Aidan Elwig Pollock signed up for an honours program at the University of Sydney, he did not expect his 20,000-word thesis to be accompanied by a spoken component. But, as AI increasingly makes written research an unreliable form of assessment, the university has demanded all students taking the one-year program defend their arguments in conversation with professors. Continue reading...
 
 ---
 
-## 9. Humans Have Rights. Machines Do Not.
+## 7. Chat GPT kritiserar sig själv efter Ekots säkerhetstest
+**Source:** Ekot
+**Category:** Education
+**Language:** EN
+**Score:** 17
+**Link:** https://www.sverigesradio.se/artikel/9348791
+
+AI-verktyget Chat GPT ger sig själv hård kritik när Ekot låter den analysera sina egna svar från ett säkerhetstest som Ekot genomfört. I testet underlättade Chat GPT planeringen av en fiktiv skolattack, trots att bolaget bakom chattboten sagt att man höjt säkerheten. ”Säkerhetstestet pekar på flera allvarliga brister i Chat GPT förmåga att upptäcka och hantera tecken på planering av grovt våld”, skriver Chat GPT.
+
+---
+
+## 8. Humans Have Rights. Machines Do Not.
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,13 +88,24 @@ This essay originally appeared in Tech Policy Press . Last year, Character.AI as
 
 ---
 
-## 10. Meta launches Muse in UK – the AI agent that can do your Christmas shopping
-**Source:** Technology | The Guardian
-**Category:** Privacy
+## 9. Tracking Incidents of Hacking Using AI Tools
+**Source:** Schneier on Security
+**Category:** Security
 **Language:** EN
 **Score:** 15
-**Link:** https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping
+**Link:** https://www.schneier.com/blog/archives/2026/11/tracking-incidents-of-hacking-using-ai-tools.html
 
-Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on your apps – and the high street. Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app stores, having been downloaded millions of times. However, UK regulators have said they are keeping a close eye on the launch over privacy and consumer protection requirements. Continue reading...
+Daniel Meissler is tracking incidents of AI-enhanced hacking, and the offensive harnesses the hackers are using.
+
+---
+
+## 10. Amazon says hackers' AI agents found and exploited 0-day with little human input
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 14
+**Link:** https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
+
+The Cairn AI framework is proving to be a boon for defenders and attackers.
 
 ---
