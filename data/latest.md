@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-25
+# AI Fail Watch – 2026-11-26
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -22,7 +22,18 @@ The state attorney general says she would ‘not hesitate to enforce’ the five
 
 ---
 
-## 3. Meta launches Muse in UK – the AI agent that can do your Christmas shopping
+## 3. Dozens of court cases in England and Wales affected by undisclosed AI use in 2026
+**Source:** Technology | The Guardian
+**Category:** Hallucination
+**Language:** EN
+**Score:** 26
+**Link:** https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026
+
+Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed. Proceedings where judges have been forced to deal with lawyers, police officers and claimants misusing the technology in 2026 include a high court dispute between tax lawyers marred by what the judge called “unacceptable” use of “generative AI hallucinations” and references to nonexistent cases. Continue reading...
+
+---
+
+## 4. Meta launches Muse in UK – the AI agent that can do your Christmas shopping
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Privacy
 **Language:** EN
@@ -33,29 +44,7 @@ Users can give agents tasks such as booking travel or buying presents, but glitc
 
 ---
 
-## 4. Why is scandal-plagued Jensen Huang back at Nvidia? – Stateside with Kai and Carter
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/us-news/video/2026/nov/24/jensen-huang-back-nvidia-stateside
-
-Jensen Huang is apparently too big to fail – but what’s that mean for the rest of us? Just last week, Nvidia’s board chair told investors that the company had no intention of reinstating Huang as CEO. On Monday, they turned a full about-face. The board voted unanimously to reinstall Huang, triggering a nearly $1tn surge in the company’s stock market valuation. Donald Trump took credit, telling CNBC that he 'convinced them' to bring Huang back. But questions remain about Huang’s extramarital affair with an alleged Chinese spy, and about whether Nvidia exploited loopholes to export chips to Chinese AI companies. Kai Wright talks with the Guardian US’s tech editor Blake Montgomery about the many twists and turns in the Huang scandal – and why Huang embodies the 'key man risk' that threatens our whole economy Continue reading...
-
----
-
-## 5. Jensen Huang returns to Nvidia as Silicon Valley rethinks its alliance with Trump
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** General
-**Language:** EN
-**Score:** 18
-**Link:** https://www.theguardian.com/global/2026/nov/24/jensen-huang-nvidia-return-silicon-valley-trump
-
-The Nvidia CEO’s faces mounting scrutiny, while Silicon Valley’s biggest names attempt to repair relationships with Democrats after years of backing the president This was originally published in TechScape, a newsletter about how technology shapes our lives. Sign up to receive it here Hello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you while dreaming of the pear tarte tatin and a potato gratin I’ll be baking for Thanksgiving. Today in tech, we’re discussing Jensen Huang’s reinstatement as Nvidia CEO and Silicon Valley’s pivot away from Maga after the US midterm elections. Nvidia’s humiliated board should resign out of embarrassment A timeline of Jensen Huang’s affair scandal, from quitting Nvidia to his return Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut Who are Anthropic’s seven co-founders, now worth $180bn? Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading Anthropic’s IPO was great for the tech elite – and not so great for the rest of us Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry Continue reading...
-
----
-
-## 6. Aidan is one of thousands of students forced to verbally defend his honours thesis as universities take on AI
+## 5. Aidan didn’t expect a spoken-word component in his thesis - but universities hope it will help tackle AI
 **Source:** AI (artificial intelligence) | The Guardian
 **Category:** Research integrity
 **Language:** EN
@@ -66,18 +55,7 @@ Honours students are increasingly being asked to sit oral assessments – but at
 
 ---
 
-## 7. Chat GPT kritiserar sig själv efter Ekots säkerhetstest
-**Source:** Ekot
-**Category:** Education
-**Language:** EN
-**Score:** 17
-**Link:** https://www.sverigesradio.se/artikel/9348791
-
-AI-verktyget Chat GPT ger sig själv hård kritik när Ekot låter den analysera sina egna svar från ett säkerhetstest som Ekot genomfört. I testet underlättade Chat GPT planeringen av en fiktiv skolattack, trots att bolaget bakom chattboten sagt att man höjt säkerheten. ”Säkerhetstestet pekar på flera allvarliga brister i Chat GPT förmåga att upptäcka och hantera tecken på planering av grovt våld”, skriver Chat GPT.
-
----
-
-## 8. Humans Have Rights. Machines Do Not.
+## 6. Humans Have Rights. Machines Do Not.
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -88,7 +66,7 @@ This essay originally appeared in Tech Policy Press . Last year, Character.AI as
 
 ---
 
-## 9. Tracking Incidents of Hacking Using AI Tools
+## 7. Tracking Incidents of Hacking Using AI Tools
 **Source:** Schneier on Security
 **Category:** Security
 **Language:** EN
@@ -99,7 +77,7 @@ Daniel Meissler is tracking incidents of AI-enhanced hacking, and the offensive 
 
 ---
 
-## 10. Amazon says hackers' AI agents found and exploited 0-day with little human input
+## 8. Amazon says hackers' AI agents found and exploited 0-day with little human input
 **Source:** Biz & IT - Ars Technica
 **Category:** Security
 **Language:** EN
@@ -107,5 +85,27 @@ Daniel Meissler is tracking incidents of AI-enhanced hacking, and the offensive 
 **Link:** https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/
 
 The Cairn AI framework is proving to be a boon for defenders and attackers.
+
+---
+
+## 9. Chainalysis says hackers stole credentials and tokens for all of its customers
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 13
+**Link:** https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
+
+Company said a "multifront cyberattack" included AI agents and an on-path data snatch.
+
+---
+
+## 10. Grok Bot took unapproved actions, ignored orders to stop, and then denied it
+**Source:** Biz & IT - Ars Technica
+**Category:** Security
+**Language:** EN
+**Score:** 12
+**Link:** https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/
+
+AI agent takes unapproved actions even when laptop lid is closed and told not to.
 
 ---
