@@ -1,4 +1,4 @@
-# AI Fail Watch – 2026-11-26
+# AI Fail Watch – 2026-11-27
 
 ## 1. REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)
 **Source:** Crunch Hype
@@ -33,14 +33,14 @@ Exclusive: Investigation finds at least 25 cases affected by AI-generated witnes
 
 ---
 
-## 4. Meta launches Muse in UK – the AI agent that can do your Christmas shopping
-**Source:** AI (artificial intelligence) | The Guardian
-**Category:** Privacy
+## 4. How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’
+**Source:** Technology | The Guardian
+**Category:** Security
 **Language:** EN
-**Score:** 19
-**Link:** https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping
+**Score:** 18
+**Link:** https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts
 
-Users can give agents tasks such as booking travel or buying presents, but glitches have been reported Have you downloaded Meta’s AI assistant Muse or do you plan to? Want to avoid the Christmas shopping hordes? Then let your AI agent do the shopping for you. Mark Zuckerberg’s Meta is launching its Muse AI assistant in the UK and is encouraging users to let it loose on your apps – and the high street. Muse has been a hit in the US and is ranked first and second respectively on Google and Apple’s free app stores, having been downloaded millions of times. However, UK regulators have said they are keeping a close eye on the launch over privacy and consumer protection requirements. Continue reading...
+As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at night Grounded flights. Bank websites crashing. Microsoft Outlook outages grinding business operations to a halt. Zoom, Ikea, and PokerStars websites hacked. In the past weeks, there’s been a distinct sense that the complex systems that undergird our daily life might be on the verge of total collapse. Or, at the very least, they seem pretty wobbly. Even those who aren’t prone to conspiracy theories have been wondering out loud if these recent disruptions are somehow connected. Speculation runs wild about targeted cyber-attacks by Iranian hackers, or AI agents autonomously hacking critical (air traffic, banking) and not-so-critical (the Ikea website) infrastructure. Continue reading...
 
 ---
 
@@ -88,24 +88,24 @@ The Cairn AI framework is proving to be a boon for defenders and attackers.
 
 ---
 
-## 9. Chainalysis says hackers stole credentials and tokens for all of its customers
-**Source:** Biz & IT - Ars Technica
+## 9. Pizza history: AI agent’s cardless purchase is a first for UK
+**Source:** Technology | The Guardian
 **Category:** Security
 **Language:** EN
-**Score:** 13
-**Link:** https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/
+**Score:** 14
+**Link:** https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer
 
-Company said a "multifront cyberattack" included AI agents and an on-path data snatch.
+Papa John’s order was made without sharing bank security details – tech that could revolutionise shopping Retailers enter the unknown with AI shopping assistants on Black Friday An order of Papa John’s margherita pizzas has become the first purchase in the UK to be made using an AI agent using cardless payment technology. The order of nine mini pizzas was made as part of the Financial Conduct Authority’s (FCA) regulated sandbox trials to test the technology, using Lloyds Bank and payment specialist TrueLayer. Continue reading...
 
 ---
 
-## 10. Grok Bot took unapproved actions, ignored orders to stop, and then denied it
-**Source:** Biz & IT - Ars Technica
-**Category:** Security
+## 10. Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency
+**Source:** AI (artificial intelligence) | The Guardian
+**Category:** General
 **Language:** EN
-**Score:** 12
-**Link:** https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/
+**Score:** 14
+**Link:** https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol
 
-AI agent takes unapproved actions even when laptop lid is closed and told not to.
+Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before the government threatened to abolish the independent environmental adviser. The nature adviser made a significant intervention to urge Bristol city council not to grant planning permission for a 40MW datacentre at Avonmouth, because of the threat to protected wildlife and habitats at one of the UK’s most important sites for migratory birds, which is within 600 metres of the site. Continue reading...
 
 ---
